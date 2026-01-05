@@ -1,0 +1,27 @@
+{
+  "name": "yoga-mat-lab-data",
+  "version": "1.0.0",
+  "description": "Data pipeline for scraping and normalizing yoga mat product information",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx scripts/get-brands-from-convex.ts",
+    "normalize": "tsx scripts/normalize-data.ts",
+    "aggregate": "tsx scripts/aggregate-data.ts",
+    "detect-changes": "tsx scripts/detect-changes.ts",
+    "download-images": "tsx scripts/download-images.ts",
+    "update-symlinks": "tsx scripts/update-latest-symlinks.ts",
+    "pipeline": "npm run fetch && npm run normalize && npm run aggregate && npm run detect-changes"
+  },
+  "dependencies": {
+    "convex": "^1.16.3",
+    "dotenv": "^17.2.3",
+    "sharp": "^0.33.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

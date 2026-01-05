@@ -1,0 +1,278 @@
+import 'dotenv/config';
+import { ConvexHttpClient } from 'convex/browser';
+import { promises as fs } from 'fs';
+import path from 'path';
+import { logger } from './lib/logger.js';
+import {
+  fetchAllProducts,
+  type ShopifyProduct,
+  type FetchResult,
+} from './lib/fetch-products-json.js';
+
+interface Brand {
+  _id: string;
+  name: string;
+  slug: string;
+  website: string;
+  scrapingEnabled: boolean;
+  productsJsonUrl: string | null;
+  isShopify: boolean;
+  rateLimit?: {
+    delayBetweenProducts: number;
+    delayBetweenPages: number;
+  };
+}
+
+interface ExtractionResult {
+  brand: Brand;
+  products: ShopifyProduct[];
+  success: boolean;
+  error?: string;
+  totalPages: number;
+}
+
+interface ExtractionSummary {
+  date: string;
+  totalBrands: number;
+  successfulBrands: number;
+  failedBrands: number;
+  totalProducts: number;
+  results: Array<{
+    brandName: string;
+    brandSlug: string;
+    success: boolean;
+    productCount: number;
+    totalPages: number;
+    error?: string;
+  }>;
+}
+
+async function ensureDataDirectories(date: string) {
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  await fs.mkdir(rawDir, { recursive: true });
+  logger.info(`Created data directory: ${rawDir}`);
+}
+
+async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
+  try {
+    logger.brandStart(brand.name);
+
+    if (!brand.productsJsonUrl) {
+      throw new Error('No productsJsonUrl configured for this brand');
+    }
+
+    // Use the full products.json URL directly
+    const fullUrl = brand.productsJsonUrl;
+
+    // Extract base URL and collection path
+    const url = new URL(fullUrl);
+    const baseUrl = `${url.protocol}//${url.host}`;
+    const collectionPath = url.pathname.replace('/products.json', '');
+
+    logger.info(`Fetching from: ${baseUrl}${collectionPath}/products.json`);
+
+    // Get rate limits or use defaults
+    const rateLimit = brand.rateLimit || {
+      delayBetweenProducts: 500,
+      delayBetweenPages: 1000,
+    };
+
+    // Fetch all products with pagination
+    const result: FetchResult = await fetchAllProducts(
+      baseUrl,
+      collectionPath,
+      {
+        maxPages: 50,
+        delayBetweenPages: rateLimit.delayBetweenPages,
+        onPageFetched: (page, count) => {
+          logger.info(`  Page ${page}: Found ${count} products`);
+        },
+      }
+    );
+
+    if (!result.success) {
+      throw new Error(result.error || 'Failed to fetch products');
+    }
+
+    logger.brandComplete(brand.name, result.products.length);
+
+    return {
+      brand,
+      products: result.products,
+      success: true,
+      totalPages: result.totalPages,
+    };
+  } catch (error) {
+    const errorMessage =
+      error instanceof Error ? error.message : 'Unknown error';
+    logger.brandError(brand.name, error as Error);
+
+    return {
+      brand,
+      products: [],
+      success: false,
+      error: errorMessage,
+      totalPages: 0,
+    };
+  }
+}
+
+async function saveResults(
+  date: string,
+  results: ExtractionResult[]
+): Promise<void> {
+  for (const result of results) {
+    if (result.products.length === 0 && !result.success) {
+      continue; // Skip failed brands with no data
+    }
+
+    const filename = `${result.brand.slug}.json`;
+    const filepath = path.join(process.cwd(), 'data', 'raw', date, filename);
+
+    // Save as Shopify format for normalization later
+    const shopifyFormat = {
+      products: result.products,
+    };
+
+    await fs.writeFile(
+      filepath,
+      JSON.stringify(shopifyFormat, null, 2),
+      'utf-8'
+    );
+
+    logger.info(`Saved ${result.products.length} products to ${filename}`);
+  }
+}
+
+async function generateSummary(
+  date: string,
+  results: ExtractionResult[]
+): Promise<ExtractionSummary> {
+  const summary: ExtractionSummary = {
+    date,
+    totalBrands: results.length,
+    successfulBrands: results.filter((r) => r.success).length,
+    failedBrands: results.filter((r) => !r.success).length,
+    totalProducts: results.reduce((sum, r) => sum + r.products.length, 0),
+    results: results.map((r) => ({
+      brandName: r.brand.name,
+      brandSlug: r.brand.slug,
+      success: r.success,
+      productCount: r.products.length,
+      totalPages: r.totalPages,
+      error: r.error,
+    })),
+  };
+
+  // Save summary to file
+  const summaryPath = path.join(
+    process.cwd(),
+    'data',
+    'raw',
+    date,
+    '_summary.json'
+  );
+  await fs.writeFile(summaryPath, JSON.stringify(summary, null, 2), 'utf-8');
+
+  return summary;
+}
+
+async function main() {
+  logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  logger.info('YogaMatLab Data Pipeline - Fetch Products from Brands');
+  logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+
+  const startTime = Date.now();
+  const date = new Date().toISOString().split('T')[0];
+
+  // Check for CONVEX_URL
+  const convexUrl = process.env.CONVEX_URL;
+  if (!convexUrl) {
+    logger.error('CONVEX_URL environment variable is not set');
+    logger.info('Please set CONVEX_URL in your .env file');
+    process.exit(1);
+  }
+
+  // Initialize Convex client
+  logger.info('Connecting to Convex...');
+  const client = new ConvexHttpClient(convexUrl);
+
+  // Query brands from Convex
+  logger.info('Fetching scrapable brands from Convex...');
+  let brands: Brand[];
+  try {
+    // Note: This assumes api.brands.getScrapableBrands exists in YogaMatLabApp
+    brands = await client.query('brands:getScrapableBrands' as any);
+    logger.success(`Found ${brands.length} enabled brands`);
+  } catch (error) {
+    logger.error('Failed to fetch brands from Convex', error);
+    logger.info(
+      'Make sure api.brands.getScrapableBrands query exists in YogaMatLabApp'
+    );
+    process.exit(1);
+  }
+
+  if (brands.length === 0) {
+    logger.warn('No brands enabled for scraping');
+    process.exit(0);
+  }
+
+  // Ensure data directories exist
+  await ensureDataDirectories(date);
+
+  // Fetch products from each brand sequentially
+  const results: ExtractionResult[] = [];
+
+  for (let i = 0; i < brands.length; i++) {
+    const brand = brands[i];
+    logger.info(`\n[${i + 1}/${brands.length}] Processing: ${brand.name}`);
+
+    const result = await fetchBrandProducts(brand);
+    results.push(result);
+
+    // Small delay between brands to be polite
+    if (i < brands.length - 1) {
+      await new Promise((resolve) => setTimeout(resolve, 2000));
+    }
+  }
+
+  // Save all results
+  logger.info('\nSaving results...');
+  await saveResults(date, results);
+
+  // Generate and display summary
+  const summary = await generateSummary(date, results);
+
+  const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+
+  logger.info('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  logger.info('EXTRACTION SUMMARY');
+  logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+  logger.success(`Total brands processed: ${summary.totalBrands}`);
+  logger.success(`Successful: ${summary.successfulBrands}`);
+  if (summary.failedBrands > 0) {
+    logger.error(`Failed: ${summary.failedBrands}`);
+  }
+  logger.success(`Total products extracted: ${summary.totalProducts}`);
+  logger.info(`Duration: ${duration}s`);
+  logger.info(`Date: ${date}`);
+
+  if (summary.failedBrands > 0) {
+    logger.warn('\nFailed brands:');
+    summary.results
+      .filter((r) => !r.success)
+      .forEach((r) => {
+        logger.error(`  - ${r.brandName}: ${r.error}`);
+      });
+  }
+
+  logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+  logger.info('Next step: Run npm run normalize to transform data to YogaMat schema');
+
+  client.close();
+}
+
+main().catch((error) => {
+  logger.error('Fatal error in extraction pipeline', error);
+  process.exit(1);
+});

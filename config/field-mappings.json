@@ -1,0 +1,164 @@
+{
+  "comment": "Maps Shopify products.json format to YogaMat schema",
+  "requiredFields": {
+    "brandId": {
+      "description": "Convex brand ID - resolved by looking up brand slug",
+      "type": "string"
+    },
+    "name": {
+      "source": "title",
+      "type": "string",
+      "description": "Product title from Shopify"
+    },
+    "slug": {
+      "source": "handle",
+      "type": "string",
+      "description": "URL-safe slug from Shopify handle"
+    },
+    "price": {
+      "source": "variants[0].price",
+      "type": "number",
+      "description": "Base price from first variant",
+      "transform": "parseFloat"
+    }
+  },
+  "optionalFields": {
+    "description": {
+      "source": "body_html",
+      "type": "string",
+      "description": "HTML description from Shopify",
+      "transform": "stripHtml"
+    },
+    "imageUrl": {
+      "source": "image.src || images[0].src || variants[0].featured_image.src",
+      "type": "string",
+      "description": "Main product image URL"
+    },
+    "priceRange": {
+      "computed": true,
+      "description": "Min and max price across all variants"
+    },
+    "variants": {
+      "source": "variants",
+      "type": "array",
+      "description": "Product variants (colors, sizes, etc.)"
+    },
+    "shopifyId": {
+      "source": "id",
+      "type": "number",
+      "description": "Original Shopify product ID"
+    },
+    "shopifyHandle": {
+      "source": "handle",
+      "type": "string",
+      "description": "Original Shopify handle"
+    },
+    "tags": {
+      "source": "tags",
+      "type": "array",
+      "description": "Shopify tags for features/materials extraction"
+    }
+  },
+  "extractFromDescription": {
+    "thickness": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*mm",
+        "(\\d+(?:\\.\\d+)?)\\s*millimeter",
+        "(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?",
+        "(\\d+/\\d+)\\s*inch"
+      ],
+      "unit": "mm",
+      "description": "Extract thickness with unit conversion"
+    },
+    "length": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?\\s*(?:long|length|L)",
+        "(\\d+(?:\\.\\d+)?)\\s*cm\\s*(?:long|length|L)",
+        "(\\d+)\"\\s*[xX×]"
+      ],
+      "unit": "inches",
+      "description": "Extract length"
+    },
+    "width": {
+      "patterns": [
+        "[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?",
+        "[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*cm",
+        "[xX×]\\s*(\\d+)\""
+      ],
+      "unit": "inches",
+      "description": "Extract width"
+    },
+    "weight": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*(?:lbs?|pounds?)",
+        "(\\d+(?:\\.\\d+)?)\\s*kg"
+      ],
+      "unit": "lbs",
+      "description": "Extract weight"
+    },
+    "material": {
+      "keywords": [
+        "PVC",
+        "TPE",
+        "Natural Rubber",
+        "Cork",
+        "Jute",
+        "Cotton",
+        "Polyurethane",
+        "PU",
+        "EVA",
+        "NBR"
+      ],
+      "description": "Extract material type from description/tags"
+    },
+    "features": {
+      "keywords": {
+        "Eco-Friendly": ["eco", "sustainable", "planet friendly", "recycled", "biodegradable"],
+        "Reversible": ["reversible", "two-sided", "dual-sided"],
+        "Extra Thick": ["extra thick", "cushioned", "plush"],
+        "Non-Slip": ["non-slip", "non slip", "grippy", "grip"],
+        "Lightweight": ["lightweight", "light weight", "travel", "portable"],
+        "Extra Long": ["extra long", "long", "tall"],
+        "Extra Wide": ["extra wide", "wide"],
+        "Alignment Marks": ["alignment", "alignment marks", "markers", "guide"],
+        "Antimicrobial": ["antimicrobial", "antibacterial", "hygienic"],
+        "Closed-Cell": ["closed-cell", "closed cell", "moisture resistant"]
+      },
+      "description": "Extract features from description and tags"
+    }
+  },
+  "defaults": {
+    "thickness": 5,
+    "length": 68,
+    "width": 24,
+    "gripDry": 5,
+    "gripWet": 5,
+    "cushioning": 5,
+    "durability": 5,
+    "ecoRating": 5,
+    "description": "Yoga mat"
+  },
+  "unitConversions": {
+    "thickness": {
+      "mm_to_mm": 1,
+      "cm_to_mm": 10,
+      "inch_to_mm": 25.4
+    },
+    "length": {
+      "inch_to_inch": 1,
+      "cm_to_inch": 0.393701,
+      "mm_to_inch": 0.0393701
+    },
+    "width": {
+      "inch_to_inch": 1,
+      "cm_to_inch": 0.393701,
+      "mm_to_inch": 0.0393701
+    },
+    "weight": {
+      "lbs_to_lbs": 1,
+      "kg_to_lbs": 2.20462,
+      "oz_to_lbs": 0.0625,
+      "g_to_lbs": 0.00220462
+    }
+  }
+}

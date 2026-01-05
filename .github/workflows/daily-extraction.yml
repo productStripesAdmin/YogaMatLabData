@@ -1,0 +1,147 @@
+name: Daily Product Extraction
+
+on:
+  # Run daily at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  extract-and-process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN || github.token }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Create .env file
+        run: |
+          echo "CONVEX_URL=${{ secrets.CONVEX_URL }}" > .env
+
+      - name: Run pipeline
+        id: pipeline
+        continue-on-error: true
+        run: |
+          npm run pipeline
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+
+      - name: Update latest symlinks
+        if: steps.pipeline.outputs.exit_code == '0'
+        run: npm run update-symlinks
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push results
+        if: steps.pipeline.outputs.exit_code == '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Read changeset summary for commit message
+            CHANGESET_FILE="data/changes/latest-changeset.json"
+            if [ -f "$CHANGESET_FILE" ]; then
+              NEW_PRODUCTS=$(jq -r '.summary.newProducts' "$CHANGESET_FILE")
+              REMOVED_PRODUCTS=$(jq -r '.summary.removedProducts' "$CHANGESET_FILE")
+              PRICE_CHANGES=$(jq -r '.summary.priceChanges' "$CHANGESET_FILE")
+              TOTAL=$(jq -r '.summary.totalChanges' "$CHANGESET_FILE")
+
+              COMMIT_MSG="Data update: ${{ steps.date.outputs.date }}
+
+📊 Changes detected:
+- New products: $NEW_PRODUCTS
+- Removed products: $REMOVED_PRODUCTS
+- Price changes: $PRICE_CHANGES
+- Total changes: $TOTAL
+
+🤖 Generated with YogaMatLab Data Pipeline
+Run: ${{ github.run_number }}"
+            else
+              COMMIT_MSG="Data update: ${{ steps.date.outputs.date }}
+
+🤖 Generated with YogaMatLab Data Pipeline
+Run: ${{ github.run_number }}"
+            fi
+
+            git commit -m "$COMMIT_MSG"
+            git push
+          fi
+
+      - name: Upload extraction logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: extraction-logs-${{ steps.date.outputs.date }}
+          path: logs/
+          retention-days: 30
+
+      - name: Create issue on failure
+        if: steps.pipeline.outputs.exit_code != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const date = '${{ steps.date.outputs.date }}';
+            const runUrl = `https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}`;
+
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Pipeline failed: ${date}`,
+              body: `The daily extraction pipeline failed on ${date}.
+
+**Run details:** ${runUrl}
+
+**Date:** ${date}
+**Run number:** ${{ github.run_number }}
+
+Please check the logs for details.
+
+This issue was automatically created by GitHub Actions.`,
+              labels: ['pipeline-failure', 'automated']
+            });
+
+      - name: Post summary
+        if: always()
+        run: |
+          echo "## Pipeline Execution Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** ${{ steps.date.outputs.date }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ steps.pipeline.outputs.exit_code == '0' && '✅ Success' || '❌ Failed' }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "data/aggregated/${{ steps.date.outputs.date }}/stats.json" ]; then
+            echo "### Statistics" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "- **Total Products:** $(jq -r '.totalProducts' data/aggregated/${{ steps.date.outputs.date }}/stats.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Total Brands:** $(jq -r '.totalBrands' data/aggregated/${{ steps.date.outputs.date }}/stats.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Price Range:** \$$(jq -r '.priceStats.min' data/aggregated/${{ steps.date.outputs.date }}/stats.json) - \$$(jq -r '.priceStats.max' data/aggregated/${{ steps.date.outputs.date }}/stats.json)" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ -f "data/changes/latest-changeset.json" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Changes" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "- **New Products:** $(jq -r '.summary.newProducts' data/changes/latest-changeset.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Removed Products:** $(jq -r '.summary.removedProducts' data/changes/latest-changeset.json)" >> $GITHUB_STEP_SUMMARY
+            echo "- **Price Changes:** $(jq -r '.summary.priceChanges' data/changes/latest-changeset.json)" >> $GITHUB_STEP_SUMMARY
+          fi

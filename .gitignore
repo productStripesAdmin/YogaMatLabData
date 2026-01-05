@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Data (raw extractions can be large)
+data/*/
+!data/.gitkeep
+
+# Playwright
+.cache/
+playwright-report/
+test-results/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
