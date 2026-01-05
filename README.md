@@ -97,9 +97,10 @@ YogaMatLabData/
 - [x] Failure notifications (creates GitHub issues)
 - [ ] Image downloader (TODO)
 
-### Phase 4: Integration
-- [ ] Git submodule setup in YogaMatLabApp
-- [ ] Import script for Convex
+### Phase 4: Integration 🔄
+- [ ] Git submodule setup in YogaMatLabApp (see INTEGRATION_INSTRUCTIONS.md)
+- [ ] Convex bulk upsert mutation (in YogaMatLabApp)
+- [ ] Import script for Convex (in YogaMatLabApp)
 
 ### Phase 5: Documentation
 - [ ] Complete README
@@ -179,10 +180,31 @@ To test extraction on a single brand, temporarily modify the query in Convex or 
 
 All extraction logs are saved to `logs/{date}.log` with timestamps and color-coded output.
 
+## Integration with YogaMatLabApp
+
+This repository generates data that is consumed by YogaMatLabApp. See [INTEGRATION_INSTRUCTIONS.md](./INTEGRATION_INSTRUCTIONS.md) for complete setup instructions.
+
+### Quick Overview
+
+1. **Add as Submodule** in YogaMatLabApp:
+   ```bash
+   git submodule add https://github.com/productStripesAdmin/YogaMatLabData.git data/external
+   ```
+
+2. **Create Import Script** in YogaMatLabApp to load `data/external/data/aggregated/latest/all-mats.json` into Convex
+
+3. **Daily Updates**:
+   ```bash
+   npm run update-data  # Pulls latest data and imports to Convex
+   ```
+
+The data pipeline runs automatically daily at 2 AM UTC. YogaMatLabApp can pull and import the latest data whenever needed.
+
 ## Related Repositories
 
 - [YogaMatLabApp](https://github.com/productStripesAdmin/YogaMatLabApp) - Main application
 - [DATA_PIPELINE.md](./DATA_PIPELINE.md) - Detailed implementation plan
+- [INTEGRATION_INSTRUCTIONS.md](./INTEGRATION_INSTRUCTIONS.md) - Integration guide for YogaMatLabApp
 
 ## License
 
