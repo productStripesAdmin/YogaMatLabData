@@ -38,6 +38,7 @@ jobs:
           set +e  # Don't exit on error
           npm run pipeline
           EXIT_CODE=$?
+          echo "🔍 Pipeline exit code: $EXIT_CODE"
           echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
           exit $EXIT_CODE
 
@@ -55,12 +56,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Debug: Show what files exist
+          echo "📂 Checking data directory contents:"
+          ls -la data/ || echo "data/ directory doesn't exist"
+
+          # Debug: Show git status before adding
+          echo "📊 Git status before staging:"
+          git status
+
           git add data/
+
+          # Debug: Show what's staged
+          echo "📦 Staged changes:"
+          git status
 
           # Check if there are changes to commit
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "⚠️ No changes to commit"
           else
+            echo "✅ Changes detected, preparing commit..."
             # Read changeset summary for commit message
             CHANGESET_FILE="data/changes/latest-changeset.json"
             if [ -f "$CHANGESET_FILE" ]; then
