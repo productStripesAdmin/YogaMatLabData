@@ -110,6 +110,7 @@ jobs:
           script: |
             const date = '${{ steps.date.outputs.date }}';
             const runUrl = `https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}`;
+            const runNumber = '${{ github.run_number }}';
 
             github.rest.issues.create({
               owner: context.repo.owner,
@@ -120,7 +121,7 @@ jobs:
 **Run details:** ${runUrl}
 
 **Date:** ${date}
-**Run number:** ${{ github.run_number }}
+**Run number:** ${runNumber}
 
 Please check the logs for details.
 
