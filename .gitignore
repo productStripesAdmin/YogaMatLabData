@@ -10,9 +10,10 @@ node_modules/
 logs/
 *.log
 
-# Data (raw extractions can be large)
-data/*/
-!data/.gitkeep
+# Data - commit all data for git submodule integration
+# Note: If data files become too large, consider using Git LFS
+# data/*/
+# !data/.gitkeep
 
 # Playwright
 .cache/
