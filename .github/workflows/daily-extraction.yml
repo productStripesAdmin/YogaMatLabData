@@ -177,13 +177,13 @@ jobs:
           fi
 
           # Show per-brand breakdown
-          if [ -f "data/raw/${{ steps.date.outputs.date }}/extraction-summary.json" ]; then
+          if [ -f "data/raw/${{ steps.date.outputs.date }}/_summary.json" ]; then
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "### Brand Breakdown" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
 
             # Get brands list and iterate
-            jq -r '.results[] | "\(.brandName)|\(.success)|\(.productCount)|\(.error // "")"' "data/raw/${{ steps.date.outputs.date }}/extraction-summary.json" | while IFS='|' read -r brand success count error; do
+            jq -r '.results[] | "\(.brandName)|\(.success)|\(.productCount)|\(.error // "")"' "data/raw/${{ steps.date.outputs.date }}/_summary.json" | while IFS='|' read -r brand success count error; do
               if [ "$success" = "true" ]; then
                 echo "- ✅ **$brand**: $count products" >> $GITHUB_STEP_SUMMARY
               else
