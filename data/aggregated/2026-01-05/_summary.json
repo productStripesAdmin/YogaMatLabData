@@ -1,10 +1,42 @@
 {
   "date": "2026-01-05",
-  "totalBrands": 2,
-  "totalProducts": 57,
-  "uniqueSlugs": 57,
+  "totalBrands": 18,
+  "totalProducts": 408,
+  "uniqueSlugs": 408,
   "duplicateSlugs": 0,
   "brands": [
+    {
+      "brandSlug": "42birds",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "ananday",
+      "productCount": 4
+    },
+    {
+      "brandSlug": "bala",
+      "productCount": 20
+    },
+    {
+      "brandSlug": "gaiam",
+      "productCount": 35
+    },
+    {
+      "brandSlug": "heathyoga",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "houseofmats",
+      "productCount": 21
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "productCount": 16
+    },
+    {
+      "brandSlug": "keep",
+      "productCount": 7
+    },
     {
       "brandSlug": "liforme",
       "productCount": 41
@@ -12,27 +44,64 @@
     {
       "brandSlug": "manduka",
       "productCount": 16
+    },
+    {
+      "brandSlug": "okoliving",
+      "productCount": 18
+    },
+    {
+      "brandSlug": "scoria",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "productCount": 32
+    },
+    {
+      "brandSlug": "stakt",
+      "productCount": 7
+    },
+    {
+      "brandSlug": "woloyoga",
+      "productCount": 8
+    },
+    {
+      "brandSlug": "yogamatters",
+      "productCount": 53
+    },
+    {
+      "brandSlug": "yogi-bare",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "productCount": 60
     }
   ],
   "priceStats": {
-    "min": 52,
-    "max": 350,
-    "average": 174.98245614035088,
-    "median": 190
+    "min": 19.98,
+    "max": 1138,
+    "average": 145.16147058823526,
+    "median": 119
   },
   "materialBreakdown": {
-    "PVC": 30,
-    "Natural Rubber": 6
+    "PVC": 176,
+    "Natural Rubber": 88,
+    "Cork": 38,
+    "Cotton": 6,
+    "TPE": 7,
+    "NBR": 2
   },
   "featureBreakdown": {
-    "Eco-Friendly": 42,
-    "Non-Slip": 43,
-    "Extra Wide": 25,
-    "Alignment Marks": 40,
-    "Lightweight": 18,
-    "Extra Thick": 8,
-    "Antimicrobial": 1,
-    "Closed-Cell": 5,
-    "Reversible": 1
+    "Eco-Friendly": 250,
+    "Non-Slip": 314,
+    "Lightweight": 102,
+    "Extra Wide": 98,
+    "Antimicrobial": 92,
+    "Extra Thick": 114,
+    "Extra Long": 8,
+    "Reversible": 19,
+    "Alignment Marks": 96,
+    "Closed-Cell": 18
   }
 }
