@@ -112,20 +112,24 @@ jobs:
             const runUrl = `https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}`;
             const runNumber = '${{ github.run_number }}';
 
+            const body = [
+              `The daily extraction pipeline failed on ${date}.`,
+              '',
+              `**Run details:** ${runUrl}`,
+              '',
+              `**Date:** ${date}`,
+              `**Run number:** ${runNumber}`,
+              '',
+              'Please check the logs for details.',
+              '',
+              'This issue was automatically created by GitHub Actions.'
+            ].join('\n');
+
             github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `Pipeline failed: ${date}`,
-              body: `The daily extraction pipeline failed on ${date}.
-
-**Run details:** ${runUrl}
-
-**Date:** ${date}
-**Run number:** ${runNumber}
-
-Please check the logs for details.
-
-This issue was automatically created by GitHub Actions.`,
+              body: body,
               labels: ['pipeline-failure', 'automated']
             });
 
