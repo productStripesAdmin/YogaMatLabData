@@ -175,3 +175,23 @@ jobs:
             echo "- **Removed Products:** $(jq -r '.summary.removedProducts' data/changes/latest-changeset.json)" >> $GITHUB_STEP_SUMMARY
             echo "- **Price Changes:** $(jq -r '.summary.priceChanges' data/changes/latest-changeset.json)" >> $GITHUB_STEP_SUMMARY
           fi
+
+          # Show per-brand breakdown
+          if [ -f "data/raw/${{ steps.date.outputs.date }}/extraction-summary.json" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Brand Breakdown" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+
+            # Get brands list and iterate
+            jq -r '.results[] | "\(.brandName)|\(.success)|\(.productCount)|\(.error // "")"' "data/raw/${{ steps.date.outputs.date }}/extraction-summary.json" | while IFS='|' read -r brand success count error; do
+              if [ "$success" = "true" ]; then
+                echo "- ✅ **$brand**: $count products" >> $GITHUB_STEP_SUMMARY
+              else
+                if [ -n "$error" ]; then
+                  echo "- ❌ **$brand**: 0 products (${error})" >> $GITHUB_STEP_SUMMARY
+                else
+                  echo "- ❌ **$brand**: 0 products (failed)" >> $GITHUB_STEP_SUMMARY
+                fi
+              fi
+            done
+          fi
