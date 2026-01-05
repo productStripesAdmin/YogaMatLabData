@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-05",
+  "totalBrands": 2,
+  "totalProducts": 57,
+  "validProducts": 57,
+  "invalidProducts": 0,
+  "brands": [
+    {
+      "brandSlug": "liforme",
+      "totalProducts": 41,
+      "validProducts": 41,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "manduka",
+      "totalProducts": 16,
+      "validProducts": 16,
+      "invalidProducts": 0,
+      "errors": []
+    }
+  ]
+}

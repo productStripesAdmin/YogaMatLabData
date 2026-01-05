@@ -1,0 +1,26 @@
+{
+  "date": "2026-01-05",
+  "totalProducts": 57,
+  "totalBrands": 2,
+  "priceStats": {
+    "min": 52,
+    "max": 350,
+    "average": 174.98245614035088,
+    "median": 190
+  },
+  "materialBreakdown": {
+    "PVC": 30,
+    "Natural Rubber": 6
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 42,
+    "Non-Slip": 43,
+    "Extra Wide": 25,
+    "Alignment Marks": 40,
+    "Lightweight": 18,
+    "Extra Thick": 8,
+    "Antimicrobial": 1,
+    "Closed-Cell": 5,
+    "Reversible": 1
+  }
+}

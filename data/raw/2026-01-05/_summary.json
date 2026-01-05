@@ -1,0 +1,31 @@
+{
+  "date": "2026-01-05",
+  "totalBrands": 3,
+  "successfulBrands": 2,
+  "failedBrands": 1,
+  "totalProducts": 57,
+  "results": [
+    {
+      "brandName": "Alo Yoga",
+      "brandSlug": "aloyoga",
+      "success": false,
+      "productCount": 0,
+      "totalPages": 0,
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "brandName": "Liforme",
+      "brandSlug": "liforme",
+      "success": true,
+      "productCount": 41,
+      "totalPages": 2
+    },
+    {
+      "brandName": "Manduka",
+      "brandSlug": "manduka",
+      "success": true,
+      "productCount": 16,
+      "totalPages": 1
+    }
+  ]
+}

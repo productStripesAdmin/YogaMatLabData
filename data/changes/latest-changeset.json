@@ -1,0 +1,583 @@
+{
+  "date": "2026-01-05",
+  "comparedWith": "baseline",
+  "summary": {
+    "totalChanges": 57,
+    "newProducts": 57,
+    "removedProducts": 0,
+    "priceChanges": 0,
+    "specChanges": 0
+  },
+  "changes": [
+    {
+      "slug": "liforme-liforme-classic-yoga-mat",
+      "name": "Liforme Classic Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 160,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats_0000_Frame1.png?v=1740420556"
+      }
+    },
+    {
+      "slug": "liforme-liforme-cosmic-moon-yoga-mat",
+      "name": "Liforme Cosmic Moon Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats_0002s_0002_Liforme-Cosmic-Moon-Yoga-Mat-Front-View_dd439b98-a36f-4724-9426-94cd4259aede.png?v=1764692225"
+      }
+    },
+    {
+      "slug": "liforme-liforme-magic-galaxy-yoga-mat-gold-silver",
+      "name": "Liforme Magic Galaxy Yoga Mat - Gold & Silver",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Magic_Galaxy_Yoga_Mat_Silver_Gold_Black_Frontview.png?v=1758894743"
+      }
+    },
+    {
+      "slug": "liforme-liforme-tropical-paradise-yoga-mat",
+      "name": "Liforme Tropical Paradise Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Tropical_Yoga_Mat_Frontview_53be866e-9f24-4e0f-947c-3a3c0c1e685e.png?v=1758557981"
+      }
+    },
+    {
+      "slug": "liforme-liforme-x-you-your-unique-yoga-mat",
+      "name": "Liforme x You - A unique Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 240,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/liforme_x_you_-_star_pick.png?v=1766482986"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mindful-garden-yoga-mat",
+      "name": "Liforme Mindful Garden Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats_0005s_0000_22.04.29-Mindful-Garden-Mat---FINAL-01-copy.png?v=1757075404"
+      }
+    },
+    {
+      "slug": "liforme-liforme-blossoming-lotus-yoga-mat",
+      "name": "Liforme Blossoming Lotus Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Untitled-1_0002_Front-View-Lotus-Purple.png?v=1765284979"
+      }
+    },
+    {
+      "slug": "liforme-liforme-deep-forest-mindful-garden-yoga-mat",
+      "name": "Liforme Deep Forest Mindful Garden Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Forrest_Green_9c64ce67-ae25-4038-8a7d-933759da4203.png?v=1746618242"
+      }
+    },
+    {
+      "slug": "liforme-liforme-white-magic-yoga-mat",
+      "name": "Liforme White Magic Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 200,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_White_Magic_Yoga_Mat_Front-View.png?v=1711469510"
+      }
+    },
+    {
+      "slug": "liforme-liforme-magic-galaxy-yoga-mat-silver",
+      "name": "Liforme Magic Galaxy Yoga Mat - Silver",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Magic_Galaxy_Yoga_Mat_Silver_Dusk_Blue_Frontview.png?v=1764254814"
+      }
+    },
+    {
+      "slug": "liforme-liforme-black-gold-yoga-mat",
+      "name": "Liforme Black & Gold Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 200,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Black-_-Gold_Yoga_Mat_Front_View_bc70df73-2972-4d14-a2f4-d25205fa823f.png?v=1713261497"
+      }
+    },
+    {
+      "slug": "liforme-liforme-majestic-carpet-yoga-mat",
+      "name": "Liforme Majestic Carpet Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 195,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Majestic-Carpet-Maroon_Yoga_Mat_Front-View.png?v=1744293861"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mystique-yoga-mat",
+      "name": "Liforme Mystique Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Mystique-Black_Yoga_Mat_2.png?v=1752495937"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mother-earth-yoga-mat",
+      "name": "Liforme Mother Earth Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats_0001s_0004_Mother-Earth.png?v=1718719074"
+      }
+    },
+    {
+      "slug": "liforme-liforme-rainbow-yoga-mat",
+      "name": "Liforme Rainbow Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Rainbow_Yoga_Mat_Blue_Front-View.png?v=1765283193"
+      }
+    },
+    {
+      "slug": "liforme-liforme-expressions-yoga-mat",
+      "name": "Liforme Expressions Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 170,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Happiness-Orange_Yoga_Mat_Front-View_3ef77ee9-5761-43ec-b89a-8391962842ef.png?v=1756918348"
+      }
+    },
+    {
+      "slug": "liforme-liforme-paisley-passion-yoga-mat",
+      "name": "Liforme Paisley Passion Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats-Hero_0008_Paisley-Maroon-Front-View.png?v=1764257989"
+      }
+    },
+    {
+      "slug": "liforme-liforme-radiant-sun-yoga-mat",
+      "name": "Liforme Radiant Sun Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Radiant_Yoga_Mat_Yellow_Front-View.png?v=1764370355"
+      }
+    },
+    {
+      "slug": "liforme-liforme-in-line-yoga-mat",
+      "name": "Liforme In Line Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_In-Line-Black_Yoga_Mat_1.png?v=1752495987"
+      }
+    },
+    {
+      "slug": "liforme-liforme-tantalising-terracotta-yoga-mat",
+      "name": "Liforme Tantalising Terracotta Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/v2_Liforme_Tantaslising_Terracotta_Yoga_Mat_2_fb7e57d2-5150-4c1b-9943-65d61153033c.png?v=1740066970"
+      }
+    },
+    {
+      "slug": "liforme-liforme-dragon-phoenix-yoga-mat",
+      "name": "Liforme Dragon & Phoenix Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 200,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Zodiac-Phoenix_Yoga_Mat_Font-View1_cf2c63b9-b8e5-4877-96f2-d71ee14c3d8b.png?v=1762077977"
+      }
+    },
+    {
+      "slug": "liforme-liforme-zodiac-yoga-mat",
+      "name": "Liforme Zodiac Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 190,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Zodiac-Tiger_Yoga_Mat_Font-View2.png?v=1766482639"
+      }
+    },
+    {
+      "slug": "liforme-liforme-evolve-yoga-mat",
+      "name": "Liforme Evolve Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 160,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Evolve-Grey_Yoga_Mat_Front_View.png?v=1711461117"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mindful-garden-xl-yoga-mat",
+      "name": "Liforme Mindful Garden XL Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/XL-Mat-Hero.png?v=1737994129"
+      }
+    },
+    {
+      "slug": "liforme-liforme-cosmic-moon-xl-yoga-mat",
+      "name": "Liforme Cosmic Moon XL Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/XL-Mat-Hero_0006_Cosmic-Purple-front-view.png?v=1736855108"
+      }
+    },
+    {
+      "slug": "liforme-liforme-blossoming-lotus-xl-yoga-mat",
+      "name": "Liforme Blossoming Lotus XL Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/XL-Mat-Hero_0007_Lotus-Purple-front-view_3ac57759-8597-4e0a-bed3-2aca2053b353.png?v=1756308892"
+      }
+    },
+    {
+      "slug": "liforme-liforme-xl-mountain-yoga-mat",
+      "name": "Liforme XL Mountain Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 220,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/XL-Mat-Hero_0008_Liforme_Mountain_XL_Yoga_Mat_Front-View.png?v=1736855292"
+      }
+    },
+    {
+      "slug": "liforme-liforme-xl-yoga-mat",
+      "name": "Liforme XL Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 200,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Purple_XL_Yoga_Mat_Frontview_268a2bfa-4247-4f57-8aee-a0ab962f4eab.png?v=1764692529"
+      }
+    },
+    {
+      "slug": "liforme-liforme-classic-travel-yoga-mat",
+      "name": "Liforme Classic Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 130,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Grey_Travel_Yoga_Mat_Front-View.png?v=1740421097"
+      }
+    },
+    {
+      "slug": "liforme-liforme-cosmic-moon-travel-yoga-mat",
+      "name": "Liforme Cosmic Moon Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 155,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Cosmic-Moon-Dusk-Blue_Travel_Yoga_Mat_Front-View.png?v=1764850505"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mindful-garden-travel-yoga-mat",
+      "name": "Liforme Mindful Garden Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 155,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Mindful-Garden_Travel_Yoga-Mat_Front_View_14430e24-b62a-4dde-9962-e123a1296efb.png?v=1746705734"
+      }
+    },
+    {
+      "slug": "liforme-liforme-expressions-travel-yoga-mat",
+      "name": "Liforme Expressions Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 135,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Happiness-Orange_Travel_Yoga_Mat_Front-View.png?v=1711472988"
+      }
+    },
+    {
+      "slug": "liforme-liforme-black-gold-travel-yoga-mat",
+      "name": "Liforme Black & Gold Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 165,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Black-_-Gold_Travel_Yoga_Mat_Front_View.png?v=1753715509"
+      }
+    },
+    {
+      "slug": "liforme-liforme-rainbow-travel-yoga-mat",
+      "name": "Liforme Rainbow Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 155,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Rainbow_Travel_Yoga_Mat_Blue_Front-View.png?v=1764755567"
+      }
+    },
+    {
+      "slug": "liforme-liforme-white-magic-travel-yoga-mat",
+      "name": "Liforme White Magic Travel Yoga Mat",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 165,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_White_Magic_Travel_Yoga_Mat_Front-View.png?v=1711474262"
+      }
+    },
+    {
+      "slug": "liforme-liforme-classic-yoga-mat-travel-mat-bundle",
+      "name": "Liforme Classic Yoga Mat & Travel Mat Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 246,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/LiformeClassic_Yoga_Travel_Bundle.png?v=1753197702"
+      }
+    },
+    {
+      "slug": "liforme-liforme-classic-yoga-mat-and-yoga-pad-bundle",
+      "name": "Liforme Classic Yoga Mat and Yoga Pad Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 187,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/LiformeClassic_Yoga_Pad_Bundle.png?v=1753197591"
+      }
+    },
+    {
+      "slug": "liforme-liforme-classic-travel-yoga-mat-and-yoga-pad-bundle",
+      "name": "Liforme Classic Travel Yoga Mat and Yoga Pad Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 161,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/LiformeClassicTravel_Pad_Bundle.png?v=1753197452"
+      }
+    },
+    {
+      "slug": "liforme-liforme-classic-yoga-mat-travel-mat-yoga-pad-bundle",
+      "name": "Liforme Classic Yoga Mat, Travel & Pad Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 280,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/LiformeClassicTripleBundle_d2d0b933-4e4d-41f3-88fd-18d669f053c8.png?v=1753197345"
+      }
+    },
+    {
+      "slug": "liforme-liforme-cosmic-moon-yoga-mat-travel-mat-bundle",
+      "name": "Liforme Cosmic Moon Yoga Mat & Travel Mat Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 293,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/cosmicmoonbundle.png?v=1731409411"
+      }
+    },
+    {
+      "slug": "liforme-liforme-mindful-garden-yoga-mat-travel-mat-bundle",
+      "name": "Liforme Mindful Garden Yoga Mat & Travel Mat Bundle",
+      "brandSlug": "liforme",
+      "changeType": "added",
+      "newValue": {
+        "price": 293,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0259/3665/8531/files/mindfulbundle.png?v=1731411401"
+      }
+    },
+    {
+      "slug": "manduka-manduka-pro-yoga-mat",
+      "name": "Manduka PRO™ Yoga Mat 6mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 138,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-01.jpg?v=1742938628"
+      }
+    },
+    {
+      "slug": "manduka-prolite-yoga-mat",
+      "name": "PROlite® Yoga Mat 4.7mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 108,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011460-PL71-ELDERBERRY-01.jpg?v=1764532235"
+      }
+    },
+    {
+      "slug": "manduka-eko-yoga-mat-5mm",
+      "name": "eKO® Yoga Mat 5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-02_b67cbbbc-3ffc-4fde-9eb4-ee95e65482cf.jpg?v=1764439701"
+      }
+    },
+    {
+      "slug": "manduka-grp-adapt-2-0-yoga-mat-5mm",
+      "name": "GRP® Adapt 2.0 Yoga Mat 5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 128,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-BLACK_02.jpg?v=1765456403"
+      }
+    },
+    {
+      "slug": "manduka-grp-adapt-lite-2-0-yoga-mat-4mm",
+      "name": "GRP® Adapt Lite 2.0 Yoga Mat 4mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 98,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-CARBON-BLACK_01.jpg?v=1764829310"
+      }
+    },
+    {
+      "slug": "manduka-eko-lite-yoga-mat-4mm",
+      "name": "eKO® lite Yoga Mat 4mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 92,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021757-EKOLITE-4MM-71-BLUE-TOAD-MIDNIGHT-02.jpg?v=1742252886"
+      }
+    },
+    {
+      "slug": "manduka-eko-superlite-travel-yoga-mat",
+      "name": "eKO® Superlite Travel Yoga Mat 1.5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 52,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011816_EKO-SL-71-ROSEWOOD_01.jpg?v=1763829014"
+      }
+    },
+    {
+      "slug": "manduka-grp®-adapt-travel-yoga-mat-1-5mm",
+      "name": "GRP® Adapt Travel Yoga Mat 1.5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 76,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_01.jpg?v=1749059623"
+      }
+    },
+    {
+      "slug": "manduka-pro-travel-yoga-mat",
+      "name": "PRO Travel Yoga Mat 2mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 75,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK-SAGE_05_05d1142a-2cf0-4448-b969-d5a4ea873be7.jpg?v=1749058209"
+      }
+    },
+    {
+      "slug": "manduka-pro-squared-yoga-mat",
+      "name": "PRO® Squared Yoga Mat 6mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 350,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/11106A050_PRO-SQUARED_78x78-BLACK_SAGE_02.jpg?v=1764266278"
+      }
+    },
+    {
+      "slug": "manduka-pro-long-wide-yoga-mat",
+      "name": "PRO® Long & Wide Yoga Mat 6mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 280,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-4_3.jpg?v=1700012741"
+      }
+    },
+    {
+      "slug": "manduka-prolite-long-wide-yoga-mat",
+      "name": "PROlite® Long & Wide Yoga Mat 4.7mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 138,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-PL79-LONG-_-WIDE-MIDNIGHT-01.jpg?v=1706662856"
+      }
+    },
+    {
+      "slug": "manduka-manduka-x-yoga-mat-5mm",
+      "name": "Manduka X Yoga Mat 5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 68,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011X50-Mats-MANDUKA-X-5MM-THRIVE-01.jpg?v=1706730257"
+      }
+    },
+    {
+      "slug": "manduka-begin-yoga-mat-5mm",
+      "name": "begin yoga mat 5mm",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 58,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023826_BEGIN_MAT_5MM_ELDERBERRY_THUNDER_04.jpg?v=1763829263"
+      }
+    },
+    {
+      "slug": "manduka-shala-yoga-rug",
+      "name": "Shala Yoga Rug",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 88,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-04.jpg?v=1718695543"
+      }
+    },
+    {
+      "slug": "manduka-eko®-yoga-mat-5mm-2-0",
+      "name": "eKO® Yoga Mat 5mm (SALE)",
+      "brandSlug": "manduka",
+      "changeType": "added",
+      "newValue": {
+        "price": 80,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_02.jpg?v=1764439701"
+      }
+    }
+  ]
+}
