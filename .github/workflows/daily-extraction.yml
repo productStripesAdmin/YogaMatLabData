@@ -66,24 +66,32 @@ jobs:
               PRICE_CHANGES=$(jq -r '.summary.priceChanges' "$CHANGESET_FILE")
               TOTAL=$(jq -r '.summary.totalChanges' "$CHANGESET_FILE")
 
-              COMMIT_MSG="Data update: ${{ steps.date.outputs.date }}
+              cat > /tmp/commit_msg.txt << 'EOF'
+          Data update: ${{ steps.date.outputs.date }}
 
-📊 Changes detected:
-- New products: $NEW_PRODUCTS
-- Removed products: $REMOVED_PRODUCTS
-- Price changes: $PRICE_CHANGES
-- Total changes: $TOTAL
+          Changes detected:
+          - New products: ${NEW_PRODUCTS}
+          - Removed products: ${REMOVED_PRODUCTS}
+          - Price changes: ${PRICE_CHANGES}
+          - Total changes: ${TOTAL}
 
-🤖 Generated with YogaMatLab Data Pipeline
-Run: ${{ github.run_number }}"
+          Generated with YogaMatLab Data Pipeline
+          Run: ${{ github.run_number }}
+          EOF
+
+              # Substitute variables
+              sed -i "s/\${NEW_PRODUCTS}/$NEW_PRODUCTS/g" /tmp/commit_msg.txt
+              sed -i "s/\${REMOVED_PRODUCTS}/$REMOVED_PRODUCTS/g" /tmp/commit_msg.txt
+              sed -i "s/\${PRICE_CHANGES}/$PRICE_CHANGES/g" /tmp/commit_msg.txt
+              sed -i "s/\${TOTAL}/$TOTAL/g" /tmp/commit_msg.txt
+
+              git commit -F /tmp/commit_msg.txt
             else
-              COMMIT_MSG="Data update: ${{ steps.date.outputs.date }}
-
-🤖 Generated with YogaMatLab Data Pipeline
-Run: ${{ github.run_number }}"
+              git commit -m "Data update: ${{ steps.date.outputs.date }}" \
+                         -m "Generated with YogaMatLab Data Pipeline" \
+                         -m "Run: ${{ github.run_number }}"
             fi
 
-            git commit -m "$COMMIT_MSG"
             git push
           fi
 
