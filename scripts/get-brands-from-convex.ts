@@ -272,12 +272,21 @@ async function main() {
   if (summary.totalProducts === 0) {
     logger.error('PIPELINE FAILED: No products were successfully extracted from any brand');
     logger.info('Next step: Fix brand configurations or check for rate limiting');
-    client.close();
+    try {
+      client.close();
+    } catch (e) {
+      // Ignore close errors
+    }
     process.exit(1);
   }
 
   logger.info('Next step: Run npm run normalize to transform data to YogaMat schema');
-  client.close();
+
+  try {
+    client.close();
+  } catch (e) {
+    // Ignore close errors - not critical for pipeline success
+  }
 }
 
 main().catch((error) => {
