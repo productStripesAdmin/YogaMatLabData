@@ -267,8 +267,16 @@ async function main() {
   }
 
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
-  logger.info('Next step: Run npm run normalize to transform data to YogaMat schema');
 
+  // Exit with error only if no products were extracted
+  if (summary.totalProducts === 0) {
+    logger.error('PIPELINE FAILED: No products were successfully extracted from any brand');
+    logger.info('Next step: Fix brand configurations or check for rate limiting');
+    client.close();
+    process.exit(1);
+  }
+
+  logger.info('Next step: Run npm run normalize to transform data to YogaMat schema');
   client.close();
 }
 
