@@ -87,7 +87,7 @@ YogaMatLabData/
 │   │   └── all-products.json        # Single file with all mats
 │   └── changes/                 # Changeset logs
 └── .github/workflows/
-    └── daily-extraction.yml     # GitHub Actions automation
+    └── fetch-products.yml     # GitHub Actions automation
 
 Brand Configuration (in YogaMatLabApp Convex):
 - Brand scraping settings stored in Convex `brands` table
@@ -212,7 +212,7 @@ Phase 3: Automation (Priority 3)
 
 Files to create:
 
-1. .github/workflows/daily-extraction.yml
+1. .github/workflows/fetch-products.yml
   - Purpose: GitHub Actions workflow for daily automation
   - Trigger: Cron schedule 0 2 * * * (2 AM UTC daily)
   - Also: Manual trigger via workflow_dispatch
@@ -377,7 +377,7 @@ YogaMatLabData (new repo):
 - scripts/aggregate-data.ts - Data combination
 - scripts/detect-changes.ts - Change detection
 - config/field-mappings.json - Field transformation rules
-- .github/workflows/daily-extraction.yml - Automation
+- .github/workflows/fetch-products.yml - Automation
 
 YogaMatLabApp (existing repo):
 - convex/brands.ts - Brand schema with scraping config

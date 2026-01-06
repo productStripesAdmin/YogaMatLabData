@@ -11,7 +11,7 @@ Major improvements to the data pipeline focusing on efficiency, politeness, and 
   - 3 PM UTC accounts for daylight saving time
   - Wednesday chosen for mid-week data refresh
 
-**Workflow Renamed:** "Daily Product Extraction" → "Fetch products from products.json files"
+**Workflow Renamed:** "Daily Product Extraction" → "Fetch from products.json endpoints"
 
 **Why:**
 - Yoga mat product catalogs don't change daily
@@ -138,7 +138,7 @@ const USER_AGENTS = [
 
 ### Files Modified
 
-1. **`.github/workflows/daily-extraction.yml`**
+1. **`.github/workflows/fetch-products.yml`**
    - Changed schedule to weekly
    - Renamed workflow
 

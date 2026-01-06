@@ -38,7 +38,7 @@ YogaMatLabData/
 │   │   └── all-products.json        # Single file with all products
 │   └── changes/                 # Daily changeset logs
 └── .github/workflows/
-    └── daily-extraction.yml     # Automated daily pipeline
+    └── fetch-products.yml     # Automated daily pipeline
 ```
 
 ## Data Schema

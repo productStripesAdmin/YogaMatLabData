@@ -83,7 +83,7 @@ The workflow runs automatically:
 - **Daily** at 2:00 AM UTC
 - Can be triggered **manually** anytime from Actions tab
 
-To change the schedule, edit `.github/workflows/daily-extraction.yml` and modify the `cron` expression.
+To change the schedule, edit `.github/workflows/fetch-products.yml` and modify the `cron` expression.
 
 ## Notifications
 

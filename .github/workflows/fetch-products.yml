@@ -1,4 +1,4 @@
-name: Fetch products from products.json files
+name: Fetch from products.json endpoints
 
 on:
   # Run weekly on Wednesday at 8 AM US Pacific (4 PM UTC in winter, 3 PM UTC in summer)
