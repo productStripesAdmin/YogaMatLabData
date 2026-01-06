@@ -35,7 +35,7 @@ YogaMatLabData/
 │   ├── raw/{date}/              # Daily Shopify extractions (by brand)
 │   ├── normalized/{date}/       # Transformed to YogaMat schema
 │   ├── aggregated/{date}/       # Combined datasets
-│   │   └── all-mats.json        # Single file with all products
+│   │   └── all-products.json        # Single file with all products
 │   └── changes/                 # Daily changeset logs
 └── .github/workflows/
     └── daily-extraction.yml     # Automated daily pipeline
@@ -155,7 +155,7 @@ npm run import-mats  # Import to Convex database
 ```
 
 ### Data Consumption
-YogaMatLabApp reads from `data/aggregated/latest/all-mats.json` via the submodule and imports to Convex database using `api.yogaMats.bulkUpsert` mutation.
+YogaMatLabApp reads from `data/aggregated/latest/all-products.json` via the submodule and imports to Convex database using `api.yogaMats.bulkUpsert` mutation.
 
 ## GitHub Actions Automation
 
@@ -234,7 +234,7 @@ Tracks three types of changes:
 ## File Naming Conventions
 - Raw data: `data/raw/{YYYY-MM-DD}/{brand-slug}.json`
 - Normalized: `data/normalized/{YYYY-MM-DD}/{brand-slug}.json`
-- Aggregated: `data/aggregated/{YYYY-MM-DD}/all-mats.json`
+- Aggregated: `data/aggregated/{YYYY-MM-DD}/all-products.json`
 - Changes: `data/changes/{YYYY-MM-DD}-changeset.json`
 - Images: `{brand-slug}-{model-slug}.jpg`
 

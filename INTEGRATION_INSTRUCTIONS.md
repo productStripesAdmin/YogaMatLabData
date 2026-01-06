@@ -194,7 +194,7 @@ async function importMatsToConvex() {
   // Read aggregated data
   const dataPath = path.join(
     process.cwd(),
-    "data/external/data/aggregated/latest/all-mats.json"
+    "data/external/data/aggregated/latest/all-products.json"
   );
 
   console.log(`📂 Reading data from: ${dataPath}`);
@@ -338,7 +338,7 @@ This will:
 
 ## Data Structure
 
-The aggregated data file (`all-mats.json`) contains:
+The aggregated data file (`all-products.json`) contains:
 
 ```typescript
 {

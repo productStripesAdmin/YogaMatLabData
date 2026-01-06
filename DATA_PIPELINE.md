@@ -84,7 +84,7 @@ YogaMatLabData/
 │   ├── raw/{date}/              # Daily Shopify extractions
 │   ├── normalized/{date}/       # Transformed to YogaMat schema
 │   ├── aggregated/{date}/       # Combined datasets
-│   │   └── all-mats.json        # Single file with all mats
+│   │   └── all-products.json        # Single file with all mats
 │   └── changes/                 # Changeset logs
 └── .github/workflows/
     └── daily-extraction.yml     # GitHub Actions automation
@@ -187,8 +187,8 @@ Files to create:
     - Combine into single array
     - Ensure unique slugs (handle collisions with -2, -3 suffix)
     - Generate supporting files:
-          - all-mats.json - Combined array
-      - all-mats.csv - CSV export
+          - all-products.json - Combined array
+      - all-products.csv - CSV export
       - brands-index.json - Brand metadata + counts
       - stats.json - Extraction statistics
     - Save to data/aggregated/{date}/
@@ -196,8 +196,8 @@ Files to create:
 5. scripts/detect-changes.ts
   - Purpose: Diff against previous day's extraction
   - Logic:
-      - Load data/aggregated/{prev-date}/all-mats.json
-    - Load data/aggregated/{curr-date}/all-mats.json
+      - Load data/aggregated/{prev-date}/all-products.json
+    - Load data/aggregated/{curr-date}/all-products.json
     - Compare by slug:
           - New products (in current, not in previous)
       - Removed products (in previous, not in current)
@@ -261,7 +261,7 @@ In YogaMatLabApp:
 2. scripts/import-mats-from-data.ts
   - Purpose: Import aggregated data to Convex database
   - Logic:
-      - Read data/external/data/aggregated/latest/all-mats.json
+      - Read data/external/data/aggregated/latest/all-products.json
     - Connect to Convex using ConvexHttpClient
     - Import in batches of 50 (to avoid timeouts)
     - Use api.yogaMats.bulkUpsert mutation
@@ -353,7 +353,7 @@ Manual Testing (Phase 1-2)
 3. Run normalization: npm run normalize
 4. Verify normalized output matches YogaMat schema
 5. Run aggregation: npm run aggregate
-6. Verify all-mats.json combines all brands correctly
+6. Verify all-products.json combines all brands correctly
 
 Automation Testing (Phase 3)
 

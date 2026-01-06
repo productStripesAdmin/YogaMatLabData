@@ -191,7 +191,7 @@ This repository generates data that is consumed by YogaMatLabApp. See [INTEGRATI
    git submodule add https://github.com/productStripesAdmin/YogaMatLabData.git data/external
    ```
 
-2. **Create Import Script** in YogaMatLabApp to load `data/external/data/aggregated/latest/all-mats.json` into Convex
+2. **Create Import Script** in YogaMatLabApp to load `data/external/data/aggregated/latest/all-products.json` into Convex
 
 3. **Daily Updates**:
    ```bash

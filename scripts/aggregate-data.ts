@@ -151,10 +151,10 @@ async function saveAggregatedData(
 ): Promise<void> {
   const aggregatedDir = path.join(process.cwd(), 'data', 'aggregated', date);
 
-  // 1. Save all-mats.json (main file)
-  const allMatsPath = path.join(aggregatedDir, 'all-mats.json');
-  await fs.writeFile(allMatsPath, JSON.stringify(products, null, 2), 'utf-8');
-  logger.success(`Saved ${products.length} products to all-mats.json`);
+  // 1. Save all-products.json (main file)
+  const allProductsPath = path.join(aggregatedDir, 'all-products.json');
+  await fs.writeFile(allProductsPath, JSON.stringify(products, null, 2), 'utf-8');
+  logger.success(`Saved ${products.length} products to all-products.json`);
 
   // 2. Save brands-index.json (brand metadata)
   const brandsIndex = Object.entries(stats.brandCounts).map(([slug, count]) => ({
@@ -185,7 +185,7 @@ async function saveAggregatedData(
   );
   logger.success('Saved statistics');
 
-  // 4. Save all-mats.csv (CSV export for spreadsheets)
+  // 4. Save all-products.csv (CSV export for spreadsheets)
   const csvHeader = [
     'slug',
     'name',
@@ -217,7 +217,7 @@ async function saveAggregatedData(
   ].join(','));
 
   const csv = [csvHeader, ...csvRows].join('\n');
-  const csvPath = path.join(aggregatedDir, 'all-mats.csv');
+  const csvPath = path.join(aggregatedDir, 'all-products.csv');
   await fs.writeFile(csvPath, csv, 'utf-8');
   logger.success('Saved CSV export');
 }

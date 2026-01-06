@@ -52,7 +52,7 @@ async function getPreviousDate(currentDate: string): Promise<string | null> {
 }
 
 async function loadAggregatedData(date: string): Promise<NormalizedYogaMat[] | null> {
-  const filepath = path.join(process.cwd(), 'data', 'aggregated', date, 'all-mats.json');
+  const filepath = path.join(process.cwd(), 'data', 'aggregated', date, 'all-products.json');
 
   try {
     const data = await fs.readFile(filepath, 'utf-8');
