@@ -1,0 +1,2061 @@
+{
+  "products": [
+    {
+      "id": 7703088726200,
+      "title": "[Large Space] Super Wide and Thick Exercise Mat",
+      "handle": "12566",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_74f86396-60d1-4aba-908a-4d1ff49b7b61.jpg?v=1723451302\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_3745663e-4a10-4bbb-b8c2-60aad530b38e.jpg?v=1723451303\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_8bf03043-796d-4205-bd36-bac163ada779.jpg?v=1723451305\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_afe9fccb-ee80-46fc-b647-c6f30de42b44.jpg?v=1723451305\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/5_79825c64-579d-44ef-86cf-359755f8c0ef.jpg?v=1723451301\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_798b1118-e25f-4446-9a60-b79309940988.jpg?v=1723451302\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_8ba8586b-7a1e-41e7-9647-20a584132109.jpg?v=1723451304\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/8_eae5d238-d472-4d08-9c36-bdffcd049dc8.jpg?v=1723451299\"></p>\n<!---->",
+      "published_at": "2024-07-30T00:33:19-07:00",
+      "created_at": "2024-05-20T23:30:58-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48285263495352,
+          "title": "7mm/0.3in / Smoky Gray Pink",
+          "option1": "7mm/0.3in",
+          "option2": "Smoky Gray Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436149432,
+            "product_id": 7703088726200,
+            "position": 2,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:53-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d.png?v=1716281933",
+            "variant_ids": [
+              48285263495352,
+              48285263593656,
+              48285263691960
+            ]
+          },
+          "available": true,
+          "price": "89.99",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263528120,
+          "title": "7mm/0.3in / Light Water Blue",
+          "option1": "7mm/0.3in",
+          "option2": "Light Water Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436411576,
+            "product_id": 7703088726200,
+            "position": 3,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_1d4be118-72dd-48f7-9a3d-0e6ee186f1e1.png?v=1716281934",
+            "variant_ids": [
+              48285263528120,
+              48285263626424,
+              48285263724728
+            ]
+          },
+          "available": true,
+          "price": "89.99",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263593656,
+          "title": "9mm/0.4in / Smoky Gray Pink",
+          "option1": "9mm/0.4in",
+          "option2": "Smoky Gray Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436149432,
+            "product_id": 7703088726200,
+            "position": 2,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:53-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d.png?v=1716281933",
+            "variant_ids": [
+              48285263495352,
+              48285263593656,
+              48285263691960
+            ]
+          },
+          "available": true,
+          "price": "99.99",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263626424,
+          "title": "9mm/0.4in / Light Water Blue",
+          "option1": "9mm/0.4in",
+          "option2": "Light Water Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436411576,
+            "product_id": 7703088726200,
+            "position": 3,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_1d4be118-72dd-48f7-9a3d-0e6ee186f1e1.png?v=1716281934",
+            "variant_ids": [
+              48285263528120,
+              48285263626424,
+              48285263724728
+            ]
+          },
+          "available": true,
+          "price": "99.99",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263659192,
+          "title": "9mm/0.4in / Light Grass Green",
+          "option1": "9mm/0.4in",
+          "option2": "Light Grass Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436280504,
+            "product_id": 7703088726200,
+            "position": 4,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_42a19f5b-15dc-4dcc-aa66-4cb2cf2ba6ff.png?v=1716281934",
+            "variant_ids": [
+              48285263659192,
+              48285263757496
+            ]
+          },
+          "available": true,
+          "price": "99.99",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263691960,
+          "title": "12mm/0.5in / Smoky Gray Pink",
+          "option1": "12mm/0.5in",
+          "option2": "Smoky Gray Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436149432,
+            "product_id": 7703088726200,
+            "position": 2,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:53-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d.png?v=1716281933",
+            "variant_ids": [
+              48285263495352,
+              48285263593656,
+              48285263691960
+            ]
+          },
+          "available": true,
+          "price": "109.99",
+          "grams": 4990,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263724728,
+          "title": "12mm/0.5in / Light Water Blue",
+          "option1": "12mm/0.5in",
+          "option2": "Light Water Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436411576,
+            "product_id": 7703088726200,
+            "position": 3,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_1d4be118-72dd-48f7-9a3d-0e6ee186f1e1.png?v=1716281934",
+            "variant_ids": [
+              48285263528120,
+              48285263626424,
+              48285263724728
+            ]
+          },
+          "available": true,
+          "price": "109.99",
+          "grams": 4990,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285263757496,
+          "title": "12mm/0.5in / Light Grass Green",
+          "option1": "12mm/0.5in",
+          "option2": "Light Grass Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45066436280504,
+            "product_id": 7703088726200,
+            "position": 4,
+            "created_at": "2024-05-21T01:58:52-07:00",
+            "updated_at": "2024-05-21T01:58:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_42a19f5b-15dc-4dcc-aa66-4cb2cf2ba6ff.png?v=1716281934",
+            "variant_ids": [
+              48285263659192,
+              48285263757496
+            ]
+          },
+          "available": true,
+          "price": "109.99",
+          "grams": 4990,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7703088726200,
+          "created_at": "2024-06-21T00:48:45-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47035226882232,
+          "created_at": "2024-09-18T22:47:23-07:00",
+          "position": 1,
+          "updated_at": "2024-09-18T22:47:25-07:00",
+          "product_id": 7703088726200,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_53f61d52-3760-4951-8fd7-88dbf618c96d.jpg?v=1726724845",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45066436149432,
+          "created_at": "2024-05-21T01:58:52-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:58:53-07:00",
+          "product_id": 7703088726200,
+          "variant_ids": [
+            48285263495352,
+            48285263593656,
+            48285263691960
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d.png?v=1716281933",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45066436411576,
+          "created_at": "2024-05-21T01:58:52-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:58:54-07:00",
+          "product_id": 7703088726200,
+          "variant_ids": [
+            48285263528120,
+            48285263626424,
+            48285263724728
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_1d4be118-72dd-48f7-9a3d-0e6ee186f1e1.png?v=1716281934",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45066436280504,
+          "created_at": "2024-05-21T01:58:52-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:58:54-07:00",
+          "product_id": 7703088726200,
+          "variant_ids": [
+            48285263659192,
+            48285263757496
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_42a19f5b-15dc-4dcc-aa66-4cb2cf2ba6ff.png?v=1716281934",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Thick",
+          "position": 1,
+          "values": [
+            "7mm/0.3in",
+            "9mm/0.4in",
+            "12mm/0.5in"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Smoky Gray Pink",
+            "Light Water Blue",
+            "Light Grass Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088791736,
+      "title": "[Beginner Assist] Yoga Mat with Position Lines",
+      "handle": "12912",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__01_71e766ca-f5db-46a2-93ab-d779931b4257.jpg?v=1725350607\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__02_9f0fc50f-b283-4cc2-b388-c1e6319c014c.jpg?v=1725350608\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__03_ef979e13-c3ba-453e-a9e8-c1e22231dfe4.jpg?v=1725350609\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__04_4969d97a-3e5d-4e80-b56a-6f757124c355.jpg?v=1725350607\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__05_d9d16efd-d47b-44d6-b877-4897c945ff3a.jpg?v=1725350607\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__06_4146fa91-a597-463e-b40f-5d9fa456fca0.jpg?v=1725350608\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__07_787f6a6e-ee9b-454e-8871-84028f213d73.jpg?v=1725350608\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__08_2a24ffc6-2431-4899-a859-ecace01f0f49.jpg?v=1725350606\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__09_dc4eb5be-70ce-441b-b733-3c208fcdbd09.jpg?v=1725350607\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12912-_-__10_7188c83b-75e7-4840-a625-d845c212b0f9.jpg?v=1725350607\"></p>",
+      "published_at": "2024-08-01T00:25:08-07:00",
+      "created_at": "2024-05-20T23:31:00-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48285373038776,
+          "title": "Pink",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065770401976,
+            "product_id": 7703088791736,
+            "position": 6,
+            "created_at": "2024-05-21T01:33:37-07:00",
+            "updated_at": "2024-05-21T01:33:41-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/5_1096bf4b-58ba-46c9-8dfc-c95d88b90677.jpg?v=1716280421",
+            "variant_ids": [
+              48285373038776
+            ]
+          },
+          "available": true,
+          "price": "89.99",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088791736,
+          "created_at": "2024-06-21T01:08:43-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285373071544,
+          "title": "Purple",
+          "option1": "Purple",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065770533048,
+            "product_id": 7703088791736,
+            "position": 5,
+            "created_at": "2024-05-21T01:33:37-07:00",
+            "updated_at": "2024-05-21T01:33:42-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d5854c82-1713-4e99-bdb0-9c91f3afed7f.jpg?v=1716280422",
+            "variant_ids": [
+              48285373071544
+            ]
+          },
+          "available": true,
+          "price": "89.99",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088791736,
+          "created_at": "2024-06-21T01:08:43-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285373104312,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065769844920,
+            "product_id": 7703088791736,
+            "position": 7,
+            "created_at": "2024-05-21T01:33:37-07:00",
+            "updated_at": "2024-05-21T01:33:40-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_ef52f5b1-22c5-4adc-9684-813091aa1808.jpg?v=1716280420",
+            "variant_ids": [
+              48285373104312
+            ]
+          },
+          "available": true,
+          "price": "89.99",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088791736,
+          "created_at": "2024-06-21T01:08:43-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47035530412216,
+          "created_at": "2024-09-18T23:27:00-07:00",
+          "position": 1,
+          "updated_at": "2024-09-18T23:27:01-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-6_63305d0f-6fc9-4b85-a825-24eb0684cf83.jpg?v=1726727221",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45065769320632,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:33:39-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_afd9b3ae-b14d-4edf-8794-9ff214eb1f04.jpg?v=1716280419",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065769025720,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:33:39-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_9c81c857-22f4-4e0d-a4b4-36223182c955.jpg?v=1716280419",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065770827960,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:33:42-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_c674bb82-9d0f-4ff8-b8ff-4ba693fa393c.jpg?v=1716280422",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065770533048,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 5,
+          "updated_at": "2024-05-21T01:33:42-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [
+            48285373071544
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d5854c82-1713-4e99-bdb0-9c91f3afed7f.jpg?v=1716280422",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065770401976,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 6,
+          "updated_at": "2024-05-21T01:33:41-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [
+            48285373038776
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/5_1096bf4b-58ba-46c9-8dfc-c95d88b90677.jpg?v=1716280421",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065769844920,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 7,
+          "updated_at": "2024-05-21T01:33:40-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [
+            48285373104312
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_ef52f5b1-22c5-4adc-9684-813091aa1808.jpg?v=1716280420",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065769222328,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 8,
+          "updated_at": "2024-05-21T01:33:39-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_a5a28dab-8075-49d5-8d23-10ac571436a1.jpg?v=1716280419",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065770205368,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 9,
+          "updated_at": "2024-05-21T01:33:41-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/8_ed4dfb55-bfb9-418a-a3c5-34e9a6d27562.jpg?v=1716280421",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065769648312,
+          "created_at": "2024-05-21T01:33:37-07:00",
+          "position": 10,
+          "updated_at": "2024-05-21T01:33:40-07:00",
+          "product_id": 7703088791736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/9_85b2d9f1-9061-4bf9-8800-ae7ecba3788e.jpg?v=1716280420",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Purple",
+            "Gray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088922808,
+      "title": "Jump Rope Mat",
+      "handle": "10004030",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__01.jpg?v=1723614406\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__02.jpg?v=1723614406\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__03.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__04.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__05.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__06.jpg?v=1723614408\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__07.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__08.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__09.jpg?v=1723614407\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10004030-_-__10.jpg?v=1723614407\"></p>\n<!---->",
+      "published_at": "2024-07-25T02:45:20-07:00",
+      "created_at": "2024-05-20T23:31:03-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48305904681144,
+          "title": "0.35in / Pink",
+          "option1": "0.35in",
+          "option2": "Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065212919992,
+            "product_id": 7703088922808,
+            "position": 5,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:29-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_284fcd71-7f22-4ad2-bcbe-415dff2bb1fc.png?v=1716279149",
+            "variant_ids": [
+              48305904681144,
+              48305904812216
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904713912,
+          "title": "0.35in / Green",
+          "option1": "0.35in",
+          "option2": "Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065213378744,
+            "product_id": 7703088922808,
+            "position": 2,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:30-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_b2142087-f242-4702-885c-ae9b2b403e54.png?v=1716279150",
+            "variant_ids": [
+              48305904713912,
+              48305904844984
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904746680,
+          "title": "0.35in / Purple",
+          "option1": "0.35in",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065213313208,
+            "product_id": 7703088922808,
+            "position": 4,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:29-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-3_ad971040-8e08-4e48-a376-6863a13f649b.png?v=1716279149",
+            "variant_ids": [
+              48305904746680,
+              48305904877752
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904779448,
+          "title": "0.35in / Gray",
+          "option1": "0.35in",
+          "option2": "Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065212887224,
+            "product_id": 7703088922808,
+            "position": 3,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:28-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_28ed2bc6-5713-4b7c-bc9f-6505e6d4ad3f.png?v=1716279148",
+            "variant_ids": [
+              48305904779448,
+              48305904910520
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904812216,
+          "title": "0.5in / Pink",
+          "option1": "0.5in",
+          "option2": "Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065212919992,
+            "product_id": 7703088922808,
+            "position": 5,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:29-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_284fcd71-7f22-4ad2-bcbe-415dff2bb1fc.png?v=1716279149",
+            "variant_ids": [
+              48305904681144,
+              48305904812216
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904844984,
+          "title": "0.5in / Green",
+          "option1": "0.5in",
+          "option2": "Green",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065213378744,
+            "product_id": 7703088922808,
+            "position": 2,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:30-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_b2142087-f242-4702-885c-ae9b2b403e54.png?v=1716279150",
+            "variant_ids": [
+              48305904713912,
+              48305904844984
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904877752,
+          "title": "0.5in / Purple",
+          "option1": "0.5in",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065213313208,
+            "product_id": 7703088922808,
+            "position": 4,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:29-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-3_ad971040-8e08-4e48-a376-6863a13f649b.png?v=1716279149",
+            "variant_ids": [
+              48305904746680,
+              48305904877752
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305904910520,
+          "title": "0.5in / Gray",
+          "option1": "0.5in",
+          "option2": "Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065212887224,
+            "product_id": 7703088922808,
+            "position": 3,
+            "created_at": "2024-05-21T01:12:27-07:00",
+            "updated_at": "2024-05-21T01:12:28-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_28ed2bc6-5713-4b7c-bc9f-6505e6d4ad3f.png?v=1716279148",
+            "variant_ids": [
+              48305904779448,
+              48305904910520
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 7703088922808,
+          "created_at": "2024-06-26T01:40:39-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47057560928440,
+          "created_at": "2024-09-20T03:16:30-07:00",
+          "position": 1,
+          "updated_at": "2024-09-20T03:16:31-07:00",
+          "product_id": 7703088922808,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-5_d91cf6e9-a37c-4207-bcce-c37e82be3f9a.jpg?v=1726827391",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45065213378744,
+          "created_at": "2024-05-21T01:12:27-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:12:30-07:00",
+          "product_id": 7703088922808,
+          "variant_ids": [
+            48305904713912,
+            48305904844984
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_b2142087-f242-4702-885c-ae9b2b403e54.png?v=1716279150",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065212887224,
+          "created_at": "2024-05-21T01:12:27-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:12:28-07:00",
+          "product_id": 7703088922808,
+          "variant_ids": [
+            48305904779448,
+            48305904910520
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_28ed2bc6-5713-4b7c-bc9f-6505e6d4ad3f.png?v=1716279148",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065213313208,
+          "created_at": "2024-05-21T01:12:27-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:12:29-07:00",
+          "product_id": 7703088922808,
+          "variant_ids": [
+            48305904746680,
+            48305904877752
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-3_ad971040-8e08-4e48-a376-6863a13f649b.png?v=1716279149",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065212919992,
+          "created_at": "2024-05-21T01:12:27-07:00",
+          "position": 5,
+          "updated_at": "2024-05-21T01:12:29-07:00",
+          "product_id": 7703088922808,
+          "variant_ids": [
+            48305904681144,
+            48305904812216
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_284fcd71-7f22-4ad2-bcbe-415dff2bb1fc.png?v=1716279149",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Thick",
+          "position": 1,
+          "values": [
+            "0.35in",
+            "0.5in"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Pink",
+            "Green",
+            "Purple",
+            "Gray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088955576,
+      "title": "High Elasticity TPE Pro Training Mat",
+      "handle": "10010278",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_05f2c567-b2d4-45a0-b8b9-cb5e8a1c3f75.jpg?v=1725353690\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_9ff1a30d-c4f7-42b1-8ead-003bfffa00cf.jpg?v=1725353692\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_a9a5f583-3b54-4a44-84c7-290e195df765.jpg?v=1725353692\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_a2ca6a1f-6c9a-4db2-98cf-0a0c7768c6bf.jpg?v=1725353693\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/5_90223c9d-90df-48a4-b7bd-2e536a69727b.jpg?v=1725353692\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_756ec044-c47b-4a2a-addd-601d98512363.jpg?v=1725353691\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_6deb661e-f9b2-449a-ba1d-d1d9c55a4e1d.jpg?v=1725353690\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/8_31b5af58-3c92-4f9b-8415-a117d409d5f5.jpg?v=1725353689\"></p>",
+      "published_at": "2024-07-30T01:04:17-07:00",
+      "created_at": "2024-05-20T23:31:04-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48285600317624,
+          "title": "Hibiscus Purple",
+          "option1": "Hibiscus Purple",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45064952348856,
+            "product_id": 7703088955576,
+            "position": 2,
+            "created_at": "2024-05-21T01:01:26-07:00",
+            "updated_at": "2024-05-21T01:01:28-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6.jpg?v=1716278488",
+            "variant_ids": [
+              48285600317624
+            ]
+          },
+          "available": true,
+          "price": "109.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088955576,
+          "created_at": "2024-06-21T02:20:02-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285600350392,
+          "title": "Night Blue",
+          "option1": "Night Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45064952021176,
+            "product_id": 7703088955576,
+            "position": 3,
+            "created_at": "2024-05-21T01:01:26-07:00",
+            "updated_at": "2024-05-21T01:01:27-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-1.jpg?v=1716278487",
+            "variant_ids": [
+              48285600350392
+            ]
+          },
+          "available": true,
+          "price": "109.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088955576,
+          "created_at": "2024-06-21T02:20:02-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47057533665464,
+          "created_at": "2024-09-20T03:12:52-07:00",
+          "position": 1,
+          "updated_at": "2024-09-20T03:12:54-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_9.jpg?v=1726827174",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45064952348856,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:01:28-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [
+            48285600317624
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6.jpg?v=1716278488",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45064952021176,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:01:27-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [
+            48285600350392
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-1.jpg?v=1716278487",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45064952119480,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:01:27-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-2.jpg?v=1716278487",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45064952545464,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 5,
+          "updated_at": "2024-05-21T01:01:29-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-3.jpg?v=1716278489",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45064952152248,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 6,
+          "updated_at": "2024-05-21T01:01:28-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-4.jpg?v=1716278488",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45064952185016,
+          "created_at": "2024-05-21T01:01:26-07:00",
+          "position": 7,
+          "updated_at": "2024-05-21T01:01:28-07:00",
+          "product_id": 7703088955576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_7.jpg?v=1716278488",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Hibiscus Purple",
+            "Night Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088857272,
+      "title": "Extra Large Home Mat",
+      "handle": "10002590",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__01.jpg?v=1722242867\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__02.jpg?v=1722242867\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__03.jpg?v=1722242868\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__04.jpg?v=1722242866\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__05.jpg?v=1722242866\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__06.jpg?v=1722242866\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__07.jpg?v=1722242866\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10002590-_-__08.jpg?v=1722242864\"></p>\n<!---->",
+      "published_at": "2024-07-29T01:49:41-07:00",
+      "created_at": "2024-05-20T23:31:01-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48285566664888,
+          "title": "Gray Pink / 7mm/0.3in",
+          "option1": "Gray Pink",
+          "option2": "7mm/0.3in",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065652404408,
+            "product_id": 7703088857272,
+            "position": 2,
+            "created_at": "2024-05-21T01:29:04-07:00",
+            "updated_at": "2024-05-21T01:29:05-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_ff7fa374-3ce5-4895-8b35-57ebb7cd7da2.png?v=1716280145",
+            "variant_ids": [
+              48285566664888,
+              48285566697656
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088857272,
+          "created_at": "2024-06-21T02:04:35-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285566697656,
+          "title": "Gray Pink / 9mm/0.4in",
+          "option1": "Gray Pink",
+          "option2": "9mm/0.4in",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065652404408,
+            "product_id": 7703088857272,
+            "position": 2,
+            "created_at": "2024-05-21T01:29:04-07:00",
+            "updated_at": "2024-05-21T01:29:05-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_ff7fa374-3ce5-4895-8b35-57ebb7cd7da2.png?v=1716280145",
+            "variant_ids": [
+              48285566664888,
+              48285566697656
+            ]
+          },
+          "available": true,
+          "price": "99.90",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088857272,
+          "created_at": "2024-06-21T02:04:35-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285566730424,
+          "title": "Hibiscus Purple / 7mm/0.3in",
+          "option1": "Hibiscus Purple",
+          "option2": "7mm/0.3in",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065652535480,
+            "product_id": 7703088857272,
+            "position": 3,
+            "created_at": "2024-05-21T01:29:04-07:00",
+            "updated_at": "2024-05-21T01:29:05-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_bc979bf5-b117-4185-8270-b09a4e85e07e.png?v=1716280145",
+            "variant_ids": [
+              48285566730424,
+              48285566763192
+            ]
+          },
+          "available": true,
+          "price": "86.90",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088857272,
+          "created_at": "2024-06-21T02:04:35-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285566763192,
+          "title": "Hibiscus Purple / 9mm/0.4in",
+          "option1": "Hibiscus Purple",
+          "option2": "9mm/0.4in",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065652535480,
+            "product_id": 7703088857272,
+            "position": 3,
+            "created_at": "2024-05-21T01:29:04-07:00",
+            "updated_at": "2024-05-21T01:29:05-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_bc979bf5-b117-4185-8270-b09a4e85e07e.png?v=1716280145",
+            "variant_ids": [
+              48285566730424,
+              48285566763192
+            ]
+          },
+          "available": true,
+          "price": "99.90",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7703088857272,
+          "created_at": "2024-06-21T02:04:35-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 46964600144056,
+          "created_at": "2024-09-14T03:00:54-07:00",
+          "position": 1,
+          "updated_at": "2024-09-14T03:00:55-07:00",
+          "product_id": 7703088857272,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_0b3e9ad7-f5d4-44fe-863d-4e96ef0db83e.jpg?v=1726308055",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45065652404408,
+          "created_at": "2024-05-21T01:29:04-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:29:05-07:00",
+          "product_id": 7703088857272,
+          "variant_ids": [
+            48285566664888,
+            48285566697656
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_ff7fa374-3ce5-4895-8b35-57ebb7cd7da2.png?v=1716280145",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065652535480,
+          "created_at": "2024-05-21T01:29:04-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:29:05-07:00",
+          "product_id": 7703088857272,
+          "variant_ids": [
+            48285566730424,
+            48285566763192
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_bc979bf5-b117-4185-8270-b09a4e85e07e.png?v=1716280145",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Gray Pink",
+            "Hibiscus Purple"
+          ]
+        },
+        {
+          "name": "Thick",
+          "position": 2,
+          "values": [
+            "7mm/0.3in",
+            "9mm/0.4in"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088890040,
+      "title": "Extra Large Aerobics Mat",
+      "handle": "10003641",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__01_fd72ea14-2bfb-435e-9789-495e7a1dbdd4.jpg?v=1725348505\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__02_2704ba8f-42e9-413e-a7b9-1b7564a528d0.jpg?v=1725348505\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__03_abc74080-9db4-4965-9074-fc0bb461bf03.jpg?v=1725348506\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__04_a4fa006c-5cc6-4bb3-8f21-ad9e6c4e2773.jpg?v=1725348506\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__05_38d4d539-ce37-48c8-b484-ba33b5e8a1fd.jpg?v=1725348506\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__06_1f7431be-ad3e-4f42-9e49-f611ef6b75ea.jpg?v=1725348508\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__07_bec4259d-7e19-4d03-b0ed-97dd60fd2163.jpg?v=1725348506\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__08_dda18af1-0060-4484-a359-fca04de91ff9.jpg?v=1725348504\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/10003641-_-__09_85934501-2931-4d4d-ac64-29833c55606b.jpg?v=1725348505\"></p>",
+      "published_at": "2024-07-29T02:24:20-07:00",
+      "created_at": "2024-05-20T23:31:02-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48305883644088,
+          "title": "Pink",
+          "option1": "Pink",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065514713272,
+            "product_id": 7703088890040,
+            "position": 3,
+            "created_at": "2024-05-21T01:23:47-07:00",
+            "updated_at": "2024-05-21T01:23:49-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_96c134fe-b546-44d0-9a92-c1c5b8641497.png?v=1716279829",
+            "variant_ids": [
+              48305883644088
+            ]
+          },
+          "available": true,
+          "price": "89.19",
+          "grams": 3402,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088890040,
+          "created_at": "2024-06-26T01:36:21-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305883676856,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065514254520,
+            "product_id": 7703088890040,
+            "position": 2,
+            "created_at": "2024-05-21T01:23:47-07:00",
+            "updated_at": "2024-05-21T01:23:48-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_bbb8773d-69fb-489b-ac8e-817feed9de3c.png?v=1716279828",
+            "variant_ids": [
+              48305883676856
+            ]
+          },
+          "available": true,
+          "price": "89.19",
+          "grams": 3402,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088890040,
+          "created_at": "2024-06-26T01:36:21-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305883709624,
+          "title": "Purple",
+          "option1": "Purple",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065514451128,
+            "product_id": 7703088890040,
+            "position": 5,
+            "created_at": "2024-05-21T01:23:47-07:00",
+            "updated_at": "2024-05-21T01:23:49-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6.png?v=1716279829",
+            "variant_ids": [
+              48305883709624
+            ]
+          },
+          "available": true,
+          "price": "89.19",
+          "grams": 3402,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088890040,
+          "created_at": "2024-06-26T01:36:21-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48305883742392,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065514909880,
+            "product_id": 7703088890040,
+            "position": 4,
+            "created_at": "2024-05-21T01:23:47-07:00",
+            "updated_at": "2024-05-21T01:23:50-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_414fa8fe-4ba9-40b3-8b2a-93ae6b5505fb.png?v=1716279830",
+            "variant_ids": [
+              48305883742392
+            ]
+          },
+          "available": true,
+          "price": "89.19",
+          "grams": 3402,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7703088890040,
+          "created_at": "2024-06-26T01:36:21-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 46964567343288,
+          "created_at": "2024-09-14T02:57:04-07:00",
+          "position": 1,
+          "updated_at": "2024-09-14T02:57:05-07:00",
+          "product_id": 7703088890040,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_9bef7de5-fed8-4a86-a73a-a1fecb3264f6.jpg?v=1726307825",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45065514254520,
+          "created_at": "2024-05-21T01:23:47-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:23:48-07:00",
+          "product_id": 7703088890040,
+          "variant_ids": [
+            48305883676856
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_bbb8773d-69fb-489b-ac8e-817feed9de3c.png?v=1716279828",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065514713272,
+          "created_at": "2024-05-21T01:23:47-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:23:49-07:00",
+          "product_id": 7703088890040,
+          "variant_ids": [
+            48305883644088
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_96c134fe-b546-44d0-9a92-c1c5b8641497.png?v=1716279829",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065514909880,
+          "created_at": "2024-05-21T01:23:47-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:23:50-07:00",
+          "product_id": 7703088890040,
+          "variant_ids": [
+            48305883742392
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_414fa8fe-4ba9-40b3-8b2a-93ae6b5505fb.png?v=1716279830",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065514451128,
+          "created_at": "2024-05-21T01:23:47-07:00",
+          "position": 5,
+          "updated_at": "2024-05-21T01:23:49-07:00",
+          "product_id": 7703088890040,
+          "variant_ids": [
+            48305883709624
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6.png?v=1716279829",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Pink",
+            "Green",
+            "Purple",
+            "Gray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7703088758968,
+      "title": "[Dormitory Partner] Classic Exercise Mat",
+      "handle": "12801",
+      "body_html": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12801-_TPE.jpg?v=1722237371\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12801-_TPE_-_2.jpg?v=1722237372\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12801-_TPE_-_3.jpg?v=1722237372\"><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0657/9355/6664/files/12801-_TPE_-_4.jpg?v=1722237369\"></p>\n<!---->",
+      "published_at": "2024-07-29T00:18:55-07:00",
+      "created_at": "2024-05-20T23:30:59-07:00",
+      "updated_at": "2026-01-05T22:07:47-08:00",
+      "vendor": "Keep",
+      "product_type": "Yoga Equipment",
+      "tags": [
+        "Yoga Mat"
+      ],
+      "variants": [
+        {
+          "id": 48285354426552,
+          "title": "6mm/0.24in / Blue",
+          "option1": "6mm/0.24in",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902850232,
+            "product_id": 7703088758968,
+            "position": 4,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:56-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_44f83e82-280f-4b1e-93d9-bf690f29def1.jpg?v=1716280736",
+            "variant_ids": [
+              48285354426552,
+              48285354557624
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354459320,
+          "title": "6mm/0.24in / Dark Gray",
+          "option1": "6mm/0.24in",
+          "option2": "Dark Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902424248,
+            "product_id": 7703088758968,
+            "position": 5,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:56-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d11ef741-6cbd-460b-8812-61c6041a52e8.jpg?v=1716280736",
+            "variant_ids": [
+              48285354459320,
+              48285354590392
+            ]
+          },
+          "available": true,
+          "price": "79.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354492088,
+          "title": "7mm/0.3in / Purple",
+          "option1": "7mm/0.3in",
+          "option2": "Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902653624,
+            "product_id": 7703088758968,
+            "position": 2,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:56-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_032ec27a-e377-406e-87a1-3cc45102c1ad.jpg?v=1716280736",
+            "variant_ids": [
+              48285354492088
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354524856,
+          "title": "7mm/0.3in / Pink",
+          "option1": "7mm/0.3in",
+          "option2": "Pink",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902325944,
+            "product_id": 7703088758968,
+            "position": 3,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:55-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_4aa31bc2-7494-435e-bc52-2129fa2767d2.jpg?v=1716280735",
+            "variant_ids": [
+              48285354524856
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354557624,
+          "title": "7mm/0.3in / Blue",
+          "option1": "7mm/0.3in",
+          "option2": "Blue",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902850232,
+            "product_id": 7703088758968,
+            "position": 4,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:56-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_44f83e82-280f-4b1e-93d9-bf690f29def1.jpg?v=1716280736",
+            "variant_ids": [
+              48285354426552,
+              48285354557624
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354590392,
+          "title": "7mm/0.3in / Dark Gray",
+          "option1": "7mm/0.3in",
+          "option2": "Dark Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45065902424248,
+            "product_id": 7703088758968,
+            "position": 5,
+            "created_at": "2024-05-21T01:38:54-07:00",
+            "updated_at": "2024-05-21T01:38:56-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d11ef741-6cbd-460b-8812-61c6041a52e8.jpg?v=1716280736",
+            "variant_ids": [
+              48285354459320,
+              48285354590392
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354623160,
+          "title": "7mm/0.3in / Mat Purple/Dark Gray",
+          "option1": "7mm/0.3in",
+          "option2": "Mat Purple/Dark Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45595083604152,
+            "product_id": 7703088758968,
+            "position": 9,
+            "created_at": "2024-06-21T01:02:52-07:00",
+            "updated_at": "2024-06-21T01:02:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png1_a65faf45-0314-4f61-8d69-abafc6620553.png?v=1718956974",
+            "variant_ids": [
+              48285354623160
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354655928,
+          "title": "7mm/0.3in / Pink/Purple",
+          "option1": "7mm/0.3in",
+          "option2": "Pink/Purple",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45595083571384,
+            "product_id": 7703088758968,
+            "position": 8,
+            "created_at": "2024-06-21T01:02:52-07:00",
+            "updated_at": "2024-06-21T01:02:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png2_f1bec908-890e-4ff9-9942-9243c17192c7.png?v=1718956974",
+            "variant_ids": [
+              48285354655928
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354688696,
+          "title": "7mm/0.3in / Blue/Silver Gray",
+          "option1": "7mm/0.3in",
+          "option2": "Blue/Silver Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45595083505848,
+            "product_id": 7703088758968,
+            "position": 6,
+            "created_at": "2024-06-21T01:02:52-07:00",
+            "updated_at": "2024-06-21T01:02:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png3_75504877-5bbf-49d8-a374-9c0b3df22b0d.png?v=1718956974",
+            "variant_ids": [
+              48285354688696
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        },
+        {
+          "id": 48285354721464,
+          "title": "7mm/0.3in / Dark Gray/Silver Gray",
+          "option1": "7mm/0.3in",
+          "option2": "Dark Gray/Silver Gray",
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 45595083538616,
+            "product_id": 7703088758968,
+            "position": 7,
+            "created_at": "2024-06-21T01:02:52-07:00",
+            "updated_at": "2024-06-21T01:02:54-07:00",
+            "alt": null,
+            "width": 800,
+            "height": 800,
+            "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png4_ac1b9a08-b9bf-4df5-a77b-777742967123.png?v=1718956974",
+            "variant_ids": [
+              48285354721464
+            ]
+          },
+          "available": true,
+          "price": "85.90",
+          "grams": 3629,
+          "compare_at_price": null,
+          "position": 11,
+          "product_id": 7703088758968,
+          "created_at": "2024-06-21T01:04:26-07:00",
+          "updated_at": "2026-01-05T22:07:47-08:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 47035237662904,
+          "created_at": "2024-09-18T22:48:42-07:00",
+          "position": 1,
+          "updated_at": "2024-09-18T22:48:44-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png-5_3ddc145c-d059-4a21-9c23-8a06da4d76d7.jpg?v=1726724924",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 45065902653624,
+          "created_at": "2024-05-21T01:38:54-07:00",
+          "position": 2,
+          "updated_at": "2024-05-21T01:38:56-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354492088
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_032ec27a-e377-406e-87a1-3cc45102c1ad.jpg?v=1716280736",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065902325944,
+          "created_at": "2024-05-21T01:38:54-07:00",
+          "position": 3,
+          "updated_at": "2024-05-21T01:38:55-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354524856
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_4aa31bc2-7494-435e-bc52-2129fa2767d2.jpg?v=1716280735",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065902850232,
+          "created_at": "2024-05-21T01:38:54-07:00",
+          "position": 4,
+          "updated_at": "2024-05-21T01:38:56-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354426552,
+            48285354557624
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_44f83e82-280f-4b1e-93d9-bf690f29def1.jpg?v=1716280736",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45065902424248,
+          "created_at": "2024-05-21T01:38:54-07:00",
+          "position": 5,
+          "updated_at": "2024-05-21T01:38:56-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354459320,
+            48285354590392
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d11ef741-6cbd-460b-8812-61c6041a52e8.jpg?v=1716280736",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45595083505848,
+          "created_at": "2024-06-21T01:02:52-07:00",
+          "position": 6,
+          "updated_at": "2024-06-21T01:02:54-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354688696
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png3_75504877-5bbf-49d8-a374-9c0b3df22b0d.png?v=1718956974",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45595083538616,
+          "created_at": "2024-06-21T01:02:52-07:00",
+          "position": 7,
+          "updated_at": "2024-06-21T01:02:54-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354721464
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png4_ac1b9a08-b9bf-4df5-a77b-777742967123.png?v=1718956974",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45595083571384,
+          "created_at": "2024-06-21T01:02:52-07:00",
+          "position": 8,
+          "updated_at": "2024-06-21T01:02:54-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354655928
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png2_f1bec908-890e-4ff9-9942-9243c17192c7.png?v=1718956974",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": 45595083604152,
+          "created_at": "2024-06-21T01:02:52-07:00",
+          "position": 9,
+          "updated_at": "2024-06-21T01:02:54-07:00",
+          "product_id": 7703088758968,
+          "variant_ids": [
+            48285354623160
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png1_a65faf45-0314-4f61-8d69-abafc6620553.png?v=1718956974",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "options": [
+        {
+          "name": "Thick",
+          "position": 1,
+          "values": [
+            "6mm/0.24in",
+            "7mm/0.3in"
+          ]
+        },
+        {
+          "name": "Color",
+          "position": 2,
+          "values": [
+            "Blue",
+            "Dark Gray",
+            "Purple",
+            "Pink",
+            "Mat Purple/Dark Gray",
+            "Pink/Purple",
+            "Blue/Silver Gray",
+            "Dark Gray/Silver Gray"
+          ]
+        }
+      ]
+    }
+  ]
+}
