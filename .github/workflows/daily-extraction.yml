@@ -1,9 +1,10 @@
-name: Daily Product Extraction
+name: Fetch products from products.json files
 
 on:
-  # Run daily at 2 AM UTC
+  # Run weekly on Wednesday at 8 AM US Pacific (4 PM UTC in winter, 3 PM UTC in summer)
+  # Using 3 PM UTC to account for daylight saving time
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 15 * * 3'
 
   # Allow manual trigger
   workflow_dispatch:

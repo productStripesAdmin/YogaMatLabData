@@ -8,6 +8,10 @@ import {
   type ShopifyProduct,
   type FetchResult,
 } from './lib/fetch-products-json.js';
+import {
+  checkDataChanged,
+  updateHashRecord,
+} from './lib/hash-tracker.js';
 
 interface Brand {
   _id: string;
@@ -29,6 +33,7 @@ interface ExtractionResult {
   success: boolean;
   error?: string;
   totalPages: number;
+  dataChanged?: boolean; // Whether data hash changed since last fetch
 }
 
 interface ExtractionSummary {
@@ -94,6 +99,24 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
       throw new Error(result.error || 'Failed to fetch products');
     }
 
+    // Check if data has changed using hash tracking
+    const dataCheck = await checkDataChanged(brand.slug, result.products);
+    const dataChanged = dataCheck.changed;
+
+    if (dataChanged) {
+      logger.info(`  ✓ Data changed (${dataCheck.reason})`);
+    } else {
+      logger.info(`  ℹ No changes detected`);
+    }
+
+    // Update hash record
+    await updateHashRecord(
+      brand.slug,
+      result.products,
+      result.products.length,
+      dataChanged
+    );
+
     logger.brandComplete(brand.name, result.products.length);
 
     return {
@@ -101,6 +124,7 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
       products: result.products,
       success: true,
       totalPages: result.totalPages,
+      dataChanged, // Track whether data changed
     };
   } catch (error) {
     const errorMessage =
@@ -230,9 +254,10 @@ async function main() {
     const result = await fetchBrandProducts(brand);
     results.push(result);
 
-    // Small delay between brands to be polite
+    // Delay between brands for politeness (1-2 seconds for weekly runs)
     if (i < brands.length - 1) {
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      const delay = 1000 + Math.random() * 1000; // Random 1-2 seconds
+      await new Promise((resolve) => setTimeout(resolve, delay));
     }
   }
 

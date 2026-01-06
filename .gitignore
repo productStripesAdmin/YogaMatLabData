@@ -16,6 +16,7 @@ data/raw/
 data/normalized/
 data/aggregated/
 data/changes/
+data/.hash-registry.json
 !data/.gitkeep
 
 # Playwright

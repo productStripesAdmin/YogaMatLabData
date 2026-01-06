@@ -3,6 +3,27 @@
  * Much simpler and faster than scraping individual product pages!
  */
 
+/**
+ * Pool of realistic user agents for rotation
+ */
+const USER_AGENTS = [
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/120.0.0.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0',
+];
+
+/**
+ * Get a random user agent from the pool
+ */
+function getRandomUserAgent(): string {
+  return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+}
+
 export interface ShopifyProduct {
   id: number;
   title: string;
@@ -59,7 +80,8 @@ export interface FetchResult {
 export function buildProductsJsonUrl(
   baseUrl: string,
   collectionPath: string,
-  page: number = 1
+  page: number = 1,
+  limit: number = 250 // Shopify max is 250
 ): string {
   // Remove trailing slash from base URL
   const cleanBaseUrl = baseUrl.replace(/\/$/, '');
@@ -69,10 +91,16 @@ export function buildProductsJsonUrl(
     ? collectionPath
     : `/${collectionPath}`;
 
-  // Build URL with pagination
+  // Build URL with pagination and limit
   const url = `${cleanBaseUrl}${cleanPath}/products.json`;
+  const params = new URLSearchParams();
 
-  return page > 1 ? `${url}?page=${page}` : url;
+  params.set('limit', limit.toString());
+  if (page > 1) {
+    params.set('page', page.toString());
+  }
+
+  return `${url}?${params.toString()}`;
 }
 
 /**
@@ -87,7 +115,7 @@ export async function fetchProductsPage(
 ): Promise<ShopifyProductsResponse> {
   const {
     timeout = 30000,
-    userAgent = 'YogaMatLab Data Pipeline (contact@yogamatlab.com)',
+    userAgent, // Will use random if not provided
   } = options;
 
   const controller = new AbortController();
@@ -96,7 +124,7 @@ export async function fetchProductsPage(
   try {
     const response = await fetch(url, {
       headers: {
-        'User-Agent': userAgent,
+        'User-Agent': userAgent || getRandomUserAgent(),
         'Accept': 'application/json',
       },
       signal: controller.signal,
@@ -149,7 +177,8 @@ export async function fetchAllProducts(
 
   try {
     while (hasMorePages && currentPage <= maxPages) {
-      const url = buildProductsJsonUrl(baseUrl, collectionPath, currentPage);
+      // Use limit=250 (Shopify max) for efficient pagination
+      const url = buildProductsJsonUrl(baseUrl, collectionPath, currentPage, 250);
       const response = await fetchProductsPage(url);
 
       if (response.products.length === 0) {
@@ -164,9 +193,8 @@ export async function fetchAllProducts(
       }
 
       // Check if there are more pages
-      // Shopify typically returns empty array when no more products
-      if (response.products.length < 30) {
-        // Shopify default page size is 30
+      // If we got fewer products than the limit, this is the last page
+      if (response.products.length < 250) {
         hasMorePages = false;
       } else {
         currentPage++;

@@ -1,6 +1,6 @@
 # QUEUED PROMPTS
 
-## Prompt 1
+## Prompt 1 - DONE
 
 I want to rename all-products.json to all-products.json. Can you please help with this. I will make the corresponding changes in YogaMatLabApp.
 
@@ -47,7 +47,7 @@ The following stores don't have a products.json endpoint. Can you help me to def
 https://www.lululemon.com
 https://www.huggermugger.com/
 
-## Prompt 5
+## Prompt 5 - DONE
 
 Given the existing data pipeline and GitHub Action (to fetch and extract products) , I want to careful not to overwrite "production data" in the remote repo (main branch) with local data. This would mess up the diffs, etc. I think /data/* should be included in gitignore from a local standpoint, however, it must be included in gitignore on the remote repo because committing is part of workflow (fetch data, process, commit).
 
