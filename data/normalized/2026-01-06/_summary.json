@@ -1,8 +1,8 @@
 {
   "date": "2026-01-06",
-  "totalBrands": 19,
-  "totalProducts": 411,
-  "validProducts": 411,
+  "totalBrands": 20,
+  "totalProducts": 460,
+  "validProducts": 460,
   "invalidProducts": 0,
   "brands": [
     {
@@ -114,6 +114,13 @@
       "brandSlug": "woloyoga",
       "totalProducts": 8,
       "validProducts": 8,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "totalProducts": 49,
+      "validProducts": 49,
       "invalidProducts": 0,
       "errors": []
     },

@@ -29,7 +29,7 @@
       "top selling",
       "TPE"
     ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
     "variantsCount": 1,
     "hasMultipleColors": false,
     "availableColors": [
@@ -67,7 +67,7 @@
       "TPE",
       "turquoise"
     ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
     "variantsCount": 1,
     "hasMultipleColors": false,
     "availableColors": [
@@ -105,7 +105,7 @@
       "top selling",
       "TPE"
     ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
     "variantsCount": 1,
     "hasMultipleColors": false,
     "availableColors": [
@@ -143,49 +143,11 @@
       "top selling",
       "TPE"
     ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
     "variantsCount": 1,
     "hasMultipleColors": false,
     "availableColors": [
       "Purple"
-    ]
-  },
-  {
-    "brandId": "",
-    "brandSlug": "heathyoga",
-    "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
-    "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
-    "price": 64.9,
-    "description": "The Heathyoga TPE Body Alignment System Yoga Mat Pink is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0027/0303/2355/products/HeathyogaTPEMatPink2.jpg?v=1639798568",
-    "priceRange": {
-      "min": 64.9,
-      "max": 64.9
-    },
-    "thickness": 6,
-    "length": 72,
-    "width": 26,
-    "material": "PVC",
-    "features": [
-      "Extra Thick",
-      "Extra Wide",
-      "Alignment Marks"
-    ],
-    "shopifyId": 1828609949731,
-    "shopifyHandle": "tpe-body-alignment-system-yoga-mat-pink-heathyoga",
-    "shopifyTags": [
-      "female",
-      "HY yoga mat",
-      "mom",
-      "pink",
-      "top selling",
-      "TPE"
-    ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
-    "variantsCount": 1,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Pink"
     ]
   },
   {
@@ -219,11 +181,49 @@
       "top selling",
       "TPE"
     ],
-    "shopifyUpdatedAt": "2026-01-06T14:07:39+08:00",
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
     "variantsCount": 1,
     "hasMultipleColors": false,
     "availableColors": [
       "Grass Green"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "heathyoga",
+    "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
+    "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
+    "price": 64.9,
+    "description": "The Heathyoga TPE Body Alignment System Yoga Mat Pink is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0027/0303/2355/products/HeathyogaTPEMatPink2.jpg?v=1639798568",
+    "priceRange": {
+      "min": 64.9,
+      "max": 64.9
+    },
+    "thickness": 6,
+    "length": 72,
+    "width": 26,
+    "material": "PVC",
+    "features": [
+      "Extra Thick",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "shopifyId": 1828609949731,
+    "shopifyHandle": "tpe-body-alignment-system-yoga-mat-pink-heathyoga",
+    "shopifyTags": [
+      "female",
+      "HY yoga mat",
+      "mom",
+      "pink",
+      "top selling",
+      "TPE"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T22:54:12+08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false,
+    "availableColors": [
+      "Pink"
     ]
   }
 ]

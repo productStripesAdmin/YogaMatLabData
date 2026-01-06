@@ -2,8 +2,8 @@
   "date": "2026-01-06",
   "comparedWith": "baseline",
   "summary": {
-    "totalChanges": 411,
-    "newProducts": 411,
+    "totalChanges": 460,
+    "newProducts": 460,
     "removedProducts": 0,
     "priceChanges": 0,
     "specChanges": 0
@@ -740,16 +740,6 @@
       }
     },
     {
-      "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
-      "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
-      "brandSlug": "heathyoga",
-      "changeType": "added",
-      "newValue": {
-        "price": 64.9,
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0027/0303/2355/products/HeathyogaTPEMatPink2.jpg?v=1639798568"
-      }
-    },
-    {
       "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-lemon-green-heathyoga",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Grass Green",
       "brandSlug": "heathyoga",
@@ -760,12 +750,22 @@
       }
     },
     {
+      "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
+      "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
+      "brandSlug": "heathyoga",
+      "changeType": "added",
+      "newValue": {
+        "price": 64.9,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0027/0303/2355/products/HeathyogaTPEMatPink2.jpg?v=1639798568"
+      }
+    },
+    {
       "slug": "houseofmats-familia",
       "name": "Africa by Jess Guzman Yoga mat - Art Collection - 4mm",
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 155.54,
+        "price": 155.29,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0538.jpg?v=1716827710"
       }
     },
@@ -775,7 +775,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 151.95,
+        "price": 151.71,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1464.jpg?v=1722566377"
       }
     },
@@ -785,7 +785,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 151.95,
+        "price": 151.71,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1090.jpg?v=1722570330"
       }
     },
@@ -795,7 +795,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 155.54,
+        "price": 155.29,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0714.jpg?v=1720641209"
       }
     },
@@ -805,7 +805,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1200.jpg?v=1722589472"
       }
     },
@@ -815,7 +815,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0963.jpg?v=1722589795"
       }
     },
@@ -825,7 +825,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 143.57,
+        "price": 143.35,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1436.jpg?v=1722592201"
       }
     },
@@ -835,7 +835,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 128.02,
+        "price": 127.82,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821"
       }
     },
@@ -845,7 +845,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0799.jpg?v=1722589145"
       }
     },
@@ -855,7 +855,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 179.47,
+        "price": 179.18,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1788.jpg?v=1726075566"
       }
     },
@@ -865,7 +865,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91
+        "price": 163.66
       }
     },
     {
@@ -874,7 +874,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 179.47,
+        "price": 179.18,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1008.jpg?v=1726224576"
       }
     },
@@ -884,7 +884,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 155.54,
+        "price": 155.29,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/products/HouseofMats1087.jpg?v=1722593444"
       }
     },
@@ -894,7 +894,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821"
       }
     },
@@ -904,7 +904,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0937.jpg?v=1722590438"
       }
     },
@@ -914,7 +914,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 179.47,
+        "price": 179.18,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1526.jpg?v=1725385683"
       }
     },
@@ -924,7 +924,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1544.jpg?v=1722591050"
       }
     },
@@ -934,7 +934,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 151.95,
+        "price": 151.71,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1274.jpg?v=1722587333"
       }
     },
@@ -944,7 +944,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 151.95,
+        "price": 151.71,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1499.jpg?v=1722569307"
       }
     },
@@ -954,7 +954,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 128.02,
+        "price": 127.82,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1008.jpg?v=1722591587"
       }
     },
@@ -964,7 +964,7 @@
       "brandSlug": "houseofmats",
       "changeType": "added",
       "newValue": {
-        "price": 163.91,
+        "price": 163.66,
         "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1648.jpg?v=1722588028"
       }
     },
@@ -2889,6 +2889,496 @@
       }
     },
     {
+      "slug": "yogadesignlab-combo-yoga-mat-celestial",
+      "name": "Combo Yoga Mat - Celestial",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-celestial-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686372107"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-aegean-green",
+      "name": "Combo Yoga Mat - Aegean Green",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-aegean-green-lightweight-and-best-hot-yoga-mat-yoga-design-lab-1.jpg?v=1686372050"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-breathe",
+      "name": "Combo Yoga Mat - Breathe",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-breathe-best-hot-yoga-mat-yoga-design-lab-1.jpg?v=1686372022"
+      }
+    },
+    {
+      "slug": "yogadesignlab-cork-yoga-mat-mandala-black",
+      "name": "Cork Yoga Mat - Mandala Black",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/cork-yoga-mat-mandala-black-eco-friendly-yoga-mats-and-washable-yoga-mats-yoga-design-lab-1.jpg?v=1686372050"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-tribeca-sand",
+      "name": "Combo Yoga Mat - Tribeca Sand",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-tribeca-sand-best-hot-yoga-mat-towel-yoga-design-lab-1.jpg?v=1686371987"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-geo",
+      "name": "Combo Yoga Mat - Geo",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-geo-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686372107"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-night",
+      "name": "Infinity Yoga Mat - Night",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 116,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-blacknight-anti-slip-yoga-mat-for-poses-and-grip-yoga-design-lab-1.jpg?v=1686372127"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-kids-geo",
+      "name": "Kids Combo Yoga Mat - Geo",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 59,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-kids-geo-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686371927"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-teal",
+      "name": "Infinity Yoga Mat - Mandala Teal",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-mandala-teal-designed-yoga-mat-for-creative-yogis-yoga-design-lab-1.jpg?v=1686372080"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-charcoal",
+      "name": "Infinity Yoga Mat - Mandala Charcoal",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-mandala-charcoal-the-best-yoga-mat-provides-great-support-yoga-design-lab-1.jpg?v=1686372080"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-mandala-turquoise",
+      "name": "Combo Yoga Mat - Mandala Turquoise",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-mandala-turquoise-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686372022"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-mandala-black",
+      "name": "Combo Yoga Mat - Mandala Black",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-mandala-black-best-yoga-mat-for-hot-yoga-yoga-design-lab-1.jpg?v=1734637018"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-boho-glow",
+      "name": "Combo Yoga Mat - Boho Glow",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo_mat_boho_glow_1.jpg?v=1734637968"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-kids-geo-blue",
+      "name": "Kids Combo Yoga Mat - Geo Blue",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 59,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-kids-geo-blue-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686371927"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-pearl",
+      "name": "Combo Yoga Mat - Pearl",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-pearl-best-yoga-mat-for-hot-yoga-practices-yoga-design-lab-1.jpg?v=1759420800"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-iris",
+      "name": "Combo Yoga Mat - Iris",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/iris_895cfeb7-c44b-4ef7-9595-4b7a80c15c30.jpg?v=1734637595"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-rose",
+      "name": "Infinity Yoga Mat - Mandala Rose",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-mandala-rose-the-best-yoga-mat-provides-great-support-yoga-design-lab-1.jpg?v=1686372050"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-rose",
+      "name": "Combo Yoga Mat - Rose",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/MT-Rose-Main-Tempshopify2.jpg?v=1734637924"
+      }
+    },
+    {
+      "slug": "yogadesignlab-cork-yoga-mat-natural-balance",
+      "name": "Cork Yoga Mat - Natural Balance",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/Natural-Balance-full-mat.jpg?v=1743095413"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-jungle-harmony",
+      "name": "Combo Yoga Mat - Jungle Harmony",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDLComboMatJungleHarmonyshopify.jpg?v=1734637714"
+      }
+    },
+    {
+      "slug": "yogadesignlab-cork-yoga-mat-1-5mm-mandala-black",
+      "name": "Travel Cork Yoga Mat - Mandala Black",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/travel-cork-yoga-mat-mandala-black-1-5mm-for-experienced-yogis-yoga-design-lab-1.jpg?v=1686371896"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-earth-green",
+      "name": "Combo Yoga Mat - Earth Green",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-earth-green-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686372178"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-xl-celestial",
+      "name": "Combo Yoga Mat XL - Celestial",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 138,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-XL-5.jpg?v=1753123878"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-zenith",
+      "name": "Combo Yoga Mat - Zenith",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/Zenith-full-mat.jpg?v=1743025037"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-zen-zebra",
+      "name": "Combo Yoga Mat - Zen Zebra",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDLComboMatZenZebrashopify_1.jpg?v=1734637696"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-butterfly-glow",
+      "name": "Combo Yoga Mat - Butterfly Glow",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo_mat_butterfly_glow_1.jpg?v=1734637997"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-navy",
+      "name": "Infinity Yoga Mat - Diamond Align Navy",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 116,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-diamond-align-navy-the-best-yoga-mat-for-workout-and-exercises-yoga-design-lab-1.jpg?v=1686372149"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-geo",
+      "name": "Travel Combo Yoga Mat - Geo",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-1-5mm-geo-lightweight-ultra-soft-yoga-design-lab-1.jpg?v=1686371954"
+      }
+    },
+    {
+      "slug": "yogadesignlab-kids-combo-yoga-mat-jungle",
+      "name": "Kids Combo Yoga Mat - Jungle",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 59,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/kids-combo-jungle.png?v=1734637730"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-crystal",
+      "name": "Combo Yoga Mat - Crystal",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/MT-Crystal-Main-Tempshopify2.jpg?v=1734637931"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-coral",
+      "name": "Infinity Yoga Mat - Diamond Align Coral",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 116,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/infinity-yoga-mat-5mm-diamond-align-coral-best-non-slip-yoga-mat-yoga-design-lab-1.jpg?v=1686372149"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-turquoise",
+      "name": "Travel Combo Yoga Mat - Mandala Turquoise",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/travel-combo-yoga-mat-2-in-1-mat-towel-mandala-turquoise-1-5-mm-yoga-design-lab-1.jpg?v=1686371955"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-black",
+      "name": "Travel Combo Yoga Mat - Mandala Black",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-mandala-black-best-yoga-mat-for-hot-yoga-yoga-design-lab-1.jpg?v=1734637018"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-celestial",
+      "name": "Travel Combo Yoga Mat - Celestial",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/ydl-combo-travel-yoga-mat-2-in-1-mat-towel-best-for-travel-yoga-design-lab-19.jpg?v=1734637851"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-breathe",
+      "name": "Travel Combo Yoga Mat - Breathe",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-travel-yoga-mat-2-in-1-mat-towel-1-5mm-breathe-yoga-design-lab-1.jpg?v=1686372079"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-tribeca-sand",
+      "name": "Travel Combo Yoga Mat - Tribeca Sand",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/travel-combo-yoga-mat-2-in-1-mat-towel-tribeca-sand-1-5mm-yoga-design-lab-1.jpg?v=1686371955"
+      }
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-eternal",
+      "name": "Infinity Yoga Mat - Eternal",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 116,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDL-Infinity-Mat-Eternal-1.jpg?v=1734637773"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-butterfly-glow",
+      "name": "Travel Combo Yoga Mat - Butterfly Glow",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo_mat_butterfly_glow_1.jpg?v=1734637997"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-iris",
+      "name": "Travel Combo Yoga Mat - Iris",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo_mat_butterfly_glow_1_6d09921c-71a5-452f-8e60-6e4884f830d4.jpg?v=1734637865"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-mandala-sapphire",
+      "name": "Combo Yoga Mat - Mandala Sapphire",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/products/YDLMandala-Sapphire-main-flat-gray-bg_eb2e01f7-b80f-472b-819b-28f22ac17094.jpg?v=1676834222"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-crystal",
+      "name": "Travel Combo Yoga Mat - Crystal",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDLComboMatCelestialshopify.jpg?v=1734637876"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-zenith",
+      "name": "Travel Combo Yoga Mat - Zenith",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/Zenith-full-mat.jpg?v=1743025037"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-rose",
+      "name": "Travel Combo Yoga Mat - Rose",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDLComboMatRoseshopify_86ef75e2-bbbb-4bc9-9a70-7002ee322f51.jpg?v=1734637889"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-1-5mm-monaco",
+      "name": "Travel Combo Yoga Mat - Monaco",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDL-Combo-Mat-Monaco-1.png?v=1743096836"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-3-5mm-monaco",
+      "name": "Combo Yoga Mat - Monaco",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDL-Combo-Mat-Monaco-1.png?v=1743096836"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-combo-yoga-mat-boho-glow",
+      "name": "Travel Combo Yoga Mat - Boho Glow",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo_mat_boho_glow_1.jpg?v=1734637968"
+      }
+    },
+    {
+      "slug": "yogadesignlab-kids-combo-yoga-mat-celestial",
+      "name": "Kids Combo Yoga Mat - Celestial",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 59,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/kids-combo-celestial.png?v=1734637749"
+      }
+    },
+    {
+      "slug": "yogadesignlab-travel-cork-yoga-mat-natural-balance",
+      "name": "Travel Cork Yoga Mat - Natural Balance",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 83,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/Natural-Balance-full-mat.jpg?v=1743095413"
+      }
+    },
+    {
+      "slug": "yogadesignlab-combo-yoga-mat-rainbow",
+      "name": "Combo Yoga Mat - Rainbow",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {
+        "price": 110,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0507/7886/5823/files/YDLComboMatPRIDERainbow1shopify.jpg?v=1734637678"
+      }
+    },
+    {
       "slug": "yogamatters-yogamatters-sticky-yoga-mat",
       "name": "Yogamatters Sticky Yoga Mat",
       "brandSlug": "yogamatters",
@@ -3454,7 +3944,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_2_5b1fae48-3ce7-406a-a313-455b8ffc0657.png?v=1755183182"
       }
     },
@@ -3464,7 +3954,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_1_a5ebe7a7-7f61-43c4-ac8a-88d616e5b000.jpg?v=1755183321"
       }
     },
@@ -3484,7 +3974,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_1.jpg?v=1762794519"
       }
     },
@@ -3494,7 +3984,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Minimalist_Website_1.png?v=1755195609"
       }
     },
@@ -3504,7 +3994,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_Boxing_Sale.jpg?v=1766533633"
       }
     },
@@ -3514,7 +4004,7 @@
       "brandSlug": "yogi-bare",
       "changeType": "added",
       "newValue": {
-        "price": 93,
+        "price": 92,
         "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-01.png?v=1762794559"
       }
     },

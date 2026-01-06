@@ -1,9 +1,9 @@
 {
   "date": "2026-01-06",
-  "totalBrands": 20,
-  "successfulBrands": 19,
+  "totalBrands": 21,
+  "successfulBrands": 20,
   "failedBrands": 1,
-  "totalProducts": 411,
+  "totalProducts": 460,
   "results": [
     {
       "brandName": "42 Birds",
@@ -39,7 +39,7 @@
       "brandSlug": "gaiam",
       "success": true,
       "productCount": 35,
-      "totalPages": 2
+      "totalPages": 1
     },
     {
       "brandName": "Heathyoga",
@@ -74,7 +74,7 @@
       "brandSlug": "liforme",
       "success": true,
       "productCount": 41,
-      "totalPages": 2
+      "totalPages": 1
     },
     {
       "brandName": "Manduka",
@@ -95,7 +95,7 @@
       "brandSlug": "scoria",
       "success": true,
       "productCount": 44,
-      "totalPages": 2
+      "totalPages": 1
     },
     {
       "brandName": "Sensu",
@@ -109,7 +109,7 @@
       "brandSlug": "shaktiwarrior",
       "success": true,
       "productCount": 32,
-      "totalPages": 2
+      "totalPages": 1
     },
     {
       "brandName": "Stakt",
@@ -126,11 +126,18 @@
       "totalPages": 1
     },
     {
+      "brandName": "Yoga Design Lab",
+      "brandSlug": "yogadesignlab",
+      "success": true,
+      "productCount": 49,
+      "totalPages": 1
+    },
+    {
       "brandName": "YogaMatters",
       "brandSlug": "yogamatters",
       "success": true,
       "productCount": 53,
-      "totalPages": 2
+      "totalPages": 1
     },
     {
       "brandName": "Yogi Bare",
@@ -144,7 +151,7 @@
       "brandSlug": "yolohayoga",
       "success": true,
       "productCount": 60,
-      "totalPages": 3
+      "totalPages": 1
     }
   ]
 }

@@ -32,6 +32,7 @@
       "Collection: gifts-for-him",
       "Collection: IYUK",
       "Collection: loved-by-you",
+      "collection: mat_summer_offer",
       "Collection: mats-and-bags",
       "Collection: mens-yoga-mats",
       "Collection: Mood-enhancers",
@@ -71,7 +72,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 18,
     "hasMultipleColors": true,
     "availableColors": [
@@ -147,7 +148,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 4,
     "hasMultipleColors": true,
     "availableColors": [
@@ -222,7 +223,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 6,
     "hasMultipleColors": true,
     "availableColors": [
@@ -292,7 +293,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -367,7 +368,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 7,
     "hasMultipleColors": true,
     "availableColors": [
@@ -437,7 +438,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 10mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -464,6 +465,7 @@
       "Collection: best-selling-yoga-mats",
       "Collection: christmas-wellbeing-gifts",
       "Collection: christmas_yoga_at_home",
+      "collection: mat_summer_offer",
       "Collection: mats-and-bags",
       "Collection: yoga-mats",
       "DiscountBand: ymexclusive-mats",
@@ -473,7 +475,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 4,
     "hasMultipleColors": true,
     "availableColors": [
@@ -552,7 +554,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -624,7 +626,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -655,6 +657,7 @@
       "Collection: discountable_feb_2022",
       "Collection: full-price",
       "Collection: full-price-inc-kits",
+      "collection: mat_summer_offer",
       "Collection: mats-and-bags",
       "Collection: mens-yoga-mats",
       "Collection: Mood-enhancers",
@@ -684,7 +687,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 5,
     "hasMultipleColors": true,
     "availableColors": [
@@ -746,7 +749,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 8mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -825,7 +828,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 10,
     "hasMultipleColors": true,
     "availableColors": [
@@ -867,6 +870,7 @@
       "Collection: full-price",
       "Collection: full-price-inc-kits",
       "Collection: gifts-and-home",
+      "collection: mat_summer_offer",
       "Collection: mats-and-bags",
       "Collection: monochrome",
       "Collection: organic-cotton-collection",
@@ -883,7 +887,7 @@
       "Stock: all_lines_sell_and_retire",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 2,
     "hasMultipleColors": true,
     "availableColors": [
@@ -942,7 +946,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-7mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 22,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1015,7 +1019,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-7mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1079,7 +1083,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 19,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1150,7 +1154,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 5,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1194,7 +1198,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 2mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1236,7 +1240,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 5,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1284,7 +1288,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 8,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1344,7 +1348,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 4,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1406,7 +1410,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 8,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1453,7 +1457,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1508,7 +1512,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 4,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1563,7 +1567,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -1603,7 +1607,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1641,7 +1645,7 @@
       "Promotion: Mats",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1676,7 +1680,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1714,7 +1718,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1748,7 +1752,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:12+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1790,7 +1794,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1832,7 +1836,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1868,7 +1872,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1905,7 +1909,7 @@
       "ProductSubCategory: mat",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1940,7 +1944,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -1975,7 +1979,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2012,7 +2016,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2048,7 +2052,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2086,7 +2090,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2136,7 +2140,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:13+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2184,7 +2188,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 2,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2217,6 +2221,7 @@
       "Collection: feminine-health",
       "Collection: full-price",
       "Collection: full-price-inc-kits",
+      "collection: mat_summer_offer",
       "Collection: mats-and-bags",
       "Collection: monochrome",
       "Collection: sacred-space",
@@ -2236,7 +2241,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5cm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2279,7 +2284,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 2,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2324,7 +2329,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 4,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2373,7 +2378,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2423,7 +2428,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 3,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2484,7 +2489,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 17,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2552,7 +2557,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 10,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2614,7 +2619,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 6,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2667,7 +2672,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 6,
     "hasMultipleColors": true,
     "availableColors": [
@@ -2720,7 +2725,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2756,7 +2761,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   },
@@ -2797,7 +2802,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 10mm"
     ],
-    "shopifyUpdatedAt": "2026-01-06T06:08:14+00:00",
+    "shopifyUpdatedAt": "2026-01-06T14:54:42+00:00",
     "variantsCount": 1,
     "hasMultipleColors": false
   }

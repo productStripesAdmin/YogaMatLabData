@@ -1,0 +1,122 @@
+{
+  "42birds": {
+    "lastHash": "67b68754bcb37b7a3209330d0172833c0b64778415ca30b6418ae6452b83ab13",
+    "lastFetched": "2026-01-06T14:54:04.378Z",
+    "lastChanged": "2026-01-06T14:54:04.378Z",
+    "totalProducts": 10
+  },
+  "ananday": {
+    "lastHash": "063f6c36be70111b1870a1d085c8cc395c4aac2fc09988e75a2d1af0fbdc461c",
+    "lastFetched": "2026-01-06T14:54:07.550Z",
+    "lastChanged": "2026-01-06T14:54:07.550Z",
+    "totalProducts": 4
+  },
+  "bala": {
+    "lastHash": "a23e8bd22b48cfae27f0ce69de81f166147e5787abe34786abbac2f1a8fbb533",
+    "lastFetched": "2026-01-06T14:54:09.334Z",
+    "lastChanged": "2026-01-06T14:54:09.334Z",
+    "totalProducts": 20
+  },
+  "gaiam": {
+    "lastHash": "b797f3fd0c86d78bcfd4d973abcc1da03a4126e152414a5ba4d7ec014e8c42a4",
+    "lastFetched": "2026-01-06T14:54:10.732Z",
+    "lastChanged": "2026-01-06T14:54:10.732Z",
+    "totalProducts": 35
+  },
+  "heathyoga": {
+    "lastHash": "ee736357bbbb900b35fdf3839f2b31042a6c10de7d382a7132f9eb92b763f2a7",
+    "lastFetched": "2026-01-06T14:54:12.499Z",
+    "lastChanged": "2026-01-06T14:54:12.499Z",
+    "totalProducts": 6
+  },
+  "houseofmats": {
+    "lastHash": "cc19e43d23a86541af15a8c124ac858090459249a62652553a151f2d60ca22c4",
+    "lastFetched": "2026-01-06T14:54:14.679Z",
+    "lastChanged": "2026-01-06T14:54:14.679Z",
+    "totalProducts": 21
+  },
+  "jadeyoga": {
+    "lastHash": "d8c2e7280f20e6c250dbecd781b2ba3529ce3f9834d19f6006d96fe7cec97eba",
+    "lastFetched": "2026-01-06T14:54:16.874Z",
+    "lastChanged": "2026-01-06T14:54:16.874Z",
+    "totalProducts": 16
+  },
+  "keep": {
+    "lastHash": "7db6af6c4a11b9e6c055c882d76cd7a2f89b641541a6daa2b3019575793cc99a",
+    "lastFetched": "2026-01-06T14:54:18.911Z",
+    "lastChanged": "2026-01-06T14:54:18.911Z",
+    "totalProducts": 7
+  },
+  "liforme": {
+    "lastHash": "0c460b74f9dfb319043f4c00e66b7821af8ba14e6cadb11eafe2024c9c3c10f4",
+    "lastFetched": "2026-01-06T14:54:20.343Z",
+    "lastChanged": "2026-01-06T14:54:20.343Z",
+    "totalProducts": 41
+  },
+  "manduka": {
+    "lastHash": "d8c2e7280f20e6c250dbecd781b2ba3529ce3f9834d19f6006d96fe7cec97eba",
+    "lastFetched": "2026-01-06T14:54:22.025Z",
+    "lastChanged": "2026-01-06T14:54:22.025Z",
+    "totalProducts": 16
+  },
+  "okoliving": {
+    "lastHash": "0de5e4df1f1d5ec3b135a865544e588b8f0c97652581df0d2239d56c672a0a7c",
+    "lastFetched": "2026-01-06T14:54:24.052Z",
+    "lastChanged": "2026-01-06T14:54:24.052Z",
+    "totalProducts": 18
+  },
+  "scoria": {
+    "lastHash": "e28c7b0ee86c2f0fa3876a9476e76e151eede58a0bea08b060e603d5f60209d8",
+    "lastFetched": "2026-01-06T14:54:26.476Z",
+    "lastChanged": "2026-01-06T14:54:26.476Z",
+    "totalProducts": 44
+  },
+  "sensu": {
+    "lastHash": "82e81eff8fdb5188cbadaa4754e41b0adc3108568125a7f65fece0475d932f94",
+    "lastFetched": "2026-01-06T14:54:33.193Z",
+    "lastChanged": "2026-01-06T14:54:33.193Z",
+    "totalProducts": 3
+  },
+  "shaktiwarrior": {
+    "lastHash": "c1939d02100f06c8bc171a7db870d58bf33e7e9b021adf61b20e7234d01e79aa",
+    "lastFetched": "2026-01-06T14:54:34.602Z",
+    "lastChanged": "2026-01-06T14:54:34.602Z",
+    "totalProducts": 32
+  },
+  "stakt": {
+    "lastHash": "7db6af6c4a11b9e6c055c882d76cd7a2f89b641541a6daa2b3019575793cc99a",
+    "lastFetched": "2026-01-06T14:54:36.527Z",
+    "lastChanged": "2026-01-06T14:54:36.527Z",
+    "totalProducts": 7
+  },
+  "woloyoga": {
+    "lastHash": "c7cf003aa20229bbf341b8e248d0fdd2d40b971227f0c50786caef8be9167e6f",
+    "lastFetched": "2026-01-06T14:54:38.617Z",
+    "lastChanged": "2026-01-06T14:54:38.617Z",
+    "totalProducts": 8
+  },
+  "yogadesignlab": {
+    "lastHash": "b162c8f14b93dd1c9ffdeb80b3d3f0b73fa8c35778e004eeb576c1112fe81c21",
+    "lastFetched": "2026-01-06T14:54:40.888Z",
+    "lastChanged": "2026-01-06T14:54:40.888Z",
+    "totalProducts": 49
+  },
+  "yogamatters": {
+    "lastHash": "55b8093d89a1f5b6b97ef8e79ccdf4860068e1b90e9baf2af242e776a2ade9b9",
+    "lastFetched": "2026-01-06T14:54:42.983Z",
+    "lastChanged": "2026-01-06T14:54:42.983Z",
+    "totalProducts": 53
+  },
+  "yogi-bare": {
+    "lastHash": "67b68754bcb37b7a3209330d0172833c0b64778415ca30b6418ae6452b83ab13",
+    "lastFetched": "2026-01-06T14:54:45.327Z",
+    "lastChanged": "2026-01-06T14:54:45.327Z",
+    "totalProducts": 10
+  },
+  "yolohayoga": {
+    "lastHash": "8d528a1d0765be63a0ca59459c2ced4d19f0b0a6c317aa3248dca078dbf4de6d",
+    "lastFetched": "2026-01-06T14:54:47.353Z",
+    "lastChanged": "2026-01-06T14:54:47.353Z",
+    "totalProducts": 60
+  }
+}
