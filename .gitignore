@@ -10,10 +10,13 @@ node_modules/
 logs/
 *.log
 
-# Data - commit all data for git submodule integration
-# Note: If data files become too large, consider using Git LFS
-# data/*/
-# !data/.gitkeep
+# Data - ignored locally to prevent overwriting production data
+# GitHub Actions workflow uses 'git add --force' to commit data
+data/raw/
+data/normalized/
+data/aggregated/
+data/changes/
+!data/.gitkeep
 
 # Playwright
 .cache/

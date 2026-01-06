@@ -64,7 +64,8 @@ jobs:
           echo "📊 Git status before staging:"
           git status
 
-          git add data/
+          # Use --force to override .gitignore (data/ is ignored locally but not in CI)
+          git add --force data/
 
           # Debug: Show what's staged
           echo "📦 Staged changes:"
