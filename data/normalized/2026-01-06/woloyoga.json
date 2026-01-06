@@ -1,0 +1,257 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Ascend Mat 4mm",
+    "slug": "woloyoga-ascend-yoga-mat",
+    "price": 579,
+    "description": "Professional-grade yoga mat built for serious flow and focused strength, made with SGS-certified natural rubber\n✓ 100% natural rubber on both sides✓ Dual-sided reversible grip✓ Built to last, day after day",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-1.png?v=1756254213",
+    "priceRange": {
+      "min": 579,
+      "max": 778
+    },
+    "thickness": 4,
+    "material": "Natural Rubber",
+    "features": [
+      "Reversible",
+      "Non-Slip"
+    ],
+    "shopifyId": 8333492650180,
+    "shopifyHandle": "ascend-yoga-mat",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 6,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Mastery Mat 4mm",
+    "slug": "woloyoga-mastery-yoga-mat",
+    "price": 389,
+    "description": "Everyday yoga mat designed with unshakeable grip and lasting durability, made with SGS-certified natural rubber\n✓ Grippy with even sweat palms✓ High-density support for stability✓ Move freely on this large mat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-1.png?v=1763540961",
+    "priceRange": {
+      "min": 389,
+      "max": 598
+    },
+    "thickness": 4,
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 8210934399172,
+    "shopifyHandle": "mastery-yoga-mat",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 18,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Away Travel Mat 1.5mm",
+    "slug": "woloyoga-away-travel-mat",
+    "price": 329,
+    "description": "Lightweight, foldable yoga mat designed to let you bring your practice on the go, made with SGS-certified natural rubber\n✓ Fit in your carry-on suitcase✓ Grippy with even sweat palms✓ Move freely on this large mat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-1.png?v=1762935270",
+    "priceRange": {
+      "min": 329,
+      "max": 538
+    },
+    "thickness": 1.5,
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 8247536746692,
+    "shopifyHandle": "away-travel-mat",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 15,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Sunset Pink",
+      "Earth Beige",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Dual Flow Bundle",
+    "slug": "woloyoga-dual-flow-bundle",
+    "price": 758,
+    "description": "Two Mastery Mats so you and a partner can practice together with comfort and grip.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual_-flow-01.png?v=1763540961",
+    "priceRange": {
+      "min": 758,
+      "max": 758
+    },
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 8210944131268,
+    "shopifyHandle": "dual-flow-bundle",
+    "shopifyTags": [
+      "bundle"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 36,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Travel Flow Bundle",
+    "slug": "woloyoga-travel-flow-bundle",
+    "price": 638,
+    "description": "Two Away Mats that are lightweight, foldable, and easy to pack for practice anywhere.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-6.png?v=1767431038",
+    "priceRange": {
+      "min": 638,
+      "max": 638
+    },
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8347884716228,
+    "shopifyHandle": "travel-flow-bundle",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 25,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Earth Beige",
+      "Sunset Pink",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Complete Flow Bundle",
+    "slug": "woloyoga-complete-flow-bundle",
+    "price": 698,
+    "description": "One Mastery Mat and one Away Travel Mat, giving you the perfect balance of home stability and travel-ready freedom.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-2.png?v=1762936722",
+    "priceRange": {
+      "min": 698,
+      "max": 698
+    },
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8347909095620,
+    "shopifyHandle": "complete-flow-bundle",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 30,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Elevate Flow Bundle",
+    "slug": "woloyoga-elevate-flow-bundle",
+    "price": 1138,
+    "description": "Two Ascend Mats built for performance and balance. Ideal for couples or advanced practitioners who want to rise higher together.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-01.png?v=1762934375",
+    "priceRange": {
+      "min": 1138,
+      "max": 1138
+    },
+    "features": [],
+    "shopifyId": 8394648355012,
+    "shopifyHandle": "elevate-flow-bundle",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 4,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "The Ritual Bundle",
+    "slug": "woloyoga-the-ritual-bundle",
+    "price": 896,
+    "description": "A complete setup with a Mastery Mat, Linea Yoga Towel, and two Cork Yoga Blocks. Everything you need to ground, support, and deepen your daily practice.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-02.png?v=1767431090",
+    "priceRange": {
+      "min": 896,
+      "max": 896
+    },
+    "material": "Cork",
+    "features": [],
+    "shopifyId": 8394821664964,
+    "shopifyHandle": "the-ritual-bundle",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T08:13:03+08:00",
+    "variantsCount": 18,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  }
+]
