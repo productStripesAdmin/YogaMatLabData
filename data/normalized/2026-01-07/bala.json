@@ -1,0 +1,626 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Compact Mat",
+    "slug": "bala-the-compact-mat",
+    "price": 89,
+    "description": "At 12MM thick, The Compact Mat is designed for comfort and convenience. This capsule-shaped mat effortlessly transforms into a block, offering extra support when and where you need it most. Or unfold to reveal a moisture-wicking, non-slip surface ideal for any and every movement.\nLightweight and travel-friendly, The Compact Mat is a must-have whether you’re WFH, in studio or on-the-go.   \nThe Compact Mat is FINAL SALE and not eligible for refunds or exchanges.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Blush.jpg?v=1745340800",
+    "priceRange": {
+      "min": 89,
+      "max": 89
+    },
+    "thickness": 12,
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 8074604085383,
+    "shopifyHandle": "the-compact-mat",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 6,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Heather",
+      "Sage",
+      "Sea",
+      "Sand"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Play Mat",
+    "slug": "bala-the-play-mat",
+    "price": 99,
+    "description": "The perfect mat for your busy life. The Play Mat is built for comfort and speed, whether at home or on-the-go. The first-of-its-kind portal shape is a true showstopper. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nFloor it. \nPatent Pending\n***Final Sale***",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_01_72caf37a-1cc0-471a-9f76-3985e2b53f9a.jpg?v=1676527778",
+    "priceRange": {
+      "min": 99,
+      "max": 129
+    },
+    "features": [
+      "Eco-Friendly",
+      "Antimicrobial"
+    ],
+    "shopifyId": 7371478925447,
+    "shopifyHandle": "the-play-mat",
+    "shopifyTags": [
+      "100-149",
+      "aerobics",
+      "all",
+      "All Products",
+      "anti-fitness",
+      "Bala",
+      "barre",
+      "beach",
+      "blush",
+      "cardio",
+      "charcoal",
+      "dance",
+      "featured",
+      "fitness",
+      "flex-hsa",
+      "flow",
+      "fun",
+      "hiit",
+      "mat",
+      "new arrivals",
+      "pilates",
+      "recovery",
+      "sage",
+      "sand",
+      "sea",
+      "strength",
+      "strength training",
+      "yoga",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 9,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "5 MM",
+      "8 MM"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Wavy Mat",
+    "slug": "bala-wavy-mat",
+    "price": 129,
+    "description": "At 5MM thick, The Wavy Mat will awaken your senses and elevate your practice. The never-before-seen mat shape will uplevel your space. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nWave your old mat goodbye. \nPatent Pending",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Charcoal_02.jpg?v=1710517145",
+    "priceRange": {
+      "min": 120,
+      "max": 129
+    },
+    "thickness": 5,
+    "features": [
+      "Antimicrobial"
+    ],
+    "shopifyId": 7570101403783,
+    "shopifyHandle": "wavy-mat",
+    "shopifyTags": [
+      "Bala x SPANX",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 5,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Charcoal",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Spanx"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Deco Mat",
+    "slug": "bala-deco-mat",
+    "price": 99,
+    "description": "At 5MM thick, The Deco Mat will transform your space and your life. Designed to fit seamlessly in your home or stand out in your studio. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nSlay. \n\n***Final Sale***",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Blush.jpg?v=1745335378",
+    "priceRange": {
+      "min": 99,
+      "max": 99
+    },
+    "thickness": 5,
+    "features": [
+      "Eco-Friendly",
+      "Antimicrobial"
+    ],
+    "shopifyId": 8062868488327,
+    "shopifyHandle": "deco-mat",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 5,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Charcoal",
+      "Blush",
+      "Sand",
+      "Sage",
+      "Sea"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Mat Scrunchie",
+    "slug": "bala-mat-scrunchie",
+    "price": 25,
+    "description": "The Mat Scrunchie, the first and only scrunchie that keeps your mat neatly rolled and looking really, really cute. \nOh yes, we did.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Blush.jpg?v=1766151096",
+    "priceRange": {
+      "min": 25,
+      "max": 25
+    },
+    "features": [],
+    "shopifyId": 8011412308103,
+    "shopifyHandle": "mat-scrunchie",
+    "shopifyTags": [
+      "accessories",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 5,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sage",
+      "Sand",
+      "Sea"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Play Mat Towel",
+    "slug": "bala-the-play-mat-towel",
+    "price": 65,
+    "description": "Round out your practice with The Play Mat Towel, designed to take on your sweatiest of practices. Made in an absorbent fabric with a gripped underside to prevent slipping, it’s perfect for yoga, pilates, and heated room exercises.\nAfter all, good things come to those who sweat.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Charcoal_01.jpg?v=1678914056",
+    "priceRange": {
+      "min": 65,
+      "max": 65
+    },
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7382292758663,
+    "shopifyHandle": "the-play-mat-towel",
+    "shopifyTags": [
+      "Bala",
+      "blush",
+      "charcoal",
+      "flex-hsa",
+      "floor",
+      "flow",
+      "mat",
+      "recovery",
+      "sage",
+      "sand",
+      "sculpt",
+      "sea",
+      "sweat",
+      "unwind",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 5,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Sage",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Charcoal"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Capsule Mat Towel",
+    "slug": "bala-capsule-mat-towel",
+    "price": 65,
+    "description": "The Capsule Mat Towel is designed to work as hard as you do. Made from a soft, absorbent fabric with silicone nubs to prevent slipping, The Capsule Mat Towel is ideal for yoga, pilates, and heated sessions. \nGet ready to get sweaty!",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_2.jpg?v=1749484826",
+    "priceRange": {
+      "min": 65,
+      "max": 65
+    },
+    "features": [],
+    "shopifyId": 8065107263623,
+    "shopifyHandle": "capsule-mat-towel",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 6,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sand",
+      "Sage",
+      "Sea",
+      "Heather"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Scrunchie Kit",
+    "slug": "bala-the-scrunchie-kit",
+    "price": 111.6,
+    "description": "Your Play Mat and your Play Mat's best friend—our new Mat Scrunchie.\nChoose your colors:\n\n1x Play Mat\n1x Mat Scrunchie",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25033_01_TheScrunchieKit.jpg?v=1739204883",
+    "priceRange": {
+      "min": 111.6,
+      "max": 111.6
+    },
+    "features": [],
+    "shopifyId": 8033474052231,
+    "shopifyHandle": "the-scrunchie-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Wavy Scrunchie Kit",
+    "slug": "bala-the-wavy-scrunchie-kit",
+    "price": 138.6,
+    "description": "Make waves with these two Bala exclusives, thoughtfully designed to be both functional and really, really cute.\nChoose your colors:\n\n1x Wavy Mat\n1x Mat Scrunchie",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25033_02_TheWavyScrunchieKit.jpg?v=1739204997",
+    "priceRange": {
+      "min": 138.6,
+      "max": 138.6
+    },
+    "features": [],
+    "shopifyId": 8033474183303,
+    "shopifyHandle": "the-wavy-scrunchie-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Perfect (Mat)ch Kit",
+    "slug": "bala-the-perfect-match-kit",
+    "price": 147.6,
+    "description": "They really were made for each other. Use them together in your sweatiest practice for the ultimate comfort and grip.\n\nChoose your colors:\n\n1x Play Mat\n1x Play Mat Towel",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24160_PDP_Play-Mat-Play-Mat-Towel-Kit-0801.jpg?v=1722867563",
+    "priceRange": {
+      "min": 147.6,
+      "max": 147.6
+    },
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 7865801080967,
+    "shopifyHandle": "the-perfect-match-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Resistance Kit",
+    "slug": "bala-the-resistance-kit",
+    "price": 179.1,
+    "description": "Push your limits with The Resistance Kit. For any and every kind of movement. \n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x set of Bala Bands\n1x Play Mat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/0525SMS375x500.png?v=1688936281",
+    "priceRange": {
+      "min": 179.1,
+      "max": 179.1
+    },
+    "features": [],
+    "shopifyId": 7408196288647,
+    "shopifyHandle": "the-resistance-kit",
+    "shopifyTags": [
+      "blush",
+      "charcoal",
+      "exclude_rebuy",
+      "flex-hsa",
+      "floor",
+      "flow",
+      "kits",
+      "mat",
+      "sage",
+      "sand",
+      "sculpt",
+      "sea",
+      "sweat",
+      "wrist weights",
+      "yoga",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Yogi Kit",
+    "slug": "bala-yogi-kit",
+    "price": 209.7,
+    "description": "Create a sacred space at home, or bring these yoga must-haves to your favorite studio. \n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x set of Bala Balance Blocks\n1x Play Mat\n1x Play Mat Towel",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Yogi-Kit_PDP.jpg?v=1712864435",
+    "priceRange": {
+      "min": 209.7,
+      "max": 209.7
+    },
+    "features": [],
+    "shopifyId": 7651226747015,
+    "shopifyHandle": "yogi-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Power Kit",
+    "slug": "bala-power-kit",
+    "price": 209.7,
+    "description": "Everything you need to feel strong and powerful, both inside and out.  \n\n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x Power Ring\n1x Play Mat Plus",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Sculpt-_-Slide-Kit_PDP.jpg?v=1712864532",
+    "priceRange": {
+      "min": 209.7,
+      "max": 209.7
+    },
+    "features": [],
+    "shopifyId": 7651230154887,
+    "shopifyHandle": "power-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Sculpt & Slide Kit",
+    "slug": "bala-sculpt-slide-kit",
+    "price": 210.6,
+    "description": "Upgrade your gym with everything you need to sculpt and slide your way through a better workout.\nChoose your colors and weights:\n\n\n\n1x set of Bala Bangles \n1x set of Capsule Sliders\n1x Wavy Mat\n1x Building Block",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Power-Kit_PDP_62f568c1-95eb-489a-ab9c-db688723b106.jpg?v=1712864653",
+    "priceRange": {
+      "min": 210.6,
+      "max": 210.6
+    },
+    "features": [],
+    "shopifyId": 7651233464455,
+    "shopifyHandle": "sculpt-slide-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Mom and Me Kit",
+    "slug": "bala-mom-and-me-kit",
+    "price": 376.2,
+    "description": "One for her, one for you- two sets of Bala essentials for boosting endorphins together.\n\n\nChoose your colors and weights:\n\n\n2x set of Bala Bangles \n2x Wavy Mats\n2x The High Socks",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24081_Homepage_PDP-Mom-and-Me-Kit.jpg?v=1713453894",
+    "priceRange": {
+      "min": 376.2,
+      "max": 376.2
+    },
+    "features": [],
+    "shopifyId": 7673534840967,
+    "shopifyHandle": "mom-and-me-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Mighty Mama Kit",
+    "slug": "bala-mighty-mama-kit",
+    "price": 250.2,
+    "description": "Level up her home gym with three strength training staples, plus the cutest new mat on the market. \n\n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x Wavy Mats\n1x set of Bala Bars\n1x set of Bala Bands",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24081_Homepage_PDP-Mighty-Mama-Kit.jpg?v=1713455137",
+    "priceRange": {
+      "min": 250.2,
+      "max": 250.2
+    },
+    "features": [],
+    "shopifyId": 7673538248839,
+    "shopifyHandle": "mighty-mama-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Grounded Strength Kit",
+    "slug": "bala-grounded-strength-kit",
+    "price": 196.2,
+    "description": "Two Bala best-sellers, one amazing kit (and workout).Choose your colors and weights:\n\n1x Play Mat\n1x Bala Beam",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_GroundedStrengthKit.jpg?v=1731437224",
+    "priceRange": {
+      "min": 196.2,
+      "max": 196.2
+    },
+    "features": [],
+    "shopifyId": 7920995860615,
+    "shopifyHandle": "grounded-strength-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Power Flow Kit",
+    "slug": "bala-power-flow-kit",
+    "price": 169.2,
+    "description": "No shortage of curves in this bundle. Our newest mat and our most versatile 10 LB weight.Choose your colors and weights:\n\n1x Power Ring\n1x Wavy Mat",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_PowerFlowKit.jpg?v=1731437265",
+    "priceRange": {
+      "min": 169.2,
+      "max": 169.2
+    },
+    "weight": 10,
+    "features": [],
+    "shopifyId": 7920997105799,
+    "shopifyHandle": "power-flow-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Powerhouse Performance Kit",
+    "slug": "bala-powerhouse-performance-kit",
+    "price": 276.3,
+    "description": "Bala's strength training faves, paired with a mat that'll inspire you to move.Choose your colors and weights:\n\n1x Power Ring\n1x Play Mat\n1x Bala Beam",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_Powerhouse_Performance_Kit.jpg?v=1731437405",
+    "priceRange": {
+      "min": 276.3,
+      "max": 276.3
+    },
+    "features": [],
+    "shopifyId": 7920997990535,
+    "shopifyHandle": "powerhouse-performance-kit",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Bala Mama Strength Kit",
+    "slug": "bala-bala-mama-strength-kit",
+    "price": 206.1,
+    "description": "Mama, you're already stronger than ever. Here's what you need to ease back into movement while building balance and flexibility.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25088_02_BalaMamaStrengthKit.jpg?v=1746123633",
+    "priceRange": {
+      "min": 206.1,
+      "max": 206.1
+    },
+    "features": [],
+    "shopifyId": 8083141886087,
+    "shopifyHandle": "bala-mama-strength-kit",
+    "shopifyTags": [
+      "collab",
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-07T07:06:57-08:00",
+    "variantsCount": 1,
+    "hasMultipleColors": false
+  }
+]
