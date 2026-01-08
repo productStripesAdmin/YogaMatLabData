@@ -1,0 +1,57 @@
+path,type,length,example
+id,int,,4357742755898
+title,str,,Manduka PRO™ Yoga Mat 6mm
+handle,str,,manduka-pro-yoga-mat
+body_html,str,,"<h2>
+<meta charset=""utf-8""> <span data-teams=""true"">A studio-quality yoga mat with unmatched stab..."
+published_at,str,,2019-11-20T15:11:18-08:00
+created_at,str,,2019-11-20T15:11:18-08:00
+updated_at,str,,2026-01-06T06:54:21-08:00
+vendor,str,,Manduka
+product_type,str,,Mats
+tags,list,7,[7 items]
+tags/[0],str,,adult
+variants,list,22,[22 items]
+variants/[0]/id,int,,39820310347834
+variants/[0]/title,str,,"Black Sage (Green) / Standard 71"" (180cm)"
+variants/[0]/option1,str,,Black Sage (Green)
+variants/[0]/option2,str,,"Standard 71"" (180cm)"
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,111011050
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,29377795653690
+variants/[0]/featured_image/product_id,int,,4357742755898
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2024-01-30T16:44:46-08:00
+variants/[0]/featured_image/updated_at,str,,2025-03-25T14:37:08-07:00
+variants/[0]/featured_image/alt,str,,black-sage-green
+variants/[0]/featured_image/width,int,,871
+variants/[0]/featured_image/height,int,,1014
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-01.jpg?v=1...
+variants/[0]/featured_image/variant_ids,list,2,[2 items]
+variants/[0]/featured_image/variant_ids/[0],int,,39404993871930
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,138.00
+variants/[0]/grams,int,,3629
+variants/[0]/compare_at_price,str,,138.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,4357742755898
+variants/[0]/created_at,str,,2023-01-13T18:10:07-08:00
+variants/[0]/updated_at,str,,2026-01-06T06:54:21-08:00
+images,list,149,[149 items]
+images/[0]/id,int,,29377795653690
+images/[0]/created_at,str,,2024-01-30T16:44:46-08:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-03-25T14:37:08-07:00
+images/[0]/product_id,int,,4357742755898
+images/[0]/variant_ids,list,2,[2 items]
+images/[0]/variant_ids/[0],int,,39404993871930
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-01.jpg?v=1...
+images/[0]/width,int,,871
+images/[0]/height,int,,1014
+options,list,2,[2 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,17,[17 items]
+options/[0]/values/[0],str,,Black Sage (Green)

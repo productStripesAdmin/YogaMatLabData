@@ -410,3 +410,25 @@ Next Steps
    - scripts/lib/image-downloader.ts
    - types/yogaMat.ts (for type definitions)
 5. Begin Phase 1 implementation
+
+---
+
+Both scripts work together:
+
+1. get-brands-from-convex.ts (Orchestrator)
+  - Fetches brand configurations from Convex (including productsJsonUrl)
+  - Parses pipe-delimited URLs: brand.productsJsonUrl.split('|')
+  - Loops through each brand and collection URL
+  - Calls fetchAllProducts() from fetch-products-json.ts
+  - Handles deduplication (by Shopify ID across collections)
+  - Manages hash tracking for change detection
+  - Saves results to data/raw/{date}/{brandSlug}.json
+2. fetch-products-json.ts (Utility Library)
+  - Provides reusable functions: fetchProductsPage() and fetchAllProducts()
+  - Takes baseUrl and collectionPath as parameters
+  - Performs actual HTTP requests to Shopify products.json endpoints
+  - Handles pagination (up to 250 products per page)
+  - Returns ShopifyProduct[] array
+  - Does NOT directly interact with Convex or brand configurations
+
+In summary: get-brands-from-convex.ts orchestrates the entire fetching process (it's the script you run), while fetch-products-json.ts is a library of utility functions that perform the actual HTTP requests. The recent changes added pipe-delimited URL support and deduplication to the orchestrator script at scripts/get-brands-from-convex.ts:88-139.

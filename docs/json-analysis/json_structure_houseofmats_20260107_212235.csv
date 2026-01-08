@@ -1,0 +1,45 @@
+path,type,length,example
+id,int,,7167222743191
+title,str,,Africa by Jess Guzman Yoga mat - Art Collection - 4mm
+handle,str,,familia
+body_html,str,,"<p style=""font-weight: 400;"" data-mce-fragment=""1"" data-mce-style=""font-weight: 400;""><u data-mce..."
+published_at,str,,2021-09-17T16:22:39+02:00
+created_at,str,,2021-09-17T16:22:39+02:00
+updated_at,str,,2026-01-06T15:54:14+01:00
+vendor,str,,HOUSE OF MATS
+product_type,str,,Esteras para pilates y yoga
+tags,list,2,[2 items]
+tags/[0],str,,DE AUTOR
+variants,list,1,[1 items]
+variants/[0]/id,int,,41023316197527
+variants/[0]/title,str,,Default Title
+variants/[0]/option1,str,,Default Title
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,HoM_Africa
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,155.29
+variants/[0]/grams,int,,3300
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,7167222743191
+variants/[0]/created_at,str,,2021-09-17T16:22:39+02:00
+variants/[0]/updated_at,str,,2026-01-06T15:54:14+01:00
+images,list,5,[5 items]
+images/[0]/id,int,,55619674177870
+images/[0]/created_at,str,,2024-05-27T18:35:03+02:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2024-05-27T18:35:10+02:00
+images/[0]/product_id,int,,7167222743191
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0538.jpg?v=1716827710
+images/[0]/width,int,,3648
+images/[0]/height,int,,5472
+options,list,1,[1 items]
+options/[0]/name,str,,Title
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Default Title

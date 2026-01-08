@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,9130974913
+title,str,,Performance Dry-Grip Yoga Mat (5mm)
+handle,str,,05-61028_2
+body_html,str,,"<div class=""shogun-root"" data-shogun-id=""60639c544d680f00ceb65bd6"" data-shogun-site-id=""9038f494-..."
+published_at,str,,2017-04-04T18:15:00-06:00
+created_at,str,,2017-04-04T18:15:06-06:00
+updated_at,str,,2026-01-06T07:54:10-07:00
+vendor,str,,Gaiam
+product_type,str,,Yoga/Yoga Mats
+tags,list,5,[5 items]
+tags/[0],str,,5mm
+variants,list,3,[3 items]
+variants/[0]/id,int,,32665661761
+variants/[0]/title,str,,black
+variants/[0]/option1,str,,black
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,05-63539
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,4186552139822
+variants/[0]/featured_image/product_id,int,,9130974913
+variants/[0]/featured_image/position,int,,4
+variants/[0]/featured_image/created_at,str,,2019-09-23T20:17:34-06:00
+variants/[0]/featured_image/updated_at,str,,2019-09-23T20:17:34-06:00
+variants/[0]/featured_image/alt,str,,Performance Dry-Grip Yoga Mat (5mm) black front top rolled
+variants/[0]/featured_image/width,int,,3000
+variants/[0]/featured_image/height,int,,3000
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/1728/2157/products/05-61028_A.jpg?v=1569291454
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,32665661761
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,69.98
+variants/[0]/grams,int,,3688
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,9130974913
+variants/[0]/created_at,str,,2017-04-04T18:15:06-06:00
+variants/[0]/updated_at,str,,2026-01-06T07:54:10-07:00
+images,list,15,[15 items]
+images/[0]/id,int,,4186551844910
+images/[0]/created_at,str,,2019-09-23T20:17:34-06:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2019-09-23T20:17:34-06:00
+images/[0]/product_id,int,,9130974913
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,32665661633
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/1728/2157/products/05-61682-SOL-DryGrip-Purple_A.jpg?v=1569291454
+images/[0]/width,int,,3000
+images/[0]/height,int,,3000
+options,list,1,[1 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,3,[3 items]
+options/[0]/values/[0],str,,black

@@ -1,0 +1,45 @@
+path,type,length,example
+id,int,,4420382163079
+title,str,,Ananday Cork Yoga Mat
+handle,str,,ananday-cork-yoga-mat
+body_html,str,,"<p><span><meta charset=""utf-8"">Our bestselling Cork Yoga Mat — designed to support your body + ou..."
+published_at,str,,2019-12-16T20:28:06-05:00
+created_at,str,,2019-12-16T20:03:59-05:00
+updated_at,str,,2026-01-06T09:54:07-05:00
+vendor,str,,Ananday
+product_type,str,,Yoga & Pilates Mats
+tags,list,1,[1 items]
+tags/[0],str,,yoga mat
+variants,list,1,[1 items]
+variants/[0]/id,int,,31431133364359
+variants/[0]/title,str,,Default Title
+variants/[0]/option1,str,,Default Title
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,11102
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,False
+variants/[0]/price,str,,108.00
+variants/[0]/grams,int,,2631
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,4420382163079
+variants/[0]/created_at,str,,2019-12-16T20:03:59-05:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:07-05:00
+images,list,7,[7 items]
+images/[0]/id,int,,41429839020291
+images/[0]/created_at,str,,2023-09-28T22:52:25-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2023-09-28T22:52:29-04:00
+images/[0]/product_id,int,,4420382163079
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0277/3398/3367/files/Ananday_Cork_Yoga_Mat_transp_01_v7.png?v=1...
+images/[0]/width,int,,2000
+images/[0]/height,int,,2000
+options,list,1,[1 items]
+options/[0]/name,str,,Title
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Default Title

@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,7140703764639
+title,str,,Combo Yoga Mat - Celestial
+handle,str,,combo-yoga-mat-celestial
+body_html,str,,"<p class=""p1""><meta charset=""utf-8"">Reach for the stars with the Celestial Combo Yoga Mat, a perf..."
+published_at,str,,2024-01-25T06:52:18-05:00
+created_at,str,,2021-10-15T00:38:30-04:00
+updated_at,str,,2026-01-06T09:54:40-05:00
+vendor,str,,Yoga Design Lab
+product_type,str,,Combo Yoga Mat
+tags,list,4,[4 items]
+tags/[0],str,,3.5mm
+variants,list,3,[3 items]
+variants/[0]/id,int,,62520574509215
+variants/[0]/title,str,,1.5mm
+variants/[0]/option1,str,,1.5mm
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,CM-1.5-Celestial
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,36278295920799
+variants/[0]/featured_image/product_id,int,,7140703764639
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2023-06-10T00:41:47-04:00
+variants/[0]/featured_image/updated_at,str,,2023-06-10T00:41:47-04:00
+variants/[0]/featured_image/alt,str,,Combo Yoga Mat - Celestial - Yoga Design Lab 
+variants/[0]/featured_image/width,int,,1601
+variants/[0]/featured_image/height,int,,2048
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-celestial-...
+variants/[0]/featured_image/variant_ids,list,3,[3 items]
+variants/[0]/featured_image/variant_ids/[0],int,,62520574509215
+variants/[0]/available,bool,,False
+variants/[0]/price,str,,83.00
+variants/[0]/grams,int,,2223
+variants/[0]/compare_at_price,str,,83.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,7140703764639
+variants/[0]/created_at,str,,2025-10-01T17:38:11-04:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:40-05:00
+images,list,6,[6 items]
+images/[0]/id,int,,36278295920799
+images/[0]/created_at,str,,2023-06-10T00:41:47-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2023-06-10T00:41:47-04:00
+images/[0]/product_id,int,,7140703764639
+images/[0]/variant_ids,list,3,[3 items]
+images/[0]/variant_ids/[0],int,,62520574509215
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0507/7886/5823/files/combo-yoga-mat-2-in-1-mat-towel-celestial-...
+images/[0]/width,int,,1601
+images/[0]/height,int,,2048
+options,list,1,[1 items]
+options/[0]/name,str,,Thickness
+options/[0]/position,int,,1
+options/[0]/values,list,3,[3 items]
+options/[0]/values/[0],str,,1.5mm

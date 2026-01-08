@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,15258628718971
+title,str,,Performance Pilates Arch Mat FSC® Certified Natural Rubber - Chocolate
+handle,str,,pilates-mat
+body_html,str,,"<p class=""p1""><b><strong>Your order also comes with a free gift with purchase travel size premium..."
+published_at,str,,2025-11-07T07:40:59+00:00
+created_at,str,,2025-10-06T19:18:06+01:00
+updated_at,str,,2026-01-06T14:54:45+00:00
+vendor,str,,Yogi Bare
+product_type,str,,Pilates Mat
+tags,list,1,[1 items]
+tags/[0],str,,Boxing Day
+variants,list,2,[2 items]
+variants/[0]/id,int,,55817085124987
+variants/[0]/title,str,,5MM
+variants/[0]/option1,str,,5MM
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,PR-DA-CH
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,81240036442491
+variants/[0]/featured_image/product_id,int,,15258628718971
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2025-12-23T23:39:39+00:00
+variants/[0]/featured_image/updated_at,str,,2025-12-23T23:39:56+00:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,1024
+variants/[0]/featured_image/height,int,,1024
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=17...
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,55817085124987
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,81.00
+variants/[0]/grams,int,,2400
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,15258628718971
+variants/[0]/created_at,str,,2025-10-06T19:18:06+01:00
+variants/[0]/updated_at,str,,2026-01-06T14:54:45+00:00
+images,list,4,[4 items]
+images/[0]/id,int,,81240036442491
+images/[0]/created_at,str,,2025-12-23T23:39:39+00:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-12-23T23:39:56+00:00
+images/[0]/product_id,int,,15258628718971
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,55817085124987
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=17...
+images/[0]/width,int,,1024
+images/[0]/height,int,,1024
+options,list,1,[1 items]
+options/[0]/name,str,,Thickness
+options/[0]/position,int,,1
+options/[0]/values,list,2,[2 items]
+options/[0]/values/[0],str,,5MM

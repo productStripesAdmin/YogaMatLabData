@@ -1,0 +1,47 @@
+path,type,length,example
+id,int,,876111003695
+title,str,,Cork Lightweight Yoga Mat “The Robin”
+handle,str,,cork-yoga-mat
+body_html,str,,"<ul class=""tabs"">
+<li><a href=""#tab1"" class=""active"">description</a></li>
+<li><a href=""#tab2"">ben..."
+published_at,str,,2019-09-10T16:36:08-04:00
+created_at,str,,2018-06-21T17:03:16-04:00
+updated_at,str,,2026-01-06T09:54:04-05:00
+vendor,str,,42 Birds
+product_type,str,,
+tags,list,1,[1 items]
+tags/[0],str,,Best Sellers
+variants,list,1,[1 items]
+variants/[0]/id,int,,41223810744503
+variants/[0]/title,str,,Default Title
+variants/[0]/option1,str,,Default Title
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,MAT-TPE-1
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,80.00
+variants/[0]/grams,int,,1497
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,876111003695
+variants/[0]/created_at,str,,2022-05-19T14:33:34-04:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:04-05:00
+images,list,20,[20 items]
+images/[0]/id,int,,31403662278839
+images/[0]/created_at,str,,2022-02-22T22:25:38-05:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2022-02-22T22:26:49-05:00
+images/[0]/product_id,int,,876111003695
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin.jpg?v=1645586809
+images/[0]/width,int,,2000
+images/[0]/height,int,,2000
+options,list,1,[1 items]
+options/[0]/name,str,,Title
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Default Title

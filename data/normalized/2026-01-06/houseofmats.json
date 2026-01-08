@@ -4,13 +4,7 @@
     "brandSlug": "houseofmats",
     "name": "Africa by Jess Guzman Yoga mat - Art Collection - 4mm",
     "slug": "houseofmats-familia",
-    "price": 155.29,
     "description": "CONOCE A LA ARTISTA\nJESS GUZMAN, Colombiana, Arquitecta de profesión y artista de vocación. Me encuentro muy inclinado hacia la pintura; dibuja y pinta desde niña porque eso la hace sentir libre. Encuentra en lápiz y papel la manera de materializar sus pensamientos y emociones.\nSuele inspirarse en las formas de la naturaleza, y su estilo es una mezcla entre boceto, caricatura y abstracción.\nLa idea de dibujar para House of Mats la entusiasmó. Le encanta el concepto que Lucía, la dueña, tiene de la marca, pero más que eso, la historia que hay detrás y las razones que la motivaron.\nLas ilustraciones de House surgen del concepto mismo de la marca: los colores, las posturas, la conexión con la naturaleza, la energía del sol y del universo, dando como resultado una serie de imágenes sencillas, realizadas a mano con un trazo suave, la que comunican los conceptos básicos del yoga.\nNada es absoluto, todo es complementario, y de ese tránsito surge la idea.\nSobre el diseño: El elefante en general es un animal que se asemeja a los humanos, es sociable y disfruta de la unión familiar. Además, los elefantes crean fuertes lazos con su familia y amigos, hasta el punto de poder identificarse después de un tiempo sin verse.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0538.jpg?v=1716827710",
-    "priceRange": {
-      "min": 155.29,
-      "max": 155.29
-    },
     "thickness": 4,
     "features": [],
     "shopifyId": 7167222743191,
@@ -21,20 +15,61 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 155.29,
+    "maxPrice": 155.29,
+    "priceCurrency": "USD",
+    "minGrams": 3300,
+    "maxGrams": 3300,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0538.jpg?v=1716827710",
+        "width": 3648,
+        "height": 5472,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0537.jpg?v=1720641062",
+        "width": 3648,
+        "height": 5472,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/AFRICA3.jpg?v=1720641062",
+        "width": 800,
+        "height": 1000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/Africa3_a8dff543-0794-45fd-ae7c-3ea557f20584.jpg?v=1720641062",
+        "width": 3456,
+        "height": 3456,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/Africa4.jpg?v=1720641062",
+        "width": 3456,
+        "height": 3456,
+        "position": 5
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Airy Blue Yoga mat - Laboratory Limited Edition - 3.5mm",
     "slug": "houseofmats-airy-blue",
-    "price": 151.71,
     "description": "Airy Blue is like a breath of fresh air, light and freeing. It’s the color of open skies and boundless horizons, inviting you to expand your mind and let your spirit soar. This mat is for those who seek clarity and peace, offering a space where you can let go of stress and embrace the lightness of being.\n-\n\"Mat laboratory\" , a collection created from experimentation with colors and textures that awaken the senses thanks to their originality and detail. Each model stands out for its unique and modern design, representing a disruptive way of distinguishing our brand.\nAt the Laboratory we are dedicated to the study of sensations through constant innovation in materials and colors, with a meticulous focus on quality and sustainability. Our mats are produced in a thickness of 3.5mm, achieving the perfect weight so you can easily transport them wherever you want.\nWhat distinguishes it?\nUnique and original design: Each mat features a carefully selected combination of colors and textures.\nConstant innovation: Materials and colors developed through detailed studies.\nQuality and sustainability: Committed to high quality and environmentally friendly products.\nPortability: 3.5mm thickness for adequate weight and easy transportation.\nOur differential?\nModern and disruptive style, Ideal for those looking to stand out.\nEnhanced sensations, designed to enhance your senses.\nEasy to carry, perfect for moving anywhere effortlessly.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1464.jpg?v=1722566377",
-    "priceRange": {
-      "min": 151.71,
-      "max": 151.71
-    },
     "thickness": 3.5,
     "features": [],
     "shopifyId": 8885758329166,
@@ -45,20 +80,55 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 151.71,
+    "maxPrice": 151.71,
+    "priceCurrency": "USD",
+    "minGrams": 2600,
+    "maxGrams": 2600,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1464.jpg?v=1722566377",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1459.jpg?v=1722566383",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/AiryBlue.png?v=1722568407",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/AiryBlue2.png?v=1722568407",
+        "width": 4500,
+        "height": 3600,
+        "position": 4
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Clay Yoga mat - Laboratory Limited Edition - 3.5mm",
     "slug": "houseofmats-clay",
-    "price": 151.71,
     "description": "Clay is the color of the sand, raw and elemental. It’s a reminder of our connection to the natural world and the grounding force it provides. This mat is for those who value authenticity and simplicity, offering a space where you can return to your roots and find balance amidst the chaos of life.\n-\n\"Laboratorio de Mats\" , a collection created from experimentation with colors and textures that awaken the senses thanks to their originality and detail. Each model stands out for its unique and modern design, representing a disruptive way of distinguishing our brand.\nIn it Mats Laboratory , we are dedicated to the study of sensations through constant innovation in materials and colors, with a meticulous focus on quality and sustainability. Our mats are produced in a thickness of 3.5mm, achieving the perfect weight so you can easily transport them wherever you want.\nWhat distinguishes it?\nUnique and original design: Each mat features a carefully selected combination of colors and textures.\nConstant innovation: Materials and colors developed through detailed studies.\nQuality and sustainability: Committed to high quality and environmentally friendly products.\nPortability: 3.5mm thickness for adequate weight and easy transportation.\nOur differential?\nModern and disruptive style, Ideal for those looking to stand out.\nEnhanced sensations, designed to enhance your senses.\nEasy to carry, perfect for moving anywhere effortlessly.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1090.jpg?v=1722570330",
-    "priceRange": {
-      "min": 151.71,
-      "max": 151.71
-    },
     "thickness": 3.5,
     "features": [],
     "shopifyId": 8885759115598,
@@ -69,20 +139,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 151.71,
+    "maxPrice": 151.71,
+    "priceCurrency": "USD",
+    "minGrams": 2600,
+    "maxGrams": 2600,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1090.jpg?v=1722570330",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1077.jpg?v=1722570346",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/Clay.png?v=1722570350",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Daylight moth Yoga mat by Ula Basinska - Art Collection - 4mm",
     "slug": "houseofmats-daylight-moth-by-ula-basinska-11",
-    "price": 155.29,
     "description": "CONOCE AL ARTISTA\nUla Basinska. Pintora desde que tiene memoria. Nacida en Polonia, viviendo en la Patagonia Argentina, ella vibra el sentimiento de ser parte de la naturaleza y la majestuosa calma del sur y sus lagos.\nSus pinturas reflejan los milagros de la tierra que la rodea. Ella trabaja con acuarelas porque la encuentra viva, impredecible y al mismo tiempo ligera y sutil.\nPara este diseño, Ula combinó su arte manual con la edición digital creando negativos que parecen versiones nocturnas de imágenes pintadas durante el día.\nSentirás las luces y las sombras durante tu práctica. Dualismo y unión.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0714.jpg?v=1720641209",
-    "priceRange": {
-      "min": 155.29,
-      "max": 155.29
-    },
     "thickness": 4,
     "features": [],
     "shopifyId": 7545952862359,
@@ -93,20 +192,61 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 155.29,
+    "maxPrice": 155.29,
+    "priceCurrency": "USD",
+    "minGrams": 3300,
+    "maxGrams": 3300,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats0714.jpg?v=1720641209",
+        "width": 3538,
+        "height": 5308,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1176.jpg?v=1726071639",
+        "width": 3482,
+        "height": 5223,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1137.jpg?v=1726071631",
+        "width": 3546,
+        "height": 5319,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1122.jpg?v=1720641137",
+        "width": 3546,
+        "height": 5319,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/1200Wx1200H-HOM4SPO00004PHU001-picture.png?v=1726071671",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Forest Green Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-forest-green",
-    "price": 163.66,
     "description": "Forest Green is a journey into the heart of nature. This mat brings to mind the serenity of ancient woodlands, where the air is thick with the scent of pine and the ground is soft underfoot. It connects you to the earth, grounding your practice in the vibrant energy of life. With each movement, you feel the strength and renewal that comes from nature’s embrace.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1200.jpg?v=1722589472",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -120,20 +260,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1200.jpg?v=1722589472",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1177.jpg?v=1722589509",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/ForestGreen.png?v=1722589512",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Golden House Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-golden-hour",
-    "price": 163.66,
     "description": "Golden House captures the magical moment when the sun kisses the horizon, bathing the world in a warm, golden glow. This mat radiates positivity and joy, infusing your practice with a sense of hope and endless possibilities. It’s a reminder to cherish the beauty of the present moment, to let go of worries, and to bask in the light that surrounds you.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0963.jpg?v=1722589795",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -147,20 +316,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0963.jpg?v=1722589795",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0966.jpg?v=1722589812",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/GoldenHour.png?v=1722589816",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Granito Milk Yoga mat - Travel Collection - Foldable - 2mm",
     "slug": "houseofmats-oat-signature",
-    "price": 143.35,
     "description": "Granito Milk is pure and simple, a clean slate upon which you can write your own story. It’s the color of new beginnings, offering a fresh perspective and a space free of distractions. This mat is for those who value clarity and simplicity, providing a serene foundation for your practice wherever you go.\n-\n\"Travel\" collection, designed especially for those who take their yoga practice everywhere. Lightweight, foldable mats in neutral colors that are perfect to accompany you on your trips, from weekend getaways to adventures around the world.\nWhat distinguishes us?\nLightweight and Foldable: Easy to transport and store, ideal for traveling.\nNeutral Colors: Elegant and versatile, they combine with any style.\nCompact Design: Folds efficiently for hassle-free transportation.\nOur differential?\nExtreme Portability: Take your mat to any destination with ease.\nPractical and Functional: Perfect for keeping your yoga routine moving.\nDiscreet Style: Neutral colors that adapt to any environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1436.jpg?v=1722592201",
-    "priceRange": {
-      "min": 143.35,
-      "max": 143.35
-    },
     "thickness": 2,
     "features": [
       "Lightweight"
@@ -173,20 +371,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 143.35,
+    "maxPrice": 143.35,
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1436.jpg?v=1722592201",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1428.jpg?v=1722592219",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/OatSignature2.png?v=1722592225",
+        "width": 4500,
+        "height": 3600,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Magnetic Purple Yoga mat - Travel Collection - Foldable - 2mm",
     "slug": "houseofmats-magnetic-purple",
-    "price": 127.82,
     "description": "Magnetic Purple is a color of mystery and allure, drawing you into its depths with an irresistible pull. It’s the color of intuition and spiritual insight, perfect for those who seek to deepen their practice and connect with the unseen. This mat is your guide into the unknown, where every practice is a journey of self-discovery.\n-\n\"Traveler\" collection , designed especially for those who take their yoga practice everywhere. Lightweight, foldable mats in neutral colors that are perfect to accompany you on your trips, from weekend getaways to adventures around the world.\n \nWhat distinguishes us?\nLightweight and Foldable: Easy to transport and store, ideal for traveling.\nNeutral Colors: Elegant and versatile, they combine with any style.\nCompact Design: Folds efficiently for hassle-free transportation.\n \nOur differential?\nExtreme Portability: Take your mat to any destination with ease.\nPractical and Functional: Perfect for keeping your yoga routine moving.\nDiscreet Style: Neutral colors that adapt to any environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821",
-    "priceRange": {
-      "min": 127.82,
-      "max": 127.82
-    },
     "thickness": 2,
     "features": [
       "Lightweight",
@@ -200,20 +427,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 127.82,
+    "maxPrice": 127.82,
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1693.jpg?v=1722591823",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/MagneticPurple.png?v=1722592123",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Misty Grey Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-misty-grey",
-    "price": 163.66,
     "description": "Misty Grey evokes the tranquility of a foggy morning, where the world is hushed and every breath feels fresh and new. This mat whispers calmness, providing a sanctuary where you can clear your mind and focus on the gentle rhythm of your practice. It is a reminder that in the simplicity of grey, there is a quiet power that soothes the soul.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\n \nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\n \nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0799.jpg?v=1722589145",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -227,20 +483,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0799.jpg?v=1722589145",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0838.jpg?v=1722589172",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/MistyGrey.png?v=1722589187",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Moonlight shadow - Art Collection - 4mm",
     "slug": "houseofmats-moonlight",
-    "price": 179.18,
     "description": "Art Collection: An exclusive fusion of creativity and functionality. In this unique series, artists, illustrators, and designers have contributed their original works to transform each yoga mat into a one-of-a-kind piece of art.\nEach design is a special collaboration reflecting the artist's vision and style, offering a limited series to ensure the originality and exclusivity of each piece. The collection celebrates diversity and talent, bringing the beauty of art to your daily practice.\n \nWhat makes us different?\nOriginal Works: Unique designs created by renowned artists and illustrators.\nLimited Editions: Each mat is an exclusive piece, available in limited quantities.\nFusion of Art and Functionality: Aesthetically inspiring designs that do not compromise on quality and comfort.\n \nOur Unique Selling Points?\nPersonal Expression: Add an artistic and personal touch to your practice space.\nGuaranteed Exclusivity: Enjoy a unique piece that few will own.\nDaily Inspiration: Let creativity and art enrich your yoga routine.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1788.jpg?v=1726075566",
-    "priceRange": {
-      "min": 179.18,
-      "max": 179.18
-    },
     "thickness": 4,
     "features": [],
     "shopifyId": 7545985466519,
@@ -251,19 +536,55 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 179.18,
+    "maxPrice": 179.18,
+    "priceCurrency": "USD",
+    "minGrams": 3000,
+    "maxGrams": 3000,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1788.jpg?v=1726075566",
+        "width": 3648,
+        "height": 5472,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/houseofmats-yoga-mat-moon.jpg?v=1726075527",
+        "width": 3546,
+        "height": 5319,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/products/HouseofMats1902.jpg?v=1680220627",
+        "width": 4472,
+        "height": 4472,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1690.jpg?v=1720640995",
+        "width": 3546,
+        "height": 5319,
+        "position": 4
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Nautica Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-nautica-yoga-mat-studio-collection-4-5mm",
-    "price": 163.66,
     "description": "The Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin. This collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today. \nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact. With a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support. \n- What distinguishes it? \nMaterials of Japanese origin: High quality and durability. \nEthical manufacturing: Committed to sustainable and responsible practices. \nAdvanced grip technology: Delivers the best performance on the market. \n\"Silk touch\" technology: Soft in contact with the skin. \n \n- Our differential? \nSuperior joint protection: 4.5mm thickness reduces pressure on joints. \nComfort and softness: Ideal for a comfortable practice experience. \nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use. \nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -277,20 +598,29 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Nightlight tribe by Ula Basinska - Art Collection - 4mm",
     "slug": "houseofmats-midnight-tribe-by-ula-basinska",
-    "price": 179.18,
     "description": "CONOCE A LA ARTISTA\nUla Basinska. Pintora desde que tiene memoria. Nacida en Polonia, viviendo en la Patagonia Argentina, ella vibra el sentimiento de ser parte de la naturaleza y la majestuosa calma del sur y sus lagos.\nSus pinturas reflejan los milagros de la tierra que la rodea. Ella trabaja con acuarelas porque la encuentra viva, impredecible y al mismo tiempo ligera y sutil.\nPara este diseño, Ula combinó su arte manual con la edición digital creando negativos que parecen versiones nocturnas de imágenes pintadas durante el día.\nSentirás las luces y las sombras durante tu práctica. Dualismo y unión.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1008.jpg?v=1726224576",
-    "priceRange": {
-      "min": 179.18,
-      "max": 179.18
-    },
     "thickness": 4,
     "features": [],
     "shopifyId": 7545809436823,
@@ -301,20 +631,61 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 179.18,
+    "maxPrice": 179.18,
+    "priceCurrency": "USD",
+    "minGrams": 4000,
+    "maxGrams": 4000,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1008.jpg?v=1726224576",
+        "width": 3538,
+        "height": 5308,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1006.jpg?v=1726224575",
+        "width": 3538,
+        "height": 5308,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats1635.jpg?v=1720641427",
+        "width": 3546,
+        "height": 5319,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats0802.jpg?v=1726224560",
+        "width": 3539,
+        "height": 5309,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/House_of_Mats1648.jpg?v=1726224608",
+        "width": 3546,
+        "height": 5319,
+        "position": 5
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Peony blossom Yoga mat - Art Collection - 4mm",
     "slug": "houseofmats-peony-bloom",
-    "price": 155.29,
     "description": "Art Collection: An exclusive fusion of creativity and functionality. In this unique series, artists, illustrators, and designers have contributed their original works to transform each yoga mat into a one-of-a-kind piece of art.\nEach design is a special collaboration reflecting the artist's vision and style, offering a limited series to ensure the originality and exclusivity of each piece. The collection celebrates diversity and talent, bringing the beauty of art to your daily practice.\n \nWhat makes us different?\nOriginal Works: Unique designs created by renowned artists and illustrators.\nLimited Editions: Each mat is an exclusive piece, available in limited quantities.\nFusion of Art and Functionality: Aesthetically inspiring designs that do not compromise on quality and comfort.\n \nOur Unique Selling Points?\nPersonal Expression: Add an artistic and personal touch to your practice space.\nGuaranteed Exclusivity: Enjoy a unique piece that few will own.\nDaily Inspiration: Let creativity and art enrich your yoga routine.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/products/HouseofMats1087.jpg?v=1722593444",
-    "priceRange": {
-      "min": 155.29,
-      "max": 155.29
-    },
     "thickness": 4,
     "features": [],
     "shopifyId": 7545961578647,
@@ -325,20 +696,55 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 155.29,
+    "maxPrice": 155.29,
+    "priceCurrency": "USD",
+    "minGrams": 3300,
+    "maxGrams": 3300,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/products/HouseofMats1087.jpg?v=1722593444",
+        "width": 4472,
+        "height": 4472,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats1039.jpg?v=1720641342",
+        "width": 3538,
+        "height": 5308,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HouseofMats1042.jpg?v=1720641343",
+        "width": 3538,
+        "height": 5308,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/1200Wx1200H-HOM4SPO00002PHU001-picture.png?v=1722593440",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Purple Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-purple-yoga-mat-classic-collection-4-5mm",
-    "price": 163.66,
     "description": "The Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin. This collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today. \nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact. With a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support. \n- What distinguishes it? \nMaterials of Japanese origin: High quality and durability. \nEthical manufacturing: Committed to sustainable and responsible practices. \nAdvanced grip technology: Delivers the best performance on the market. \n\"Silk touch\" technology: Soft in contact with the skin. \n \n- Our differential? \nSuperior joint protection: 4.5mm thickness reduces pressure on joints. \nComfort and softness: Ideal for a comfortable practice experience. \nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use. \nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -353,20 +759,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1685.jpg?v=1722591821",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1693.jpg?v=1722591823",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/MagneticPurple.png?v=1722592123",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Rooted Brown Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-rooted-brown",
-    "price": 163.66,
     "description": "Rooted Brown is the color of the earth beneath your feet, solid and unwavering. This mat brings a sense of stability and connection, reminding you of your roots and the foundation upon which you stand. It’s a mat that nurtures and supports, offering a warm embrace that encourages you to grow and evolve in your practice, just as trees stretch towards the sky.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\n \nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\n \nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0937.jpg?v=1722590438",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -380,20 +815,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0937.jpg?v=1722590438",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0946.jpg?v=1722590456",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/RootedBrown.png?v=1722590483",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Royal Plum Signature Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-royal-plum-signature-yoga-mat-classic-collection-4-5mm",
-    "price": 179.18,
     "description": "Royal Plum is a mat of elegance and mystery, drawing inspiration from the regal tones of royalty and the deep hues of twilight. It symbolizes wisdom, introspection, and spiritual growth. Practicing on this mat invites you to explore the depths of your consciousness, to embrace the richness of your inner world, and to move with grace and intention.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\n \nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\n \nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1526.jpg?v=1725385683",
-    "priceRange": {
-      "min": 179.18,
-      "max": 179.18
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -407,20 +871,43 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 179.18,
+    "maxPrice": 179.18,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1526.jpg?v=1725385683",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/WhatsApp_Image_2024-05-20_at_17.11.26.jpg?v=1716221604",
+        "width": 1200,
+        "height": 1600,
+        "position": 2
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Royal Plum Yoga mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-royal-plum",
-    "price": 163.66,
     "description": "The Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin. This collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today. \nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact. With a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support. \n- What distinguishes it? \nMaterials of Japanese origin: High quality and durability. \nEthical manufacturing: Committed to sustainable and responsible practices. \nAdvanced grip technology: Delivers the best performance on the market. \n\"Silk touch\" technology: Soft in contact with the skin. \n \n- Our differential? \nSuperior joint protection: 4.5mm thickness reduces pressure on joints. \nComfort and softness: Ideal for a comfortable practice experience. \nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use. \nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1544.jpg?v=1722591050",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -434,20 +921,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1544.jpg?v=1722591050",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1531.jpg?v=1722591063",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/ROYALPLUM.png?v=1722591121",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Sage Green Yoga mat - Laboratory Limited Edition - 3.5mm",
     "slug": "houseofmats-sage-green",
-    "price": 151.71,
     "description": "Sage Green is a color of healing and wisdom, evoking the soothing properties of nature’s herbs. This mat is for those who seek calm and rejuvenation in their practice, offering a tranquil space where you can restore your body and mind. It’s a reminder that in every breath, there is potential for renewal and growth.\n-\n\"Mat Laboratory\", a collection created from experimentation with colors and textures that awaken the senses thanks to their originality and detail. Each model stands out for its unique and modern design, representing a disruptive way of distinguishing our brand.\nIn our Laboratory, we are dedicated to the study of sensations through constant innovation in materials and colors, with a meticulous focus on quality and sustainability. Our mats are produced in a thickness of 3.5mm, achieving the perfect weight so you can easily transport them wherever you want.\n \nWhat distinguishes it?\nUnique and original design: Each mat features a carefully selected combination of colors and textures.\nConstant innovation: Materials and colors developed through detailed studies.\nQuality and sustainability: Committed to high quality and environmentally friendly products.\nPortability: 3.5mm thickness for adequate weight and easy transportation.\n \nOur differential?\nModern and disruptive style, Ideal for those looking to stand out.\nEnhanced sensations, designed to enhance your senses.\nEasy to carry, perfect for moving anywhere effortlessly.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1274.jpg?v=1722587333",
-    "priceRange": {
-      "min": 151.71,
-      "max": 151.71
-    },
     "thickness": 3.5,
     "features": [],
     "shopifyId": 8885759574350,
@@ -458,20 +974,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 151.71,
+    "maxPrice": 151.71,
+    "priceCurrency": "USD",
+    "minGrams": 2600,
+    "maxGrams": 2600,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1274.jpg?v=1722587333",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1244.jpg?v=1722587350",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/SageGreen.png?v=1722587408",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "Suiyobi Yoga Mat - Laboratory Limited Edition - 3.5mm",
     "slug": "houseofmats-suiyobi",
-    "price": 151.71,
     "description": "Suiyobi, with its unique and intense color, embodies the spirit of creativity and artistic expression. It’s a mat for those who view their practice as a form of art, where every movement is a brushstroke on the canvas of life. This mat encourages you to explore, experiment, and express your true self with each pose.\n-\n\"Mat Laboratorya\" , a collection created from experimentation with colors and textures that awaken the senses thanks to their originality and detail. Each model stands out for its unique and modern design, representing a disruptive way of distinguishing our brand.\nIn our Laboratory, we are dedicated to the study of sensations through constant innovation in materials and colors, with a meticulous focus on quality and sustainability. Our mats are produced in a thickness of 3.5mm, achieving the perfect weight so you can easily transport them wherever you want.\n \nWhat distinguishes it?\nUnique and original design: Each mat features a carefully selected combination of colors and textures.\nConstant innovation: Materials and colors developed through detailed studies.\nQuality and sustainability: Committed to high quality and environmentally friendly products.\nPortability: 3.5mm thickness for adequate weight and easy transportation.\n \nOur differential?\nModern and disruptive style, Ideal for those looking to stand out.\nEnhanced sensations, designed to enhance your senses.\nEasy to carry, perfect for moving anywhere effortlessly.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1499.jpg?v=1722569307",
-    "priceRange": {
-      "min": 151.71,
-      "max": 151.71
-    },
     "thickness": 3.5,
     "features": [],
     "shopifyId": 8885757641038,
@@ -482,20 +1027,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 151.71,
+    "maxPrice": 151.71,
+    "priceCurrency": "USD",
+    "minGrams": 2600,
+    "maxGrams": 2600,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1499.jpg?v=1722569307",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1512.jpg?v=1722569313",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/Suiyobi.png?v=1722569563",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "The Black Mat - Colección de viaje. Plegable 2mm",
     "slug": "houseofmats-the-black-mat-1",
-    "price": 127.82,
     "description": "The Black Mat representa las profundidades misteriosas e infinitas del universo. Es el color de la noche, un tiempo de introspección y un lienzo para la imaginación. Una invitación a viajar hacia el interior, abrazando lo desconocido y encontrando fuerza en un mundo interior. Compañero silencioso, que te ancla con su profunda estabilidad y presencia inquebrantable.\n-\nColección \"Traveler\", diseñada especialmente para quienes llevan su práctica de yoga a todas partes. Mats livianos y plegables en colores neutros que son perfectos para acompañarte en tus viajes, desde escapadas de fin de semana hasta aventuras alrededor del mundo.\nQué nos distingue?\nLivianos y Plegables: Fácil de transportar y almacenar, ideal para viajar.\nColores Neutros: Elegantes y versátiles, combinan con cualquier estilo.\nDiseño Compacto: Se pliega de manera eficiente para un transporte sin complicaciones.\nNuestro diferencial?\nPortabilidad Extrema: Lleva tu mat a cualquier destino con facilidad.\nPráctico y Funcional: Perfecto para mantener tu rutina de yoga en movimiento.\nEstilo Discreto: Colores neutros que se adaptan a cualquier entorno.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1008.jpg?v=1722591587",
-    "priceRange": {
-      "min": 127.82,
-      "max": 127.82
-    },
     "thickness": 2,
     "features": [
       "Lightweight"
@@ -508,20 +1082,49 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 127.82,
+    "maxPrice": 127.82,
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1008.jpg?v=1722591587",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_0998.jpg?v=1722591603",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/TheBlackMat_9571a5ee-fc4b-4aa4-91ba-a77bfd9fb737.png?v=1722591606",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   },
   {
     "brandId": "",
     "brandSlug": "houseofmats",
     "name": "The Black Mat - Studio Collection - 4.5mm",
     "slug": "houseofmats-the-black-mat",
-    "price": 163.66,
     "description": "The Black Mat represents the mysterious and infinite depths of the universe. It is the color of night, a time of introspection, and a canvas for the imagination. This mat encourages you to journey inward, embracing the unknown and finding strength in your inner world. It's your silent companion, grounding you with its profound stability and unshakeable presence, no matter where your practice takes you.\n-\nThe Studio 4.5mm Collection is a permanent and timeless line developed with materials of Japanese origin and manufactured with standards and materials of ethical origin.\nThis collection stands out for its advanced \"Ultimate grip\" technology, offering the best grip and performance between postures that the market offers today.\nDesigned to protect your joints and provide safe practice, this collection uses our innovative \"silk touch\" technology for softer skin contact.\nWith a thickness of 4.5mm, our mats guarantee the perfect balance between comfort and support.\nWhat distinguishes it?\nMaterials of Japanese origin: High quality and durability.\nEthical manufacturing: Committed to sustainable and responsible practices.\nAdvanced grip technology: Delivers the best performance on the market.\n\"silk touch\" technology: Soft in contact with the skin.\nOur differential?\nSuperior joint protection: 4.5mm thickness reduces pressure on joints.\nComfort and softness: Ideal for a comfortable practice experience.\nVersatility of use: Perfect for studios, hotels, retreat centers and for daily use.\nTimeless Style: Brings a touch of elegance and sophistication to any practice environment.",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1648.jpg?v=1722588028",
-    "priceRange": {
-      "min": 163.66,
-      "max": 163.66
-    },
     "thickness": 4.5,
     "features": [
       "Eco-Friendly",
@@ -535,6 +1138,41 @@
     ],
     "shopifyUpdatedAt": "2026-01-06T15:54:14+01:00",
     "variantsCount": 1,
-    "hasMultipleColors": false
+    "minPrice": 163.66,
+    "maxPrice": 163.66,
+    "priceCurrency": "USD",
+    "minGrams": 3400,
+    "maxGrams": 3400,
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1648.jpg?v=1722588028",
+        "width": 2668,
+        "height": 4000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/HOMXPAAR_1647.jpg?v=1722588082",
+        "width": 2668,
+        "height": 4000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0417/9653/4423/files/TheBlackMat.png?v=1722588087",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ]
   }
 ]

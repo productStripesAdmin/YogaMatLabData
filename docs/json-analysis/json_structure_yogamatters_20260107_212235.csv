@@ -1,0 +1,55 @@
+path,type,length,example
+id,int,,4515213901891
+title,str,,Yogamatters Sticky Yoga Mat
+handle,str,,yogamatters-sticky-yoga-mat
+body_html,str,,"<p>Our best-selling yoga mat, the Sticky Mat has been a collection favourite for over a decade an..."
+published_at,str,,2024-06-07T11:39:03+01:00
+created_at,str,,2020-07-13T23:25:00+01:00
+updated_at,str,,2026-01-06T14:54:42+00:00
+vendor,str,,MATTER02
+product_type,str,,Mat
+tags,list,49,[49 items]
+tags/[0],str,,boost-colour_name-blue
+variants,list,18,[18 items]
+variants/[0]/id,int,,53678526235009
+variants/[0]/title,str,,Teal
+variants/[0]/option1,str,,Teal
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,MASTIC-TE
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,74132230340993
+variants/[0]/featured_image/product_id,int,,4515213901891
+variants/[0]/featured_image/position,int,,48
+variants/[0]/featured_image/created_at,str,,2025-03-26T11:57:10+00:00
+variants/[0]/featured_image/updated_at,str,,2025-10-29T14:11:02+00:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,1536
+variants/[0]/featured_image/height,int,,2048
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-3-web.jpg?v=1761747062
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,53678526235009
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,46.00
+variants/[0]/grams,int,,1400
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,4515213901891
+variants/[0]/created_at,str,,2024-11-15T16:13:37+00:00
+variants/[0]/updated_at,str,,2026-01-06T14:54:42+00:00
+images,list,66,[66 items]
+images/[0]/id,int,,78782903386497
+images/[0]/created_at,str,,2025-10-22T10:15:50+01:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-10-22T10:18:13+01:00
+images/[0]/product_id,int,,4515213901891
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mats-group-2025.jp...
+images/[0]/width,int,,3410
+images/[0]/height,int,,4547
+options,list,1,[1 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,18,[18 items]
+options/[0]/values/[0],str,,Teal

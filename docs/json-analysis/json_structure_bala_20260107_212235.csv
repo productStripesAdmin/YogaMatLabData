@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,8074604085383
+title,str,,The Compact Mat
+handle,str,,the-compact-mat
+body_html,str,,"<p class=""p1"">At 12MM thick, The Compact Mat is designed for comfort and convenience. This capsul..."
+published_at,str,,2025-07-29T09:06:31-07:00
+created_at,str,,2025-04-22T09:54:38-07:00
+updated_at,str,,2026-01-06T06:54:09-08:00
+vendor,str,,Bala
+product_type,str,,
+tags,list,4,[4 items]
+tags/[0],str,,exclude_rebuy
+variants,list,6,[6 items]
+variants/[0]/id,int,,42585542983815
+variants/[0]/title,str,,Blush
+variants/[0]/option1,str,,Blush
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,FM-NA-BLSH
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,34436966121607
+variants/[0]/featured_image/product_id,int,,8074604085383
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2025-04-22T09:53:18-07:00
+variants/[0]/featured_image/updated_at,str,,2025-04-22T09:53:20-07:00
+variants/[0]/featured_image/alt,str,,Blush
+variants/[0]/featured_image/width,int,,1200
+variants/[0]/featured_image/height,int,,1500
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Blush.jpg?v=1745340800
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,42585542983815
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,89.00
+variants/[0]/grams,int,,2676
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,8074604085383
+variants/[0]/created_at,str,,2025-04-22T09:59:14-07:00
+variants/[0]/updated_at,str,,2026-01-06T06:54:09-08:00
+images,list,38,[38 items]
+images/[0]/id,int,,34436966121607
+images/[0]/created_at,str,,2025-04-22T09:53:18-07:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-04-22T09:53:20-07:00
+images/[0]/product_id,int,,8074604085383
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,42585542983815
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Blush.jpg?v=1745340800
+images/[0]/width,int,,1200
+images/[0]/height,int,,1500
+options,list,1,[1 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,6,[6 items]
+options/[0]/values/[0],str,,Blush

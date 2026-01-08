@@ -36,8 +36,8 @@ export interface ShopifyProduct {
   product_type: string;
   tags: string[];
   variants: ShopifyVariant[];
-  images?: ShopifyImage[];
-  image?: ShopifyImage;
+  images: ShopifyImage[]; // removed "image?: ShopifyImage;" on 20260108
+  options: ShopifyOptions[];
 }
 
 export interface ShopifyVariant {
@@ -52,15 +52,33 @@ export interface ShopifyVariant {
   grams: number;
   available: boolean;
   featured_image?: ShopifyImage;
+  required_shipping: boolean; // added 20260108
+  taxable: boolean; // added 20260108
+  position: number; // added 20260108
+  product_id: number; // added 20260108
+  created_at: string; // added 20260108
+  updated_at: string; // added 20260108
 }
+
 
 export interface ShopifyImage {
   id: number;
   product_id: number;
   src: string;
+  alt: string | null;
   width: number;
   height: number;
-  alt: string | null;
+  position: number; // added 20260108
+  variant_ids?: number[]; // added 20260108
+  created_at: string; // added 20260108
+  updated_at: string; // added 20260108
+}
+
+// new added 20260108
+export interface ShopifyOptions {
+  name: string;
+  position: number;
+  values: string[];
 }
 
 export interface ShopifyProductsResponse {
@@ -126,6 +144,13 @@ export async function fetchProductsPage(
       headers: {
         'User-Agent': userAgent || getRandomUserAgent(),
         'Accept': 'application/json',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Sec-Fetch-Dest': 'empty',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Site': 'same-origin',
       },
       signal: controller.signal,
     });
@@ -219,53 +244,4 @@ export async function fetchAllProducts(
       totalPages: currentPage - 1,
     };
   }
-}
-
-/**
- * Extracts the main image URL from a product
- */
-export function getProductImageUrl(product: ShopifyProduct): string | null {
-  // Try product-level image first
-  if (product.image?.src) {
-    return product.image.src;
-  }
-
-  // Try images array
-  if (product.images && product.images.length > 0) {
-    return product.images[0].src;
-  }
-
-  // Try first variant's featured image
-  if (product.variants && product.variants.length > 0) {
-    const firstVariant = product.variants[0];
-    if (firstVariant.featured_image?.src) {
-      return firstVariant.featured_image.src;
-    }
-  }
-
-  return null;
-}
-
-/**
- * Gets the price range for a product (min and max across all variants)
- */
-export function getPriceRange(product: ShopifyProduct): {
-  min: number;
-  max: number;
-  currency: string;
-} {
-  const prices = product.variants.map((v) => parseFloat(v.price));
-
-  return {
-    min: Math.min(...prices),
-    max: Math.max(...prices),
-    currency: 'USD', // Shopify products.json doesn't include currency, assume USD
-  };
-}
-
-/**
- * Checks if any variant is available
- */
-export function isProductAvailable(product: ShopifyProduct): boolean {
-  return product.variants.some((v) => v.available);
 }

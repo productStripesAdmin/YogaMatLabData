@@ -1,0 +1,55 @@
+path,type,length,example
+id,int,,7703088726200
+title,str,,[Large Space] Super Wide and Thick Exercise Mat
+handle,str,,12566
+body_html,str,,"<p><img alt="""" src=""https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_74f86396-60d1-4aba-9..."
+published_at,str,,2024-07-30T00:33:19-07:00
+created_at,str,,2024-05-20T23:30:58-07:00
+updated_at,str,,2026-01-06T06:54:18-08:00
+vendor,str,,Keep
+product_type,str,,Yoga Equipment
+tags,list,1,[1 items]
+tags/[0],str,,Yoga Mat
+variants,list,8,[8 items]
+variants/[0]/id,int,,48285263495352
+variants/[0]/title,str,,7mm/0.3in / Smoky Gray Pink
+variants/[0]/option1,str,,7mm/0.3in
+variants/[0]/option2,str,,Smoky Gray Pink
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,45066436149432
+variants/[0]/featured_image/product_id,int,,7703088726200
+variants/[0]/featured_image/position,int,,2
+variants/[0]/featured_image/created_at,str,,2024-05-21T01:58:52-07:00
+variants/[0]/featured_image/updated_at,str,,2024-05-21T01:58:53-07:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,800
+variants/[0]/featured_image/height,int,,800
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d...
+variants/[0]/featured_image/variant_ids,list,3,[3 items]
+variants/[0]/featured_image/variant_ids/[0],int,,48285263495352
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,89.99
+variants/[0]/grams,int,,4536
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,7703088726200
+variants/[0]/created_at,str,,2024-06-21T00:48:45-07:00
+variants/[0]/updated_at,str,,2026-01-06T06:54:18-08:00
+images,list,4,[4 items]
+images/[0]/id,int,,47035226882232
+images/[0]/created_at,str,,2024-09-18T22:47:23-07:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2024-09-18T22:47:25-07:00
+images/[0]/product_id,int,,7703088726200
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_53f61d52-3760-4951-8fd7-88dbf618c96d.jpg...
+images/[0]/width,int,,1200
+images/[0]/height,int,,1200
+options,list,2,[2 items]
+options/[0]/name,str,,Thick
+options/[0]/position,int,,1
+options/[0]/values,list,3,[3 items]
+options/[0]/values/[0],str,,7mm/0.3in

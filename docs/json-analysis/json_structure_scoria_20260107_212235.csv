@@ -1,0 +1,47 @@
+path,type,length,example
+id,int,,1521966415915
+title,str,,Mountain Lion Cork Yoga Mat | 3.5MM OR 4.5MM
+handle,str,,mountain-lion-cork-mat-3-5mm
+body_html,str,,"<div style=""text-align: center;"">
+<h5 style=""text-align: left;"">RETH-INK COLLECTION</h5>
+<p style..."
+published_at,str,,2018-09-29T11:53:59-04:00
+created_at,str,,2018-09-29T11:50:23-04:00
+updated_at,str,,2026-01-06T09:54:26-05:00
+vendor,str,,Scoria
+product_type,str,,Yoga Mat
+tags,list,10,[10 items]
+tags/[0],str,,3.5mm
+variants,list,2,[2 items]
+variants/[0]/id,int,,16393075458091
+variants/[0]/title,str,,Thicknes: 3.5MM (Commute)
+variants/[0]/option1,str,,Thicknes: 3.5MM (Commute)
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,CM-INK18-ML3M
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,97.00
+variants/[0]/grams,int,,3600
+variants/[0]/compare_at_price,str,,97.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,1521966415915
+variants/[0]/created_at,str,,2019-06-13T12:07:51-04:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:26-05:00
+images,list,10,[10 items]
+images/[0]/id,int,,30138035732523
+images/[0]/created_at,str,,2022-10-13T13:49:06-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2022-10-13T14:02:41-04:00
+images/[0]/product_id,int,,1521966415915
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/1371/3197/products/MountainLion-web21.jpg?v=1665684161
+images/[0]/width,int,,900
+images/[0]/height,int,,900
+options,list,1,[1 items]
+options/[0]/name,str,,Size
+options/[0]/position,int,,1
+options/[0]/values,list,2,[2 items]
+options/[0]/values/[0],str,,Thicknes: 3.5MM (Commute)

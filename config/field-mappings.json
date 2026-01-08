@@ -1,5 +1,5 @@
 {
-  "comment": "Maps Shopify products.json format to YogaMat schema",
+  "comment": "Maps Shopify products.json format to YogaMat schema. All measurements stored in metric units (mm, cm, kg).",
   "requiredFields": {
     "brandId": {
       "description": "Convex brand ID - resolved by looking up brand slug",
@@ -15,11 +15,11 @@
       "type": "string",
       "description": "URL-safe slug from Shopify handle"
     },
-    "price": {
-      "source": "variants[0].price",
+    "minPrice": {
+      "source": "variants[].price",
       "type": "number",
-      "description": "Base price from first variant",
-      "transform": "parseFloat"
+      "description": "Minimum price across all variants",
+      "transform": "Math.min"
     }
   },
   "optionalFields": {
@@ -28,20 +28,6 @@
       "type": "string",
       "description": "HTML description from Shopify",
       "transform": "stripHtml"
-    },
-    "imageUrl": {
-      "source": "image.src || images[0].src || variants[0].featured_image.src",
-      "type": "string",
-      "description": "Main product image URL"
-    },
-    "priceRange": {
-      "computed": true,
-      "description": "Min and max price across all variants"
-    },
-    "variants": {
-      "source": "variants",
-      "type": "array",
-      "description": "Product variants (colors, sizes, etc.)"
     },
     "shopifyId": {
       "source": "id",
@@ -53,10 +39,67 @@
       "type": "string",
       "description": "Original Shopify handle"
     },
-    "tags": {
+    "shopifyTags": {
       "source": "tags",
       "type": "array",
       "description": "Shopify tags for features/materials extraction"
+    },
+    "shopifyOptions": {
+      "source": "options",
+      "type": "array",
+      "description": "Product options (color, size, thickness, etc.) - PRIORITY source for dimensions and colors"
+    },
+    "images": {
+      "source": "images",
+      "type": "array",
+      "description": "Product images array with src, alt, width, height, position"
+    },
+    "minPrice": {
+      "computed": true,
+      "description": "Minimum price across all variants (USD)"
+    },
+    "maxPrice": {
+      "computed": true,
+      "description": "Maximum price across all variants (USD)"
+    },
+    "minGrams": {
+      "computed": true,
+      "description": "Minimum weight in grams from variants"
+    },
+    "maxGrams": {
+      "computed": true,
+      "description": "Maximum weight in grams from variants"
+    },
+    "isAvailable": {
+      "computed": true,
+      "description": "True if any variant is available for purchase"
+    }
+  },
+  "extractionPriority": {
+    "description": "Extraction follows this priority order: options FIRST, then description/tags as fallback",
+    "order": ["options", "description", "tags"]
+  },
+  "extractFromOptions": {
+    "thickness": {
+      "optionNames": ["size", "thickness"],
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*mm",
+        "^(\\d+(?:\\.\\d+)?)$"
+      ],
+      "unit": "mm",
+      "description": "Extract from options like 'Size: 5 MM' or 'Thickness: 8 MM'"
+    },
+    "dimensions": {
+      "optionNames": ["size", "dimensions", "dimension"],
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?\\s*[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?"
+      ],
+      "units": "cm",
+      "description": "Extract from options like 'Size: 72\" x 26\"' or 'Size: 80\" x 26\"'"
+    },
+    "colors": {
+      "optionNames": ["color", "colour", "color/pattern"],
+      "description": "Extract color options directly from values"
     }
   },
   "extractFromDescription": {
@@ -68,7 +111,7 @@
         "(\\d+/\\d+)\\s*inch"
       ],
       "unit": "mm",
-      "description": "Extract thickness with unit conversion"
+      "description": "Fallback: Extract thickness from description with unit conversion"
     },
     "length": {
       "patterns": [
@@ -76,8 +119,8 @@
         "(\\d+(?:\\.\\d+)?)\\s*cm\\s*(?:long|length|L)",
         "(\\d+)\"\\s*[xX×]"
       ],
-      "unit": "inches",
-      "description": "Extract length"
+      "unit": "cm",
+      "description": "Fallback: Extract length (converted to cm)"
     },
     "width": {
       "patterns": [
@@ -85,16 +128,17 @@
         "[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*cm",
         "[xX×]\\s*(\\d+)\""
       ],
-      "unit": "inches",
-      "description": "Extract width"
+      "unit": "cm",
+      "description": "Fallback: Extract width (converted to cm)"
     },
     "weight": {
       "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*kg",
         "(\\d+(?:\\.\\d+)?)\\s*(?:lbs?|pounds?)",
-        "(\\d+(?:\\.\\d+)?)\\s*kg"
+        "(\\d+)\\s*grams"
       ],
-      "unit": "lbs",
-      "description": "Extract weight"
+      "unit": "kg",
+      "description": "Fallback: Extract weight from description (converted to kg)"
     },
     "material": {
       "keywords": [
@@ -129,8 +173,8 @@
   },
   "defaults": {
     "thickness": 5,
-    "length": 68,
-    "width": 24,
+    "length": 172.72,
+    "width": 60.96,
     "gripDry": 5,
     "gripWet": 5,
     "cushioning": 5,
@@ -145,20 +189,20 @@
       "inch_to_mm": 25.4
     },
     "length": {
-      "inch_to_inch": 1,
-      "cm_to_inch": 0.393701,
-      "mm_to_inch": 0.0393701
+      "cm_to_cm": 1,
+      "inch_to_cm": 2.54,
+      "mm_to_cm": 0.1
     },
     "width": {
-      "inch_to_inch": 1,
-      "cm_to_inch": 0.393701,
-      "mm_to_inch": 0.0393701
+      "cm_to_cm": 1,
+      "inch_to_cm": 2.54,
+      "mm_to_cm": 0.1
     },
     "weight": {
-      "lbs_to_lbs": 1,
-      "kg_to_lbs": 2.20462,
-      "oz_to_lbs": 0.0625,
-      "g_to_lbs": 0.00220462
+      "kg_to_kg": 1,
+      "lbs_to_kg": 0.453592,
+      "oz_to_kg": 0.0283495,
+      "g_to_kg": 0.001
     }
   }
 }

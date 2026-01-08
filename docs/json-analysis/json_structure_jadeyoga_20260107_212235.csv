@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,426167656
+title,str,,Jade Harmony Yoga Mat - JadeYoga
+handle,str,,harmony-mat
+body_html,str,,"<div class=""accordion"" id=""section1"">
+<div style=""text-align: start;""><img src=""https://cdn.shopi..."
+published_at,str,,2015-02-16T15:16:00-05:00
+created_at,str,,2015-02-16T15:17:57-05:00
+updated_at,str,,2026-01-06T09:54:16-05:00
+vendor,str,,JadeYoga
+product_type,str,,Harmony
+tags,list,2,[2 items]
+tags/[0],str,,2655 Box
+variants,list,20,[20 items]
+variants/[0]/id,int,,1197671536
+variants/[0]/title,str,,"68"" Length / Purple"
+variants/[0]/option1,str,,"68"" Length"
+variants/[0]/option2,str,,Purple
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,368P
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,32050468618391
+variants/[0]/featured_image/product_id,int,,426167656
+variants/[0]/featured_image/position,int,,3
+variants/[0]/featured_image/created_at,str,,2021-09-02T20:33:23-04:00
+variants/[0]/featured_image/updated_at,str,,2021-09-13T18:50:21-04:00
+variants/[0]/featured_image/alt,str,,jade harmony yoga mat3
+variants/[0]/featured_image/width,int,,1200
+variants/[0]/featured_image/height,int,,1200
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Purple.jpg?v=1631573421
+variants/[0]/featured_image/variant_ids,list,2,[2 items]
+variants/[0]/featured_image/variant_ids/[0],int,,1197671536
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,99.95
+variants/[0]/grams,int,,2177
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,426167656
+variants/[0]/created_at,str,,2015-03-01T07:02:18-05:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:16-05:00
+images,list,18,[18 items]
+images/[0]/id,int,,32053187772567
+images/[0]/created_at,str,,2021-09-03T02:18:46-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2021-09-13T18:50:21-04:00
+images/[0]/product_id,int,,426167656
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Cover.jpg?v=1631573421
+images/[0]/width,int,,2400
+images/[0]/height,int,,2400
+options,list,2,[2 items]
+options/[0]/name,str,,Size
+options/[0]/position,int,,1
+options/[0]/values,list,2,[2 items]
+options/[0]/values/[0],str,,"68"" Length"

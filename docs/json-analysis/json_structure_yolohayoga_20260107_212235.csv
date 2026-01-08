@@ -1,0 +1,45 @@
+path,type,length,example
+id,int,,7114270834876
+title,str,,Aura Cork Yoga Mat
+handle,str,,aura-cork-yoga-mat-plant-foam
+body_html,str,,"<p>The Aura was created with comfort and sustainability in mind. Made from renewable materials, o..."
+published_at,str,,2021-09-08T13:24:19-04:00
+created_at,str,,2021-09-08T13:24:19-04:00
+updated_at,str,,2026-01-06T09:54:47-05:00
+vendor,str,,Yoloha Yoga
+product_type,str,,Yoga & Pilates Mats
+tags,list,6,[6 items]
+tags/[0],str,,Aura
+variants,list,2,[2 items]
+variants/[0]/id,int,,40884571668668
+variants/[0]/title,str,,"72"" x 26"""
+variants/[0]/option1,str,,"72"" x 26"""
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,MAT-AUR-72
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,99.00
+variants/[0]/grams,int,,1451
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,7114270834876
+variants/[0]/created_at,str,,2021-09-21T11:51:39-04:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:47-05:00
+images,list,3,[3 items]
+images/[0]/id,int,,39445904916692
+images/[0]/created_at,str,,2023-09-28T10:30:08-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2023-09-28T10:30:13-04:00
+images/[0]/product_id,int,,7114270834876
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Aura-Cork-Yoga-Mat.jpg?v=1695911413
+images/[0]/width,int,,2048
+images/[0]/height,int,,2048
+options,list,1,[1 items]
+options/[0]/name,str,,Size
+options/[0]/position,int,,1
+options/[0]/values,list,2,[2 items]
+options/[0]/values/[0],str,,"72"" x 26"""

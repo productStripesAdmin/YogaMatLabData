@@ -66,15 +66,13 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
       throw new Error('No productsJsonUrl configured for this brand');
     }
 
-    // Use the full products.json URL directly
-    const fullUrl = brand.productsJsonUrl;
+    // Parse pipe-delimited URLs for brands with multiple collections
+    const urls = brand.productsJsonUrl
+      .split('|')
+      .map(url => url.trim())
+      .filter(url => url.length > 0);
 
-    // Extract base URL and collection path
-    const url = new URL(fullUrl);
-    const baseUrl = `${url.protocol}//${url.host}`;
-    const collectionPath = url.pathname.replace('/products.json', '');
-
-    logger.info(`Fetching from: ${baseUrl}${collectionPath}/products.json`);
+    logger.info(`Found ${urls.length} collection(s) to fetch`);
 
     // Get rate limits or use defaults
     const rateLimit = brand.rateLimit || {
@@ -82,25 +80,70 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
       delayBetweenPages: 1000,
     };
 
-    // Fetch all products with pagination
-    const result: FetchResult = await fetchAllProducts(
-      baseUrl,
-      collectionPath,
-      {
-        maxPages: 50,
-        delayBetweenPages: rateLimit.delayBetweenPages,
-        onPageFetched: (page, count) => {
-          logger.info(`  Page ${page}: Found ${count} products`);
-        },
+    let allProducts: ShopifyProduct[] = [];
+    let totalPages = 0;
+    let allErrors: string[] = [];
+
+    // Fetch from each collection URL
+    for (let i = 0; i < urls.length; i++) {
+      const fullUrl = urls[i];
+
+      try {
+        // Extract base URL and collection path
+        const url = new URL(fullUrl);
+        const baseUrl = `${url.protocol}//${url.host}`;
+        const collectionPath = url.pathname.replace('/products.json', '');
+
+        logger.info(`  [${i + 1}/${urls.length}] Fetching: ${baseUrl}${collectionPath}/products.json`);
+
+        // Fetch all products with pagination
+        const result: FetchResult = await fetchAllProducts(
+          baseUrl,
+          collectionPath,
+          {
+            maxPages: 50,
+            delayBetweenPages: rateLimit.delayBetweenPages,
+            onPageFetched: (page, count) => {
+              logger.info(`    Page ${page}: Found ${count} products`);
+            },
+          }
+        );
+
+        if (!result.success) {
+          allErrors.push(`Collection ${i + 1}: ${result.error || 'Failed to fetch'}`);
+          logger.warn(`    ⚠ Failed to fetch collection ${i + 1}: ${result.error}`);
+        } else {
+          allProducts.push(...result.products);
+          totalPages += result.totalPages;
+          logger.info(`    ✓ Fetched ${result.products.length} products from collection ${i + 1}`);
+        }
+
+        // Delay between collections to be polite
+        if (i < urls.length - 1) {
+          await new Promise((resolve) => setTimeout(resolve, rateLimit.delayBetweenPages));
+        }
+      } catch (error) {
+        const errorMsg = error instanceof Error ? error.message : 'Unknown error';
+        allErrors.push(`Collection ${i + 1}: ${errorMsg}`);
+        logger.warn(`    ⚠ Error fetching collection ${i + 1}: ${errorMsg}`);
       }
+    }
+
+    // Deduplicate products by Shopify ID (same product might be in multiple collections)
+    const uniqueProducts = Array.from(
+      new Map(allProducts.map(p => [p.id, p])).values()
     );
 
-    if (!result.success) {
-      throw new Error(result.error || 'Failed to fetch products');
+    if (uniqueProducts.length < allProducts.length) {
+      logger.info(`  ℹ Removed ${allProducts.length - uniqueProducts.length} duplicate(s)`);
+    }
+
+    if (uniqueProducts.length === 0 && allErrors.length > 0) {
+      throw new Error(`All collections failed: ${allErrors.join('; ')}`);
     }
 
     // Check if data has changed using hash tracking
-    const dataCheck = await checkDataChanged(brand.slug, result.products);
+    const dataCheck = await checkDataChanged(brand.slug, uniqueProducts);
     const dataChanged = dataCheck.changed;
 
     if (dataChanged) {
@@ -112,19 +155,20 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
     // Update hash record
     await updateHashRecord(
       brand.slug,
-      result.products,
-      result.products.length,
+      uniqueProducts,
+      uniqueProducts.length,
       dataChanged
     );
 
-    logger.brandComplete(brand.name, result.products.length);
+    logger.brandComplete(brand.name, uniqueProducts.length);
 
     return {
       brand,
-      products: result.products,
+      products: uniqueProducts,
       success: true,
-      totalPages: result.totalPages,
-      dataChanged, // Track whether data changed
+      totalPages: totalPages,
+      dataChanged,
+      error: allErrors.length > 0 ? `Partial success: ${allErrors.join('; ')}` : undefined,
     };
   } catch (error) {
     const errorMessage =

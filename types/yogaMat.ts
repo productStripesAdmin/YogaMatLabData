@@ -36,6 +36,7 @@ export type YogaMatFeature =
   | "Extra Wide"
   | "Alignment Marks"
   | "Antimicrobial"
+  | "Premium"
   | "Closed-Cell";
 
 export type MaterialType =

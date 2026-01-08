@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,1828596809763
+title,str,,TPE Body Alignment System Yoga Mat - Gray
+handle,str,,tpe-body-alignment-system-yoga-mat-grey-heathyoga
+body_html,str,,<p>The Heathyoga TPE Body Alignment System Yoga Mat Gray is designed for yoga lovers. Made of non...
+published_at,str,,2019-07-30T19:57:47+08:00
+created_at,str,,2019-07-30T19:57:47+08:00
+updated_at,str,,2026-01-06T22:54:12+08:00
+vendor,str,,Heathyoga
+product_type,str,,
+tags,list,5,[5 items]
+tags/[0],str,,female
+variants,list,1,[1 items]
+variants/[0]/id,int,,15341992345635
+variants/[0]/title,str,,Gray
+variants/[0]/option1,str,,Gray
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,W-HY TPE MAT CHARCOAL NEW
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,37337818398936
+variants/[0]/featured_image/product_id,int,,1828596809763
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2022-04-21T20:28:45+08:00
+variants/[0]/featured_image/updated_at,str,,2022-04-21T20:28:52+08:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,1288
+variants/[0]/featured_image/height,int,,1288
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0027/0303/2355/products/Charcoal-01.jpg?v=1650544132
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,15341992345635
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,64.90
+variants/[0]/grams,int,,1089
+variants/[0]/compare_at_price,str,,0.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,1828596809763
+variants/[0]/created_at,str,,2019-07-30T19:57:47+08:00
+variants/[0]/updated_at,str,,2026-01-06T22:54:12+08:00
+images,list,5,[5 items]
+images/[0]/id,int,,37337818398936
+images/[0]/created_at,str,,2022-04-21T20:28:45+08:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2022-04-21T20:28:52+08:00
+images/[0]/product_id,int,,1828596809763
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,15341992345635
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0027/0303/2355/products/Charcoal-01.jpg?v=1650544132
+images/[0]/width,int,,1288
+images/[0]/height,int,,1288
+options,list,1,[1 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Gray

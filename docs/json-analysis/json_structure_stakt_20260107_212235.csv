@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,8037178015926
+title,str,,The Stakt Mat Pro
+handle,str,,the-stakt-mat-pro
+body_html,str,,"<p>Everything you love about the Stakt Mat, plus a premium textured layer for enhanced performanc..."
+published_at,str,,2024-08-01T07:45:57-04:00
+created_at,str,,2024-07-29T11:20:09-04:00
+updated_at,str,,2026-01-06T09:54:36-05:00
+vendor,str,,stakt
+product_type,str,,Mat
+tags,list,4,[4 items]
+tags/[0],str,,20% at Checkout
+variants,list,6,[6 items]
+variants/[0]/id,int,,43373510066358
+variants/[0]/title,str,,Black
+variants/[0]/option1,str,,Black
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,15307958
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,35408672456886
+variants/[0]/featured_image/product_id,int,,8037178015926
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2024-07-31T21:14:06-04:00
+variants/[0]/featured_image/updated_at,str,,2025-10-28T13:05:39-04:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,1768
+variants/[0]/featured_image/height,int,,1667
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_C_42abc1c3-938e-47ba-9237-...
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,43373510066358
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,128.00
+variants/[0]/grams,int,,1361
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,8037178015926
+variants/[0]/created_at,str,,2024-07-30T15:23:05-04:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:36-05:00
+images,list,18,[18 items]
+images/[0]/id,int,,35408672456886
+images/[0]/created_at,str,,2024-07-31T21:14:06-04:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-10-28T13:05:39-04:00
+images/[0]/product_id,int,,8037178015926
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,43373510066358
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_C_42abc1c3-938e-47ba-9237-...
+images/[0]/width,int,,1768
+images/[0]/height,int,,1667
+options,list,1,[1 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,6,[6 items]
+options/[0]/values/[0],str,,Black

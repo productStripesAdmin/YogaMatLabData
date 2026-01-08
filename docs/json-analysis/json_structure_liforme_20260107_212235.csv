@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,6149522456751
+title,str,,Liforme Classic Yoga Mat
+handle,str,,liforme-classic-yoga-mat
+body_html,str,,<p><span>TRULY REVOLUTIONARY. The original ground-breaking Liforme Classic Yoga Mat features our ...
+published_at,str,,2024-03-25T10:31:33+00:00
+created_at,str,,2020-12-10T12:06:14+00:00
+updated_at,str,,2026-01-06T14:54:20+00:00
+vendor,str,,Liforme
+product_type,str,,Yoga Mat
+tags,list,19,[19 items]
+tags/[0],str,,BOGO50
+variants,list,13,[13 items]
+variants/[0]/id,int,,55277664829816
+variants/[0]/title,str,,Black
+variants/[0]/option1,str,,Black
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,YOG-MAT-CLA-BLK-GEN-5-UNI-F
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image/id,int,,74441099575672
+variants/[0]/featured_image/product_id,int,,6149522456751
+variants/[0]/featured_image/position,int,,15
+variants/[0]/featured_image/created_at,str,,2025-09-15T16:19:26+01:00
+variants/[0]/featured_image/updated_at,str,,2025-09-15T16:19:30+01:00
+variants/[0]/featured_image/alt,NoneType,,None
+variants/[0]/featured_image/width,int,,2048
+variants/[0]/featured_image/height,int,,2048
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Liforme_Classic_Black_Yoga_Mat_Frontview.p...
+variants/[0]/featured_image/variant_ids,list,1,[1 items]
+variants/[0]/featured_image/variant_ids/[0],int,,55277664829816
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,160.00
+variants/[0]/grams,int,,0
+variants/[0]/compare_at_price,NoneType,,None
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,6149522456751
+variants/[0]/created_at,str,,2025-09-15T18:45:12+01:00
+variants/[0]/updated_at,str,,2026-01-06T14:54:20+00:00
+images,list,16,[16 items]
+images/[0]/id,int,,37770156212399
+images/[0]/created_at,str,,2024-04-09T12:37:51+01:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-02-24T18:09:16+00:00
+images/[0]/product_id,int,,6149522456751
+images/[0]/variant_ids,list,1,[1 items]
+images/[0]/variant_ids/[0],int,,43121823056047
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0259/3665/8531/files/Yoga-Mats_0000_Frame1.png?v=1740420556
+images/[0]/width,int,,2048
+images/[0]/height,int,,2048
+options,list,1,[1 items]
+options/[0]/name,str,,Colour
+options/[0]/position,int,,1
+options/[0]/values,list,13,[13 items]
+options/[0]/values/[0],str,,Black

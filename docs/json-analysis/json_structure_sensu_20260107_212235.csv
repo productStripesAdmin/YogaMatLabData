@@ -1,0 +1,45 @@
+path,type,length,example
+id,int,,4541386293387
+title,str,,9-in-1 Foam Roller Set
+handle,str,,foam-roller-set
+body_html,str,,"<p id=""docs-internal-guid-f41fe8d4-7fff-298c-e80d-5ad935c71492"" style=""line-height: 1.295; margin..."
+published_at,str,,2020-02-12T21:05:27+09:30
+created_at,str,,2020-02-12T21:06:47+09:30
+updated_at,str,,2026-01-07T00:24:33+09:30
+vendor,str,,Sensu Co
+product_type,str,,
+tags,list,3,[3 items]
+tags/[0],str,,MCF
+variants,list,1,[1 items]
+variants/[0]/id,int,,32273766875275
+variants/[0]/title,str,,Default Title
+variants/[0]/option1,str,,Default Title
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,FR-8IN1-PR2
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,False
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,39.99
+variants/[0]/grams,int,,0
+variants/[0]/compare_at_price,str,,59.99
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,4541386293387
+variants/[0]/created_at,str,,2020-02-12T21:06:47+09:30
+variants/[0]/updated_at,str,,2026-01-07T00:24:33+09:30
+images,list,9,[9 items]
+images/[0]/id,int,,30833933320341
+images/[0]/created_at,str,,2021-05-27T15:53:49+09:30
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2021-05-27T15:54:02+09:30
+images/[0]/product_id,int,,4541386293387
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0331/9034/6891/products/Foam-roller-set.jpg?v=1622096642
+images/[0]/width,int,,1500
+images/[0]/height,int,,1484
+options,list,1,[1 items]
+options/[0]/name,str,,Title
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Default Title

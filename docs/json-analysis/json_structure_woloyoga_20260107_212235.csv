@@ -1,0 +1,56 @@
+path,type,length,example
+id,int,,8333492650180
+title,str,,Ascend Mat 4mm
+handle,str,,ascend-yoga-mat
+body_html,str,,"<p>Professional-grade yoga mat built for serious flow and focused strength, made with <strong>SGS..."
+published_at,str,,2025-08-17T19:56:58+08:00
+created_at,str,,2025-08-06T15:46:31+08:00
+updated_at,str,,2026-01-06T22:54:38+08:00
+vendor,str,,Wolo Yoga
+product_type,str,,Yoga & Pilates Mats
+tags,list,1,[1 items]
+tags/[0],str,,normal price
+variants,list,6,[6 items]
+variants/[0]/id,int,,45073754161348
+variants/[0]/title,str,,Limestone Grey / Mat Only
+variants/[0]/option1,str,,Limestone Grey
+variants/[0]/option2,str,,Mat Only
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,MAT02-LG
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,False
+variants/[0]/featured_image/id,int,,45770155098308
+variants/[0]/featured_image/product_id,int,,8333492650180
+variants/[0]/featured_image/position,int,,1
+variants/[0]/featured_image/created_at,str,,2025-08-06T15:41:41+08:00
+variants/[0]/featured_image/updated_at,str,,2025-08-27T08:23:33+08:00
+variants/[0]/featured_image/alt,str,,Marble-patterned yoga mat with a brand logo on a white background#color_limestone grey
+variants/[0]/featured_image/width,int,,1080
+variants/[0]/featured_image/height,int,,1080
+variants/[0]/featured_image/src,str,,https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-1.png?v=1756254213
+variants/[0]/featured_image/variant_ids,list,3,[3 items]
+variants/[0]/featured_image/variant_ids/[0],int,,45073754161348
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,579.00
+variants/[0]/grams,int,,2700
+variants/[0]/compare_at_price,str,,629.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,8333492650180
+variants/[0]/created_at,str,,2025-08-06T15:46:31+08:00
+variants/[0]/updated_at,str,,2026-01-06T22:54:38+08:00
+images,list,12,[12 items]
+images/[0]/id,int,,45770155098308
+images/[0]/created_at,str,,2025-08-06T15:41:41+08:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-08-27T08:23:33+08:00
+images/[0]/product_id,int,,8333492650180
+images/[0]/variant_ids,list,3,[3 items]
+images/[0]/variant_ids/[0],int,,45073754161348
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-1.png?v=1756254213
+images/[0]/width,int,,1080
+images/[0]/height,int,,1080
+options,list,2,[2 items]
+options/[0]/name,str,,Color
+options/[0]/position,int,,1
+options/[0]/values,list,2,[2 items]
+options/[0]/values/[0],str,,Limestone Grey

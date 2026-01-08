@@ -1,0 +1,46 @@
+path,type,length,example
+id,int,,7380228571202
+title,str,,Recycled PU Yoga Mat - Sage
+handle,str,,recycled-pu-yoga-mat-sage
+body_html,str,,"<p> </p>
+<p><meta charset=""utf-8"">The Sage Arch Yoga Mat features a unique arch shape for better ..."
+published_at,str,,2024-11-05T01:00:30-05:00
+created_at,str,,2024-11-05T00:58:48-05:00
+updated_at,str,,2026-01-06T09:54:34-05:00
+vendor,str,,S Warrior
+product_type,str,,Recycled PU Mat
+tags,list,4,[4 items]
+tags/[0],str,,Shanti Yoga Mat
+variants,list,1,[1 items]
+variants/[0]/id,int,,41790916657218
+variants/[0]/title,str,,"Extra Wide - 72"" L x 28"" W"
+variants/[0]/option1,str,,"Extra Wide - 72"" L x 28"" W"
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,SW_SAGE_PU
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,84.00
+variants/[0]/grams,int,,3200
+variants/[0]/compare_at_price,str,,109.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,7380228571202
+variants/[0]/created_at,str,,2024-11-05T00:58:48-05:00
+variants/[0]/updated_at,str,,2026-01-06T09:54:34-05:00
+images,list,5,[5 items]
+images/[0]/id,int,,32482789916738
+images/[0]/created_at,str,,2024-11-05T00:59:08-05:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2024-11-05T00:59:10-05:00
+images/[0]/product_id,int,,7380228571202
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/2664/1900/files/BLUE1.png?v=1730786350
+images/[0]/width,int,,2700
+images/[0]/height,int,,3700
+options,list,1,[1 items]
+options/[0]/name,str,,Size
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,"Extra Wide - 72"" L x 28"" W"

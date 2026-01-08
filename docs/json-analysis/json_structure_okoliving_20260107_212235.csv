@@ -1,0 +1,46 @@
+path,type,length,example
+id,int,,8613351620850
+title,str,,"Chakra Align - Herbal Yoga Mat, 7mm"
+handle,str,,chakraalign
+body_html,str,,"<h2><span>""My practice soared -<br>I'll never go back to a typical mat again""</span></h2>
+<p><str..."
+published_at,str,,2024-10-23T17:51:00-07:00
+created_at,str,,2024-10-23T10:33:50-07:00
+updated_at,str,,2026-01-06T06:54:23-08:00
+vendor,str,,okoliving
+product_type,str,,Mats
+tags,list,4,[4 items]
+tags/[0],str,,current mats
+variants,list,1,[1 items]
+variants/[0]/id,int,,47001893011698
+variants/[0]/title,str,,Default Title
+variants/[0]/option1,str,,Default Title
+variants/[0]/option2,NoneType,,None
+variants/[0]/option3,NoneType,,None
+variants/[0]/sku,str,,MT-RC-74-7
+variants/[0]/requires_shipping,bool,,True
+variants/[0]/taxable,bool,,True
+variants/[0]/featured_image,NoneType,,None
+variants/[0]/available,bool,,True
+variants/[0]/price,str,,210.80
+variants/[0]/grams,int,,2041
+variants/[0]/compare_at_price,str,,248.00
+variants/[0]/position,int,,1
+variants/[0]/product_id,int,,8613351620850
+variants/[0]/created_at,str,,2024-10-23T10:33:53-07:00
+variants/[0]/updated_at,str,,2026-01-06T06:54:23-08:00
+images,list,7,[7 items]
+images/[0]/id,int,,44198890209522
+images/[0]/created_at,str,,2024-10-23T17:13:43-07:00
+images/[0]/position,int,,1
+images/[0]/updated_at,str,,2025-11-06T06:31:42-08:00
+images/[0]/product_id,int,,8613351620850
+images/[0]/variant_ids,list,0,[]
+images/[0]/src,str,,https://cdn.shopify.com/s/files/1/0284/0428/5533/files/5U6A7947web.jpg?v=1762439502
+images/[0]/width,int,,2036
+images/[0]/height,int,,3054
+options,list,1,[1 items]
+options/[0]/name,str,,Title
+options/[0]/position,int,,1
+options/[0]/values,list,1,[1 items]
+options/[0]/values/[0],str,,Default Title
