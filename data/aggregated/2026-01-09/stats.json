@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-09",
+  "totalProducts": 477,
+  "totalBrands": 22,
+  "priceStats": {
+    "min": 0,
+    "max": 0,
+    "average": 0,
+    "median": 0
+  },
+  "materialBreakdown": {
+    "Cotton": 26,
+    "Natural Rubber": 245,
+    "PVC": 41,
+    "TPE": 7,
+    "Cork": 58,
+    "NBR": 2
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 340,
+    "Non-Slip": 368,
+    "Lightweight": 140,
+    "Extra Wide": 111,
+    "Antimicrobial": 95,
+    "Extra Thick": 126,
+    "Extra Long": 8,
+    "Reversible": 19,
+    "Premium": 78,
+    "Alignment Marks": 107,
+    "Closed-Cell": 19
+  }
+}
