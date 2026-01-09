@@ -9,6 +9,14 @@ import {
   type FetchResult,
 } from './lib/fetch-products-json.js';
 import {
+  fetchLululemonProducts,
+  type LululemonFetchResult,
+} from './lib/lululemon-scraper.js';
+import {
+  fetchBigCommerceProducts,
+  type BigCommerceFetchResult,
+} from './lib/bigcommerce-scraper.js';
+import {
   checkDataChanged,
   updateHashRecord,
 } from './lib/hash-tracker.js';
@@ -21,6 +29,11 @@ interface Brand {
   scrapingEnabled: boolean;
   productsJsonUrl: string | null;
   isShopify: boolean;
+  platform?: 'shopify' | 'lululemon' | 'bigcommerce' | 'custom'; // Platform type for custom scrapers
+  platformConfig?: {
+    lululemonCategoryId?: string; // For Lululemon GraphQL
+    bigcommerceCollectionUrl?: string; // For BigCommerce
+  };
   rateLimit?: {
     delayBetweenProducts: number;
     delayBetweenPages: number;
@@ -62,74 +75,134 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
   try {
     logger.brandStart(brand.name);
 
-    if (!brand.productsJsonUrl) {
-      throw new Error('No productsJsonUrl configured for this brand');
-    }
-
-    // Parse pipe-delimited URLs for brands with multiple collections
-    const urls = brand.productsJsonUrl
-      .split('|')
-      .map(url => url.trim())
-      .filter(url => url.length > 0);
-
-    logger.info(`Found ${urls.length} collection(s) to fetch`);
-
-    // Get rate limits or use defaults
-    const rateLimit = brand.rateLimit || {
-      delayBetweenProducts: 500,
-      delayBetweenPages: 1000,
-    };
+    // Determine platform and route to appropriate scraper
+    const platform = brand.platform || (brand.isShopify ? 'shopify' : 'custom');
+    logger.info(`Platform: ${platform}`);
 
     let allProducts: ShopifyProduct[] = [];
     let totalPages = 0;
     let allErrors: string[] = [];
 
-    // Fetch from each collection URL
-    for (let i = 0; i < urls.length; i++) {
-      const fullUrl = urls[i];
+    // Get rate limits or use defaults
+    // Alo Yoga requires longer delays to avoid 403 blocking
+    const rateLimit = brand.rateLimit || {
+      delayBetweenProducts: 500,
+      delayBetweenPages: brand.slug === 'alo-yoga' ? 3000 : 1000,
+    };
 
-      try {
-        // Extract base URL and collection path
-        const url = new URL(fullUrl);
-        const baseUrl = `${url.protocol}//${url.host}`;
-        const collectionPath = url.pathname.replace('/products.json', '');
+    // Route to appropriate scraper based on platform
+    if (platform === 'lululemon') {
+      // Lululemon GraphQL scraper
+      const categoryId = brand.platformConfig?.lululemonCategoryId || '8s6'; // Default: yoga accessories
+      logger.info(`  Fetching from Lululemon GraphQL (categoryId: ${categoryId})`);
 
-        logger.info(`  [${i + 1}/${urls.length}] Fetching: ${baseUrl}${collectionPath}/products.json`);
+      const result: LululemonFetchResult = await fetchLululemonProducts(categoryId, {
+        maxPages: 10,
+        pageSize: 60,
+        delayBetweenPages: rateLimit.delayBetweenPages,
+        onPageFetched: (page, count, total) => {
+          logger.info(`    Page ${page}: Found ${count} products (${total} total)`);
+        },
+      });
 
-        // Fetch all products with pagination
-        const result: FetchResult = await fetchAllProducts(
-          baseUrl,
-          collectionPath,
-          {
-            maxPages: 50,
-            delayBetweenPages: rateLimit.delayBetweenPages,
-            onPageFetched: (page, count) => {
-              logger.info(`    Page ${page}: Found ${count} products`);
-            },
-          }
-        );
-
-        if (!result.success) {
-          allErrors.push(`Collection ${i + 1}: ${result.error || 'Failed to fetch'}`);
-          logger.warn(`    ⚠ Failed to fetch collection ${i + 1}: ${result.error}`);
-        } else {
-          allProducts.push(...result.products);
-          totalPages += result.totalPages;
-          logger.info(`    ✓ Fetched ${result.products.length} products from collection ${i + 1}`);
-        }
-
-        // Delay between collections to be polite
-        if (i < urls.length - 1) {
-          await new Promise((resolve) => setTimeout(resolve, rateLimit.delayBetweenPages));
-        }
-      } catch (error) {
-        const errorMsg = error instanceof Error ? error.message : 'Unknown error';
-        allErrors.push(`Collection ${i + 1}: ${errorMsg}`);
-        logger.warn(`    ⚠ Error fetching collection ${i + 1}: ${errorMsg}`);
+      if (!result.success) {
+        throw new Error(result.error || 'Failed to fetch from Lululemon');
       }
+
+      allProducts = result.products;
+      totalPages = Math.ceil(result.totalProducts / 60);
+      logger.info(`    ✓ Fetched ${result.products.length} products`);
+
+    } else if (platform === 'bigcommerce') {
+      // BigCommerce Playwright scraper
+      const collectionUrl = brand.platformConfig?.bigcommerceCollectionUrl || brand.productsJsonUrl;
+
+      if (!collectionUrl) {
+        throw new Error('No collection URL configured for BigCommerce brand');
+      }
+
+      logger.info(`  Fetching from BigCommerce (${collectionUrl})`);
+
+      const result: BigCommerceFetchResult = await fetchBigCommerceProducts(collectionUrl, {
+        maxProducts: 100,
+        headless: true,
+        delayBetweenProducts: rateLimit.delayBetweenProducts,
+        onProductFetched: (current, total) => {
+          logger.info(`    Product ${current}/${total}`);
+        },
+      });
+
+      if (!result.success) {
+        throw new Error(result.error || 'Failed to fetch from BigCommerce');
+      }
+
+      allProducts = result.products;
+      totalPages = 1; // BigCommerce scraper doesn't have pagination concept
+      logger.info(`    ✓ Fetched ${result.products.length} products`);
+
+    } else if (platform === 'shopify' || brand.isShopify) {
+      // Shopify products.json scraper (standard)
+      if (!brand.productsJsonUrl) {
+        throw new Error('No productsJsonUrl configured for this brand');
+      }
+
+      // Parse pipe-delimited URLs for brands with multiple collections
+      const urls = brand.productsJsonUrl
+        .split('|')
+        .map(url => url.trim())
+        .filter(url => url.length > 0);
+
+      logger.info(`Found ${urls.length} collection(s) to fetch`);
+
+      // Fetch from each collection URL
+      for (let i = 0; i < urls.length; i++) {
+        const fullUrl = urls[i];
+
+        try {
+          // Extract base URL and collection path
+          const url = new URL(fullUrl);
+          const baseUrl = `${url.protocol}//${url.host}`;
+          const collectionPath = url.pathname.replace('/products.json', '');
+
+          logger.info(`  [${i + 1}/${urls.length}] Fetching: ${baseUrl}${collectionPath}/products.json`);
+
+          // Fetch all products with pagination
+          const result: FetchResult = await fetchAllProducts(
+            baseUrl,
+            collectionPath,
+            {
+              maxPages: 50,
+              delayBetweenPages: rateLimit.delayBetweenPages,
+              onPageFetched: (page, count) => {
+                logger.info(`    Page ${page}: Found ${count} products`);
+              },
+            }
+          );
+
+          if (!result.success) {
+            allErrors.push(`Collection ${i + 1}: ${result.error || 'Failed to fetch'}`);
+            logger.warn(`    ⚠ Failed to fetch collection ${i + 1}: ${result.error}`);
+          } else {
+            allProducts.push(...result.products);
+            totalPages += result.totalPages;
+            logger.info(`    ✓ Fetched ${result.products.length} products from collection ${i + 1}`);
+          }
+
+          // Delay between collections to be polite
+          if (i < urls.length - 1) {
+            await new Promise((resolve) => setTimeout(resolve, rateLimit.delayBetweenPages));
+          }
+        } catch (error) {
+          const errorMsg = error instanceof Error ? error.message : 'Unknown error';
+          allErrors.push(`Collection ${i + 1}: ${errorMsg}`);
+          logger.warn(`    ⚠ Error fetching collection ${i + 1}: ${errorMsg}`);
+        }
+      }
+    } else {
+      throw new Error(`Unsupported platform: ${platform}`);
     }
 
-    // Deduplicate products by Shopify ID (same product might be in multiple collections)
+    // Deduplicate products by ID (same product might be in multiple collections)
     const uniqueProducts = Array.from(
       new Map(allProducts.map(p => [p.id, p])).values()
     );

@@ -100,13 +100,22 @@ function calculateStats(products: NormalizedYogaMat[]): {
   featureBreakdown: Record<string, number>;
   brandCounts: Record<string, number>;
 } {
-  // Price stats
-  const prices = products.map(p => p.price).sort((a, b) => a - b);
-  const priceStats = {
-    min: Math.min(...prices),
-    max: Math.max(...prices),
-    average: prices.reduce((sum, p) => sum + p, 0) / prices.length,
-    median: prices[Math.floor(prices.length / 2)],
+  // Price stats - filter out invalid prices (null, undefined, NaN)
+  const validPrices = products
+    .map(p => p.price)
+    .filter(p => p != null && !isNaN(p) && isFinite(p))
+    .sort((a, b) => a - b);
+
+  const priceStats = validPrices.length > 0 ? {
+    min: Math.min(...validPrices),
+    max: Math.max(...validPrices),
+    average: validPrices.reduce((sum, p) => sum + p, 0) / validPrices.length,
+    median: validPrices[Math.floor(validPrices.length / 2)],
+  } : {
+    min: 0,
+    max: 0,
+    average: 0,
+    median: 0,
   };
 
   // Material breakdown
