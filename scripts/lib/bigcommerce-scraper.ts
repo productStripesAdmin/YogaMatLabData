@@ -47,7 +47,7 @@ export interface BigCommerceFetchResult {
  */
 async function extractProductData(page: Page, url: string): Promise<BigCommerceProduct | null> {
   try {
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
     // Extract product JSON-LD structured data if available
     const jsonLd = await page.locator('script[type="application/ld+json"]').first().textContent();
@@ -243,13 +243,28 @@ export async function fetchBigCommerceProducts(
     const page = await context.newPage();
 
     // Navigate to collection page
-    await page.goto(collectionUrl, { waitUntil: 'networkidle', timeout: 60000 });
+    await page.goto(collectionUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+
+    // Wait for products to load (they may be loaded via JavaScript)
+    try {
+      await page.waitForSelector('.product-card, a.product-card-image', { timeout: 10000 });
+    } catch {
+      // If no products appear after 10s, continue anyway (page might be empty)
+    }
+
+    // Wait a bit more for any lazy-loaded content
+    await page.waitForTimeout(2000);
 
     // Extract all product links from collection page
-    const productLinks = await page.locator('a.bc-product-card__link, a.product-card, .product-item a').evaluateAll((links) =>
+    // Hugger Mugger uses .product-card with product-card-image links
+    const productLinks = await page.locator('a.product-card-image, .product-card-title a').evaluateAll((links) =>
       links
         .map(link => (link as HTMLAnchorElement).href)
-        .filter((href, index, self) => href && self.indexOf(href) === index) // Deduplicate
+        .filter((href, index, self) =>
+          href &&
+          !href.includes('#') && // Remove anchor links
+          self.indexOf(href) === index // Deduplicate
+        )
     );
 
     const productsToFetch = productLinks.slice(0, maxProducts);
