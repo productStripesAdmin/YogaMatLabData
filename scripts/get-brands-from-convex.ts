@@ -47,6 +47,7 @@ interface ExtractionResult {
   error?: string;
   totalPages: number;
   dataChanged?: boolean; // Whether data hash changed since last fetch
+  usedFallback?: boolean; // Whether manual fallback was used
 }
 
 interface ExtractionSummary {
@@ -274,7 +275,16 @@ async function saveResults(
         await fs.access(fallbackPath);
         // Fallback file exists, copy it to today's date
         await fs.copyFile(fallbackPath, filepath);
-        logger.info(`📋 Used manual fallback for ${result.brand.slug} (extraction failed)`);
+        logger.success(`📋 Used manual fallback for ${result.brand.slug} (live fetch failed, but fallback available)`);
+
+        // Mark this result as successful with fallback
+        result.success = true;
+        result.usedFallback = true;
+
+        // Load the fallback data to get product count
+        const fallbackData = JSON.parse(await fs.readFile(fallbackPath, 'utf-8'));
+        result.products = fallbackData.products || [];
+
         continue;
       } catch {
         // No fallback file, skip this brand
@@ -405,12 +415,27 @@ async function main() {
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   logger.success(`Total brands processed: ${summary.totalBrands}`);
   logger.success(`Successful: ${summary.successfulBrands}`);
+
+  // Show fallback brands separately
+  const fallbackBrands = results.filter((r) => r.usedFallback);
+  if (fallbackBrands.length > 0) {
+    logger.info(`Used manual fallback: ${fallbackBrands.length}`);
+  }
+
   if (summary.failedBrands > 0) {
     logger.error(`Failed: ${summary.failedBrands}`);
   }
   logger.success(`Total products extracted: ${summary.totalProducts}`);
   logger.info(`Duration: ${duration}s`);
   logger.info(`Date: ${date}`);
+
+  // Show fallback brands
+  if (fallbackBrands.length > 0) {
+    logger.info('\nBrands using manual fallback:');
+    fallbackBrands.forEach((r) => {
+      logger.info(`  ✓ ${r.brand.name}: ${r.products.length} products (fallback)`);
+    });
+  }
 
   if (summary.failedBrands > 0) {
     logger.warn('\nFailed brands:');
