@@ -384,3 +384,18 @@ I have thought about linking to external sites (e.g. Reddit, YouTube, Wirecutter
 ## Prompt 11 - The Satori Concept store (multiple products.json endpoints)
 
 The thesatoriconcept has multiple products.json endpoints. How should I handle this? An array of endpoints?
+
+## Prompt 12 - Add platform to brands schema
+
+In YogaMatLabApp Convex:
+1. Update brands schema to include:
+platform: v.optional(v.union(
+  v.literal('shopify'),
+  v.literal('lululemon'),
+  v.literal('bigcommerce'),
+  v.literal('custom')
+)),
+platformConfig: v.optional(v.object({
+  lululemonCategoryId: v.optional(v.string()),
+  bigcommerceCollectionUrl: v.optional(v.string()),
+}))

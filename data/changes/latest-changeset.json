@@ -2,11 +2,11 @@
   "date": "2026-01-09",
   "comparedWith": "2026-01-07",
   "summary": {
-    "totalChanges": 748,
-    "newProducts": 17,
-    "removedProducts": 0,
-    "priceChanges": 460,
-    "specChanges": 271
+    "totalChanges": 749,
+    "newProducts": 19,
+    "removedProducts": 1,
+    "priceChanges": 459,
+    "specChanges": 270
   },
   "changes": [
     {
@@ -125,6 +125,20 @@
       "slug": "thesatoriconcept-vegan-suede-yoga-mat-forest",
       "name": "Yoga Mat Forest Design",
       "brandSlug": "thesatoriconcept",
+      "changeType": "added",
+      "newValue": {}
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-aqua",
+      "name": "Infinity Yoga Mat - Mandala Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {}
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-tribal-aqua",
+      "name": "Infinity Yoga Mat - Tribal Aqua",
+      "brandSlug": "yogadesignlab",
       "changeType": "added",
       "newValue": {}
     },
@@ -4779,16 +4793,11 @@
       "slug": "yogi-bare-ever-grip-paws-desert-rose",
       "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
       "brandSlug": "yogi-bare",
-      "changeType": "price_changed",
-      "oldValue": 92,
-      "details": "$92 → $undefined"
-    },
-    {
-      "slug": "yogi-bare-ever-grip-paws-desert-rose",
-      "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
-      "brandSlug": "yogi-bare",
-      "changeType": "spec_changed",
-      "details": "material: PVC → Natural Rubber"
+      "changeType": "removed",
+      "oldValue": {
+        "price": 92,
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_Boxing_Sale.jpg?v=1766533633"
+      }
     },
     {
       "slug": "yogi-bare-minimalist-black-ever-grip-yoga-mat",
