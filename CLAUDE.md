@@ -198,19 +198,164 @@ Data update: YYYY-MM-DD
 Run: #123
 ```
 
-## Brand URLs
+## Scraper Types and Platform Support
+
+The pipeline supports three different scraper types to handle various e-commerce platforms:
+
+### 1. Shopify Products.json Scraper ✅ (Primary)
+**File**: `scripts/lib/fetch-products-json.ts`
+
+**How it works**:
+- Fetches from Shopify's public `/collections/{path}/products.json` API
+- No browser automation needed - simple HTTP requests
+- Supports pagination (up to 250 products per page)
+- Handles multiple collections via pipe-delimited URLs
+
+**Configuration**:
+```typescript
+{
+  platform: 'shopify',
+  isShopify: true,
+  productsJsonUrl: 'https://brand.com/collections/yoga-mats/products.json',
+  // Multiple collections:
+  productsJsonUrl: 'https://brand.com/collections/mats/products.json|https://brand.com/collections/props/products.json'
+}
+```
+
+**Brands using this**:
+- Alo Yoga, Liforme, Jade Yoga, Yolo Ha Yoga, Scoria World
+- Gaiam, Yogi-Bare, Bala, 42 Birds, Ananday
+- Oko Living, HeatHyoga, Stakt, Sensu, Wolo Yoga
+- Keep Store, Yoga Matters, House of Mats, Shakti Warrior, Satori Concept
+
+**Advantages**:
+- Fast and reliable (no browser needed)
+- Low resource usage
+- Built-in pagination
+- Complete product data including variants, images, options
+
+**Enhanced headers for Alo Yoga**:
+Added browser-like headers to bypass 403 blocks:
+- Accept-Language, Accept-Encoding
+- Sec-Fetch-* headers for CORS compliance
+- User-Agent rotation from pool
+
+### 2. Lululemon GraphQL Scraper ✅
+**File**: `scripts/lib/lululemon-scraper.ts`
+
+**How it works**:
+- Queries Lululemon's GraphQL API at `https://shop.lululemon.com/api/graphql`
+- Uses category-based product search with pagination
+- Converts GraphQL response to Shopify-compatible format
+
+**Configuration**:
+```typescript
+{
+  platform: 'lululemon',
+  platformConfig: {
+    lululemonCategoryId: '8s6' // yoga accessories category
+  }
+}
+```
+
+**GraphQL Query Structure**:
+```graphql
+query ProductSearch($categoryId: String!, $offset: Int, $limit: Int) {
+  search(categoryId: $categoryId, offset: $offset, limit: $limit) {
+    total
+    products {
+      productId
+      name
+      price { currentPrice, fullPrice }
+      swatches { swatchName, colorId, images }
+      sizes { details, isAvailable, price }
+      pdpUrl
+      featurePanels { featuresContent }
+    }
+  }
+}
+```
+
+**Data Conversion**:
+- Builds variants from color swatches × sizes
+- Extracts features from `featurePanels`
+- Maps images from all color swatches
+- Generates SKUs from productId + colorId + size
+
+**Category IDs**:
+- `8s6`: Yoga Accessories (includes yoga mats)
+- `1z0qd0t`: Women's Yoga
+- `1z0qetm`: Men's Yoga
+
+**Advantages**:
+- Official API (more stable than scraping)
+- Rich product data with variants
+- Supports pagination (60 products per page)
+- No browser automation needed
+
+### 3. BigCommerce Playwright Scraper ✅
+**File**: `scripts/lib/bigcommerce-scraper.ts`
+
+**How it works**:
+- Uses Playwright browser automation
+- Extracts product links from collection pages
+- Visits each product page to extract detailed data
+- Parses HTML and JSON-LD structured data
+
+**Configuration**:
+```typescript
+{
+  platform: 'bigcommerce',
+  platformConfig: {
+    bigcommerceCollectionUrl: 'https://www.huggermugger.com/collections/yoga-mats'
+  }
+}
+```
+
+**Extraction Strategy**:
+1. Navigate to collection page
+2. Extract all product card links
+3. Visit each product page
+4. Extract data from:
+   - HTML selectors (`.bc-product__title`, `.bc-product__price`)
+   - JSON-LD structured data (`<script type="application/ld+json">`)
+   - Product option dropdowns (colors, sizes)
+5. Convert to Shopify-compatible format
+
+**Brands using this**:
+- Hugger Mugger (WordPress + BigCommerce plugin)
+
+**Limitations**:
+- Slower than API-based scrapers (browser automation)
+- Higher resource usage (Chromium instance)
+- Rate limiting important (1s delay between products)
+- Variant extraction limited (requires dropdown interaction)
+
+**Advantages**:
+- Works with any rendered HTML (no API needed)
+- Can extract from WordPress + BigCommerce hybrid sites
+- Handles JavaScript-rendered content
+
+## Brand Platform Mapping
 
 ### Shopify Brands (19+)
-All brands have `/collections/{slug}/products.json` endpoints:
-- Alo Yoga (`aloyoga.com/collections/yoga`)
+All brands use `/collections/{slug}/products.json` endpoints:
+- **Alo Yoga** (`aloyoga.com/collections/yoga`) - Enhanced headers for 403 bypass
 - Liforme, Jade Yoga, Yolo Ha Yoga, Scoria World
 - Gaiam, Yogi-Bare, Bala, 42 Birds, Ananday
 - Oko Living, HeatHyoga, Stakt, Sensu, Wolo Yoga
 - Keep Store, Yoga Matters, House of Mats, Shakti Warrior
+- **Satori Concept** (4 collections via pipe-delimited URLs)
 
-### Non-Shopify Brands (Future)
-Require custom scrapers:
-- Lululemon, Sugamats, Hugger Mugger, Byoga, Grip Yoga, EcoYoga
+### Lululemon (GraphQL API)
+- **Lululemon** - Custom Next.js + GraphQL implementation
+
+### BigCommerce Brands
+- **Hugger Mugger** - WordPress + BigCommerce plugin (Playwright scraper)
+
+### Future Brands (Pending Implementation)
+Require investigation and custom scrapers:
+- Sugamats, Byoga, Grip Yoga, EcoYoga
 
 ## Important Constraints
 
@@ -291,14 +436,61 @@ Tracks three types of changes:
 ## Notes for AI Assistants
 
 ### When Adding New Brands
-1. Add to YogaMatLabApp's Convex `brands` table with scraping configuration:
-   - Set `scrapingEnabled: true`
-   - Provide `shopifyCollectionUrl` (e.g., "/collections/yoga-mats")
-   - Set `isShopify: true` for Shopify sites
-   - Configure rate limits or use defaults (500ms/1000ms)
-2. Test extraction with single brand first
-3. Verify products.json endpoint availability for Shopify brands
-4. For non-Shopify sites, create custom scraper in `scripts/lib/`
+
+#### Shopify Brands (Easiest)
+1. Add to YogaMatLabApp's Convex `brands` table:
+   ```typescript
+   {
+     scrapingEnabled: true,
+     platform: 'shopify',  // or omit (defaults to shopify if isShopify: true)
+     isShopify: true,
+     productsJsonUrl: 'https://brand.com/collections/yoga-mats/products.json',
+     rateLimit: { delayBetweenProducts: 500, delayBetweenPages: 1000 }
+   }
+   ```
+2. Test: `curl "https://brand.com/collections/yoga-mats/products.json?limit=10"`
+3. For multiple collections, use pipe-delimited URLs:
+   ```
+   productsJsonUrl: 'url1/products.json|url2/products.json|url3/products.json'
+   ```
+
+#### Lululemon
+1. Add to Convex `brands` table:
+   ```typescript
+   {
+     scrapingEnabled: true,
+     platform: 'lululemon',
+     platformConfig: {
+       lululemonCategoryId: '8s6' // yoga accessories
+     },
+     rateLimit: { delayBetweenPages: 2000 } // 2s between GraphQL pages
+   }
+   ```
+2. No testing needed - scraper auto-configured
+
+#### BigCommerce Brands
+1. Add to Convex `brands` table:
+   ```typescript
+   {
+     scrapingEnabled: true,
+     platform: 'bigcommerce',
+     platformConfig: {
+       bigcommerceCollectionUrl: 'https://www.brand.com/collections/yoga-mats'
+     },
+     rateLimit: { delayBetweenProducts: 1000 } // 1s between products
+   }
+   ```
+2. Test with browser to verify collection page loads
+3. Note: Slower than other scrapers (browser automation)
+
+#### Unknown Platform
+1. Investigate the brand's e-commerce platform:
+   - Check HTML for platform indicators (Shopify, BigCommerce, WooCommerce, etc.)
+   - Look for API endpoints in Network tab
+   - Check for JSON-LD structured data
+2. If Shopify, follow Shopify instructions above
+3. If custom platform, create new scraper in `scripts/lib/{brand}-scraper.ts`
+4. Update `get-brands-from-convex.ts` to route to new scraper
 
 ### When Modifying Scrapers
 - Test on 2-3 brands before running full pipeline
