@@ -47,7 +47,7 @@ export interface BigCommerceFetchResult {
  */
 async function extractProductData(page: Page, url: string): Promise<BigCommerceProduct | null> {
   try {
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
     // Extract product JSON-LD structured data if available
     const jsonLd = await page.locator('script[type="application/ld+json"]').first().textContent();
@@ -243,7 +243,7 @@ export async function fetchBigCommerceProducts(
     const page = await context.newPage();
 
     // Navigate to collection page
-    await page.goto(collectionUrl, { waitUntil: 'networkidle', timeout: 30000 });
+    await page.goto(collectionUrl, { waitUntil: 'networkidle', timeout: 60000 });
 
     // Extract all product links from collection page
     const productLinks = await page.locator('a.bc-product-card__link, a.product-card, .product-item a').evaluateAll((links) =>
