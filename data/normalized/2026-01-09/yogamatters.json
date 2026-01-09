@@ -66,7 +66,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 18,
     "minPrice": 45,
     "maxPrice": 45,
@@ -123,400 +123,406 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mats-group-2025.jpg?v=1761124693",
-        "width": 3410,
-        "height": 4547,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-ocean-green.png?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca-for-Yogamatters-Potter_s-Bar-February-2025-5362-2_1.jpg?v=1761124597",
-        "width": 1360,
-        "height": 1813,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mats-group-2025.jpg?v=1767956541",
+        "width": 3410,
+        "height": 4547,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/RebeccaforYogamattersPotter_sBarFebruary20255441.jpg?v=1761124597",
-        "width": 3441,
-        "height": 4588,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca-for-Yogamatters-Potter_s-Bar-February-2025-5362-2_1.jpg?v=1767956541",
+        "width": 1360,
+        "height": 1813,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_1web.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/RebeccaforYogamattersPotter_sBarFebruary20255441.jpg?v=1767956541",
+        "width": 3441,
+        "height": 4588,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Yogamatters-Sticky-Mat_Ocean-Green_Wave.jpg?v=1761124597",
-        "width": 1537,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_1web.jpg?v=1767956541",
+        "width": 1536,
         "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304653-web.jpg?v=1761124597",
-        "width": 1536,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Yogamatters-Sticky-Mat_Ocean-Green_Wave.jpg?v=1767956541",
+        "width": 1537,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/ocean-green-sticky-yoga-mat.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304653-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303128-grey-web.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/ocean-green-sticky-yoga-mat.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Slate-Grey_Wave.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303128-grey-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303612grey.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Slate-Grey_Wave.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 10
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Sticky-Yoga-Mat-grey-slate.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303612grey.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_1web-dark-blue.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Sticky-Yoga-Mat-grey-slate.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 12
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Navy_Wave.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_1web-dark-blue.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 13
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304658-web.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Navy_Wave.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 14
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/StickyNavyflat.jpg?v=1761124597",
-        "width": 3386,
-        "height": 4540,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304658-web.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 15
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303128-berry-web.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/StickyNavyflat.jpg?v=1767956541",
+        "width": 3386,
+        "height": 4540,
         "position": 16
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/YogamattersStickyYogaMat_Berry_Wave.jpg?v=1761124597",
-        "width": 1089,
-        "height": 1461,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303128-berry-web.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 17
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304657-web.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/YogamattersStickyYogaMat_Berry_Wave.jpg?v=1767956541",
+        "width": 1089,
+        "height": 1461,
         "position": 18
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/YogamattersStickyYogaMat_Berry_Rolled.jpg?v=1761124597",
-        "width": 3386,
-        "height": 4540,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202304657-web.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 19
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303126-mineral-web.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/YogamattersStickyYogaMat_Berry_Rolled.jpg?v=1767956541",
+        "width": 3386,
+        "height": 4540,
         "position": 20
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Mat_Green_Wave.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303126-mineral-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 21
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-mineral.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Mat_Green_Wave.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 22
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Yogamatters-1-June-2022-Strap-Blankets3167-1.jpg?v=1761124597",
-        "width": 2877,
-        "height": 3836,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-mineral.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 23
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_black.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Yogamatters-1-June-2022-Strap-Blankets3167-1.jpg?v=1767956541",
+        "width": 2877,
+        "height": 3836,
         "position": 24
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Black_Wave.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303122_black.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 25
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303603-black-sticky.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Sticky-Yoga-Mat_Black_Wave.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 26
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/sticky-yoga-mat_black_rolled-web.jpg?v=1761124597",
-        "width": 699,
-        "height": 932,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303603-black-sticky.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 27
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303126-web.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/sticky-yoga-mat_black_rolled-web.jpg?v=1767956541",
+        "width": 699,
+        "height": 932,
         "position": 28
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/bottle-green-yoga-mat.-sticky.jpg?v=1761124597",
-        "width": 1336,
-        "height": 1781,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202303126-web.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 29
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-mat-bottle-green.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/bottle-green-yoga-mat.-sticky.jpg?v=1767956541",
+        "width": 1336,
+        "height": 1781,
         "position": 30
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mat-bottle-green_91a2857c-cc98-4c6d-b907-9f36219a02c8.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-mat-bottle-green.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 31
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mat-bottle-green_91a2857c-cc98-4c6d-b907-9f36219a02c8.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 32
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion-3.jpg?v=1761124597",
-        "width": 1330,
-        "height": 1774,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 33
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Products-Photoshoot-with-Chloe---August-202406615.jpg?v=1761124597",
-        "width": 3034,
-        "height": 4045,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion-3.jpg?v=1767956541",
+        "width": 1330,
+        "height": 1774,
         "position": 34
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion-4.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Products-Photoshoot-with-Chloe---August-202406615.jpg?v=1767956541",
+        "width": 3034,
+        "height": 4045,
         "position": 35
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-sunshine-dandelion-4.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 36
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig-2.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 37
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig-4_41efb8b9-31ae-4f1a-824e-1582bb428729.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig-2.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 38
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-fig-2.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-fig-4_41efb8b9-31ae-4f1a-824e-1582bb428729.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 39
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-5.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-fig-2.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 40
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-2.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-5.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 41
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-4_96e159dd-88bc-492a-83c3-2dd818b9630d.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-2.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 42
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mat-redwood_5fef690d-ed97-44ae-8b37-f643c10603bf.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mat-redwood-4_96e159dd-88bc-492a-83c3-2dd818b9630d.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 43
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-sage.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mat-redwood_5fef690d-ed97-44ae-8b37-f643c10603bf.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 44
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-sage-4.jpg?v=1761124597",
-        "width": 2250,
-        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-sage.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 45
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-4-sage.jpg?v=1761124597",
-        "width": 2246,
-        "height": 2995,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-sage-4.jpg?v=1767956541",
+        "width": 2250,
+        "height": 3000,
         "position": 46
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-sage_37be60b6-8c2b-4f34-a1ac-1dd4bcedf035.jpg?v=1761124597",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-4-sage.jpg?v=1767956541",
+        "width": 2246,
+        "height": 2995,
         "position": 47
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-3-web.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-sage_37be60b6-8c2b-4f34-a1ac-1dd4bcedf035.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 48
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-web.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-3-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 49
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-2-web_d525ebb0-2cbf-4cb5-8610-c00dba8c8ac5.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 50
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca_for_Yogamatters_Potter_s_Bar_February_2025_15.jpg?v=1761124597",
-        "width": 2250,
-        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-2-web_d525ebb0-2cbf-4cb5-8610-c00dba8c8ac5.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 51
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-2.jpg?v=1761747196",
-        "width": 3022,
-        "height": 4029,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca_for_Yogamatters_Potter_s_Bar_February_2025_15.jpg?v=1767956541",
+        "width": 2250,
+        "height": 3000,
         "position": 52
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz.jpg?v=1761747196",
-        "width": 2502,
-        "height": 3030,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-2.jpg?v=1767956541",
+        "width": 3022,
+        "height": 4029,
         "position": 53
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/VickyFOx0308.jpg?v=1761124597",
-        "width": 2013,
-        "height": 2685,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz.jpg?v=1767956541",
+        "width": 2502,
+        "height": 3030,
         "position": 54
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-3.jpg?v=1761747196",
-        "width": 2865,
-        "height": 3819,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/VickyFOx0308.jpg?v=1767956541",
+        "width": 2013,
+        "height": 2685,
         "position": 55
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-2-web.jpg?v=1761747120",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-3.jpg?v=1767956541",
+        "width": 2865,
+        "height": 3819,
         "position": 56
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-4_6e95b23b-2a3a-4332-b9a4-0b4fc8251d37.jpg?v=1761747120",
-        "width": 2250,
-        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-2-web.jpg?v=1767956541",
+        "width": 1536,
+        "height": 2048,
         "position": 57
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca-for-Yogamatters-Potter_s-Bar-February-2025-5362-2.jpg?v=1761747196",
-        "width": 1360,
-        "height": 1813,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-4_6e95b23b-2a3a-4332-b9a4-0b4fc8251d37.jpg?v=1767956541",
+        "width": 2250,
+        "height": 3000,
         "position": 58
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-6.jpg?v=1761747120",
-        "width": 2074,
-        "height": 2766,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Rebecca-for-Yogamatters-Potter_s-Bar-February-2025-5362-2.jpg?v=1767956541",
+        "width": 1360,
+        "height": 1813,
         "position": 59
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe.jpg?v=1761747311",
-        "width": 2366,
-        "height": 3156,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-6.jpg?v=1767956541",
+        "width": 2074,
+        "height": 2766,
         "position": 60
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-2.jpg?v=1761746991",
-        "width": 3057,
-        "height": 4076,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe.jpg?v=1767956541",
+        "width": 2366,
+        "height": 3156,
         "position": 61
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-3.jpg?v=1761746991",
-        "width": 2865,
-        "height": 3819,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-2.jpg?v=1767956541",
+        "width": 3057,
+        "height": 4076,
         "position": 62
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-teal.jpg?v=1761747120",
-        "width": 2250,
-        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-3.jpg?v=1767956541",
+        "width": 2865,
+        "height": 3819,
         "position": 63
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Vicky-FOx0280-1.jpg?v=1761124597",
-        "width": 3429,
-        "height": 4572,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-teal.jpg?v=1767956541",
+        "width": 2250,
+        "height": 3000,
         "position": 64
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mats-2025-web.jpg?v=1761747311",
-        "width": 2250,
-        "height": 3000,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Vicky-FOx0280-1.jpg?v=1767956541",
+        "width": 3429,
+        "height": 4572,
         "position": 65
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-mats-2023.jpg?v=1761124597",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mats-2025-web.jpg?v=1767956541",
+        "width": 2250,
+        "height": 3000,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-mats-2023.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
-        "position": 66
+        "position": 67
       }
     ]
   },
@@ -566,7 +572,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 4,
     "minPrice": 125,
     "maxPrice": 125,
@@ -595,91 +601,91 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-Yogamatters-2025.jpg?v=1753970852",
-        "width": 1971,
-        "height": 2627,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-flow-yoga-mat-purple.jpg?v=1767955853",
+        "width": 3612,
+        "height": 4816,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-2-purple_2.jpg?v=1753970852",
-        "width": 1533,
-        "height": 2044,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-Yogamatters-2025.jpg?v=1767956615",
+        "width": 1971,
+        "height": 2627,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Pruple-Web-2.jpg?v=1753971020",
-        "width": 3380,
-        "height": 4507,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-flow-yoga-mat_4317b95c-efa9-4d94-be67-56c3d24c4ed8.png?v=1767956615",
+        "width": 1536,
+        "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_purple_02_9c6e827f-8f13-4f17-b6a5-0fd21ddfa55c.jpg?v=1753971020",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-2-purple_2.jpg?v=1767955853",
+        "width": 1533,
+        "height": 2044,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Pruple-Web.jpg?v=1753971020",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Pruple-Web-2.jpg?v=1767955853",
+        "width": 3380,
+        "height": 4507,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_purple_03_a8c6ff46-5c3e-4224-82d5-27d263913eba.jpg?v=1753971020",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_purple_02_9c6e827f-8f13-4f17-b6a5-0fd21ddfa55c.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Green-Web-2.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Pruple-Web.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Green-Web.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_purple_03_a8c6ff46-5c3e-4224-82d5-27d263913eba.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_Oceana_01.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Green-Web.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-Green-Web-3_e8042968-bf75-46a2-b082-086675a0c1f6.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mat_Oceana_01.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 10
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Flow-Yoga-Mat-Blue.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Flow-Yoga-Mat-Blue.jpg?v=1767955853",
         "width": 2686,
         "height": 3582,
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Flow-Yoga-Mat-Blue-2.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Flow-Yoga-Mat-Blue-2.jpg?v=1767955853",
         "width": 3454,
         "height": 4605,
         "position": 12
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-blue_7ff98ca8-dc12-4b7b-89af-6697878f955a.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat-blue_7ff98ca8-dc12-4b7b-89af-6697878f955a.jpg?v=1767955853",
         "width": 1536,
         "height": 2048,
         "position": 13
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat_45d37ce5-b963-4c09-9f48-b4fd5e00f66a.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Flow-Yoga-Mat_45d37ce5-b963-4c09-9f48-b4fd5e00f66a.jpg?v=1767955853",
         "width": 1194,
         "height": 1592,
         "position": 14
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-Yogamatters.jpg?v=1753970852",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EcoFlow-Yoga-Mats-Yogamatters.jpg?v=1767955853",
         "width": 1454,
         "height": 1939,
         "position": 15
@@ -745,7 +751,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 6,
     "minPrice": 93,
     "maxPrice": 93,
@@ -778,15 +784,15 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Everyday-Yoga-Mats-2024.jpg?v=1721122034",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Everyday-Yoga-Mat-5.jpg?v=1767956859",
+        "width": 1024,
+        "height": 1365,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Everyday-Yoga-Mat-5.jpg?v=1721122842",
-        "width": 1024,
-        "height": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Eco-Everyday-Yoga-Mats-2024.jpg?v=1767956859",
+        "width": 1536,
+        "height": 2048,
         "position": 2
       },
       {
@@ -951,7 +957,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 105,
     "maxPrice": 105,
@@ -971,43 +977,43 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EmptyName.jpg?v=1683807420",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_Lifestyle-01.gif?v=1767956634",
         "width": 1536,
         "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Untitled-2_91e95996-e338-438f-81b3-332194797186.jpg?v=1683807467",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/EmptyName.jpg?v=1767956634",
         "width": 1536,
         "height": 2048,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Rebecca-for-Yogamatters-January-20236349.jpg?v=1683807467",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Untitled-2_91e95996-e338-438f-81b3-332194797186.jpg?v=1767956634",
         "width": 1536,
         "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_04.gif?v=1683807467",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Rebecca-for-Yogamatters-January-20236349.jpg?v=1767956634",
         "width": 1536,
         "height": 2048,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_02.gif?v=1683807395",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_04.gif?v=1767956634",
         "width": 1536,
-        "height": 2043,
+        "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Rebecca-for-Yogamatters-January-20236340.jpg?v=1683807395",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_02.gif?v=1767956634",
         "width": 1536,
-        "height": 2048,
+        "height": 2043,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Aqua-Evolve-Yoga-Mat_Lifestyle-01.gif?v=1683807395",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Rebecca-for-Yogamatters-January-20236340.jpg?v=1767956634",
         "width": 1536,
         "height": 2048,
         "position": 7
@@ -1103,7 +1109,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 7,
     "minPrice": 76,
     "maxPrice": 76,
@@ -1138,214 +1144,238 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-rise-natural.png?v=1767954920",
         "width": 1536,
         "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-rise-natural_6117087b-c87c-4ebe-ba18-aa0a0a91703b.png?v=1767955177",
         "width": 1536,
         "height": 2048,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-2-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-rise-rose-quartz.png?v=1767955177",
         "width": 1536,
         "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-4-web_05cc623f-860c-4172-9547-1b3223934747.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sage-eco-rise.png?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-web-4.jpg?v=1764750532",
-        "width": 2328,
-        "height": 3105,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-3b.jpg?v=1764750532",
-        "width": 3570,
-        "height": 4760,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-2-web.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-everyday-rise-yoga-mat_grey-ice_01_1.jpg?v=1764750532",
-        "width": 699,
-        "height": 932,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-4-web_05cc623f-860c-4172-9547-1b3223934747.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-web.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-5-web_aa30742e-7637-4fa5-9bbc-adfc956f067e.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-web-4.jpg?v=1767955140",
+        "width": 2328,
+        "height": 3105,
         "position": 10
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-2-web.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-grey-ice-3b.jpg?v=1767955140",
+        "width": 3570,
+        "height": 4760,
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-everyday-rise-yoga-mat_grey-ice_01_1.jpg?v=1767955140",
+        "width": 699,
+        "height": 932,
         "position": 12
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-4_5006310c-8505-4bc3-9be1-fb7628c6c849.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-web.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 13
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-1.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-5-web_aa30742e-7637-4fa5-9bbc-adfc956f067e.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 14
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-2-web.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 15
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/emptyname-36_copy_web.jpg?v=1764750532",
-        "width": 699,
-        "height": 932,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 16
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202301034-web_170704f8-32ba-45e2-a6c3-562c76e105a9.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-4_5006310c-8505-4bc3-9be1-fb7628c6c849.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 17
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Rise-Yoga-Mat_Natural-5.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-1.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 18
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202306222-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 19
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-2.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/emptyname-36_copy_web.jpg?v=1767955140",
+        "width": 699,
+        "height": 932,
         "position": 20
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-rise-Yoga-Mat-Rose-Quartz-5.jpg?v=1764750532",
-        "width": 3036,
-        "height": 4048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202301034-web_170704f8-32ba-45e2-a6c3-562c76e105a9.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 21
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-rose-quartz.jpg?v=1764750532",
-        "width": 3011,
-        "height": 4015,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Rise-Yoga-Mat_Natural-5.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 22
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Pilates-Photoshoot---Potter_s-Bar-October-20250574.jpg?v=1765813636",
-        "width": 2766,
-        "height": 3688,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202306222-web.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 23
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-depp-taupe-rose-quartz_b737f5d7-8b98-4355-acab-8084174069bf.jpg?v=1764750532",
-        "width": 3337,
-        "height": 4449,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-2.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
         "position": 24
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe_9319371c-6cd4-42e6-a515-a6d5b206cfec.jpg?v=1764750532",
-        "width": 2948,
-        "height": 3931,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-rise-Yoga-Mat-Rose-Quartz-5.jpg?v=1767955140",
+        "width": 3036,
+        "height": 4048,
         "position": 25
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe-2.jpg?v=1764750532",
-        "width": 3341,
-        "height": 4454,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-rose-quartz.jpg?v=1767955140",
+        "width": 3011,
+        "height": 4015,
         "position": 26
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Pilates-Photoshoot---Potter_s-Bar-October-20250660.jpg?v=1764750532",
-        "width": 3018,
-        "height": 4023,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Pilates-Photoshoot---Potter_s-Bar-October-20250574.jpg?v=1767955140",
+        "width": 2766,
+        "height": 3688,
         "position": 27
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-depp-taupe-rose-quartz_3826f7be-7613-4d5b-8abd-5ba3531be80b.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-depp-taupe-rose-quartz_b737f5d7-8b98-4355-acab-8084174069bf.jpg?v=1767955140",
         "width": 3337,
         "height": 4449,
         "position": 28
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_495c8207-37ee-45f0-99e9-2b1bc1c0ac6c.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe_9319371c-6cd4-42e6-a515-a6d5b206cfec.jpg?v=1767955140",
+        "width": 2948,
+        "height": 3931,
         "position": 29
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/DSC8800.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe-2.jpg?v=1767955140",
+        "width": 3341,
+        "height": 4454,
         "position": 30
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_79b241bf-f31e-4d0e-ba2c-1b9199c3ab10.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Pilates-Photoshoot---Potter_s-Bar-October-20250660.jpg?v=1767955140",
+        "width": 3018,
+        "height": 4023,
         "position": 31
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-rise-yoga-mats-yogamatters_352d6e2c-5444-4856-9b9f-35e6418ee949.jpg?v=1764750532",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-depp-taupe-rose-quartz_3826f7be-7613-4d5b-8abd-5ba3531be80b.jpg?v=1767955140",
+        "width": 3337,
+        "height": 4449,
         "position": 32
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-4.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_495c8207-37ee-45f0-99e9-2b1bc1c0ac6c.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 33
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202306217-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/DSC8800.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 34
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-rise-wisteria-grey-ice.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_79b241bf-f31e-4d0e-ba2c-1b9199c3ab10.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-rise-yoga-mats-yogamatters_352d6e2c-5444-4856-9b9f-35e6418ee949.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-4.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats---March-202306217-web.jpg?v=1767955140",
+        "width": 1536,
+        "height": 2048,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-rise-wisteria-grey-ice.jpg?v=1767955140",
         "width": 3046,
         "height": 4062,
-        "position": 35
+        "position": 39
       }
     ]
   },
@@ -1400,7 +1430,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 10mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 120,
     "maxPrice": 120,
@@ -1485,7 +1515,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 4,
     "minPrice": 105,
     "maxPrice": 105,
@@ -1514,88 +1544,100 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Sage-0030.jpg?v=1757675853",
-        "width": 4040,
-        "height": 5386,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Deep-Taupe-0069.jpg?v=1767956943",
+        "width": 4062,
+        "height": 5416,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0812.jpg?v=1757675853",
-        "width": 4288,
-        "height": 5717,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Sage-0030.jpg?v=1767956943",
+        "width": 4040,
+        "height": 5386,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0553_26c3f49e-0e74-47d7-a0f9-092dc677e0da.jpg?v=1757678078",
-        "width": 4170,
-        "height": 5561,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0812.jpg?v=1767956943",
+        "width": 4288,
+        "height": 5717,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Sage-0062.jpg?v=1757678078",
-        "width": 3997,
-        "height": 5328,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0553_26c3f49e-0e74-47d7-a0f9-092dc677e0da.jpg?v=1767956943",
+        "width": 4170,
+        "height": 5561,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mats0039.jpg?v=1759224077",
-        "width": 3716,
-        "height": 4955,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Sage-0062.jpg?v=1767956943",
+        "width": 3997,
+        "height": 5328,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0472.jpg?v=1759224077",
-        "width": 4167,
-        "height": 5556,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mats0039.jpg?v=1767956943",
+        "width": 3716,
+        "height": 4955,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/TaraLee0461.jpg?v=1759224077",
-        "width": 3501,
-        "height": 4667,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Tara-Lee0472.jpg?v=1767956943",
+        "width": 4167,
+        "height": 5556,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mats0069.jpg?v=1759224077",
-        "width": 2204,
-        "height": 2939,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/TaraLee0461.jpg?v=1767956943",
+        "width": 3501,
+        "height": 4667,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/YYogamatters-PU-Mat-Evergreen-0043.jpg?v=1759224077",
-        "width": 3748,
-        "height": 4997,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mats0069.jpg?v=1767956943",
+        "width": 2204,
+        "height": 2939,
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Evergreen-0073.jpg?v=1759224077",
-        "width": 3907,
-        "height": 5211,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/YYogamatters-PU-Mat-Evergreen-0043.jpg?v=1767956943",
+        "width": 3748,
+        "height": 4997,
         "position": 10
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Evergreen-0029.jpg?v=1759224077",
-        "width": 4014,
-        "height": 5352,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Evergreen-0073.jpg?v=1767956943",
+        "width": 3907,
+        "height": 5211,
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Dark-Navy-0042.jpg?v=1759224077",
-        "width": 3748,
-        "height": 4997,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Evergreen-0029.jpg?v=1767956943",
+        "width": 4014,
+        "height": 5352,
         "position": 12
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Dark-Navy-0075.jpg?v=1759224077",
-        "width": 3929,
-        "height": 5238,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/everygreen-PU-mat.png?v=1767957069",
+        "width": 1536,
+        "height": 2048,
         "position": 13
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/YYogamatters-PU-Mat-Dark-Navy-0033_10eeed51-6e85-4e61-b344-022fefd432db.jpg?v=1759224077",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Dark-Navy-0042.jpg?v=1767957069",
+        "width": 3748,
+        "height": 4997,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-PU-Mat-Dark-Navy-0075.jpg?v=1767957069",
+        "width": 3929,
+        "height": 5238,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/YYogamatters-PU-Mat-Dark-Navy-0033_10eeed51-6e85-4e61-b344-022fefd432db.jpg?v=1767957069",
         "width": 4014,
         "height": 5352,
-        "position": 14
+        "position": 16
       }
     ]
   },
@@ -1662,7 +1704,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -1682,52 +1724,58 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Cork-Yoga-Mat_Detail_2c381e9d-c0ac-4b79-b503-67a4550a5587.jpg?v=1756904620",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat_abb576bd-b3fe-4519-ba0d-38853dfbf199.png?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Cork-Yoga-Mat_Rolled_b653b221-3bb8-48c6-935a-0fd3d1e47083.jpg?v=1756904620",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Cork-Yoga-Mat_Detail_2c381e9d-c0ac-4b79-b503-67a4550a5587.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Collection_Mat_Wave_882bc454-d4c9-4556-94c4-1114dc4d696d.gif?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-cork-yoga-mat.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-cork-yoga-mat.jpg?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Cork-Yoga-Mat_Rolled_b653b221-3bb8-48c6-935a-0fd3d1e47083.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/cork-yoga-mat-macork2.jpg?v=1756904600",
-        "width": 699,
-        "height": 932,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Collection_Mat_Wave_882bc454-d4c9-4556-94c4-1114dc4d696d.gif?v=1767957246",
+        "width": 1536,
+        "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters-2.jpg?v=1756902819",
-        "width": 1024,
-        "height": 1366,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/cork-yoga-mat-macork2.jpg?v=1767957246",
+        "width": 699,
+        "height": 932,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters.jpg?v=1761660778",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters-2.jpg?v=1767957246",
         "width": 1024,
-        "height": 1365,
+        "height": 1366,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/yogamatters-core-august-2020-1494_da17c65d-7cb6-4120-84e1-df61d336b11e.jpg?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters.jpg?v=1767957246",
+        "width": 1024,
+        "height": 1365,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/yogamatters-core-august-2020-1494_da17c65d-7cb6-4120-84e1-df61d336b11e.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
-        "position": 8
+        "position": 9
       }
     ]
   },
@@ -1793,7 +1841,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -1819,13 +1867,13 @@
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-cork-yoga-mat.jpg?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/eco-cork-yoga-mat.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters-2.jpg?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters-2.jpg?v=1767957246",
         "width": 1024,
         "height": 1366,
         "position": 3
@@ -1843,7 +1891,7 @@
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters.jpg?v=1761660778",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/cork-yoga-mat-yogamatters.jpg?v=1767957246",
         "width": 1024,
         "height": 1365,
         "position": 6
@@ -1855,13 +1903,13 @@
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/yogamatters-core-august-2020-1494_da17c65d-7cb6-4120-84e1-df61d336b11e.jpg?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/yogamatters-core-august-2020-1494_da17c65d-7cb6-4120-84e1-df61d336b11e.jpg?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Collection_Mat_Wave_882bc454-d4c9-4556-94c4-1114dc4d696d.gif?v=1756902819",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Collection_Mat_Wave_882bc454-d4c9-4556-94c4-1114dc4d696d.gif?v=1767957246",
         "width": 1536,
         "height": 2048,
         "position": 9
@@ -1937,7 +1985,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 5,
     "minPrice": 135,
     "maxPrice": 150,
@@ -1972,51 +2020,51 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mats-web.jpg?v=1736345112",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-black-4-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-black-5-yogamatters_250e9c2c-36ae-4ab8-99b5-b91f079f56b6.jpg?v=1737552766",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mats-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-1-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-black-5-yogamatters_250e9c2c-36ae-4ab8-99b5-b91f079f56b6.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-1-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-green-1-yogamatters_2f1961db-db46-433b-816e-e17311cd3a74.jpg?v=1737552766",
-        "width": 1875,
-        "height": 2500,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-web.jpg?v=1767957300",
+        "width": 1536,
+        "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-black-4-web.jpg?v=1737552566",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-green-1-yogamatters_2f1961db-db46-433b-816e-e17311cd3a74.jpg?v=1767957300",
+        "width": 1875,
+        "height": 2500,
         "position": 8
       },
       {
@@ -2104,7 +2152,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 8mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 55,
     "maxPrice": 55,
@@ -2230,7 +2278,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 10,
     "minPrice": 70,
     "maxPrice": 70,
@@ -2271,82 +2319,88 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-travel-mats-aw-2025_aa9b7b58-f942-45bb-8c79-4d6e545058f4.jpg?v=1761210428",
-        "width": 3264,
-        "height": 4352,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/eco-travel-mat-foldable.png?v=1767957438",
+        "width": 1536,
+        "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/travel-eco-mat-navy-web.jpg?v=1761210428",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-travel-mats-aw-2025_aa9b7b58-f942-45bb-8c79-4d6e545058f4.jpg?v=1767957438",
+        "width": 3264,
+        "height": 4352,
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats-Eco-Travel-Blue-web_9c8cf679-5e60-454e-90bc-959bbebbd4d4.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/travel-eco-mat-navy-web.jpg?v=1767957438",
         "width": 1536,
         "height": 2048,
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Travel-Mat_Berry_folded-option-2.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats-Eco-Travel-Blue-web_9c8cf679-5e60-454e-90bc-959bbebbd4d4.jpg?v=1767957438",
         "width": 1536,
         "height": 2048,
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Travel-Mat_Berry_Wave_9d2ec5cd-e20f-4399-9aa2-bd1616331913.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Travel-Mat_Berry_folded-option-2.jpg?v=1767957438",
         "width": 1536,
         "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-travel-mat-burgundy.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Travel-Mat_Berry_Wave_9d2ec5cd-e20f-4399-9aa2-bd1616331913.jpg?v=1767957438",
         "width": 1536,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco_Travel_Mat_Berry_folded_option_1_7fe789c9-be34-42ac-9f08-52edea836888.jpg?v=1761210428",
-        "width": 4402,
-        "height": 5869,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-eco-travel-mat-burgundy.jpg?v=1767957438",
+        "width": 1536,
+        "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone-2_09aa5569-62d3-41ee-b161-145eafb094c5.jpg?v=1764676511",
-        "width": 2667,
-        "height": 3556,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco_Travel_Mat_Berry_folded_option_1_7fe789c9-be34-42ac-9f08-52edea836888.jpg?v=1767957438",
+        "width": 4402,
+        "height": 5869,
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone_4ae4fcce-be16-491a-a993-9c3f4d8ccddf.jpg?v=1764676511",
-        "width": 3207,
-        "height": 4276,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone-2_09aa5569-62d3-41ee-b161-145eafb094c5.jpg?v=1767957438",
+        "width": 2667,
+        "height": 3556,
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green_d39785a3-7b94-4a48-8eda-9f2b80cef768.jpg?v=1764676511",
-        "width": 3296,
-        "height": 4395,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone_4ae4fcce-be16-491a-a993-9c3f4d8ccddf.jpg?v=1767957438",
+        "width": 3207,
+        "height": 4276,
         "position": 10
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green-2_846499fe-eb93-4999-bc43-714c188a881e.jpg?v=1764676511",
-        "width": 2548,
-        "height": 3397,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green_d39785a3-7b94-4a48-8eda-9f2b80cef768.jpg?v=1767957438",
+        "width": 3296,
+        "height": 4395,
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats-Eco-Travel-Green-web_ad38cc75-1898-40c4-99ea-7b7606ade398.jpg?v=1764676511",
-        "width": 1536,
-        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green-2_846499fe-eb93-4999-bc43-714c188a881e.jpg?v=1767957438",
+        "width": 2548,
+        "height": 3397,
         "position": 12
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/travel-eco-mat-ocean-green_c6cded69-6521-4ac0-8686-fc60a2dfcda3.jpg?v=1764676511",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yoga-Mats-Eco-Travel-Green-web_ad38cc75-1898-40c4-99ea-7b7606ade398.jpg?v=1767957438",
+        "width": 1536,
+        "height": 2048,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/travel-eco-mat-ocean-green_c6cded69-6521-4ac0-8686-fc60a2dfcda3.jpg?v=1767957438",
         "width": 3036,
         "height": 4048,
-        "position": 13
+        "position": 14
       }
     ]
   },
@@ -2387,7 +2441,7 @@
       "Stock: all_lines_sell_and_retire",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 2,
     "minPrice": 44,
     "maxPrice": 44,
@@ -2494,7 +2548,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-7mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 22,
     "minPrice": 165,
     "maxPrice": 165,
@@ -2839,7 +2893,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-7mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 180,
     "maxPrice": 180,
@@ -2958,7 +3012,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 19,
     "minPrice": 210,
     "maxPrice": 210,
@@ -3244,7 +3298,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 5,
     "minPrice": 240,
     "maxPrice": 240,
@@ -3315,7 +3369,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 2mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 110,
     "maxPrice": 110,
@@ -3448,7 +3502,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 5,
     "minPrice": 140,
     "maxPrice": 140,
@@ -3607,7 +3661,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 8,
     "minPrice": 78,
     "maxPrice": 78,
@@ -3793,7 +3847,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 4,
     "minPrice": 84,
     "maxPrice": 84,
@@ -3917,7 +3971,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 8,
     "minPrice": 125,
     "maxPrice": 125,
@@ -4024,7 +4078,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 135,
     "maxPrice": 135,
@@ -4128,7 +4182,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 4,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4281,7 +4335,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 70,
     "maxPrice": 70,
@@ -4377,7 +4431,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4451,7 +4505,7 @@
       "Promotion: Mats",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4521,7 +4575,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4594,7 +4648,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4688,7 +4742,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4766,7 +4820,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4832,7 +4886,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4892,7 +4946,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -4965,7 +5019,7 @@
       "ProductSubCategory: mat",
       "TaxClass: taxable-goods"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -5029,7 +5083,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5099,7 +5153,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5171,7 +5225,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5242,7 +5296,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5315,7 +5369,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5401,7 +5455,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
@@ -5508,7 +5562,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 2,
     "minPrice": 720,
     "maxPrice": 720,
@@ -5533,13 +5587,13 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mats-web.jpg?v=1736345112",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mats-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 1
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-black-4-web.jpg?v=1737552566",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-black-4-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 2
@@ -5557,25 +5611,25 @@
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-1-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-1-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 8
@@ -5621,7 +5675,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1-5cm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 110,
     "maxPrice": 110,
@@ -5719,7 +5773,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 2,
     "minPrice": 140,
     "maxPrice": 140,
@@ -5824,7 +5878,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 4,
     "minPrice": 125,
     "maxPrice": 125,
@@ -5935,7 +5989,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 6mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 465,
     "maxPrice": 465,
@@ -6020,7 +6074,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 5-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 3,
     "minPrice": 830,
     "maxPrice": 830,
@@ -6065,7 +6119,7 @@
         "position": 3
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-3-web_f0e14f34-f40d-45e2-a85a-48c941832742.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 4
@@ -6077,13 +6131,13 @@
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-green-1-yogamatters_2f1961db-db46-433b-816e-e17311cd3a74.jpg?v=1737552766",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-green-1-yogamatters_2f1961db-db46-433b-816e-e17311cd3a74.jpg?v=1767957300",
         "width": 1875,
         "height": 2500,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-black-5-yogamatters_250e9c2c-36ae-4ab8-99b5-b91f079f56b6.jpg?v=1737552766",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/SIgnature-Studio-Mat-black-5-yogamatters_250e9c2c-36ae-4ab8-99b5-b91f079f56b6.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 7
@@ -6095,7 +6149,7 @@
         "position": 8
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1737552785",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/signature-studio-mat-mineral-2-web.jpg?v=1767957300",
         "width": 1536,
         "height": 2048,
         "position": 9
@@ -6154,7 +6208,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 17,
     "minPrice": 380,
     "maxPrice": 380,
@@ -6209,7 +6263,7 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mats-group-2025.jpg?v=1761124693",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-sticky-yoga-mats-group-2025.jpg?v=1767956541",
         "width": 3410,
         "height": 4547,
         "position": 1
@@ -6521,25 +6575,25 @@
         "position": 52
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-3-web.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-3-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 53
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-2-web_d525ebb0-2cbf-4cb5-8610-c00dba8c8ac5.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-2-web_d525ebb0-2cbf-4cb5-8610-c00dba8c8ac5.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 54
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-web.jpg?v=1761747062",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-teal-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 55
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-teal.jpg?v=1761747120",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-teal.jpg?v=1767956541",
         "width": 2250,
         "height": 3000,
         "position": 56
@@ -6551,37 +6605,37 @@
         "position": 57
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-2-web.jpg?v=1761747120",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-2-web.jpg?v=1767956541",
         "width": 1536,
         "height": 2048,
         "position": 58
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-4_6e95b23b-2a3a-4332-b9a4-0b4fc8251d37.jpg?v=1761747120",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-4_6e95b23b-2a3a-4332-b9a4-0b4fc8251d37.jpg?v=1767956541",
         "width": 2250,
         "height": 3000,
         "position": 59
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-6.jpg?v=1761747120",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/sticky-yoga-mat-grapefruit-6.jpg?v=1767956541",
         "width": 2074,
         "height": 2766,
         "position": 60
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-2.jpg?v=1761747196",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-2.jpg?v=1767956541",
         "width": 3022,
         "height": 4029,
         "position": 61
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-3.jpg?v=1761747196",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz-3.jpg?v=1767956541",
         "width": 2865,
         "height": 3819,
         "position": 62
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz.jpg?v=1761747196",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Rose-Quartz.jpg?v=1767956541",
         "width": 2502,
         "height": 3030,
         "position": 63
@@ -6593,19 +6647,19 @@
         "position": 64
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-3.jpg?v=1761746991",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe-3.jpg?v=1767956541",
         "width": 2865,
         "height": 3819,
         "position": 65
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe.jpg?v=1761747311",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-Sticky-Yoga-Mat-Deep-Taupe.jpg?v=1767956541",
         "width": 2366,
         "height": 3156,
         "position": 66
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mats-2025-web.jpg?v=1761747311",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-sticky-yoga-mats-2025-web.jpg?v=1767956541",
         "width": 2250,
         "height": 3000,
         "position": 67
@@ -6657,7 +6711,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 10,
     "minPrice": 320,
     "maxPrice": 320,
@@ -6698,7 +6752,7 @@
     ],
     "images": [
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_495c8207-37ee-45f0-99e9-2b1bc1c0ac6c.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_495c8207-37ee-45f0-99e9-2b1bc1c0ac6c.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 1
@@ -6710,7 +6764,7 @@
         "position": 2
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-2.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-2.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 3
@@ -6728,13 +6782,13 @@
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-4_5006310c-8505-4bc3-9be1-fb7628c6c849.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus-4_5006310c-8505-4bc3-9be1-fb7628c6c849.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-eucalyptus.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 7
@@ -6788,7 +6842,7 @@
         "position": 15
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Rise-Yoga-Mat_Natural-5.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Rise-Yoga-Mat_Natural-5.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 16
@@ -6812,7 +6866,7 @@
         "position": 19
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-rose-quartz.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mats-rose-quartz.jpg?v=1767955140",
         "width": 3011,
         "height": 4015,
         "position": 20
@@ -6824,7 +6878,7 @@
         "position": 21
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe-2.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-deep-taupe-2.jpg?v=1767955140",
         "width": 3341,
         "height": 4454,
         "position": 22
@@ -6836,13 +6890,13 @@
         "position": 23
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_79b241bf-f31e-4d0e-ba2c-1b9199c3ab10.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mats-2024-web_79b241bf-f31e-4d0e-ba2c-1b9199c3ab10.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 24
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-4-web_05cc623f-860c-4172-9547-1b3223934747.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-wisteria-4-web_05cc623f-860c-4172-9547-1b3223934747.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 25
@@ -6860,7 +6914,7 @@
         "position": 27
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-4.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/yogamatters-eco-rise-yoga-mat-4.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 28
@@ -6872,7 +6926,7 @@
         "position": 29
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-2-web.jpg?v=1764750532",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco-Everyday-Rise-Yoga-Mat-new-sage-2-web.jpg?v=1767955140",
         "width": 1536,
         "height": 2048,
         "position": 30
@@ -6925,7 +6979,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 4mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 6,
     "minPrice": 395,
     "maxPrice": 395,
@@ -7114,7 +7168,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 1mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 6,
     "minPrice": 590,
     "maxPrice": 590,
@@ -7171,25 +7225,25 @@
         "position": 4
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone_4ae4fcce-be16-491a-a993-9c3f4d8ccddf.jpg?v=1764676511",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone_4ae4fcce-be16-491a-a993-9c3f4d8ccddf.jpg?v=1767957438",
         "width": 3207,
         "height": 4276,
         "position": 5
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone-2_09aa5569-62d3-41ee-b161-145eafb094c5.jpg?v=1764676511",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-stone-2_09aa5569-62d3-41ee-b161-145eafb094c5.jpg?v=1767957438",
         "width": 2667,
         "height": 3556,
         "position": 6
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green_d39785a3-7b94-4a48-8eda-9f2b80cef768.jpg?v=1764676511",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green_d39785a3-7b94-4a48-8eda-9f2b80cef768.jpg?v=1767957438",
         "width": 3296,
         "height": 4395,
         "position": 7
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green-2_846499fe-eb93-4999-bc43-714c188a881e.jpg?v=1764676511",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Yogamatters-travel-mat-sea-green-2_846499fe-eb93-4999-bc43-714c188a881e.jpg?v=1767957438",
         "width": 2548,
         "height": 3397,
         "position": 8
@@ -7201,7 +7255,7 @@
         "position": 9
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Travel-Mat_Berry_Wave_9d2ec5cd-e20f-4399-9aa2-bd1616331913.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Eco-Travel-Mat_Berry_Wave_9d2ec5cd-e20f-4399-9aa2-bd1616331913.jpg?v=1767957438",
         "width": 1536,
         "height": 2048,
         "position": 10
@@ -7213,7 +7267,7 @@
         "position": 11
       },
       {
-        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco_Travel_Mat_Berry_folded_option_1_7fe789c9-be34-42ac-9f08-52edea836888.jpg?v=1761210428",
+        "src": "https://cdn.shopify.com/s/files/1/0278/7259/1939/files/Eco_Travel_Mat_Berry_folded_option_1_7fe789c9-be34-42ac-9f08-52edea836888.jpg?v=1767957438",
         "width": 4402,
         "height": 5869,
         "position": 12
@@ -7256,7 +7310,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -7352,7 +7406,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 3-5mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
@@ -7452,7 +7506,7 @@
       "TaxClass: taxable-goods",
       "Thickness: 10mm"
     ],
-    "shopifyUpdatedAt": "2026-01-09T06:18:58+00:00",
+    "shopifyUpdatedAt": "2026-01-09T13:03:33+00:00",
     "variantsCount": 1,
     "minPrice": 490,
     "maxPrice": 490,

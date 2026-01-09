@@ -18,7 +18,7 @@
       "Logicbroker",
       "staktmatpro"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 6,
     "minPrice": 128,
     "maxPrice": 128,
@@ -178,7 +178,7 @@
       "everything_bundle",
       "honeycomb-supplier-product"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 6,
     "minPrice": 94,
     "maxPrice": 94,
@@ -317,6 +317,79 @@
   {
     "brandId": "",
     "brandSlug": "stakt",
+    "name": "The Stakt Mat Pro XL",
+    "slug": "stakt-stakt-mat-pro-xl",
+    "description": "Meet the Stakt Mat Pro XL -  the same premium, ultra-supportive mat you love, now with even more room to move. At 80\" x 28\", it’s longer and wider than the original Stakt Mat Pro (69\" x 24\"), giving you extra comfort, stability, and space for every flow, sculpt, or stretch. Perfect for taller users or anyone who wants a little more wiggle room on the mat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnfolded: 80\" W x 28\" LFolded: 28\" x 10\" x 4\"",
+    "length": 203.2,
+    "width": 71.12,
+    "features": [
+      "Extra Wide",
+      "Premium"
+    ],
+    "shopifyId": 8384218300598,
+    "shopifyHandle": "stakt-mat-pro-xl",
+    "shopifyTags": [],
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
+    "variantsCount": 1,
+    "minPrice": 158,
+    "maxPrice": 158,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "hasMultipleColors": false,
+    "availableColors": [
+      "Black"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0135.jpg?v=1767307572",
+        "width": 2048,
+        "height": 2125,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0606.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2051,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0151.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0240.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2053,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0103.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2047,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0514.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
     "name": "The Strength Set",
     "slug": "stakt-the-strength-set",
     "description": "Meet your power couple: The Stakt Mat Pro and The Stakt Weights. The Mat Pro keeps you grounded with superior support and comfort during any workout, while the adjustable weights let you customize your workout on the fly.The Strength Set Includes:The Stakt Mat ProThe Stakt Weights",
@@ -326,7 +399,7 @@
     "shopifyTags": [
       "set"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 36,
     "minPrice": 188.8,
     "maxPrice": 188.8,
@@ -392,7 +465,7 @@
     "shopifyTags": [
       "set"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 36,
     "minPrice": 217.6,
     "maxPrice": 217.6,
@@ -458,7 +531,7 @@
     "shopifyTags": [
       "set"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 30,
     "minPrice": 161.6,
     "maxPrice": 161.6,
@@ -523,7 +596,7 @@
     "shopifyTags": [
       "set"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 108,
     "minPrice": 201.6,
     "maxPrice": 214.4,
@@ -595,7 +668,7 @@
     "shopifyTags": [
       "set"
     ],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
+    "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 54,
     "minPrice": 164.8,
     "maxPrice": 164.8,
@@ -650,79 +723,6 @@
         "width": 1464,
         "height": 1464,
         "position": 1
-      }
-    ]
-  },
-  {
-    "brandId": "",
-    "brandSlug": "stakt",
-    "name": "The Stakt Mat Pro XL",
-    "slug": "stakt-stakt-mat-pro-xl",
-    "description": "Meet the Stakt Mat Pro XL -  the same premium, ultra-supportive mat you love, now with even more room to move. At 80\" x 28\", it’s longer and wider than the original Stakt Mat Pro (69\" x 24\"), giving you extra comfort, stability, and space for every flow, sculpt, or stretch. Perfect for taller users or anyone who wants a little more wiggle room on the mat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnfolded: 80\" W x 28\" LFolded: 28\" x 10\" x 4\"",
-    "length": 203.2,
-    "width": 71.12,
-    "features": [
-      "Extra Wide",
-      "Premium"
-    ],
-    "shopifyId": 8384218300598,
-    "shopifyHandle": "stakt-mat-pro-xl",
-    "shopifyTags": [],
-    "shopifyUpdatedAt": "2026-01-09T01:18:53-05:00",
-    "variantsCount": 1,
-    "minPrice": 158,
-    "maxPrice": 158,
-    "priceCurrency": "USD",
-    "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
-    "shopifyOptions": [
-      {
-        "name": "Color",
-        "position": 1,
-        "values": [
-          "Black"
-        ]
-      }
-    ],
-    "images": [
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0135.jpg?v=1767307572",
-        "width": 2048,
-        "height": 2125,
-        "position": 1
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0606.jpg?v=1767307571",
-        "width": 2048,
-        "height": 2051,
-        "position": 2
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0151.jpg?v=1767307571",
-        "width": 2048,
-        "height": 2048,
-        "position": 3
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0240.jpg?v=1767307571",
-        "width": 2048,
-        "height": 2053,
-        "position": 4
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0103.jpg?v=1767307571",
-        "width": 2048,
-        "height": 2047,
-        "position": 5
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0514.jpg?v=1767307571",
-        "width": 2048,
-        "height": 2048,
-        "position": 6
       }
     ]
   }

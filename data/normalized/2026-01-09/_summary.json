@@ -1,14 +1,21 @@
 {
   "date": "2026-01-09",
-  "totalBrands": 22,
-  "totalProducts": 477,
-  "validProducts": 477,
+  "totalBrands": 23,
+  "totalProducts": 507,
+  "validProducts": 507,
   "invalidProducts": 0,
   "brands": [
     {
       "brandSlug": "42birds",
       "totalProducts": 10,
       "validProducts": 10,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "aloyoga",
+      "totalProducts": 30,
+      "validProducts": 30,
       "invalidProducts": 0,
       "errors": []
     },

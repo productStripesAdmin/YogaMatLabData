@@ -1,7 +1,7 @@
 {
   "date": "2026-01-09",
-  "totalProducts": 477,
-  "totalBrands": 22,
+  "totalProducts": 507,
+  "totalBrands": 23,
   "priceStats": {
     "min": 0,
     "max": 0,
@@ -9,18 +9,18 @@
     "median": 0
   },
   "materialBreakdown": {
-    "Cotton": 26,
+    "Cotton": 27,
     "Natural Rubber": 245,
-    "PVC": 41,
+    "PVC": 43,
     "TPE": 7,
     "Cork": 58,
     "NBR": 2
   },
   "featureBreakdown": {
-    "Eco-Friendly": 340,
-    "Non-Slip": 368,
-    "Lightweight": 140,
-    "Extra Wide": 111,
+    "Eco-Friendly": 346,
+    "Non-Slip": 371,
+    "Lightweight": 142,
+    "Extra Wide": 116,
     "Antimicrobial": 95,
     "Extra Thick": 126,
     "Extra Long": 8,

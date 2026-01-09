@@ -1,9 +1,9 @@
 {
   "date": "2026-01-09",
   "totalBrands": 25,
-  "successfulBrands": 22,
-  "failedBrands": 3,
-  "totalProducts": 478,
+  "successfulBrands": 23,
+  "failedBrands": 2,
+  "totalProducts": 507,
   "results": [
     {
       "brandName": "42 Birds",
@@ -15,10 +15,10 @@
     {
       "brandName": "Alo Yoga",
       "brandSlug": "aloyoga",
-      "success": false,
-      "productCount": 0,
+      "success": true,
+      "productCount": 30,
       "totalPages": 0,
-      "error": "All collections failed: Collection 1: HTTP 403: Forbidden"
+      "error": "Unsupported platform: custom"
     },
     {
       "brandName": "Ananday",
@@ -68,7 +68,7 @@
       "success": false,
       "productCount": 0,
       "totalPages": 0,
-      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.huggermugger.com/collections/yoga-mats\", waiting until \"networkidle\"\u001b[22m\n"
+      "error": "Unsupported platform: custom"
     },
     {
       "brandName": "Jade Yoga",
@@ -97,7 +97,7 @@
       "success": false,
       "productCount": 0,
       "totalPages": 0,
-      "error": "HTTP 400: Bad Request"
+      "error": "Unsupported platform: custom"
     },
     {
       "brandName": "Manduka",
@@ -159,7 +159,7 @@
       "brandName": "Yoga Design Lab",
       "brandSlug": "yogadesignlab",
       "success": true,
-      "productCount": 51,
+      "productCount": 49,
       "totalPages": 1
     },
     {
@@ -173,7 +173,7 @@
       "brandName": "Yogi Bare",
       "brandSlug": "yogi-bare",
       "success": true,
-      "productCount": 9,
+      "productCount": 10,
       "totalPages": 1
     },
     {

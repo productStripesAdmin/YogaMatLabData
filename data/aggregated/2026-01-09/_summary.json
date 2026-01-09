@@ -1,13 +1,17 @@
 {
   "date": "2026-01-09",
-  "totalBrands": 22,
-  "totalProducts": 477,
-  "uniqueSlugs": 477,
+  "totalBrands": 23,
+  "totalProducts": 507,
+  "uniqueSlugs": 507,
   "duplicateSlugs": 0,
   "brands": [
     {
       "brandSlug": "42birds",
       "productCount": 10
+    },
+    {
+      "brandSlug": "aloyoga",
+      "productCount": 30
     },
     {
       "brandSlug": "ananday",
@@ -101,18 +105,18 @@
     "median": 0
   },
   "materialBreakdown": {
-    "Cotton": 26,
+    "Cotton": 27,
     "Natural Rubber": 245,
-    "PVC": 41,
+    "PVC": 43,
     "TPE": 7,
     "Cork": 58,
     "NBR": 2
   },
   "featureBreakdown": {
-    "Eco-Friendly": 340,
-    "Non-Slip": 368,
-    "Lightweight": 140,
-    "Extra Wide": 111,
+    "Eco-Friendly": 346,
+    "Non-Slip": 371,
+    "Lightweight": 142,
+    "Extra Wide": 116,
     "Antimicrobial": 95,
     "Extra Thick": 126,
     "Extra Long": 8,
