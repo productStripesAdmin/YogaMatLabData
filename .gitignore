@@ -12,7 +12,8 @@ logs/
 
 # Data - ignored locally to prevent overwriting production data
 # GitHub Actions workflow uses 'git add --force' to commit data
-data/raw/
+data/raw/*
+!data/raw/manual/
 data/normalized/
 data/aggregated/
 data/changes/

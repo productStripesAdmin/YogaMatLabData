@@ -263,12 +263,25 @@ async function saveResults(
   results: ExtractionResult[]
 ): Promise<void> {
   for (const result of results) {
-    if (result.products.length === 0 && !result.success) {
-      continue; // Skip failed brands with no data
-    }
-
     const filename = `${result.brand.slug}.json`;
     const filepath = path.join(process.cwd(), 'data', 'raw', date, filename);
+
+    if (result.products.length === 0 && !result.success) {
+      // Check if there's a manual/fallback file we can use
+      const fallbackPath = path.join(process.cwd(), 'data', 'raw', 'manual', filename);
+
+      try {
+        await fs.access(fallbackPath);
+        // Fallback file exists, copy it to today's date
+        await fs.copyFile(fallbackPath, filepath);
+        logger.info(`📋 Used manual fallback for ${result.brand.slug} (extraction failed)`);
+        continue;
+      } catch {
+        // No fallback file, skip this brand
+        logger.warn(`⚠️  No data for ${result.brand.slug} and no manual fallback found`);
+        continue;
+      }
+    }
 
     // Save as Shopify format for normalization later
     const shopifyFormat = {
