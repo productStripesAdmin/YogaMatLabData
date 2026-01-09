@@ -399,3 +399,4 @@ platformConfig: v.optional(v.object({
   lululemonCategoryId: v.optional(v.string()),
   bigcommerceCollectionUrl: v.optional(v.string()),
 }))
+

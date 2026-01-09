@@ -1,9 +1,9 @@
 {
   "date": "2026-01-09",
-  "totalBrands": 23,
+  "totalBrands": 25,
   "successfulBrands": 22,
-  "failedBrands": 1,
-  "totalProducts": 477,
+  "failedBrands": 3,
+  "totalProducts": 478,
   "results": [
     {
       "brandName": "42 Birds",
@@ -63,6 +63,14 @@
       "totalPages": 1
     },
     {
+      "brandName": "Hugger Mugger",
+      "brandSlug": "hugger-mugger",
+      "success": false,
+      "productCount": 0,
+      "totalPages": 0,
+      "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.huggermugger.com/collections/yoga-mats\", waiting until \"networkidle\"\u001b[22m\n"
+    },
+    {
       "brandName": "Jade Yoga",
       "brandSlug": "jadeyoga",
       "success": true,
@@ -82,6 +90,14 @@
       "success": true,
       "productCount": 41,
       "totalPages": 1
+    },
+    {
+      "brandName": "Lululemon",
+      "brandSlug": "lululemon",
+      "success": false,
+      "productCount": 0,
+      "totalPages": 0,
+      "error": "HTTP 400: Bad Request"
     },
     {
       "brandName": "Manduka",
@@ -143,7 +159,7 @@
       "brandName": "Yoga Design Lab",
       "brandSlug": "yogadesignlab",
       "success": true,
-      "productCount": 49,
+      "productCount": 51,
       "totalPages": 1
     },
     {
@@ -157,7 +173,7 @@
       "brandName": "Yogi Bare",
       "brandSlug": "yogi-bare",
       "success": true,
-      "productCount": 10,
+      "productCount": 9,
       "totalPages": 1
     },
     {
