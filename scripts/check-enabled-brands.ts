@@ -12,7 +12,7 @@ try {
 
   const byPlatform: Record<string, any[]> = {};
   brands.forEach((b: any) => {
-    const platform = b.platform || (b.isShopify ? 'shopify' : 'unknown');
+    const platform = b.platform || 'shopify'; // Default to shopify
     if (!byPlatform[platform]) byPlatform[platform] = [];
     byPlatform[platform].push(b);
   });
@@ -27,7 +27,7 @@ try {
       if (platform === 'bigcommerce') {
         console.log(`    url: ${b.platformConfig?.bigcommerceCollectionUrl || b.productsJsonUrl}`);
       }
-      if (platform === 'shopify' || b.isShopify) {
+      if (platform === 'shopify') {
         const url = b.productsJsonUrl || 'NOT SET';
         console.log(`    url: ${url.substring(0, 80)}${url.length > 80 ? '...' : ''}`);
       }

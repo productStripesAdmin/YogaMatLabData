@@ -27,6 +27,8 @@ export interface NormalizedYogaMat {
   shopifyId: number;
   shopifyHandle: string;
   shopifyTags: string[];
+  shopifyCreatedAt: string;
+  shopifyPublishedAt: string;
   shopifyUpdatedAt: string;
 
   // Variants info
@@ -37,14 +39,31 @@ export interface NormalizedYogaMat {
   minGrams?: number;
   maxGrams?: number;
   isAvailable?: boolean; // true if any variant available
-  hasMultipleColors: boolean;
-  availableColors?: string[];
 
-  // Shopify options (size, color, style, etc.)
+  // Shopify options (size, color, style, etc.) - RAW DATA
   shopifyOptions?: Array<{
     name: string;
     position: number;
     values: string[];
+  }>;
+
+  // Normalized extractions from options
+  availableColors?: string[]; // ["Blue", "Green", "Purple"]
+  availableSizes?: Array<{
+    length: number; // Always in cm
+    width: number; // Always in cm
+    unit: 'cm'; // Explicit unit marker
+    originalString: string; // e.g., "Studio - 72\" L x 24\" W"
+  }>;
+  availableLengths?: Array<{
+    value: number; // Always in cm
+    unit: 'cm'; // Explicit unit marker
+    originalString: string; // e.g., "Standard 71\"", "Long 85\""
+  }>;
+  availableThicknesses?: Array<{
+    value: number; // Always in mm
+    unit: 'mm'; // Explicit unit marker
+    originalString: string; // e.g., "5 MM", "1/4 inch"
   }>;
 
   // Product images array
@@ -135,6 +154,118 @@ function extractThickness(product: ShopifyProduct, text: string): number | undef
   }
 
   return undefined;
+}
+
+/**
+ * Classifies what type of data an option contains based on values
+ */
+function classifyOptionValues(values: string[]): 'thickness' | 'dimensions' | 'length' | 'width' | 'color' | 'unknown' {
+  // Check all values to determine predominant pattern
+  let thicknessCount = 0;
+  let dimensionsCount = 0;
+  let lengthCount = 0;
+
+  for (const value of values) {
+    // Pattern 1: Thickness (strongest signal)
+    if (/\b(\d+(?:\.\d+)?)\s*(?:mm|millimeter)\b/i.test(value)) {
+      thicknessCount++;
+      continue;
+    }
+
+    // Pattern 2: Full dimensions (L x W)
+    if (/\d+(?:\.\d+)?[\"\'cm]?\s*[xX×]\s*\d+(?:\.\d+)?[\"\'cm]?/.test(value)) {
+      dimensionsCount++;
+      continue;
+    }
+
+    // Pattern 3: Single dimension with qualifier
+    if (/(long|tall|standard|extended|short)/i.test(value) && /\d+/.test(value)) {
+      lengthCount++;
+      continue;
+    }
+  }
+
+  // Majority wins
+  if (thicknessCount >= values.length * 0.5) return 'thickness';
+  if (dimensionsCount >= values.length * 0.5) return 'dimensions';
+  if (lengthCount >= values.length * 0.5) return 'length';
+
+  // Default to color if no clear pattern
+  return 'color';
+}
+
+/**
+ * Parses a dimension string and returns normalized values in cm
+ * Examples:
+ *   "Studio - 72\" L x 24\" W" → { length: 182.88, width: 60.96 }
+ *   "72\" x 26\"" → { length: 182.88, width: 66.04 }
+ *   "183cm x 61cm" → { length: 183, width: 61 }
+ */
+function parseDimensionString(dimStr: string): { length: number; width: number } | { length: number } | null {
+  // Pattern 1: Full dimensions (L x W)
+  const fullDimMatch = dimStr.match(/(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?/);
+
+  if (fullDimMatch) {
+    let length = parseFloat(fullDimMatch[1]);
+    let width = parseFloat(fullDimMatch[2]);
+
+    // Convert to cm if in inches (detect by unit or by value range)
+    const isCm = dimStr.toLowerCase().includes('cm');
+    if (!isCm) {
+      // Assume inches, convert to cm
+      length = length * 2.54;
+      width = width * 2.54;
+    }
+
+    return { length, width };
+  }
+
+  // Pattern 2: Single dimension (length only)
+  const singleDimMatch = dimStr.match(/(\d+(?:\.\d+)?)\s*(?:inch|"|cm)/);
+
+  if (singleDimMatch) {
+    let length = parseFloat(singleDimMatch[1]);
+
+    const isCm = dimStr.toLowerCase().includes('cm');
+    if (!isCm) {
+      length = length * 2.54; // Convert inches to cm
+    }
+
+    return { length };
+  }
+
+  return null;
+}
+
+/**
+ * Parses a thickness string and returns normalized value in mm
+ * Examples:
+ *   "5 MM" → 5
+ *   "1/4 inch" → 6.35
+ *   "3/16 inch thick" → 4.76
+ */
+function parseThicknessString(thicknessStr: string): number | null {
+  // Pattern 1: MM/millimeter
+  const mmMatch = thicknessStr.match(/(\d+(?:\.\d+)?)\s*(?:mm|millimeter)/i);
+  if (mmMatch) {
+    return parseFloat(mmMatch[1]);
+  }
+
+  // Pattern 2: Fractional inches (e.g., "1/4 inch", "3/16 inch")
+  const fractionMatch = thicknessStr.match(/(\d+)\/(\d+)\s*inch/i);
+  if (fractionMatch) {
+    const numerator = parseFloat(fractionMatch[1]);
+    const denominator = parseFloat(fractionMatch[2]);
+    return (numerator / denominator) * 25.4; // Convert inches to mm
+  }
+
+  // Pattern 3: Decimal inches (e.g., "0.25 inch", "1/8 inch thick")
+  const inchMatch = thicknessStr.match(/(\d+(?:\.\d+)?)\s*inch/i);
+  if (inchMatch) {
+    return parseFloat(inchMatch[1]) * 25.4; // Convert inches to mm
+  }
+
+  return null;
 }
 
 /**
@@ -412,25 +543,173 @@ function mapOptions(product: ShopifyProduct): Array<{
 }
 
 /**
- * Extracts available colors from options (priority) or variants (fallback)
+ * Extracts available colors from options ONLY (no variant fallback)
+ * Returns undefined if no explicit color option exists
  */
 function extractColors(product: ShopifyProduct): string[] | undefined {
-  // First, try to extract from options
-  if (product.options) {
-    for (const option of product.options) {
-      const optionName = option.name.toLowerCase();
-      if (optionName === 'color' || optionName === 'colour' || optionName === 'color/pattern') {
-        return option.values.filter(v => v && v !== 'Default Title');
+  if (!product.options) return undefined;
+
+  for (const option of product.options) {
+    const optionName = option.name.toLowerCase();
+
+    // Match explicit color option names
+    if (
+      optionName === 'color' ||
+      optionName === 'colour' ||
+      optionName === 'color/pattern' ||
+      /(?:mat|yoga|sock|towel).*?(?:colour|color)/i.test(optionName) // Liforme pattern
+    ) {
+      return option.values.filter(v => v && v !== 'Default Title');
+    }
+  }
+
+  // NO FALLBACK to variants - return undefined if no color option exists
+  return undefined;
+}
+
+/**
+ * Extracts and normalizes dimensions from Size/Dimension options
+ * Returns dimensions always in cm with original strings preserved
+ */
+function extractSizes(product: ShopifyProduct): Array<{
+  length: number;
+  width: number;
+  unit: 'cm';
+  originalString: string;
+}> | undefined {
+  if (!product.options) return undefined;
+
+  const sizes: Array<{ length: number; width: number; unit: 'cm'; originalString: string }> = [];
+
+  for (const option of product.options) {
+    const optionName = option.name.toLowerCase();
+
+    // Look for size/dimension options
+    if (
+      optionName === 'size' ||
+      optionName === 'dimension' ||
+      optionName === 'dimensions'
+    ) {
+      // Classify what this Size option actually contains
+      const classification = classifyOptionValues(option.values);
+
+      // Only process if it's dimensional data (not thickness or color)
+      if (classification === 'dimensions') {
+        for (const value of option.values) {
+          if (value === 'Default Title') continue;
+
+          const parsed = parseDimensionString(value);
+          if (parsed && 'width' in parsed) {
+            sizes.push({
+              length: parsed.length,
+              width: parsed.width,
+              unit: 'cm',
+              originalString: value
+            });
+          }
+        }
       }
     }
   }
 
-  // Fallback: extract from variants (option1 is typically color)
-  const colors = product.variants
-    .map(v => v.option1)
-    .filter((color): color is string => !!color && color !== 'Default Title');
+  return sizes.length > 0 ? sizes : undefined;
+}
 
-  return colors.length > 0 ? [...new Set(colors)] : undefined;
+/**
+ * Extracts single length dimensions (when width not specified)
+ */
+function extractLengths(product: ShopifyProduct): Array<{
+  value: number;
+  unit: 'cm';
+  originalString: string;
+}> | undefined {
+  if (!product.options) return undefined;
+
+  const lengths: Array<{ value: number; unit: 'cm'; originalString: string }> = [];
+
+  for (const option of product.options) {
+    const optionName = option.name.toLowerCase();
+
+    if (
+      optionName === 'size' ||
+      optionName === 'length'
+    ) {
+      const classification = classifyOptionValues(option.values);
+
+      if (classification === 'length') {
+        for (const value of option.values) {
+          if (value === 'Default Title') continue;
+
+          const parsed = parseDimensionString(value);
+          if (parsed && 'length' in parsed && !('width' in parsed)) {
+            lengths.push({
+              value: parsed.length,
+              unit: 'cm',
+              originalString: value
+            });
+          }
+        }
+      }
+    }
+  }
+
+  return lengths.length > 0 ? lengths : undefined;
+}
+
+/**
+ * Extracts and normalizes thickness values from options
+ * Returns thickness always in mm with original strings preserved
+ */
+function extractThicknessOptions(product: ShopifyProduct): Array<{
+  value: number;
+  unit: 'mm';
+  originalString: string;
+}> | undefined {
+  if (!product.options) return undefined;
+
+  const thicknesses: Array<{ value: number; unit: 'mm'; originalString: string }> = [];
+
+  for (const option of product.options) {
+    const optionName = option.name.toLowerCase();
+
+    // Explicit thickness option
+    if (optionName === 'thickness') {
+      for (const value of option.values) {
+        if (value === 'Default Title') continue;
+
+        const parsed = parseThicknessString(value);
+        if (parsed !== null) {
+          thicknesses.push({
+            value: parsed,
+            unit: 'mm',
+            originalString: value
+          });
+        }
+      }
+    }
+
+    // Size option that contains thickness
+    if (optionName === 'size') {
+      const classification = classifyOptionValues(option.values);
+
+      if (classification === 'thickness') {
+        for (const value of option.values) {
+          if (value === 'Default Title') continue;
+
+          const parsed = parseThicknessString(value);
+          if (parsed !== null) {
+            thicknesses.push({
+              value: parsed,
+              unit: 'mm',
+              originalString: value
+            });
+          }
+        }
+      }
+    }
+  }
+
+  return thicknesses.length > 0 ? thicknesses : undefined;
 }
 
 /**
@@ -470,6 +749,8 @@ export function mapShopifyToYogaMat(
     shopifyId: product.id,
     shopifyHandle: product.handle,
     shopifyTags: product.tags,
+    shopifyCreatedAt: product.created_at,
+    shopifyPublishedAt: product.published_at,
     shopifyUpdatedAt: product.updated_at,
 
     // Variants
@@ -480,12 +761,16 @@ export function mapShopifyToYogaMat(
     minGrams: gramsRange?.min,
     maxGrams: gramsRange?.max,
     isAvailable: getAvailability(product),
-    hasMultipleColors: product.variants.length > 1,
-    availableColors: extractColors(product),
 
-    // Shopify options and images
+    // Shopify options and images (RAW DATA)
     shopifyOptions: mapOptions(product),
     images: mapImages(product),
+
+    // Normalized extractions from options
+    availableColors: extractColors(product),
+    availableSizes: extractSizes(product),
+    availableLengths: extractLengths(product),
+    availableThicknesses: extractThicknessOptions(product),
   };
 }
 

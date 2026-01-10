@@ -44,6 +44,21 @@
       "type": "array",
       "description": "Shopify tags for features/materials extraction"
     },
+    "shopifyCreatedAt": {
+      "source": "created_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was created in Shopify"
+    },
+    "shopifyPublishedAt": {
+      "source": "published_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was published in Shopify"
+    },
+    "shopifyUpdatedAt": {
+      "source": "updated_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was last updated in Shopify"
+    },
     "shopifyOptions": {
       "source": "options",
       "type": "array",
@@ -73,6 +88,22 @@
     "isAvailable": {
       "computed": true,
       "description": "True if any variant is available for purchase"
+    },
+    "availableColors": {
+      "computed": true,
+      "description": "Normalized color options extracted from Color/Colour options only (e.g., ['Blue', 'Green', 'Purple'])"
+    },
+    "availableSizes": {
+      "computed": true,
+      "description": "Normalized full dimensions (L×W) in cm with unit and original strings (e.g., [{length: 182.88, width: 60.96, unit: 'cm', originalString: 'Studio - 72\" L x 24\" W'}])"
+    },
+    "availableLengths": {
+      "computed": true,
+      "description": "Normalized single length dimensions in cm with unit and original strings (e.g., [{value: 180, unit: 'cm', originalString: 'Standard 71\"'}])"
+    },
+    "availableThicknesses": {
+      "computed": true,
+      "description": "Normalized thickness values in mm with unit and original strings (e.g., [{value: 5, unit: 'mm', originalString: '5 MM'}, {value: 6.35, unit: 'mm', originalString: '1/4 inch'}])"
     }
   },
   "extractionPriority": {

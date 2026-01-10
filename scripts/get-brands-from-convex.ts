@@ -28,8 +28,7 @@ interface Brand {
   website: string;
   scrapingEnabled: boolean;
   productsJsonUrl: string | null;
-  isShopify: boolean;
-  platform?: 'shopify' | 'lululemon' | 'bigcommerce' | 'custom'; // Platform type for custom scrapers
+  platform?: 'shopify' | 'lululemon' | 'bigcommerce' | 'custom'; // Platform type (defaults to 'shopify' if not specified)
   platformConfig?: {
     lululemonCategoryId?: string; // For Lululemon GraphQL
     bigcommerceCollectionUrl?: string; // For BigCommerce
@@ -77,7 +76,8 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
     logger.brandStart(brand.name);
 
     // Determine platform and route to appropriate scraper
-    const platform = brand.platform || (brand.isShopify ? 'shopify' : 'custom');
+    // Default to 'shopify' if platform not specified
+    const platform = brand.platform || 'shopify';
     logger.info(`Platform: ${platform}`);
 
     let allProducts: ShopifyProduct[] = [];
@@ -141,7 +141,7 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
       totalPages = 1; // BigCommerce scraper doesn't have pagination concept
       logger.info(`    ✓ Fetched ${result.products.length} products`);
 
-    } else if (platform === 'shopify' || brand.isShopify) {
+    } else if (platform === 'shopify') {
       // Shopify products.json scraper (standard)
       if (!brand.productsJsonUrl) {
         throw new Error('No productsJsonUrl configured for this brand');
