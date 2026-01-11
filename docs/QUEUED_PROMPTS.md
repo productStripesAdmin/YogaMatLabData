@@ -36,7 +36,7 @@ MD5 is faster and sufficient for this non-security use case.
   "manduka": { ... }
 }
 
-## Prompt 3 - Alo Yoga - On Hold
+## Prompt 3 - Alo Yoga - DONE
 
 Alo Yoga (https://www.aloyoga.com) blocks fetching their products.json endpoint (HTTP 403: Forbidden). Can you suggest a workaround? Should we consider adding browser-like headers (User-Agent, Accept, etc.) in your fetch code OR using libraries/tools that better mimic browsers (e.g., Playwright, Puppeteer, or requests with cloudscraper/flaresolverr for Cloudflare bypass). Or manually updating their products.json?
 
@@ -377,15 +377,15 @@ I want to use custom product descriptions that are a combination of the brands o
 1. Do you think this is a good idea?
 2. How to you suggest we can about this?
 
-## Prompt 10 - Link to external sites (need to be careful!)
+## Prompt 10 - Link to external sites (need to be careful!) - On Hold
 
 I have thought about linking to external sites (e.g. Reddit, YouTube, Wirecutter, etc.) on product pages whenever a relevant link is found. However, I feel this could go against the premise and mission of YogaMatLab which is to be the dominant authority for Yoga Mat reviews. What do you think? Link or don't link.
 
-## Prompt 11 - The Satori Concept store (multiple products.json endpoints)
+## Prompt 11 - The Satori Concept store (multiple products.json endpoints) - DONE
 
 The thesatoriconcept has multiple products.json endpoints. How should I handle this? An array of endpoints?
 
-## Prompt 12 - Add platform to brands schema
+## Prompt 12 - Add platform to brands schema - DONE
 
 In YogaMatLabApp Convex:
 1. Update brands schema to include:
@@ -400,3 +400,149 @@ platformConfig: v.optional(v.object({
   bigcommerceCollectionUrl: v.optional(v.string()),
 }))
 
+## Prompt 13 - availableColors - DONE
+
+@scripts/lib/field-mapper.ts There is some overlap between the availableColors and shopifyOptions fields. I like how availableColors extracts the important information e.g. ["Blue", "Green", "Purple"] however it also extracts sizes!
+
+Let's deprecate availableColors, keep shopifyOptions and add it to the products classification page so that it's easy to view the options available for any given product.
+
+## Prompt 14 - Dimensions from description (extract dimensions) - DONE
+
+@scripts/lib/field-mapper.ts should be able to extract length (80" Long) and width (28" Wide) from this description: 
+
+```text
+`Our Thickest, Longest, Widest Mat: At 5/16" (8mm) thick, the XW Fusion is perfect for the XL yogi, or anyone looking for a mat with enough room to comfortably move and enough cushion for their body.
+
+80" Long and 28" Wide: Wider and longer than your average yoga mat
+
+Incredible grip and ultra comfortable: Never worry about slipping again with our grippy, open cell natural rubber mats.
+
+Eco-Friendly: Made from natural rubber tapped from rubber trees, a renewable resource.
+
+Non-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. 
+
+Dimensions: 5/16" (8mm) thick, 28" wide and is available 80" long, in beautiful two tone Purple/Midnight Blue
+```
+
+## Prompt 14 - Dimension Units - DONE
+
+For dimensions (length, width), thickness, and weight, saved in Convex it's not obvious what units the values are! Plus I feel like all original measurements extracted from the data should be preserved and saved to make it easy to cross-check that the right data was extracted.
+
+## Prompt 15 - Clean-up Normalized Product and products schema - DONE
+
+@scripts/lib/field-mapper.ts The following fields in the brands.convex table are empty in all instances. Can they be deprecated?
+
+- scrapedAt
+- productIt
+- reviewCount
+- inStock
+- colors
+- brandId
+
+Furthermore
+
+- I don't think price is needed anymore given we have a priceRange field
+- currency is empty in all instances (should default to USD)
+- tags is empty in all instances (can you check this?)
+- url is empty in all instances. This should be the store url + product handle. Maybe renamed to: brandProductUrl in case we add other URLs e.g. amazonProductUrl. Or maybe just save the brand product handle (brandProductSlug) and can construct the url on the front-end.
+
+## Prompt 17 - Clean-up products schema - DONE
+
+Remove these fields from the products schema
+
+  ✅ Deprecated Fields Kept (For Backwards Compatibility)
+
+  Since you have existing data, I kept these fields as optional:
+  - hasMultipleColors, imageUrl, price, currency, priceRange
+  - colors, tags, inStock, rating, reviewCount
+  - scrapedAt, productId, url
+
+
+  I've successfully updated the products schema in your YogaMatLabApp to align with the NormalizedYogaMat interface from YogaMatLabData. Here's what was changed:
+
+  Files Modified
+
+  1. convex/schema.ts - Updated the products table definition
+  2. convex/products/bulkUpsert.ts - Updated the productInput schema
+
+  Key Changes Made
+
+  ✅ New Fields Added (Hybrid Extraction Approach)
+
+  - availableSizes - Array of size objects with length, width, unit, and originalString
+  - availableLengths - Array of length objects with value, unit, and originalString
+  - availableThicknesses - Array of thickness objects with value, unit, and originalString
+  - texture - Product texture attribute
+
+  ✅ Fields Updated
+
+  - brandId - Changed to v.union(v.id("brands"), v.string()) for backwards compatibility
+  - shopifyId, shopifyHandle, shopifyTags, shopifyUpdatedAt - Made optional for backwards compat
+  - variantsCount - Made optional
+  - images[].alt - Changed to v.optional(v.union(v.string(), v.null())) to support existing data without alt text
+
+  ✅ Deprecated Fields Kept (For Backwards Compatibility)
+
+  Since you have existing data, I kept these fields as optional:
+  - hasMultipleColors, imageUrl, price, currency, priceRange
+  - colors, tags, inStock, rating, reviewCount
+  - scrapedAt, productId, url
+
+  ✅ Schema Successfully Pushed
+
+  The schema has been validated and pushed to Convex. The deployment log shows:
+  - Schema validation passed
+  - Index products.by_price was removed (since price is deprecated)
+  - Convex functions ready
+
+  Next Steps
+
+  You can now:
+
+  1. Run the YogaMatLabData pipeline to populate the new fields (availableSizes, availableLengths, availableThicknesses)
+  2. Use the updated schema in your queries and mutations
+  3. Gradually migrate away from deprecated fields as you update existing code
+
+  The schema is backward compatible with your existing data while supporting the new normalized structure from YogaMatLabData.
+
+✻ Brewed for 4m 3s
+
+⏺ Background command "Push schema changes to Convex" failed with exit code 137.
+
+⏺ I see both background tasks were killed (exit code 137 indicates they were terminated). That's expected since I manually killed them using the KillShell tool after the schema was successfully pushed.
+
+  The important part is that before I killed the second process (b8407ed), the schema had already been successfully validated and pushed to Convex, as shown in the output:
+
+  ✔ Deleted table indexes:
+    [-] products.by_price   price, _creationTime
+  ✔ 01:01:12 Convex functions ready! (7.96s)
+
+  The schema update is complete and live in your Convex deployment. The products table now includes:
+
+  - ✅ New hybrid extraction fields (availableSizes, availableLengths, availableThicknesses)
+  - ✅ Updated images structure with optional alt text
+  - ✅ Backwards compatibility with existing deprecated fields
+  - ✅ All changes synchronized with YogaMatLabData's NormalizedYogaMat interface
+
+  You're all set to start using the updated schema!
+
+
+## Prompt 18 - Remove isShopify from brands schema (instead use platform = shopify) - DONE
+
+Is brands.isShopify being used? I would prefer to use brands.platform = shopify instead
+
+## Prompt 19 - Dimensions in NormalizedProducts and products table - DONE
+
+It's not obvious which units are associated with the lenght, width, thickness, weight measurements that are extracted from text. Can you please save the units and original text, perhaps in an array: value, unit, originalText? 
+
+## Prompt 20 - Codex - 
+
+For some reasons, the following shopifyOptions are being saved as availableColors whereas it should be saved as availableThickness. Can you please check this. Ty!
+
+[
+  {
+    name: "Thickness",
+    position: 1,
+    values: ["5MM", "8MM"],
+  },
+]

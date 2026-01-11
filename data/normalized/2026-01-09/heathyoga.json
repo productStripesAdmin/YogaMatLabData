@@ -5,9 +5,24 @@
     "name": "TPE Body Alignment System Yoga Mat - Gray",
     "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-grey-heathyoga",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Gray is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -16,6 +31,8 @@
     ],
     "shopifyId": 1828596809763,
     "shopifyHandle": "tpe-body-alignment-system-yoga-mat-grey-heathyoga",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "female",
       "gray",
@@ -23,6 +40,8 @@
       "top selling",
       "TPE"
     ],
+    "shopifyCreatedAt": "2019-07-30T19:57:47+08:00",
+    "shopifyPublishedAt": "2019-07-30T19:57:47+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -31,10 +50,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Gray"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -75,6 +90,9 @@
         "height": 1000,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Gray"
     ]
   },
   {
@@ -83,9 +101,24 @@
     "name": "Heathyoga TPE Body Alignment System Yoga Mat - Turquoise",
     "slug": "heathyoga-tpe-body-alignment-system-non-slip-yoga-mat",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Grass Gren is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -94,6 +127,8 @@
     ],
     "shopifyId": 1725628940323,
     "shopifyHandle": "tpe-body-alignment-system-non-slip-yoga-mat",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "fbtt4_mat-blocks",
       "female",
@@ -102,6 +137,8 @@
       "TPE",
       "turquoise"
     ],
+    "shopifyCreatedAt": "2019-05-16T14:47:10+08:00",
+    "shopifyPublishedAt": "2019-05-17T11:56:14+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -110,10 +147,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Turquoise"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -154,6 +187,9 @@
         "height": 1000,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Turquoise"
     ]
   },
   {
@@ -162,9 +198,24 @@
     "name": "Heathyoga TPE Body Alignment System Yoga Mat - Navy Blue",
     "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-blue-heathyoga",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Navy Blue is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga.\n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -173,6 +224,8 @@
     ],
     "shopifyId": 1828546183203,
     "shopifyHandle": "tpe-body-alignment-system-yoga-mat-blue-heathyoga",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "blue",
       "female",
@@ -181,6 +234,8 @@
       "top selling",
       "TPE"
     ],
+    "shopifyCreatedAt": "2019-07-30T19:07:43+08:00",
+    "shopifyPublishedAt": "2019-07-30T19:07:43+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -189,10 +244,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Navy Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -233,6 +284,9 @@
         "height": 1000,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Navy Blue"
     ]
   },
   {
@@ -241,9 +295,24 @@
     "name": "Heathyoga TPE Body Alignment System Yoga Mat - Purple",
     "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-purple-heathyoga",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Purple is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga.\n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory:?Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -252,6 +321,8 @@
     ],
     "shopifyId": 1828612210723,
     "shopifyHandle": "tpe-body-alignment-system-yoga-mat-purple-heathyoga",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "female",
       "HY yoga mat",
@@ -260,6 +331,8 @@
       "top selling",
       "TPE"
     ],
+    "shopifyCreatedAt": "2019-07-30T20:18:48+08:00",
+    "shopifyPublishedAt": "2019-07-30T20:18:48+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -268,10 +341,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": false,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -312,6 +381,9 @@
         "height": 1000,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Purple"
     ]
   },
   {
@@ -320,9 +392,24 @@
     "name": "Heathyoga TPE Body Alignment System Yoga Mat - Grass Green",
     "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-lemon-green-heathyoga",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Grass Gren is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -331,6 +418,8 @@
     ],
     "shopifyId": 1828602445859,
     "shopifyHandle": "tpe-body-alignment-system-yoga-mat-lemon-green-heathyoga",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "female",
       "grass-green",
@@ -339,6 +428,8 @@
       "top selling",
       "TPE"
     ],
+    "shopifyCreatedAt": "2019-07-30T20:05:37+08:00",
+    "shopifyPublishedAt": "2019-07-30T20:05:37+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -347,10 +438,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Grass Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -367,6 +454,9 @@
         "height": 1400,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Grass Green"
     ]
   },
   {
@@ -375,9 +465,24 @@
     "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
     "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
     "description": "The Heathyoga TPE Body Alignment System Yoga Mat Pink is designed for yoga lovers. Made of nonslip material, certified by SGS. Free of latex, PVC, or any other toxic material. Yoga beginners can use the body alignment lines as body movement guidance when practicing yoga. \n\n\n\nFeatures\n\n6mm thick\n72\" x 26\"\nDouble-layer\nFree of latex, PVC, or any heavy metal\n\n\n\n\nAccessory: Velcro strap + carry strap",
-    "thickness": 6,
-    "length": 182.88,
-    "width": 66.04,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\""
+    },
     "material": "PVC",
     "features": [
       "Extra Thick",
@@ -386,6 +491,8 @@
     ],
     "shopifyId": 1828609949731,
     "shopifyHandle": "tpe-body-alignment-system-yoga-mat-pink-heathyoga",
+    "shopifyVendor": "Heathyoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "female",
       "HY yoga mat",
@@ -394,6 +501,8 @@
       "top selling",
       "TPE"
     ],
+    "shopifyCreatedAt": "2019-07-30T20:15:25+08:00",
+    "shopifyPublishedAt": "2019-07-30T20:15:25+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:02:57+08:00",
     "variantsCount": 1,
     "minPrice": 64.9,
@@ -402,10 +511,6 @@
     "minGrams": 1089,
     "maxGrams": 1089,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -422,6 +527,9 @@
         "height": 1400,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Pink"
     ]
   }
 ]

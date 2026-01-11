@@ -9,9 +9,13 @@
     ],
     "shopifyId": 7703088726200,
     "shopifyHandle": "12566",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:30:58-07:00",
+    "shopifyPublishedAt": "2024-07-30T00:33:19-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 8,
     "minPrice": 89.99,
@@ -20,12 +24,6 @@
     "minGrams": 4536,
     "maxGrams": 4990,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Smoky Gray Pink",
-      "Light Water Blue",
-      "Light Grass Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -71,6 +69,28 @@
         "height": 800,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Smoky Gray Pink",
+      "Light Water Blue",
+      "Light Grass Green"
+    ],
+    "availableThicknesses": [
+      {
+        "value": 7,
+        "unit": "mm",
+        "originalString": "7mm/0.3in"
+      },
+      {
+        "value": 9,
+        "unit": "mm",
+        "originalString": "9mm/0.4in"
+      },
+      {
+        "value": 12,
+        "unit": "mm",
+        "originalString": "12mm/0.5in"
+      }
     ]
   },
   {
@@ -81,9 +101,13 @@
     "features": [],
     "shopifyId": 7703088791736,
     "shopifyHandle": "12912",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:31:00-07:00",
+    "shopifyPublishedAt": "2024-08-01T00:25:08-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 3,
     "minPrice": 89.99,
@@ -92,12 +116,6 @@
     "minGrams": 3629,
     "maxGrams": 3629,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pink",
-      "Purple",
-      "Gray"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -170,6 +188,11 @@
         "height": 800,
         "position": 10
       }
+    ],
+    "availableColors": [
+      "Pink",
+      "Purple",
+      "Gray"
     ]
   },
   {
@@ -180,9 +203,13 @@
     "features": [],
     "shopifyId": 7703088922808,
     "shopifyHandle": "10004030",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:31:03-07:00",
+    "shopifyPublishedAt": "2024-07-25T02:45:20-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 8,
     "minPrice": 79.9,
@@ -191,13 +218,6 @@
     "minGrams": 3629,
     "maxGrams": 3629,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pink",
-      "Green",
-      "Purple",
-      "Gray"
-    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -249,6 +269,12 @@
         "height": 800,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Pink",
+      "Green",
+      "Purple",
+      "Gray"
     ]
   },
   {
@@ -260,9 +286,13 @@
     "features": [],
     "shopifyId": 7703088955576,
     "shopifyHandle": "10010278",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:31:04-07:00",
+    "shopifyPublishedAt": "2024-07-30T01:04:17-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 2,
     "minPrice": 109.9,
@@ -271,11 +301,6 @@
     "minGrams": 3629,
     "maxGrams": 3629,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Hibiscus Purple",
-      "Night Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -329,6 +354,10 @@
         "height": 800,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Hibiscus Purple",
+      "Night Blue"
     ]
   },
   {
@@ -339,20 +368,19 @@
     "features": [],
     "shopifyId": 7703088857272,
     "shopifyHandle": "10002590",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:31:01-07:00",
+    "shopifyPublishedAt": "2024-07-29T01:49:41-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 4,
     "minPrice": 86.9,
     "maxPrice": 99.9,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Gray Pink",
-      "Hibiscus Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -390,6 +418,22 @@
         "height": 800,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Gray Pink",
+      "Hibiscus Purple"
+    ],
+    "availableThicknesses": [
+      {
+        "value": 7,
+        "unit": "mm",
+        "originalString": "7mm/0.3in"
+      },
+      {
+        "value": 9,
+        "unit": "mm",
+        "originalString": "9mm/0.4in"
+      }
     ]
   },
   {
@@ -400,9 +444,13 @@
     "features": [],
     "shopifyId": 7703088890040,
     "shopifyHandle": "10003641",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:31:02-07:00",
+    "shopifyPublishedAt": "2024-07-29T02:24:20-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 4,
     "minPrice": 89.19,
@@ -411,13 +459,6 @@
     "minGrams": 3402,
     "maxGrams": 3402,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pink",
-      "Green",
-      "Purple",
-      "Gray"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -461,6 +502,12 @@
         "height": 800,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Pink",
+      "Green",
+      "Purple",
+      "Gray"
     ]
   },
   {
@@ -471,9 +518,13 @@
     "features": [],
     "shopifyId": 7703088758968,
     "shopifyHandle": "12801",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
     "shopifyTags": [
       "Yoga Mat"
     ],
+    "shopifyCreatedAt": "2024-05-20T23:30:59-07:00",
+    "shopifyPublishedAt": "2024-07-29T00:18:55-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:05-08:00",
     "variantsCount": 10,
     "minPrice": 79.9,
@@ -482,17 +533,6 @@
     "minGrams": 3629,
     "maxGrams": 3629,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blue",
-      "Dark Gray",
-      "Purple",
-      "Pink",
-      "Mat Purple/Dark Gray",
-      "Pink/Purple",
-      "Blue/Silver Gray",
-      "Dark Gray/Silver Gray"
-    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -571,6 +611,28 @@
         "width": 800,
         "height": 800,
         "position": 9
+      }
+    ],
+    "availableColors": [
+      "Blue",
+      "Dark Gray",
+      "Purple",
+      "Pink",
+      "Mat Purple/Dark Gray",
+      "Pink/Purple",
+      "Blue/Silver Gray",
+      "Dark Gray/Silver Gray"
+    ],
+    "availableThicknesses": [
+      {
+        "value": 6,
+        "unit": "mm",
+        "originalString": "6mm/0.24in"
+      },
+      {
+        "value": 7,
+        "unit": "mm",
+        "originalString": "7mm/0.3in"
       }
     ]
   }

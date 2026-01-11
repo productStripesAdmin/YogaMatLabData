@@ -5,10 +5,30 @@
     "name": "Chakra Align - Herbal Yoga Mat, 7mm",
     "slug": "okoliving-chakraalign",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our new Chakra Energy mat! Each 7 Chakra colors are naturally dyed with medicinal Ayurvedic plants. This mat was designed to help align your energy and support your optimal wellness. Hand-loomed with GOTS certified cotton and ethically made by artisans with love. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\nFUNCTIONAL    - Sweat & Slip Resistant   - Extra Supportive, 7mm thick cotton   - Ultra Light 4 lbs, 77\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 1.814371637742559,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "weight": {
+      "value": 1.814371637742559,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -17,12 +37,16 @@
     ],
     "shopifyId": 8613351620850,
     "shopifyHandle": "chakraalign",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "new",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2024-10-23T10:33:50-07:00",
+    "shopifyPublishedAt": "2024-10-23T17:51:00-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 210.8,
@@ -31,7 +55,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -98,10 +121,30 @@
     "name": "Yin-Yang Amethyst - Naturally Dyed Herbal Yoga Mat 7mm",
     "slug": "okoliving-yin-yang-amethyst",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nHarmonize and balance your energy with our designer Yin-Yang mat. Unleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is hand-loomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nBONUSESFREE Carry case + Wildcrafted soap nut laundry detergent.FREE Yin-Yang Journal (digital download)FREE Yin & Yang Yoga class\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 7mm thick   - Light 4 lbs, 77\" x 27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 1.814371637742559,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "weight": {
+      "value": 1.814371637742559,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -110,11 +153,15 @@
     ],
     "shopifyId": 8543398953202,
     "shopifyHandle": "yin-yang-amethyst",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2024-08-04T01:34:55-07:00",
+    "shopifyPublishedAt": "2024-08-04T01:38:39-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 210.8,
@@ -123,7 +170,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -166,10 +212,30 @@
     "name": "Yin-Yang Clay - Naturally Dyed Herbal Yoga Mat 7mm",
     "slug": "okoliving-yin-yang-clay",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nHarmonize and balance your energy with our designer Yin-Yang mat. Unleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is hand-loomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nBONUSESFREE Carry case + Wildcrafted soap nut laundry detergent.FREE Yin-Yang Journal (digital download)FREE Yin & Yang Yoga class\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 7mm thick   - Light 4 lbs, 77\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 1.814371637742559,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "weight": {
+      "value": 1.814371637742559,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -178,11 +244,15 @@
     ],
     "shopifyId": 8543328927986,
     "shopifyHandle": "yin-yang-clay",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2024-08-03T21:24:28-07:00",
+    "shopifyPublishedAt": "2024-08-04T00:56:10-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 210.8,
@@ -191,7 +261,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -234,10 +303,30 @@
     "name": "Solar Flower - Naturally Dyed Herbal Yoga Mat 7mm",
     "slug": "okoliving-solarflower",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nHarness the Spring & Summer energy with our new limited edition Solar Flower mat.  Inspired by Matisse and rooted in Ayurvedic wisdom, the Solar Flower is our newest hand-loomed yoga rug—infused with the spirit of marigolds, sunflowers, and the sun itself.⁠ In Ayurveda, solar-aligned blooms symbolize clarity, energy, and uplifted emotional states. Just like your practice, they’re radiant reminders of your vitality. \nUnleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is hand-loomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nBONUSESFREE Carry case + Wildcrafted soap nut laundry detergent.FREE Yin-Yang Journal (digital download)FREE Yin & Yang Yoga class\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 7mm thick   - Light 4 lbs, 77\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 1.814371637742559,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x27\""
+    },
+    "weight": {
+      "value": 1.814371637742559,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -246,11 +335,15 @@
     ],
     "shopifyId": 8744090730738,
     "shopifyHandle": "solarflower",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2025-05-12T15:08:44-07:00",
+    "shopifyPublishedAt": "2025-05-13T19:28:23-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 223.2,
@@ -259,7 +352,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -296,10 +388,30 @@
     "name": "Diamond Yoga Mat - Clay 7mm - Organic Cotton",
     "slug": "okoliving-diamond-yoga-mat-clay-7mm",
     "description": "Best grip of any yoga rug guaranteed!\n\nOur all new organic cotton Diamond mat is world's first mat featuring zigzag grip strips with an invisible tree rubber coating for ultimate grip. It's also our thickest mat at 7mm thick! Naturally dyed with soothing herbs. This is the most luxurious cozy and functional mat on the market!- FREE Carry Case + Mat Wash (Soap Nuts)\n\nFUNCTIONAL   - Ultra thick - 7 mm   - Extra Long + Wide - 74\" x27\"   - Light - 4.3 lbs   - Non-Skid - Natural Tree Rubber Coated Bottom   - Non-Slip - Natural Tree Rubber Coated Top Grip Strips   - Non-Stink - Naturally Antibacterial and Antimicrobial   - Best Grip - Builds More Strength + Balance   - Easy Machine Washable\n  NATURAL   - 100% GOTS Certified Organic Cotton   - Ethically Hand-loomed & Plant Dyed   - No Off-gassing or VOC Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\n WELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing & Relaxing Herbs (Iike Turmeric, Neem and Holy Basil)   - Peace of Mind - Ethically Handloomed",
-    "thickness": 7,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.9504495105732509,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.9504495105732509,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.3 lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -312,10 +424,14 @@
     ],
     "shopifyId": 8102583206130,
     "shopifyHandle": "diamond-yoga-mat-clay-7mm",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale"
     ],
+    "shopifyCreatedAt": "2024-02-12T19:07:51-08:00",
+    "shopifyPublishedAt": "2024-02-12T19:20:09-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 210.8,
@@ -324,7 +440,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -361,10 +476,30 @@
     "name": "Chakra Energy - Herbal Yoga Mat",
     "slug": "okoliving-chakra",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\n \n\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our new Chakra Energy mat! Each 7 Chakra colors are naturally dyed with medicinal Ayurvedic plants. This mat was designed to help align your energy and support your optimal wellness. Hand-loomed with GOTS certified cotton and ethically made by artisans with love. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\nFUNCTIONAL    - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties\n* Chakra mats are hand wash only, we can't accept returns or exchanges for any color fading or issued caused by a washing machine.",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -372,11 +507,15 @@
     ],
     "shopifyId": 5980177399968,
     "shopifyHandle": "chakra",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2021-01-11T22:51:58-08:00",
+    "shopifyPublishedAt": "2021-01-12T21:14:22-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 181.8,
@@ -385,7 +524,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -440,10 +578,30 @@
     "name": "Clay - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-clay",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nUnleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is  handloomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nFREE Carry case + Wildcrafted soap nut laundry detergent.\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -451,11 +609,15 @@
     ],
     "shopifyId": 4461964689501,
     "shopifyHandle": "clay",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2019-12-16T00:31:29-08:00",
+    "shopifyPublishedAt": "2019-12-15T18:57:54-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 161.6,
@@ -464,7 +626,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -513,10 +674,30 @@
     "name": "Jade & Jute - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-jade-jute-5mm",
     "description": "Description\n\n\nFeatures\n\n\nWellness Benefits\n\n\n\n\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our new Jade & Jute Mat! This is our only thicker mat interwoven with jute to amplify your grip power.  Herbal dyed with medicinal Ayurvedic plants and ethically hand-loomed with GOTS certified cotton. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\n\n\nFUNCTIONAL    - Sweat & Slip Resistant   - 5mm thick   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Foldable for Easy Travel    - Naturally Antibacterial and Antimicrobial   - Perfect grip for building strength and balance\n\n\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton (91%) and Jute (8%)   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 10 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -526,11 +707,15 @@
     ],
     "shopifyId": 7678629839090,
     "shopifyHandle": "jade-jute-5mm",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2022-06-08T15:11:03-07:00",
+    "shopifyPublishedAt": "2022-11-17T10:46:09-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 161.6,
@@ -539,7 +724,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -606,10 +790,30 @@
     "name": "Indigo Moon - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-indigo-moon",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nUnleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is  handloomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nFREE Carry case + Wildcrafted soap nut laundry detergent.\n FUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal PropertiesNote: Natural Indigo may rub off a bit on hands and feet before its first wash, colors are dyed extra dark because they will naturally lighten a bit over time. This is the nature of plant dyes and we hope you see this as a beautiful and natural process.",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -617,10 +821,14 @@
     ],
     "shopifyId": 5498001686688,
     "shopifyHandle": "indigo-moon",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale"
     ],
+    "shopifyCreatedAt": "2020-08-11T14:09:58-07:00",
+    "shopifyPublishedAt": "2020-08-11T14:09:59-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 171.7,
@@ -629,7 +837,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -678,10 +885,30 @@
     "name": "Diamond Yoga Mat - Clay & Cream 7mm",
     "slug": "okoliving-diamond-yoga-mat-clay-cream",
     "description": "Best grip of any yoga rug guaranteed!\n\nOur all new organic cotton Diamond mat is world's first mat featuring zigzag grip strips with an invisible tree rubber coating for ultimate grip. It's also our thickest mat at 7mm thick! Naturally dyed with soothing herbs. This is the most luxurious cozy and functional mat on the market!- FREE Carry Case + Mat Wash (Soap Nuts)\n\nFUNCTIONAL   - Ultra thick - 7 mm   - Extra Long + Wide - 74\" x27\"   - Light - 4.3 lbs   - Non-Skid - Natural Tree Rubber Coated Bottom   - Non-Slip - Natural Tree Rubber Coated Top Grip Strips   - Non-Stink - Naturally Antibacterial and Antimicrobial   - Best Grip - Builds More Strength + Balance   - Easy Machine Washable\n  NATURAL   - 100% GOTS Certified Organic Cotton   - Ethically Hand-loomed & Plant Dyed   - No Off-gassing or VOC Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\n WELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing & Relaxing Herbs (Iike Turmeric, Neem and Holy Basil)   - Peace of Mind - Ethically Handloomed",
-    "thickness": 7,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.9504495105732509,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.9504495105732509,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.3 lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -694,10 +921,14 @@
     ],
     "shopifyId": 8033485324530,
     "shopifyHandle": "diamond-yoga-mat-clay-cream",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale"
     ],
+    "shopifyCreatedAt": "2023-11-16T14:16:30-08:00",
+    "shopifyPublishedAt": "2023-11-17T02:50:25-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 198.4,
@@ -706,7 +937,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -761,10 +991,30 @@
     "name": "Third Eye - Chakra 7mm",
     "slug": "okoliving-thirdeyechakra",
     "description": "Strengthening and Health Promoting Yoga Rug\n\nOpen your third eye intuition with our newest deluxe 7mm mat featuring the moon cycles, chakra colors and powerful third eye design. Unleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is hand-loomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nBONUSESFREE Carry case + wildcrafted soap nut laundry detergent.FREE 10 minute third eye meditation\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 7mm thick   - Light 4.5 lbs, 77\" x 27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 2.041168092460379,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "weight": {
+      "value": 2.041168092460379,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.5 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -773,10 +1023,14 @@
     ],
     "shopifyId": 8836359389426,
     "shopifyHandle": "thirdeyechakra",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2025-09-24T21:39:27-07:00",
+    "shopifyPublishedAt": "2025-09-24T21:41:35-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 223.2,
@@ -785,7 +1039,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -816,10 +1069,30 @@
     "name": "Emerald - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-emerald",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nNew Limited edition Emerald Mat in a deep green. Unleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is  handloomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat. \nFREE Carry case + Wildcrafted soap nut laundry detergent.\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -827,11 +1100,15 @@
     ],
     "shopifyId": 8888968544498,
     "shopifyHandle": "emerald",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2025-11-23T10:26:33-08:00",
+    "shopifyPublishedAt": "2025-11-26T11:31:52-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 181.8,
@@ -840,7 +1117,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -877,10 +1153,30 @@
     "name": "Third Eye - Clay 7mm",
     "slug": "okoliving-thirdeyeclay",
     "description": "Strengthening and Health Promoting Yoga Rug\n\nOpen your third eye intuition with our newest deluxe 7mm mat featuring the moon cycles and powerful third eye design. Unleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is hand-loomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nBONUSESFREE Carry case + wildcrafted soap nut laundry detergent.FREE 10 minute third eye meditation\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 7mm thick   - Light 4.5 lbs, 77\" x 27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 7,
-    "length": 195.58,
-    "width": 68.58,
-    "weight": 2.041168092460379,
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "length": {
+      "value": 195.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "77\" x 27\""
+    },
+    "weight": {
+      "value": 2.041168092460379,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.5 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -889,10 +1185,14 @@
     ],
     "shopifyId": 8836328882418,
     "shopifyHandle": "thirdeyeclay",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2025-09-24T21:18:43-07:00",
+    "shopifyPublishedAt": "2025-09-24T21:36:05-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 223.2,
@@ -901,7 +1201,6 @@
     "minGrams": 2041,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -932,10 +1231,30 @@
     "name": "Rose Quartz - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-rose-quartz",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nUnleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is handloomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat.\nFREE Carry case + Wildcrafted soap nut laundry detergent.\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -943,11 +1262,15 @@
     ],
     "shopifyId": 4461765951581,
     "shopifyHandle": "rose-quartz",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2019-12-15T22:56:01-08:00",
+    "shopifyPublishedAt": "2019-12-15T18:57:54-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 161.6,
@@ -956,7 +1279,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1005,10 +1327,30 @@
     "name": "Sunstone - Naturally Dyed Herbal Yoga Mat",
     "slug": "okoliving-sunstone",
     "description": "\"My practice soared -I'll never go back to a typical mat again\"\n\nStrengthening and Health Promoting Yoga Rug\n\nUnleash your potential with our herbal dyed yoga rug! Rejuvenate on the world's most natural yoga mat. Each mat is  handloomed with GOTS certified cotton and plant dyed using an ancient process that preserves the bioactive medicinal qualities of the plants. Feel the difference and experience your strength, balance and wellness soar on the beautiful and ethically made mat. \nFREE Carry case + Wildcrafted soap nut laundry detergent.\nFUNCTIONAL   - Sweat & Slip Resistant   - Extra Supportive, 5mm thick, 6 ply cotton   - Ultra Light 3.4 lbs, 74\" x27\"   - No Sliding with Natural Tree Rubber Coated Bottom   - Lasts Longer than Typical Mats     - Naturally Antibacterial and Antimicrobial   - Easy Machine Washable\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 20 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 5,
-    "length": 187.96,
-    "width": 68.58,
-    "weight": 1.542215892081175,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\" x27\""
+    },
+    "weight": {
+      "value": 1.542215892081175,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -1016,11 +1358,15 @@
     ],
     "shopifyId": 7458485567730,
     "shopifyHandle": "sunstone",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2021-11-23T01:07:57-08:00",
+    "shopifyPublishedAt": "2021-11-23T02:02:06-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 171.7,
@@ -1029,7 +1375,6 @@
     "minGrams": 1814,
     "maxGrams": 1814,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1078,8 +1423,18 @@
     "name": "Jade & Jute - Travel Yoga Mat",
     "slug": "okoliving-jade-jute-travel",
     "description": "Description\n\n\nFeatures\n\n\nWellness Benefits\n\n\n\n\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our new Jade & Jute Travel Mat! This is our only travel mat interwoven with jute to amplify your grip power. Our travel mats are durable and ultra light (under 2 lbs) making it perfect for travel or daily use anywhere. Herbal dyed with medicinal Ayurvedic plants and ethically hand-loomed with GOTS certified cotton. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\n\n\nFUNCTIONAL    - Sweat & Slip Resistant   - 3mm thick, 3 ply cotton   - Ultra Light 2.5 lbs, 74\"L x 27\"W   - No Sliding with Natural Tree Rubber Coated Bottom   - Foldable for Easy Travel    - Naturally Antibacterial and Antimicrobial   - Perfect grip for building strength and balanceNote: size and weight can vary a little due to the handloomed nature. \n\n\nALL NATURAL   - Hand-loomed & Plant Dyed   -  - 100% GOTS Certified Organic Cotton (91%) and Jute (8%)   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 10 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 3,
-    "weight": 0.9071858188712795,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
+    "weight": {
+      "value": 0.9071858188712795,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -1089,11 +1444,15 @@
     ],
     "shopifyId": 7458519613682,
     "shopifyHandle": "jade-jute-travel",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2021-11-23T01:31:06-08:00",
+    "shopifyPublishedAt": "2021-11-23T02:05:45-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 148.8,
@@ -1102,7 +1461,6 @@
     "minGrams": 1134,
     "maxGrams": 1134,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1151,8 +1509,18 @@
     "name": "Clay - Travel Yoga Mat",
     "slug": "okoliving-clay-travel-mat",
     "description": "Description\n\n\nFeatures\n\n\nWellness Benefits\n\n\n\n\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our Clay Energy Travel Mat!  Our travel mats are durable and ultra light (2.5 lbs) making it perfect for travel or daily use anywhere. Herbal dyed with medicinal Ayurvedic plants and ethically hand-loomed with GOTS certified cotton. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\n\n\nFUNCTIONAL    - Sweat & Slip Resistant   - 3mm thick, 3 ply cotton   - Ultra Light 2.5 lbs, 74\"L x 27\"W   - No Sliding with Natural Tree Rubber Coated Bottom   - Foldable for Easy Travel    - Naturally Antibacterial and Antimicrobial   - Perfect grip for building strength and balanceNote: size and weight can vary a little due to the handloomed nature. \n\n\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 10 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 3,
-    "weight": 1.1339822735890994,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
+    "weight": {
+      "value": 1.1339822735890994,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -1162,11 +1530,15 @@
     ],
     "shopifyId": 7921829413106,
     "shopifyHandle": "clay-travel-mat",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "current mats",
       "Faire - wholesale",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2023-06-21T00:55:28-07:00",
+    "shopifyPublishedAt": "2023-06-21T00:58:42-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 1,
     "minPrice": 148.8,
@@ -1175,7 +1547,6 @@
     "minGrams": 1134,
     "maxGrams": 1134,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1200,8 +1571,18 @@
     "name": "Organic Cotton Herbal Yoga Mat",
     "slug": "okoliving-herbal-yoga-mat",
     "description": "Description\n\n\n\nFeatures\n\n\nWellness Benefits\n\n\n\n\nStrengthening and Health Promoting Yoga Rug\nUnleash your potential with our new Chakra Energy mat! Each 7 Chakra colors are naturally dyed with medicinal Ayurvedic plants. This mat was designed to help align your energy and support your optimal wellness. Hand-loomed with GOTS certified cotton and ethically made by artisans with love. You will love the soft, cushy feel and natural beauty of this mat. Includes a FREE case and wildcrafted soap nut laundry detergent.\n\n\nFUNCTIONAL   - Sweat & Slip Resistant   - 3, 5, or 7mm thick,    - Ultra Light 2.5-4 lbs, 74\"L x 27\"W   - No Sliding with Natural Tree Rubber Coated Bottom   - Foldable for Easy Travel    - Naturally Antibacterial and Antimicrobial   - Perfect grip for building strength and balance\n\n\nALL NATURAL   - Hand-loomed & Plant Dyed   - 100% GOTS Certified Organic Cotton   - No Off-gassing or Plastic Mat Smell   - FREE of Chemicals, Heavy Metals, PVC, BPA, and Phthalates   - Zero Plastic Packaging   - 100% Biodegradable and Eco-Friendly\nWELLNESS PROMOTING   - Ayurvedic Medicinal Plant Dyes   - 10 Skin Soothing Herbs (Iike Turmeric, Neem and Holy Basil)   - Skin Soothing & Stress Reducing Herbal Properties",
-    "thickness": 3,
-    "weight": 1.814371637742559,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "options",
+      "originalText": "3mm"
+    },
+    "weight": {
+      "value": 1.814371637742559,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly",
@@ -1212,10 +1593,14 @@
     ],
     "shopifyId": 7948116525298,
     "shopifyHandle": "herbal-yoga-mat",
+    "shopifyVendor": "okoliving",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Fly Bundles",
       "spo-disabled"
     ],
+    "shopifyCreatedAt": "2023-10-03T01:16:56-07:00",
+    "shopifyPublishedAt": "2023-10-03T20:55:47-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:13-08:00",
     "variantsCount": 15,
     "minPrice": 186,
@@ -1224,12 +1609,6 @@
     "minGrams": 1814,
     "maxGrams": 2041,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "3mm",
-      "5mm",
-      "7mm"
-    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1368,6 +1747,23 @@
         "width": 1097,
         "height": 1738,
         "position": 18
+      }
+    ],
+    "availableThicknesses": [
+      {
+        "value": 3,
+        "unit": "mm",
+        "originalString": "3mm"
+      },
+      {
+        "value": 5,
+        "unit": "mm",
+        "originalString": "5mm"
+      },
+      {
+        "value": 7,
+        "unit": "mm",
+        "originalString": "7mm"
       }
     ]
   }

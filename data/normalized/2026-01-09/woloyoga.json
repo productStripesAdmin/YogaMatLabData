@@ -5,7 +5,12 @@
     "name": "Ascend Mat 4mm",
     "slug": "woloyoga-ascend-yoga-mat",
     "description": "Professional-grade yoga mat built for serious flow and focused strength, made with SGS-certified natural rubber\n✓ 100% natural rubber on both sides✓ Dual-sided reversible grip✓ Built to last, day after day",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Reversible",
@@ -13,9 +18,13 @@
     ],
     "shopifyId": 8333492650180,
     "shopifyHandle": "ascend-yoga-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
     "shopifyTags": [
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-08-06T15:46:31+08:00",
+    "shopifyPublishedAt": "2025-08-17T19:56:58+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 6,
     "minPrice": 579,
@@ -24,11 +33,6 @@
     "minGrams": 2700,
     "maxGrams": 3500,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Limestone Grey",
-      "Unakite Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -121,6 +125,10 @@
         "height": 1080,
         "position": 12
       }
+    ],
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
     ]
   },
   {
@@ -129,16 +137,25 @@
     "name": "Mastery Mat 4mm",
     "slug": "woloyoga-mastery-yoga-mat",
     "description": "Everyday yoga mat designed with unshakeable grip and lasting durability, made with SGS-certified natural rubber\n✓ Grippy with even sweat palms✓ High-density support for stability✓ Move freely on this large mat",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Non-Slip"
     ],
     "shopifyId": 8210934399172,
     "shopifyHandle": "mastery-yoga-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
     "shopifyTags": [
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-03-17T15:48:46+08:00",
+    "shopifyPublishedAt": "2025-03-17T15:56:43+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 18,
     "minPrice": 389,
@@ -147,15 +164,6 @@
     "minGrams": 3200,
     "maxGrams": 4000,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pebble Khaki",
-      "Sakura Pink",
-      "Sage Green",
-      "Lilac Purple",
-      "Obsidian Black",
-      "Sapphire Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -432,6 +440,14 @@
         "height": 1200,
         "position": 42
       }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
     ]
   },
   {
@@ -440,7 +456,12 @@
     "name": "Away Travel Mat 1.5mm",
     "slug": "woloyoga-away-travel-mat",
     "description": "Lightweight, foldable yoga mat designed to let you bring your practice on the go, made with SGS-certified natural rubber\n✓ Fit in your carry-on suitcase✓ Grippy with even sweat palms✓ Move freely on this large mat",
-    "thickness": 1.5,
+    "thickness": {
+      "value": 1.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1.5mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Non-Slip",
@@ -448,9 +469,13 @@
     ],
     "shopifyId": 8247536746692,
     "shopifyHandle": "away-travel-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
     "shopifyTags": [
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-04-28T13:47:44+08:00",
+    "shopifyPublishedAt": "2025-04-28T13:47:44+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 15,
     "minPrice": 329,
@@ -459,14 +484,6 @@
     "minGrams": 1300,
     "maxGrams": 1300,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Sunset Pink",
-      "Earth Beige",
-      "Rainforest Green",
-      "Galaxy Purple",
-      "Ocean Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -670,6 +687,13 @@
         "height": 1080,
         "position": 30
       }
+    ],
+    "availableColors": [
+      "Sunset Pink",
+      "Earth Beige",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
     ]
   },
   {
@@ -683,24 +707,19 @@
     ],
     "shopifyId": 8210944131268,
     "shopifyHandle": "dual-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "bundle"
     ],
+    "shopifyCreatedAt": "2025-03-17T16:10:36+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:37:05+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 36,
     "minPrice": 758,
     "maxPrice": 758,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pebble Khaki",
-      "Sakura Pink",
-      "Sage Green",
-      "Lilac Purple",
-      "Obsidian Black",
-      "Sapphire Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "1st Mat Colour",
@@ -794,6 +813,14 @@
         "height": 1200,
         "position": 11
       }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
     ]
   },
   {
@@ -807,24 +834,20 @@
     ],
     "shopifyId": 8347884716228,
     "shopifyHandle": "travel-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "bundle",
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-08-27T07:49:54+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:49:12+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 25,
     "minPrice": 638,
     "maxPrice": 638,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Earth Beige",
-      "Sunset Pink",
-      "Rainforest Green",
-      "Galaxy Purple",
-      "Ocean Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "1st Mat Colour",
@@ -910,6 +933,13 @@
         "height": 1080,
         "position": 10
       }
+    ],
+    "availableColors": [
+      "Earth Beige",
+      "Sunset Pink",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
     ]
   },
   {
@@ -923,25 +953,20 @@
     ],
     "shopifyId": 8347909095620,
     "shopifyHandle": "complete-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "bundle",
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-08-27T08:26:21+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:49:22+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 30,
     "minPrice": 698,
     "maxPrice": 698,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pebble Khaki",
-      "Sakura Pink",
-      "Sage Green",
-      "Lilac Purple",
-      "Obsidian Black",
-      "Sapphire Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Mastery Mat Colour",
@@ -1040,6 +1065,14 @@
         "height": 1280,
         "position": 12
       }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
     ]
   },
   {
@@ -1051,21 +1084,20 @@
     "features": [],
     "shopifyId": 8394648355012,
     "shopifyHandle": "elevate-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "bundle",
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-10-28T11:21:57+08:00",
+    "shopifyPublishedAt": "2025-10-28T11:40:59+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 4,
     "minPrice": 1138,
     "maxPrice": 1138,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Limestone Grey",
-      "Unakite Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "1st Mat Colour",
@@ -1121,6 +1153,10 @@
         "height": 1080,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
     ]
   },
   {
@@ -1133,25 +1169,20 @@
     "features": [],
     "shopifyId": 8394821664964,
     "shopifyHandle": "the-ritual-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "bundle",
       "normal price"
     ],
+    "shopifyCreatedAt": "2025-10-28T12:14:06+08:00",
+    "shopifyPublishedAt": "2025-10-28T12:27:32+08:00",
     "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
     "variantsCount": 18,
     "minPrice": 896,
     "maxPrice": 896,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Pebble Khaki",
-      "Sakura Pink",
-      "Sage Green",
-      "Lilac Purple",
-      "Obsidian Black",
-      "Sapphire Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Mastery Mat Colour",
@@ -1212,6 +1243,14 @@
         "height": 1080,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
     ]
   }
 ]

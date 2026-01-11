@@ -5,8 +5,18 @@
     "name": "Manduka PRO™ Yoga Mat 6mm",
     "slug": "manduka-manduka-pro-yoga-mat",
     "description": "A studio-quality yoga mat with unmatched stability and a lifetime guarantee.\n\nThe PRO is a high-density yoga mat built to support your home practice. Crafted in Germany since 1997, it delivers floor-like stability with comfortable joint protection, and unmatched durability. A hygienic, closed-cell surface keeps sweat, moisture, and bacteria out of your mat, making it easy to clean and maintain for long-term performance. When you're ready to invest in your home practice, trust the mat that’s built to last with a lifetime guarantee.",
-    "thickness": 6,
-    "length": 172.72,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Short 68\" (173cm)"
+    },
     "features": [
       "Extra Thick",
       "Antimicrobial",
@@ -14,6 +24,8 @@
     ],
     "shopifyId": 4357742755898,
     "shopifyHandle": "manduka-pro-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "adult",
       "Discontinued",
@@ -23,6 +35,8 @@
       "Standard 71\" (180cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-11-20T15:11:18-08:00",
+    "shopifyPublishedAt": "2019-11-20T15:11:18-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 25,
     "minPrice": 110,
@@ -31,26 +45,6 @@
     "minGrams": 3266,
     "maxGrams": 4309,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black Sage (Green)",
-      "Black",
-      "Black Magic (Purple)",
-      "Black Thunder",
-      "Odyssey (Blue)",
-      "Earth",
-      "Midnight",
-      "Verve (Red)",
-      "Birch",
-      "Linen Birch Limited Edition",
-      "Deep Verve",
-      "Harvest",
-      "Rooibos",
-      "Moon",
-      "Midnight Limited Edition",
-      "Indulge Limited Edition",
-      "Elderberry"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -980,6 +974,42 @@
         "height": 1014,
         "position": 149
       }
+    ],
+    "availableColors": [
+      "Black Sage (Green)",
+      "Black",
+      "Black Magic (Purple)",
+      "Black Thunder",
+      "Odyssey (Blue)",
+      "Earth",
+      "Midnight",
+      "Verve (Red)",
+      "Birch",
+      "Linen Birch Limited Edition",
+      "Deep Verve",
+      "Harvest",
+      "Rooibos",
+      "Moon",
+      "Midnight Limited Edition",
+      "Indulge Limited Edition",
+      "Elderberry"
+    ],
+    "availableLengths": [
+      {
+        "value": 68,
+        "unit": "cm",
+        "originalString": "Short 68\" (173cm)"
+      },
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 85,
+        "unit": "cm",
+        "originalString": "Long 85\" (215cm)"
+      }
     ]
   },
   {
@@ -988,8 +1018,18 @@
     "name": "PROlite® Yoga Mat 4.7mm",
     "slug": "manduka-prolite-yoga-mat",
     "description": "The #1 teacher recommended mat mindfully made for a lifetime of flow...on the go.\nAll the beauty of our signature PRO mat and lighter for on-the-go flow. The PROlite’s super-dense cushioning and textured top layer adapts to your body for unparalleled support and joint protection. A no-slip dot pattern on the bottom layer keeps the mat in place, while closed-cell construction seals out sweat. OEKO-TEX® certified, our PROlite mat is mindfully made for mindful movers.",
-    "thickness": 4.7,
-    "length": 180.34,
+    "thickness": {
+      "value": 4.7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.7mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -997,6 +1037,8 @@
     ],
     "shopifyId": 4357742690362,
     "shopifyHandle": "prolite-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "PRO Mat",
@@ -1005,6 +1047,8 @@
       "Standard 71\" (180cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-11-20T15:11:14-08:00",
+    "shopifyPublishedAt": "2019-11-20T15:11:14-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 16,
     "minPrice": 88,
@@ -1013,22 +1057,6 @@
     "minGrams": 1905,
     "maxGrams": 2268,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Black Sage (Green)",
-      "Purple",
-      "Midnight",
-      "Dark Deep Sea",
-      "Elderberry",
-      "Indulge (Purple)",
-      "Thunder (Grey)",
-      "Algae",
-      "Peat",
-      "Moon",
-      "Rosewood",
-      "Blue Lotus"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1497,6 +1525,33 @@
         "height": 1014,
         "position": 73
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Black Sage (Green)",
+      "Purple",
+      "Midnight",
+      "Dark Deep Sea",
+      "Elderberry",
+      "Indulge (Purple)",
+      "Thunder (Grey)",
+      "Algae",
+      "Peat",
+      "Moon",
+      "Rosewood",
+      "Blue Lotus"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -1505,8 +1560,18 @@
     "name": "eKO® Yoga Mat 5mm",
     "slug": "manduka-eko-yoga-mat-5mm",
     "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
-    "thickness": 5,
-    "length": 180.34,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1515,6 +1580,8 @@
     ],
     "shopifyId": 4487155056698,
     "shopifyHandle": "eko-yoga-mat-5mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "eKO 5mm",
@@ -1522,6 +1589,8 @@
       "eKO Series",
       "USD"
     ],
+    "shopifyCreatedAt": "2020-06-12T06:58:22-07:00",
+    "shopifyPublishedAt": "2020-06-16T16:01:53-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 6,
     "minPrice": 88,
@@ -1530,14 +1599,6 @@
     "minGrams": 3792,
     "maxGrams": 4191,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Algae Charcoal",
-      "Peat Midnight",
-      "Charcoal",
-      "Midnight",
-      "Elderberry Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1968,6 +2029,25 @@
         "height": 1014,
         "position": 68
       }
+    ],
+    "availableColors": [
+      "Algae Charcoal",
+      "Peat Midnight",
+      "Charcoal",
+      "Midnight",
+      "Elderberry Midnight"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -1975,12 +2055,26 @@
     "brandSlug": "manduka",
     "name": "GRP® Adapt 2.0 Yoga Mat 5mm",
     "slug": "manduka-grp-adapt-2-0-yoga-mat-5mm",
-    "thickness": 5,
-    "length": 180.34,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [],
     "shopifyId": 7481303269434,
     "shopifyHandle": "grp-adapt-2-0-yoga-mat-5mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [],
+    "shopifyCreatedAt": "2025-12-03T12:44:53-08:00",
+    "shopifyPublishedAt": "2025-12-05T11:20:53-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 5,
     "minPrice": 128,
@@ -1989,13 +2083,6 @@
     "minGrams": 2631,
     "maxGrams": 2948,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Carbon Black",
-      "Carbon Marbled",
-      "Terracotta",
-      "Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2089,6 +2176,24 @@
         "height": 1014,
         "position": 12
       }
+    ],
+    "availableColors": [
+      "Carbon Black",
+      "Carbon Marbled",
+      "Terracotta",
+      "Midnight"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -2096,12 +2201,26 @@
     "brandSlug": "manduka",
     "name": "GRP® Adapt Lite 2.0 Yoga Mat 4mm",
     "slug": "manduka-grp-adapt-lite-2-0-yoga-mat-4mm",
-    "thickness": 4,
-    "length": 180.34,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [],
     "shopifyId": 7481311395898,
     "shopifyHandle": "grp-adapt-lite-2-0-yoga-mat-4mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [],
+    "shopifyCreatedAt": "2025-12-03T13:27:05-08:00",
+    "shopifyPublishedAt": "2025-12-08T09:37:28-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 3,
     "minPrice": 104,
@@ -2110,12 +2229,6 @@
     "minGrams": 1678,
     "maxGrams": 1678,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Carbon Black",
-      "Indulge",
-      "La Rana"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2207,6 +2320,18 @@
         "height": 1014,
         "position": 12
       }
+    ],
+    "availableColors": [
+      "Carbon Black",
+      "Indulge",
+      "La Rana"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      }
     ]
   },
   {
@@ -2215,8 +2340,18 @@
     "name": "eKO® lite Yoga Mat 4mm",
     "slug": "manduka-eko-lite-yoga-mat-4mm",
     "description": "A lighter version of our original eKO mat with the same grippy natural rubber top layer and cushioned ride.\nBuilt sustainably for the mindful yogi, the lightweight eKO lite features a naturally grippy Catch-Grip™ surface texture for superior traction combined with our Responsive Ride™ core for a cushioned, springy ride. Sustainably harvested from non-Amazon rubber trees, the eKO lite is made from the planet for practice anywhere on the planet.",
-    "thickness": 4,
-    "length": 180.34,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "material": "Natural Rubber",
     "features": [
       "Extra Thick",
@@ -2225,6 +2360,8 @@
     ],
     "shopifyId": 2519958290490,
     "shopifyHandle": "eko-lite-yoga-mat-4mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "3.0",
       "Discontinued",
@@ -2235,6 +2372,8 @@
       "Standard 71\" (180cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-09-21T13:19:52-07:00",
+    "shopifyPublishedAt": "2019-09-21T13:19:52-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 9,
     "minPrice": 74,
@@ -2243,16 +2382,6 @@
     "minGrams": 2894,
     "maxGrams": 3193,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Cherry Blossom Purple",
-      "Acai Midnight",
-      "Deep Sage",
-      "Midnight Moon Marble",
-      "Charcoal",
-      "Blue Toad Midnight",
-      "Ratio"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2781,6 +2910,27 @@
         "height": 1014,
         "position": 84
       }
+    ],
+    "availableColors": [
+      "Cherry Blossom Purple",
+      "Acai Midnight",
+      "Deep Sage",
+      "Midnight Moon Marble",
+      "Charcoal",
+      "Blue Toad Midnight",
+      "Ratio"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -2789,8 +2939,18 @@
     "name": "eKO® Superlite Travel Yoga Mat 1.5mm",
     "slug": "manduka-eko-superlite-travel-yoga-mat",
     "description": "Naturally grippy mat made from sustainably harvested tree rubber, in a foldable, travel-ready size.\nDesigned for yogis on-the-go, the eKO SuperLite combines our signature orange peel top surface in natural rubber for the perfect grip. Our lightest mat to date, this foldable travel-ready mat is built to practice on…anywhere.",
-    "thickness": 1.5,
-    "length": 180.34,
+    "thickness": {
+      "value": 1.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "material": "Natural Rubber",
     "features": [
       "Non-Slip",
@@ -2798,6 +2958,8 @@
     ],
     "shopifyId": 4357743476794,
     "shopifyHandle": "eko-superlite-travel-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "eKO Mat",
@@ -2806,6 +2968,8 @@
       "Standard 68\" (172cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-11-20T15:13:51-08:00",
+    "shopifyPublishedAt": "2019-11-20T15:13:51-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 16,
     "minPrice": 45,
@@ -2814,24 +2978,6 @@
     "minGrams": 953,
     "maxGrams": 1043,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Rosewood",
-      "Leaf Green",
-      "Blue Moon Marble",
-      "Acai (Purple)",
-      "Midnight (Blue)",
-      "Charcoal (Grey)",
-      "Harvest",
-      "Deep Sage",
-      "Moon",
-      "Rooibos Marble",
-      "Nimbu",
-      "Gerry Lopez Charcoal",
-      "Cascade",
-      "Yes Please",
-      "Tiger"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3386,6 +3532,35 @@
         "height": 5100,
         "position": 87
       }
+    ],
+    "availableColors": [
+      "Rosewood",
+      "Leaf Green",
+      "Blue Moon Marble",
+      "Acai (Purple)",
+      "Midnight (Blue)",
+      "Charcoal (Grey)",
+      "Harvest",
+      "Deep Sage",
+      "Moon",
+      "Rooibos Marble",
+      "Nimbu",
+      "Gerry Lopez Charcoal",
+      "Cascade",
+      "Yes Please",
+      "Tiger"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -3394,14 +3569,26 @@
     "name": "GRP® Adapt Travel Yoga Mat 1.5mm",
     "slug": "manduka-grp®-adapt-travel-yoga-mat-1-5mm",
     "description": "The lightest version of our GRP Adapt mat in a foldable, travel-ready size.\nDesigned with a Satin Grip™ top layer for ultimate grip, the GRP Adapt Travel is the lightest and most versatile option to our GRP Adapt Series, featuring an all grip no slip design in both wet and dry conditions.",
-    "thickness": 1.5,
-    "length": 180.34,
+    "thickness": {
+      "value": 1.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [
       "Non-Slip",
       "Lightweight"
     ],
     "shopifyId": 7372098895930,
     "shopifyHandle": "grp®-adapt-travel-yoga-mat-1-5mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "GRP Adapt Travel",
@@ -3411,6 +3598,8 @@
       "Thin (1-2mm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2025-01-07T12:38:18-08:00",
+    "shopifyPublishedAt": "2025-01-10T16:24:21-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 2,
     "minPrice": 78,
@@ -3419,11 +3608,6 @@
     "minGrams": 953,
     "maxGrams": 953,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Carbon Black",
-      "Dark Lotus"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3502,6 +3686,17 @@
         "height": 1014,
         "position": 10
       }
+    ],
+    "availableColors": [
+      "Carbon Black",
+      "Dark Lotus"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      }
     ]
   },
   {
@@ -3510,9 +3705,24 @@
     "name": "PRO Travel Yoga Mat 2mm",
     "slug": "manduka-pro-travel-yoga-mat",
     "description": "The #1 mat recommended by teachers worldwide, built to last a lifetime.\nUltra-dense cushioning provides superior support, stability and joint protection.\nClosed-cell material seals out moisture and bacteria. Easy to disinfect and clean.\nMeticulously crafted in Germany. OEKO-TEX®️ certified.\nPro Tip: Pair with one of our performance towels to increase grip in sweaty sessions.\nStandard Length Mat: 2.0 mm thick; 71” x 24”; 2.4 lb",
-    "thickness": 2,
-    "length": 180.34,
-    "weight": 1.0886229826455354,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
+    "weight": {
+      "value": 1.0886229826455354,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.4 lb"
+    },
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3522,6 +3732,8 @@
     ],
     "shopifyId": 2519968645178,
     "shopifyHandle": "pro-travel-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "PRO Series",
@@ -3529,6 +3741,8 @@
       "Solid",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-09-21T13:27:59-07:00",
+    "shopifyPublishedAt": "2024-11-15T11:17:13-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 7,
     "minPrice": 64,
@@ -3537,14 +3751,6 @@
     "minGrams": 1179,
     "maxGrams": 1315,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black Sage (Green)",
-      "Black Sage Mist",
-      "Black",
-      "Black Night",
-      "Blue Lotus"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3813,6 +4019,25 @@
         "height": 1014,
         "position": 41
       }
+    ],
+    "availableColors": [
+      "Black Sage (Green)",
+      "Black Sage Mist",
+      "Black",
+      "Black Night",
+      "Blue Lotus"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
+      }
     ]
   },
   {
@@ -3821,14 +4046,31 @@
     "name": "PRO® Squared Yoga Mat 6mm",
     "slug": "manduka-pro-squared-yoga-mat",
     "description": "All the same benefits of our PRO mat, in an extra large size for your home yoga sanctuary.\nCreate your very own home yoga sanctuary or home gym with our PRO Squared yoga mat. This square mat has all the same benefits of our bestselling PRO mat and is supersized to be the ultimate platform for play. The PRO Squared is big enough for two -- there's plenty of room to practice on your own, or with a partner.",
-    "thickness": 6,
-    "length": 78,
-    "width": 78,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 78,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Squared 78x78\" (198x198cm)"
+    },
+    "width": {
+      "value": 78,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Squared 78x78\" (198x198cm)"
+    },
     "features": [
       "Extra Thick"
     ],
     "shopifyId": 6571125211194,
     "shopifyHandle": "pro-squared-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "Extra Thick (6mm)",
@@ -3840,6 +4082,8 @@
       "USD",
       "XL Mats"
     ],
+    "shopifyCreatedAt": "2021-05-12T14:23:08-07:00",
+    "shopifyPublishedAt": "2021-06-02T17:24:05-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 2,
     "minPrice": 350,
@@ -3848,11 +4092,6 @@
     "minGrams": 11793,
     "maxGrams": 11793,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black Sage",
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4015,6 +4254,18 @@
         "height": 1014,
         "position": 24
       }
+    ],
+    "availableColors": [
+      "Black Sage",
+      "Black"
+    ],
+    "availableSizes": [
+      {
+        "length": 78,
+        "width": 78,
+        "unit": "cm",
+        "originalString": "Squared 78x78\" (198x198cm)"
+      }
     ]
   },
   {
@@ -4023,15 +4274,32 @@
     "name": "PRO® Long & Wide Yoga Mat 6mm",
     "slug": "manduka-pro-long-wide-yoga-mat",
     "description": "All the same benefits of our PRO mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PRO Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
-    "thickness": 6,
-    "length": 79,
-    "width": 52,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 79,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Long & Wide 79x52\" (200x132cm)"
+    },
+    "width": {
+      "value": 52,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Long & Wide 79x52\" (200x132cm)"
+    },
     "features": [
       "Extra Thick",
       "Extra Wide"
     ],
     "shopifyId": 7138656354362,
     "shopifyHandle": "pro-long-wide-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "Extra Thick (6mm)",
@@ -4043,6 +4311,8 @@
       "USD",
       "XL Mats"
     ],
+    "shopifyCreatedAt": "2023-11-14T16:53:58-08:00",
+    "shopifyPublishedAt": "2023-11-14T16:53:58-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 2,
     "minPrice": 288,
@@ -4051,11 +4321,6 @@
     "minGrams": 9979,
     "maxGrams": 9979,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4122,6 +4387,18 @@
         "height": 1014,
         "position": 8
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight"
+    ],
+    "availableSizes": [
+      {
+        "length": 79,
+        "width": 52,
+        "unit": "cm",
+        "originalString": "Long & Wide 79x52\" (200x132cm)"
+      }
     ]
   },
   {
@@ -4130,15 +4407,32 @@
     "name": "PROlite® Long & Wide Yoga Mat 4.7mm",
     "slug": "manduka-prolite-long-wide-yoga-mat",
     "description": "All the same benefits of our PROlite mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PROlite Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
-    "thickness": 4.7,
-    "length": 79,
-    "width": 30,
+    "thickness": {
+      "value": 4.7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.7mm"
+    },
+    "length": {
+      "value": 79,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Long & Wide 79x30\" (200x76cm)"
+    },
+    "width": {
+      "value": 30,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Long & Wide 79x30\" (200x76cm)"
+    },
     "features": [
       "Extra Thick",
       "Extra Wide"
     ],
     "shopifyId": 7138656387130,
     "shopifyHandle": "prolite-long-wide-yoga-mat",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "Long & Wide 79x30\" (200x76cm)",
@@ -4150,6 +4444,8 @@
       "USD",
       "XL Mats"
     ],
+    "shopifyCreatedAt": "2023-11-14T16:53:59-08:00",
+    "shopifyPublishedAt": "2023-11-14T16:53:59-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 2,
     "minPrice": 144,
@@ -4158,11 +4454,6 @@
     "minGrams": 3175,
     "maxGrams": 3175,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4229,6 +4520,18 @@
         "height": 1014,
         "position": 8
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight"
+    ],
+    "availableSizes": [
+      {
+        "length": 79,
+        "width": 30,
+        "unit": "cm",
+        "originalString": "Long & Wide 79x30\" (200x76cm)"
+      }
     ]
   },
   {
@@ -4237,13 +4540,25 @@
     "name": "Manduka X Yoga Mat 5mm",
     "slug": "manduka-manduka-x-yoga-mat-5mm",
     "description": "One of our most durable and supportive mats built for any yoga or fitness session.\nSome of us like to do it all—and that’s who the X mat is built for. Designed with a Double-Weave™ scrim system, this mat provides ultra-durability for any workout routine from yoga to Pilates to cardio. Go barefoot, rock your shoes, take it to the gym…meditate on the beach. With its grippy crosshatch texture, the X mat is the X-factor when it comes to superior fitness support.",
-    "thickness": 5,
-    "length": 180.34,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [
       "Non-Slip"
     ],
     "shopifyId": 4357761073210,
     "shopifyHandle": "manduka-x-yoga-mat-5mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "MANDUKA X",
@@ -4251,6 +4566,8 @@
       "Standard 71\" (180cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-11-20T16:15:05-08:00",
+    "shopifyPublishedAt": "2019-11-20T16:15:05-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 7,
     "minPrice": 58,
@@ -4259,16 +4576,6 @@
     "minGrams": 1678,
     "maxGrams": 1678,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Birch",
-      "Thrive (Green)",
-      "Midnight (Blue)",
-      "Verve (Red)",
-      "Black (Black)",
-      "Magic (Purple)",
-      "Elderberry"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4460,6 +4767,22 @@
         "height": 1014,
         "position": 28
       }
+    ],
+    "availableColors": [
+      "Birch",
+      "Thrive (Green)",
+      "Midnight (Blue)",
+      "Verve (Red)",
+      "Black (Black)",
+      "Magic (Purple)",
+      "Elderberry"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      }
     ]
   },
   {
@@ -4468,8 +4791,18 @@
     "name": "begin yoga mat 5mm",
     "slug": "manduka-begin-yoga-mat-5mm",
     "description": "A thick, cushioned mat with the same high-performance quality at a budget-conscious price.\nLooking for a high-performance mat with the same renowned, earth-friendly Manduka craftsmanship…at a lower price? Our Begin mat offers a cushioned ride for easy transitions and joint support, and also features an alignment stripe to guide poses and encourage your continued practice. Reversible and lightweight, Begin is ideal for anyone looking for a high quality mat that’s easy on the wallet.",
-    "thickness": 5,
-    "length": 172.72,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 68\" (172cm)"
+    },
     "features": [
       "Reversible",
       "Extra Thick",
@@ -4478,6 +4811,8 @@
     ],
     "shopifyId": 2519968153658,
     "shopifyHandle": "begin-yoga-mat-5mm",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Begin",
       "Begin 5mm",
@@ -4485,6 +4820,8 @@
       "Standard 68\" (172cm)",
       "USD"
     ],
+    "shopifyCreatedAt": "2019-09-21T13:27:26-07:00",
+    "shopifyPublishedAt": "2019-09-21T13:27:26-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 7,
     "minPrice": 50,
@@ -4493,16 +4830,6 @@
     "minGrams": 953,
     "maxGrams": 953,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Bondi Blue",
-      "Crystal Thunder",
-      "Moon Black",
-      "Black",
-      "Midnight",
-      "Steel Grey",
-      "Elderberry Thunder"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4802,6 +5129,22 @@
         "height": 1014,
         "position": 46
       }
+    ],
+    "availableColors": [
+      "Bondi Blue",
+      "Crystal Thunder",
+      "Moon Black",
+      "Black",
+      "Midnight",
+      "Steel Grey",
+      "Elderberry Thunder"
+    ],
+    "availableLengths": [
+      {
+        "value": 68,
+        "unit": "cm",
+        "originalString": "Standard 68\" (172cm)"
+      }
     ]
   },
   {
@@ -4810,13 +5153,25 @@
     "name": "Shala Yoga Rug",
     "slug": "manduka-shala-yoga-rug",
     "description": "A sustainable yoga rug crafted by hand for your outdoor practices and easy flows.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMindfully made from pre-consumer apparel scraps, the Shala Yoga Rug pays homage to early yogic traditions while also supporting the craftsmanship of artisan weavers. The intricate weave provides support in a machine washable rug for a light flow or meditation at the beach or on an outside surface at your favorite adventure.",
-    "length": 71,
-    "width": 26,
+    "length": {
+      "value": 71,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "71\" x 26\" (180cm x 66cm)"
+    },
+    "width": {
+      "value": 26,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "71\" x 26\" (180cm x 66cm)"
+    },
     "features": [
       "Eco-Friendly"
     ],
     "shopifyId": 7297354825786,
     "shopifyHandle": "shala-yoga-rug",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Active - NOT On Replen",
       "Pattern",
@@ -4825,6 +5180,8 @@
       "USD",
       "Woven"
     ],
+    "shopifyCreatedAt": "2024-06-12T09:58:18-07:00",
+    "shopifyPublishedAt": "2024-06-19T15:52:58-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 3,
     "minPrice": 98,
@@ -4833,12 +5190,6 @@
     "minGrams": 1043,
     "maxGrams": 1043,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black Heather",
-      "Indulge",
-      "Flaneur"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4984,6 +5335,19 @@
         "height": 1014,
         "position": 21
       }
+    ],
+    "availableColors": [
+      "Black Heather",
+      "Indulge",
+      "Flaneur"
+    ],
+    "availableSizes": [
+      {
+        "length": 71,
+        "width": 26,
+        "unit": "cm",
+        "originalString": "71\" x 26\" (180cm x 66cm)"
+      }
     ]
   },
   {
@@ -4992,8 +5356,18 @@
     "name": "eKO® Yoga Mat 5mm (SALE)",
     "slug": "manduka-eko®-yoga-mat-5mm-2-0",
     "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
-    "thickness": 5,
-    "length": 180.34,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Standard 71\" (180cm)"
+    },
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5002,6 +5376,8 @@
     ],
     "shopifyId": 7476532183098,
     "shopifyHandle": "eko®-yoga-mat-5mm-2-0",
+    "shopifyVendor": "Manduka",
+    "shopifyProductType": "Mats",
     "shopifyTags": [
       "Discontinued",
       "eKO 5mm",
@@ -5009,6 +5385,8 @@
       "eKO Series",
       "USD"
     ],
+    "shopifyCreatedAt": "2025-11-24T10:16:28-08:00",
+    "shopifyPublishedAt": "2025-11-24T14:04:40-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:03:11-08:00",
     "variantsCount": 4,
     "minPrice": 80,
@@ -5017,12 +5395,6 @@
     "minGrams": 2812,
     "maxGrams": 4191,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Acai Midnight",
-      "Charcoal (Grey)",
-      "Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -5402,6 +5774,23 @@
         "width": 1000,
         "height": 1164,
         "position": 60
+      }
+    ],
+    "availableColors": [
+      "Acai Midnight",
+      "Charcoal (Grey)",
+      "Midnight"
+    ],
+    "availableLengths": [
+      {
+        "value": 71,
+        "unit": "cm",
+        "originalString": "Standard 71\" (180cm)"
+      },
+      {
+        "value": 79,
+        "unit": "cm",
+        "originalString": "Long 79\" (200cm)"
       }
     ]
   }

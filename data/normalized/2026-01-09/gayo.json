@@ -14,6 +14,8 @@
     ],
     "shopifyId": 7676617392310,
     "shopifyHandle": "yoga-cork-mat",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "all",
       "eco friendly yoga mat",
@@ -33,6 +35,8 @@
       "yoga gift for women",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2023-10-02T21:08:22-04:00",
+    "shopifyPublishedAt": "2023-10-02T21:08:22-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:02:55-05:00",
     "variantsCount": 1,
     "minPrice": 69.97,
@@ -41,7 +45,6 @@
     "minGrams": 4082,
     "maxGrams": 4082,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -103,6 +106,8 @@
     ],
     "shopifyId": 7596248465590,
     "shopifyHandle": "handmade-cotton-yoga-mat",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Organic Mat",
     "shopifyTags": [
       "all",
       "cotton yoga rug",
@@ -127,6 +132,8 @@
       "Yoga mat",
       "yoga mat cotton"
     ],
+    "shopifyCreatedAt": "2023-05-15T10:12:07-04:00",
+    "shopifyPublishedAt": "2023-05-15T10:12:07-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:02:55-05:00",
     "variantsCount": 2,
     "minPrice": 49.97,
@@ -135,11 +142,6 @@
     "minGrams": 1066,
     "maxGrams": 1066,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Navy",
-      "LightCoral"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -217,6 +219,10 @@
         "height": 3000,
         "position": 11
       }
+    ],
+    "availableColors": [
+      "Navy",
+      "LightCoral"
     ]
   },
   {
@@ -225,7 +231,12 @@
     "name": "Eco Balance Yoga Mat- 4 mm",
     "slug": "gayo-eco-friendly-non-slip-yoga-mat-4mm",
     "description": "Stability, Comfort & Sustainability in Every Pose\nLooking for a yoga mat that’s comfortable, durable, and easy to carry? The Eco Balance Yoga Mat 4 mm delivers just that, combining eco-friendly materials with superior grip for a stable and reliable practice.\n Made from natural tree rubber and high-performance Eco-polyurethane, this non-toxic, sustainable yoga mat supports all styles of yoga, from active flows to restorative sessions. Its 4 mm thickness provides balanced cushioning to protect your joints while maintaining a grounded feel.\n Lightweight and portable, it’s perfect for home workouts, studio classes, or outdoor yoga sessions, making it a top choice for buyers who value performance, sustainability, and convenience.\n\n\n Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.\n\nEnhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.\n\nAlignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice\n\nLightweight & Portable – Easy to carry with the included strap for on-the-go yoga.\n\nAesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment.\n\nDesigned for yogis of all levels, this mat brings comfort and confidence to every practice. Elevate your flow with a mat that’s as mindful as your movements.. Designed to last, reducing waste over time.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4 mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -235,6 +246,8 @@
     ],
     "shopifyId": 8158717542582,
     "shopifyHandle": "eco-friendly-non-slip-yoga-mat-4mm",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "all",
       "eco friendly yoga mat",
@@ -254,6 +267,8 @@
       "yoga gift for women",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-02-28T16:45:34-05:00",
+    "shopifyPublishedAt": "2025-03-07T10:22:56-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:02:55-05:00",
     "variantsCount": 1,
     "minPrice": 75.97,
@@ -262,7 +277,6 @@
     "minGrams": 2903,
     "maxGrams": 2903,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -311,7 +325,12 @@
     "name": "Eco Balance Pro Yoga Mat- 5 mm",
     "slug": "gayo-eco-balance-yoga-mat-5-mm",
     "description": "Stability, Comfort & Sustainability in Every Pose\nMove with confidence on a mat designed for grip, durability, and eco-friendly performance. Made from natural tree rubber and high-performance Eco-polyurethane, this non-toxic mat provides excellent traction and support for all styles of yoga.\n With a 5 mm thickness for optimal cushioning, it’s the perfect choice if you’re wondering “what thickness yoga mat should I get?”\n Featuring alignment lines for precision and a lightweight, portable design, it’s an ideal yoga mat for home practice or studio and outdoor yoga workouts.\n\n\n Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.\n\nEnhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.\n\nAlignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice\n\nLightweight & Portable – Easy to carry with the included strap for on-the-go yoga.\n\nAesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment.\n\nDesigned for yogis of all levels, this mat brings comfort and confidence to every practice. Elevate your flow with a mat that’s as mindful as your movements.. Designed to last, reducing waste over time.",
-    "thickness": 5,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5 mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -321,6 +340,8 @@
     ],
     "shopifyId": 8255924961462,
     "shopifyHandle": "eco-balance-yoga-mat-5-mm",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "all",
       "eco friendly yoga mat",
@@ -340,6 +361,8 @@
       "yoga gift for women",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-07-07T14:21:43-04:00",
+    "shopifyPublishedAt": "2025-07-07T14:38:58-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:02:55-05:00",
     "variantsCount": 1,
     "minPrice": 79.9,
@@ -348,7 +371,6 @@
     "minGrams": 3810,
     "maxGrams": 3810,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",

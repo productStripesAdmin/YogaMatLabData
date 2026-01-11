@@ -5,19 +5,28 @@
     "name": "The Compact Mat",
     "slug": "bala-the-compact-mat",
     "description": "At 12MM thick, The Compact Mat is designed for comfort and convenience. This capsule-shaped mat effortlessly transforms into a block, offering extra support when and where you need it most. Or unfold to reveal a moisture-wicking, non-slip surface ideal for any and every movement.\nLightweight and travel-friendly, The Compact Mat is a must-have whether you’re WFH, in studio or on-the-go.   \nThe Compact Mat is FINAL SALE and not eligible for refunds or exchanges.",
-    "thickness": 12,
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12MM"
+    },
     "features": [
       "Non-Slip",
       "Lightweight"
     ],
     "shopifyId": 8074604085383,
     "shopifyHandle": "the-compact-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-04-22T09:54:38-07:00",
+    "shopifyPublishedAt": "2025-07-29T09:06:31-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 6,
     "minPrice": 89,
@@ -26,15 +35,6 @@
     "minGrams": 2676,
     "maxGrams": 2676,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blush",
-      "Charcoal",
-      "Heather",
-      "Sage",
-      "Sea",
-      "Sand"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -278,6 +278,14 @@
         "height": 2048,
         "position": 38
       }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Heather",
+      "Sage",
+      "Sea",
+      "Sand"
     ]
   },
   {
@@ -286,13 +294,20 @@
     "name": "The Play Mat",
     "slug": "bala-the-play-mat",
     "description": "The perfect mat for your busy life. The Play Mat is built for comfort and speed, whether at home or on-the-go. The first-of-its-kind portal shape is a true showstopper. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nFloor it. \nPatent Pending\n***Final Sale***",
-    "thickness": 5,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "options",
+      "originalText": "5 MM"
+    },
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
     ],
     "shopifyId": 7371478925447,
     "shopifyHandle": "the-play-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Floor",
     "shopifyTags": [
       "100-149",
       "aerobics",
@@ -324,6 +339,8 @@
       "yoga",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2023-01-30T10:53:50-08:00",
+    "shopifyPublishedAt": "2023-08-30T14:11:22-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 9,
     "minPrice": 99,
@@ -332,15 +349,6 @@
     "minGrams": 4400,
     "maxGrams": 4400,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Charcoal",
-      "Blush",
-      "Sea",
-      "Sand",
-      "Sage",
-      "Charcoal RL"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -778,6 +786,26 @@
         "height": 2048,
         "position": 69
       }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Blush",
+      "Sea",
+      "Sand",
+      "Sage",
+      "Charcoal RL"
+    ],
+    "availableThicknesses": [
+      {
+        "value": 5,
+        "unit": "mm",
+        "originalString": "5 MM"
+      },
+      {
+        "value": 8,
+        "unit": "mm",
+        "originalString": "8 MM"
+      }
     ]
   },
   {
@@ -786,18 +814,27 @@
     "name": "The Wavy Mat",
     "slug": "bala-wavy-mat",
     "description": "At 5MM thick, The Wavy Mat will awaken your senses and elevate your practice. The never-before-seen mat shape will uplevel your space. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nWave your old mat goodbye. \nPatent Pending",
-    "thickness": 5,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5MM"
+    },
     "features": [
       "Antimicrobial"
     ],
     "shopifyId": 7570101403783,
     "shopifyHandle": "wavy-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "Bala x SPANX",
       "flex-hsa",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-03-15T08:17:56-07:00",
+    "shopifyPublishedAt": "2024-03-15T08:17:56-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 5,
     "minPrice": 120,
@@ -806,14 +843,6 @@
     "minGrams": 2821,
     "maxGrams": 2821,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Charcoal",
-      "Sea",
-      "Blush",
-      "Sand",
-      "Spanx"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1086,6 +1115,13 @@
         "height": 1365,
         "position": 43
       }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Spanx"
     ]
   },
   {
@@ -1094,19 +1130,28 @@
     "name": "The Deco Mat",
     "slug": "bala-deco-mat",
     "description": "At 5MM thick, The Deco Mat will transform your space and your life. Designed to fit seamlessly in your home or stand out in your studio. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nSlay. \n\n***Final Sale***",
-    "thickness": 5,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5MM"
+    },
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
     ],
     "shopifyId": 8062868488327,
     "shopifyHandle": "deco-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-04-02T09:40:25-07:00",
+    "shopifyPublishedAt": "2025-05-16T14:20:32-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 5,
     "minPrice": 99,
@@ -1115,14 +1160,6 @@
     "minGrams": 3538,
     "maxGrams": 3538,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Charcoal",
-      "Blush",
-      "Sand",
-      "Sage",
-      "Sea"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1377,6 +1414,13 @@
         "height": 2048,
         "position": 40
       }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Blush",
+      "Sand",
+      "Sage",
+      "Sea"
     ]
   },
   {
@@ -1388,11 +1432,15 @@
     "features": [],
     "shopifyId": 8011412308103,
     "shopifyHandle": "mat-scrunchie",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "accessories",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-12-27T09:44:38-08:00",
+    "shopifyPublishedAt": "2025-01-21T14:17:42-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 5,
     "minPrice": 25,
@@ -1401,14 +1449,6 @@
     "minGrams": 118,
     "maxGrams": 118,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blush",
-      "Charcoal",
-      "Sage",
-      "Sand",
-      "Sea"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1663,6 +1703,13 @@
         "height": 2048,
         "position": 40
       }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sage",
+      "Sand",
+      "Sea"
     ]
   },
   {
@@ -1677,6 +1724,8 @@
     ],
     "shopifyId": 7382292758663,
     "shopifyHandle": "the-play-mat-towel",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "Bala",
       "blush",
@@ -1694,6 +1743,8 @@
       "unwind",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2023-03-14T15:00:01-07:00",
+    "shopifyPublishedAt": "2023-03-14T15:00:01-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 5,
     "minPrice": 65,
@@ -1702,14 +1753,6 @@
     "minGrams": 454,
     "maxGrams": 454,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Sage",
-      "Sea",
-      "Blush",
-      "Sand",
-      "Charcoal"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1970,6 +2013,13 @@
         "height": 2048,
         "position": 41
       }
+    ],
+    "availableColors": [
+      "Sage",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Charcoal"
     ]
   },
   {
@@ -1981,11 +2031,15 @@
     "features": [],
     "shopifyId": 8065107263623,
     "shopifyHandle": "capsule-mat-towel",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
     "shopifyTags": [
       "exclude_rebuy",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-04-07T09:18:24-07:00",
+    "shopifyPublishedAt": "2025-06-11T14:46:44-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 6,
     "minPrice": 65,
@@ -1994,15 +2048,6 @@
     "minGrams": 454,
     "maxGrams": 454,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blush",
-      "Charcoal",
-      "Sand",
-      "Sage",
-      "Sea",
-      "Heather"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2282,6 +2327,14 @@
         "height": 2048,
         "position": 44
       }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sand",
+      "Sage",
+      "Sea",
+      "Heather"
     ]
   },
   {
@@ -2293,19 +2346,22 @@
     "features": [],
     "shopifyId": 8033474052231,
     "shopifyHandle": "the-scrunchie-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "kits",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-02-10T08:29:04-08:00",
+    "shopifyPublishedAt": "2025-05-14T09:35:32-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 111.6,
     "maxPrice": 111.6,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2333,19 +2389,22 @@
     "features": [],
     "shopifyId": 8033474183303,
     "shopifyHandle": "the-wavy-scrunchie-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "kits",
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-02-10T08:30:43-08:00",
+    "shopifyPublishedAt": "2025-05-14T09:35:08-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 138.6,
     "maxPrice": 138.6,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2375,6 +2434,8 @@
     ],
     "shopifyId": 7865801080967,
     "shopifyHandle": "the-perfect-match-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2382,13 +2443,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-08-01T10:56:56-07:00",
+    "shopifyPublishedAt": "2024-08-21T06:30:29-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 147.6,
     "maxPrice": 147.6,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2416,6 +2478,8 @@
     "features": [],
     "shopifyId": 7408196288647,
     "shopifyHandle": "the-resistance-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "blush",
       "charcoal",
@@ -2434,13 +2498,14 @@
       "yoga",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2023-07-09T13:57:37-07:00",
+    "shopifyPublishedAt": "2025-01-08T10:40:18-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 179.1,
     "maxPrice": 179.1,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2468,6 +2533,8 @@
     "features": [],
     "shopifyId": 7651226747015,
     "shopifyHandle": "yogi-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2475,13 +2542,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-04-11T06:11:32-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:25:33-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 209.7,
     "maxPrice": 209.7,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2509,6 +2577,8 @@
     "features": [],
     "shopifyId": 7651230154887,
     "shopifyHandle": "power-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2516,13 +2586,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-04-11T06:14:18-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:24:25-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 209.7,
     "maxPrice": 209.7,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2550,6 +2621,8 @@
     "features": [],
     "shopifyId": 7651233464455,
     "shopifyHandle": "sculpt-slide-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2557,13 +2630,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-04-11T06:16:23-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:34:28-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 210.6,
     "maxPrice": 210.6,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2591,6 +2665,8 @@
     "features": [],
     "shopifyId": 7673534840967,
     "shopifyHandle": "mom-and-me-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2598,13 +2674,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-04-17T12:25:33-07:00",
+    "shopifyPublishedAt": "2024-04-18T11:59:31-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 376.2,
     "maxPrice": 376.2,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2632,6 +2709,8 @@
     "features": [],
     "shopifyId": 7673538248839,
     "shopifyHandle": "mighty-mama-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2639,13 +2718,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-04-17T12:27:47-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:33:48-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 250.2,
     "maxPrice": 250.2,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2673,6 +2753,8 @@
     "features": [],
     "shopifyId": 7920995860615,
     "shopifyHandle": "grounded-strength-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2680,13 +2762,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-10-29T15:27:58-07:00",
+    "shopifyPublishedAt": "2024-11-12T11:03:52-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 196.2,
     "maxPrice": 196.2,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2711,10 +2794,17 @@
     "name": "Power Flow Kit",
     "slug": "bala-power-flow-kit",
     "description": "No shortage of curves in this bundle. Our newest mat and our most versatile 10 LB weight.Choose your colors and weights:\n\n1x Power Ring\n1x Wavy Mat",
-    "weight": 4.535929094356398,
+    "weight": {
+      "value": 4.535929094356398,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "10 LB"
+    },
     "features": [],
     "shopifyId": 7920997105799,
     "shopifyHandle": "power-flow-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2722,13 +2812,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-10-29T15:30:29-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:27:03-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 169.2,
     "maxPrice": 169.2,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2756,6 +2847,8 @@
     "features": [],
     "shopifyId": 7920997990535,
     "shopifyHandle": "powerhouse-performance-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "exclude_rebuy",
       "flex-hsa",
@@ -2763,13 +2856,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2024-10-29T15:32:18-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:27:16-08:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 276.3,
     "maxPrice": 276.3,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2797,6 +2891,8 @@
     "features": [],
     "shopifyId": 8083141886087,
     "shopifyHandle": "bala-mama-strength-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
     "shopifyTags": [
       "collab",
       "exclude_rebuy",
@@ -2804,13 +2900,14 @@
       "mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2025-05-01T11:21:41-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:38:41-07:00",
     "shopifyUpdatedAt": "2026-01-09T05:02:51-08:00",
     "variantsCount": 1,
     "minPrice": 206.1,
     "maxPrice": 206.1,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",

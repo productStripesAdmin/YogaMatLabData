@@ -100,9 +100,9 @@ function calculateStats(products: NormalizedYogaMat[]): {
   featureBreakdown: Record<string, number>;
   brandCounts: Record<string, number>;
 } {
-  // Price stats - filter out invalid prices (null, undefined, NaN)
+  // Price stats - use minPrice, filter out invalid prices (null, undefined, NaN)
   const validPrices = products
-    .map(p => p.price)
+    .map(p => p.minPrice)
     .filter(p => p != null && !isNaN(p) && isFinite(p))
     .sort((a, b) => a - b);
 
@@ -160,7 +160,8 @@ async function saveAggregatedData(
 ): Promise<void> {
   const aggregatedDir = path.join(process.cwd(), 'data', 'aggregated', date);
 
-  // 1. Save all-products.json (main file)
+  // 1. Save all-products.json (main file with full NormalizedYogaMat objects)
+  // This preserves ALL fields including structured measurements, arrays, etc.
   const allProductsPath = path.join(aggregatedDir, 'all-products.json');
   await fs.writeFile(allProductsPath, JSON.stringify(products, null, 2), 'utf-8');
   logger.success(`Saved ${products.length} products to all-products.json`);
@@ -199,31 +200,85 @@ async function saveAggregatedData(
     'slug',
     'name',
     'brandSlug',
-    'price',
-    'thickness',
-    'length',
-    'width',
-    'weight',
+    'description',
+    'minPrice',
+    'maxPrice',
+    'priceCurrency',
+    'thicknessValue',
+    'thicknessUnit',
+    'thicknessOriginal',
+    'lengthValue',
+    'lengthUnit',
+    'lengthOriginal',
+    'widthValue',
+    'widthUnit',
+    'widthOriginal',
+    'weightValue',
+    'weightUnit',
+    'weightOriginal',
     'material',
+    'texture',
     'features',
-    'imageUrl',
+    'availableColors',
+    'variantsCount',
+    'isAvailable',
     'shopifyId',
+    'shopifyHandle',
+    'shopifyVendor',
+    'shopifyProductType',
+    'shopifyTags',
+    'shopifyCreatedAt',
+    'shopifyPublishedAt',
+    'primaryImageUrl',
   ].join(',');
 
-  const csvRows = products.map(p => [
-    p.slug,
-    `"${p.name.replace(/"/g, '""')}"`, // Escape quotes
-    p.brandSlug,
-    p.price,
-    p.thickness || '',
-    p.length || '',
-    p.width || '',
-    p.weight || '',
-    p.material || '',
-    p.features ? `"${p.features.join('; ')}"` : '',
-    p.imageUrl || '',
-    p.shopifyId,
-  ].join(','));
+  const csvRows = products.map(p => {
+    // Helper to escape CSV values
+    const escapeCSV = (val: any) => {
+      if (val == null) return '';
+      const str = String(val);
+      if (str.includes(',') || str.includes('"') || str.includes('\n')) {
+        return `"${str.replace(/"/g, '""')}"`;
+      }
+      return str;
+    };
+
+    return [
+      escapeCSV(p.slug),
+      escapeCSV(p.name),
+      escapeCSV(p.brandSlug),
+      escapeCSV(p.description),
+      p.minPrice ?? '',
+      p.maxPrice ?? '',
+      p.priceCurrency || 'USD',
+      p.thickness?.value ?? '',
+      p.thickness?.unit ?? '',
+      escapeCSV(p.thickness?.originalText),
+      p.length?.value ?? '',
+      p.length?.unit ?? '',
+      escapeCSV(p.length?.originalText),
+      p.width?.value ?? '',
+      p.width?.unit ?? '',
+      escapeCSV(p.width?.originalText),
+      p.weight?.value ?? '',
+      p.weight?.unit ?? '',
+      escapeCSV(p.weight?.originalText),
+      escapeCSV(p.material),
+      escapeCSV(p.texture),
+      escapeCSV(p.features?.join('; ')),
+      escapeCSV(p.availableColors?.join('; ')),
+      p.variantsCount,
+      p.isAvailable ?? '',
+      p.shopifyId,
+      escapeCSV(p.shopifyHandle),
+      escapeCSV(p.shopifyVendor),
+      escapeCSV(p.shopifyProductType),
+      escapeCSV(p.shopifyTags.join('; ')),
+      escapeCSV(p.shopifyCreatedAt),
+      escapeCSV(p.shopifyPublishedAt),
+      escapeCSV(p.images?.[0]?.src),
+    ].join(',');
+  });
 
   const csv = [csvHeader, ...csvRows].join('\n');
   const csvPath = path.join(aggregatedDir, 'all-products.csv');

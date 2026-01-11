@@ -5,8 +5,18 @@
     "name": "Performance Dry-Grip Yoga Mat (5mm)",
     "slug": "gaiam-05-61028_2",
     "description": "Get deeper into your posture during a hot yoga practice when you’re slip- and worry-free on our Performance Dry-Grip Yoga mat from our premium line of yoga mats created for yogis, by yogis. This mat is created with a topcoat that promises to wick away moisture and provide a better grip as temperatures in class rise. The rubber-free construction is also perfect for those with latex sensitivity. And with 5mm of cushioning, it’s also soft on your joints. Manufactured free of the top six most harmful phthalates, this mat is a healthy choice for both you and the planet.\n Our best-selling yoga mat No-slip mat ideal for hot yoga Wicks away moisture to secure your grip 5mm of premium cushion Supports you and your joints Lightweight and durable  Rubber, Latex, and 6P free Comes with our lifetime guarantee \nProfessional Quality: Our performance line of professional quality products are designed by yogis, for yogis, and created to inspire mindful movement. These products are designed with care and attention to high-quality materials, thoughtful design, and durable construction. Whether for personal or professional use, these products are built to last. Find the perfect mat or accessory that’s right for you and shop the rest of our Performance Line.\nMeasurements: 68\"L x 24\"W x 5mm; 4.25lbs. \nMaterials: PVC. Latex-Free.  6P Free: Free of DEHP, DBP, BBP, DINP, DIDP, and DNOP phthalates.\nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 5,
-    "weight": 1.927769865101469,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "weight": {
+      "value": 1.927769865101469,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.25lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -16,6 +26,8 @@
     ],
     "shopifyId": 9130974913,
     "shopifyHandle": "05-61028_2",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "5mm",
       "Material- Latex Free",
@@ -23,6 +35,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:15:06-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:15:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 3,
     "minPrice": 69.98,
@@ -31,12 +45,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "black",
-      "purple",
-      "blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -139,6 +147,11 @@
         "height": 2000,
         "position": 15
       }
+    ],
+    "availableColors": [
+      "black",
+      "purple",
+      "blue"
     ]
   },
   {
@@ -147,7 +160,12 @@
     "name": "Reversible Metallic Sun & Moon Yoga Mat (6mm)",
     "slug": "gaiam-premium-metallic-sun-moon-yoga-mat-6mm",
     "description": "Find celestial yoga inspiration in the strength and vitality of the sun and the goddess-like qualities of the moon. Just flip over this reversible mat to find the image that matches your yoga mood at the moment. Made of latex-free PVC, our Sun & Moon metallic mat is 6mm thick for supreme cushioning and features a textured, “sticky” surface. Includes lifetime mat guarantee.\n\n6mm thick\nUnique metallic design\nNon-slip textured surface\nLatex-free PVC\nYoga mat purchase includes an online library of yoga content\nLifetime yoga mat guarantee\n\n\n\n\n\n\n\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -157,6 +175,8 @@
     ],
     "shopifyId": 1747443482670,
     "shopifyHandle": "premium-metallic-sun-moon-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -165,6 +185,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2019-04-08T16:17:12-06:00",
+    "shopifyPublishedAt": "2019-04-09T09:13:49-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -173,7 +195,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -240,8 +261,30 @@
     "name": "Performance Longer/Wider Dry-Grip Yoga Mat (5mm)",
     "slug": "gaiam-05-61626",
     "description": "You will be slip- and worry-free on our Performance Longer and Wider Dry-Grip Yoga mat from our premium line of yoga mats created for yogis, by yogis. 10\" longer and 2\" inches wider than standard mats, with a topcoat that promises to wick away moisture and provide a better grip as temperatures rise. The rubber-free construction is perfect for those with latex sensitivities.\n\n10\" longer and 2\" wider than standard yoga mats\nWicks away moisture to secure your grip\nIdeal for hot yoga\n5mm of premium cushioning\nLightweight and durable\nIdeal for home and studio use\nComes with our lifetime guarantee\n\n\nProfessional Quality: Our performance line of professional quality products are designed by yogis, for yogis, and created to inspire mindful movement. These products are designed with care and attention to high-quality materials, thoughtful design, and durable construction. Whether for personal or professional use, these products are built to last. Find the perfect mat or accessory that’s right for you and shop the rest of our Performance Line.\nMeasurements: 78\"L x 26\"W x 5mm; 5lbs.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with a damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 5,
-    "weight": 2.267964547178199,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 25.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "10\" long"
+    },
+    "width": {
+      "value": 5.08,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "2\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -252,6 +295,8 @@
     ],
     "shopifyId": 9130977793,
     "shopifyHandle": "05-61626",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "5mm",
       "Material- Latex Free",
@@ -259,6 +304,8 @@
       "Size- Longer/Wider",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:16:37-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:16:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 74.98,
@@ -267,7 +314,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -310,10 +356,30 @@
     "name": "Gaiam Foldable Yoga Mat (2mm)",
     "slug": "gaiam-05-62214",
     "description": "Our 2mm Foldable Yoga Mat is ultra lightweight, highly compact, and super cute. This mat folds flat and easily fits in your carry-on or tote bag, making to and from studio travel easier than ever. With a sticky texture and compatibility, you will stand strong in your Warrior II on any weekend getaway, retreat or trip across town.\n\nFolds into a compact 10\" x 12\" square\nIdeal for yoga on the go\nSuper cute and colorful designs\nSticky texture keeps you in place\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 2mm, 3 lbs\nMaterials: Latex-free PVC\nCare Instructions: Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use.",
-    "thickness": 2,
-    "length": 25.4,
-    "width": 30.48,
-    "weight": 1.3607787283069193,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
+    "length": {
+      "value": 25.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "10\" x 12\""
+    },
+    "width": {
+      "value": 30.48,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "10\" x 12\""
+    },
+    "weight": {
+      "value": 1.3607787283069193,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3 lbs"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -321,6 +387,8 @@
     ],
     "shopifyId": 9130988673,
     "shopifyHandle": "05-62214",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "2mm",
       "Material- Latex Free",
@@ -329,6 +397,8 @@
       "Style- Printed",
       "Style- Travel"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:20:37-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:20:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 4,
     "minPrice": 24.98,
@@ -337,13 +407,6 @@
     "minGrams": 1361,
     "maxGrams": 1361,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Be Free",
-      "Icy Paisley",
-      "Blue Sundial",
-      "Midnight Marrakesh"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -483,6 +546,12 @@
         "height": 2000,
         "position": 21
       }
+    ],
+    "availableColors": [
+      "Be Free",
+      "Icy Paisley",
+      "Blue Sundial",
+      "Midnight Marrakesh"
     ]
   },
   {
@@ -491,7 +560,12 @@
     "name": "Reversible Be Free Yoga Mat (6mm)",
     "slug": "gaiam-05-62031",
     "description": "You can mix it up with each use with your choice of the sun and the moon or lotus on this two-sided printed mat. The 6mm thickness provides extra-cushioning, which supports joints while you explore longer and harder poses. The texture of this mat is made from no slip, grippy material, keeping you in place during any pose. \n\nReversible; choose between two patterns\nTextured for non-slip performance\n6mm of premium cushioning\nSupports you and your joints\nLatex-free\nMade exclusively by Gaiam\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -502,6 +576,8 @@
     ],
     "shopifyId": 9130984449,
     "shopifyHandle": "05-62031",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -509,6 +585,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:19:05-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:19:04-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -517,7 +595,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -584,7 +661,12 @@
     "name": "Reversible Elephant Yoga Mat (6mm)",
     "slug": "gaiam-05-61547",
     "description": "Choose a lively elephant on a serene sea of blue or an ancient paisley motif on a vivid yellow backdrop, letting you mix it up for every use. Available exclusively from Gaiam in a premium 6mm thickness that offers cushioned support and stability. The texture of this mat is made from no slip, grippy material, keeping you in place during any pose.\n\nReversible; choose between 2 prints\nTextured for non-slip performance\n6mm of premium cushioning\nProtects you and your joints\nLightweight and durable\nIdeal for home or studio use\nLatex-free\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Made in Taiwan. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -596,6 +678,8 @@
     ],
     "shopifyId": 9130977153,
     "shopifyHandle": "05-61547",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -603,6 +687,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:16:14-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:16:13-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -611,7 +697,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -672,7 +757,12 @@
     "name": "Premium Citron Sundial Yoga Mat (6mm)",
     "slug": "gaiam-05-61333",
     "description": "With its chic intricate pattern printed in citron on a light heather gray our Premium Citron Sundial Yoga Mat provides a stable, non-slip surface for your practice. This durable lasting mat ensures the safety and comfort you need to enhance proper alignment and maintain poses.\n\nFeatures our bestselling Citron Sundial print\nTextured for non-slip performance\n5mm of premium cushioning\nSupports you and your joints\nLightweight and durable\nLatex-free\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. Store in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -684,6 +774,8 @@
     ],
     "shopifyId": 9130975489,
     "shopifyHandle": "05-61333",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -691,6 +783,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:15:23-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:15:22-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -699,7 +793,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -742,7 +835,12 @@
     "name": "Premium Metallic Sunset Yoga Mat (6mm)",
     "slug": "gaiam-premium-metallic-sunset-yoga-mat-6mm",
     "description": "Although the stylish metallic design of our Premium Metallic Sunset Yoga Mat is beautiful and inspiring, this Gaiam Premium Rubber Yoga Mat is a yoga workhorse. With 6mm of cushioning thickness and a textured surface to keep you grounded as you move through your practice. Includes lifetime mat guarantee.\n\n6mm thick\n“Sticky” surface is textured for extra grip\nMat purchase includes an online library of yoga content\n\nLifetime yoga mat guarantee\n\n\n\n\n\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -752,6 +850,8 @@
     ],
     "shopifyId": 1747441582126,
     "shopifyHandle": "premium-metallic-sunset-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -760,6 +860,8 @@
       "Style- Metallic",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2019-04-08T16:14:25-06:00",
+    "shopifyPublishedAt": "2019-04-09T09:09:31-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -768,7 +870,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -817,7 +918,12 @@
     "name": "Premium Lily Shadows Yoga Mat (6mm)",
     "slug": "gaiam-05-62433",
     "description": "Practice on this colorful, yet classic, Premium Lily Shadows Yoga Mat. This mat features a premium 6mm thickness that provides extra-cushioning, which supports joints in any pose and a texture that provides a non-slip surface that will keep you in place.\n\nLily inspired print\nTextured for non-slip performance\n6mm of premium cushioning\nSupports you and your joints\nIdeal for home or studio use\nLatex-free\nMade exclusively by Gaiam\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -827,6 +933,8 @@
     ],
     "shopifyId": 9130992257,
     "shopifyHandle": "05-62433",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -834,6 +942,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:21:45-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:21:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -842,7 +952,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -891,7 +1000,12 @@
     "name": "Kids Blue Rocket Yoga Mat (4mm)",
     "slug": "gaiam-05-61637",
     "description": "Let your imagination blast off with this kid-sized blue rocket yoga mat. With all-grip and no-slip, stay put during any falling star, crescent moon or airplane pose and comfortable during relaxing savasana. This mat is also latex and 8P free, and comes with our lifetime guarantee. Ideal for ages 5-8.\n\nAn outer space inspired yoga mat\nAll-grip and no-slip\n4mm of comfortable cushioning\nLightweight and durable\n7P and latex free\nSafe choice for your kids and the planet\nComes with our lifetime guarantee\nAges 5-8\n\nMeasurements: 60\"L x 24\"W x 4mm.\nMaterials: PVC. Latex Free. 7P Free\nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -900,6 +1014,8 @@
     ],
     "shopifyId": 9130978049,
     "shopifyHandle": "05-61637",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Kids/Yoga",
     "shopifyTags": [
       "4mm",
       "Kidnasium",
@@ -908,6 +1024,8 @@
       "Size- Kids",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:16:42-06:00",
+    "shopifyPublishedAt": "2024-07-10T13:07:58-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 19.98,
@@ -916,7 +1034,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -959,7 +1076,12 @@
     "name": "Premium Metallic Medallion Yoga Mat (6mm)",
     "slug": "gaiam-premium-metallic-bronze-medallion-yoga-mat-6mm",
     "description": "A unique and stylish metallic design will help this mat stand out from the crowd at the studio. With 6mm of extra-thick cushioning, it’s textured for a comfortable grip, and the latex-free PVC is non-toxic. Your purchase includes a lifetime mat guarantee and access to our online library of yoga content.\n\nMetallic colored finish\n6mm thick with a textured “sticky” surface\nLatex-free PVC\nOnline library of yoga content\nLifetime yoga mat guarantee\n\n\n\n\n\n\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -969,6 +1091,8 @@
     ],
     "shopifyId": 1747442729006,
     "shopifyHandle": "premium-metallic-bronze-medallion-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -977,6 +1101,8 @@
       "Style- Metallic",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2019-04-08T16:15:54-06:00",
+    "shopifyPublishedAt": "2019-04-09T09:08:08-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -985,7 +1111,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1046,7 +1171,12 @@
     "name": "Reversible Spiral Motion Yoga Mat (6mm)",
     "slug": "gaiam-05-62435",
     "description": "Mix-it-up with this Reversible Spiral Motion Yoga Mat that features a wave print on one side and a historic fossil print on the other. The 6mm thickness provides extra-cushioning that will help protect your joint during any pose while the texture is made from no slip, grippy material, that keeps you in place. \n\nTextured for non-slip performance\n6mm of cushioning\nReversible; choose between two patterns\nIdeal for home or studio use\nMade without latex\n\nMade exclusively by Gaiam\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1056,6 +1186,8 @@
     ],
     "shopifyId": 9130992577,
     "shopifyHandle": "05-62435",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1063,6 +1195,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:21:49-06:00",
+    "shopifyPublishedAt": "2021-11-05T11:39:53-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1071,7 +1205,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1138,7 +1271,12 @@
     "name": "Reversible Inner Peace Yoga Mat (6mm)",
     "slug": "gaiam-reversible-peace-yoga-mat-5mm",
     "description": "Now you can have a mat that gives you extra support in material and design. Move comfortably through your poses with 6mm of cushioning and choose from two reversible patterns to motivate your practice: Let the lotus flower open you up or turn to the geometric pattern for some Zen discipline.\n\nTwo reversible designs for variety\n6mm of premium cushioning\nTextured for non-slip performance\nIncludes online library of helpful videos\n\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1149,6 +1287,8 @@
     ],
     "shopifyId": 9358199809,
     "shopifyHandle": "reversible-peace-yoga-mat-5mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1156,6 +1296,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2017-05-04T14:12:56-06:00",
+    "shopifyPublishedAt": "2017-05-08T10:24:51-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1164,7 +1306,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1219,7 +1360,12 @@
     "name": "Premium Aubergine Swirl Yoga Mat (6mm)",
     "slug": "gaiam-premium-aubergine-swirl-yoga-mat-5mm",
     "description": "With a bright pink pattern on deep purple, this mat is a vibrant must-have for your newer, fiercer yoga practice. The thick cushioning, comfortable non-slip surface and lifetime guarantee can take all the power and passion you put into it.\n\n6mm of premium cushioning\nTextured, “sticky,” non-slip surface\nComes with online yoga library\n\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1229,6 +1375,8 @@
     ],
     "shopifyId": 493289472046,
     "shopifyHandle": "premium-aubergine-swirl-yoga-mat-5mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1236,6 +1384,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2018-02-06T09:46:46-07:00",
+    "shopifyPublishedAt": "2018-02-06T14:11:06-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -1244,7 +1394,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1287,7 +1436,12 @@
     "name": "Navy Fleur Marrakesh Yoga Mat (4mm)",
     "slug": "gaiam-05-62429",
     "description": "Find your center on this Navy Fleur Marrakesh Yoga Mat. This 4mm thick mat will help keep you and your joints comfortable during any pose while the no slip grip will keep you in place. Made without the six most harmful phthalates and latex free.\n\nMarrakesh inspired print\nTextured for non-slip performance\n4mm of cushioning\nSupports you and your joints\nIdeal for home or studio use\nLatex free\nMade exclusively by Gaiam\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm.\nMaterials: PVC. Latex Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1295,12 +1449,16 @@
     ],
     "shopifyId": 9130991873,
     "shopifyHandle": "05-62429",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2017-04-04T18:21:38-06:00",
+    "shopifyPublishedAt": "2017-04-04T18:21:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 24.98,
@@ -1309,7 +1467,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1352,7 +1509,12 @@
     "name": "Premium Reversible Jade Salutation Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-jade-salutation-yoga-mat-6mm",
     "description": "Express your yoga self with a two-sided mat—just select the design that best matches how you feel. Our Jade Salutation yoga mat is 6mm thick to offer plenty of cushioning, and the textured surface helps keep you grounded.\n\n6mm thickness offers extra cushioning\nTextured, non-slip, “sticky” surface\nIncludes online library of yoga content\nIncludes our exclusive yoga mat guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1363,6 +1525,8 @@
     ],
     "shopifyId": 4494280491054,
     "shopifyHandle": "premium-reversible-jade-salutation-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1372,6 +1536,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2020-04-13T12:26:26-06:00",
+    "shopifyPublishedAt": "2020-04-13T15:22:37-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1380,7 +1546,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1459,7 +1624,12 @@
     "name": "Premium Reversible Purple Illusion Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-purple-illusion-yoga-mat-6mm",
     "description": "Express your true self with a two-sided yoga mat—just pick the design that best matches how you feel. Our Premium Reversible Purple Illusion yoga mat is 6mm thick to offer plenty of cushioning, and the textured surface helps keep you grounded. This mat is latex-free and comes with our lifetime guarantee.\n\nNon-slip surface\nReversible design\n6mm of premium cushioning\nLightweight and durable\nSupports you and your joints\nLatex-free\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1471,6 +1641,8 @@
     ],
     "shopifyId": 6687637405742,
     "shopifyHandle": "premium-reversible-purple-illusion-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1479,6 +1651,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2021-08-31T11:21:18-06:00",
+    "shopifyPublishedAt": "2021-10-08T14:31:26-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1487,7 +1661,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1554,7 +1727,12 @@
     "name": "Premium Reversible Lunar Wave Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-lunar-wave-yoga-mat-6mm",
     "description": "Express your yoga self with a two-sided mat—just select the design that best matches how you feel. Our Lunar Wave yoga mat is 6mm thick to offer plenty of cushioning, and the textured surface helps keep you grounded. \n\n6mm thickness offers extra cushioning\nTextured, non-slip, “sticky” surface\nIncludes online library of yoga content\nIncludes our exclusive yoga mat guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1565,6 +1743,8 @@
     ],
     "shopifyId": 6786910093358,
     "shopifyHandle": "premium-reversible-lunar-wave-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1574,6 +1754,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2022-06-10T12:16:47-06:00",
+    "shopifyPublishedAt": "2022-06-10T12:16:47-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1582,7 +1764,6 @@
     "minGrams": 3674,
     "maxGrams": 3674,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1655,7 +1836,12 @@
     "name": "Kids Twinkle Toes Yoga Mat (3mm)",
     "slug": "gaiam-kids-twinkle-toes-yoga-mat-3mm",
     "description": "The Kids Twinkle Toes Yoga Mat features a friendly unicorn companion, ready to join your kiddo in yoga poses or relaxation time. Our kid-friendly designs keep kids interested and engaged during yoga. This kid-sized yoga mat is 3mm thick and features a “sticky” textured surface to help keep little hands and feet grounded during poses. \n\n3mm thick\nFun, child-friendly design\nSized for kids 5-8\nTextured, non-slip surface\nLightweight, portable\n\nComes with our lifetime guarantee\n\nMeasurements: 60\"L x 24\"W x 3mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 3,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1664,6 +1850,8 @@
     ],
     "shopifyId": 6701177864238,
     "shopifyHandle": "kids-twinkle-toes-yoga-mat-3mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "3mm",
       "Kidnasium",
@@ -1673,6 +1861,8 @@
       "Size- Kids",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-10-04T12:25:54-06:00",
+    "shopifyPublishedAt": "2021-10-12T12:18:53-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 19.98,
@@ -1681,7 +1871,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1724,7 +1913,12 @@
     "name": "Premium Reversible Seaglass Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-seaglass-yoga-mat-6mm",
     "description": "Reversible mats let you choose the side that matches your current mood. Pick the geometric side for grounding energy or the mandala-inspired design when you're feeling flowy and energized. Each side features a beautiful, inspiring design, while the textured, non-slip surface is “sticky” for extra grip. The cushioned, 6mm-thick mat contains no latex.\n\nNon-slip surface\nReversible design\n6mm of premium cushioning\nIdeal for home or studio use\nLightweight and durable\nSupports you and your joints\nLatex-free\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1736,6 +1930,8 @@
     ],
     "shopifyId": 6687639699502,
     "shopifyHandle": "premium-reversible-seaglass-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1744,6 +1940,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2021-08-31T11:26:04-06:00",
+    "shopifyPublishedAt": "2021-10-08T14:37:15-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1752,7 +1950,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1825,7 +2022,12 @@
     "name": "Premium Reversible Marbled Bronze Medallion Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-marbled-bronze-medallion-yoga-mat-6mm",
     "description": "A unique and stylish metallic printed design will help this mat stand out at the studio - and it's reversible so you can pick whichever print fits your mood that day. With 6mm of extra-thick cushioning, it’s textured for a comfortable grip, and the latex-free PVC is non-toxic. Your purchase includes a lifetime mat guarantee and access to our online library of yoga content.\n\nTextured, \"sticky\" non-slip surface\n6mm of premium cushioning\nReversible design with metallic print\nSupports you and your joints\nLatex-free PVC\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1836,6 +2038,8 @@
     ],
     "shopifyId": 6702323957806,
     "shopifyHandle": "premium-reversible-marbled-bronze-medallion-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -1845,6 +2049,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2021-10-07T16:30:14-06:00",
+    "shopifyPublishedAt": "2021-10-11T10:31:46-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -1853,7 +2059,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1926,7 +2131,12 @@
     "name": "Kids Chomper Yoga Mat (3mm)",
     "slug": "gaiam-kids-chomper-yoga-mat-3mm",
     "description": "If your kid loves underwater creatures and active play, this mat is the perfect one to get them moving. Ideal for children between the ages of five and eight, this kids size mat is 3mm thick to support growing joints and made of latex-free PVC that's non-toxic and safe for kids with latex allergies.\n\n3mm thick\n“Sticky” textured surface\nLightweight and easy to carry\n\nComes with our lifetime guarantee\n\nMeasurements: 60\"L x 24\"W x 3mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 3,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -1934,6 +2144,8 @@
     ],
     "shopifyId": 6701173604398,
     "shopifyHandle": "kids-chomper-yoga-mat-3mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "3mm",
       "Kidnasium",
@@ -1943,6 +2155,8 @@
       "Size- Kids",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-10-04T12:21:14-06:00",
+    "shopifyPublishedAt": "2021-10-12T12:14:33-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 19.98,
@@ -1951,7 +2165,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1994,7 +2207,12 @@
     "name": "Classic Mystic Ink Yoga Mat (4mm)",
     "slug": "gaiam-classic-mystic-ink-yoga-mat-4mm",
     "description": "Find your center and flow freely on the Classic Mystic Ink Yoga Mat. This mat's dark color and subtle design will add a feeling of peace and serenity to your yoga practice. Plus it's lightweight and durable, designed for home or studio use. \n\nTextured grippy surface\nPVC construction; latex-free\nStandard size, 4mm thick\nLightweight and portable\nIdeal for home or studio use\nCovered by our lifetime mat guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2003,12 +2221,16 @@
     ],
     "shopifyId": 6702322647086,
     "shopifyHandle": "classic-mystic-ink-yoga-mat-4mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-10-07T16:25:31-06:00",
+    "shopifyPublishedAt": "2021-10-08T16:09:28-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 24.98,
@@ -2017,7 +2239,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2066,7 +2287,12 @@
     "name": "Premium Luminary Yoga Mat (6mm)",
     "slug": "gaiam-premium-luminary-yoga-mat-6mm",
     "description": "Our Luminary mat features calming colors and zen scenery that keeps you grounded and inspired as you flow through your practice. The supremely cushioning 6mm-thick mat is made of latex-free PVC, and features a textured, “sticky” surface for sure footing every time. And, as with all of our mats, it’s covered by our exclusive lifetime yoga mat guarantee.\n\n6mm thick\n“Sticky” surface is textured for added grip\nDurable, latex-free PVC\nIncludes access to online library of yoga content\nLifetime mat guarantee\n\n\n\n\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2076,6 +2302,8 @@
     ],
     "shopifyId": 6786909503534,
     "shopifyHandle": "premium-luminary-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2084,6 +2312,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2022-06-10T12:15:17-06:00",
+    "shopifyPublishedAt": "2022-06-10T12:15:17-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2092,7 +2322,6 @@
     "minGrams": 3674,
     "maxGrams": 3674,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2147,7 +2376,12 @@
     "name": "Premium Celestial Blue Yoga Mat (6mm)",
     "slug": "gaiam-premium-celestial-blue-yoga-mat-6mm",
     "description": "The Premium Celestial Blue Yoga Mat will have you finding inspiration in the stars. Made of latex-free PVC, this ethereal celestial-inspired mat is 6mm thick for supreme cushioning and features a textured, “sticky” surface. Ideal for home or studio use and includes Gaiam's lifetime mat guarantee.\n\nNon-slip grippy surface\n6mm of premium cushioning\nLightweight and durable\nIdeal for home or studio use\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free.\nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2158,6 +2392,8 @@
     ],
     "shopifyId": 6687617581102,
     "shopifyHandle": "premium-celestial-blue-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2165,6 +2401,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-08-31T10:37:35-06:00",
+    "shopifyPublishedAt": "2021-10-04T16:49:41-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2173,7 +2411,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2216,7 +2453,12 @@
     "name": "Classic Yoga Mat (4mm) - Purple Lattice",
     "slug": "gaiam-classic-yoga-mat-4mm-purple-lattice",
     "description": "Perfect for yoga or just meditation, the Purple Lattice yoga mat features a calming, mandala-inspired print to help you ground down and relax. The 4mm of cushioning keeps you comfortable and the textured grippy surface keeps you stable during any pose or practice. Lightweight and portable, this mat is ideal for home or studio use. \n\n4mm thick\n“Sticky” textured mat surface\nPVC construction; latex-free\nLightweight and portable\nCovered by our lifetime mat guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2225,6 +2467,8 @@
     ],
     "shopifyId": 6786909274158,
     "shopifyHandle": "classic-yoga-mat-4mm-purple-lattice",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
@@ -2232,6 +2476,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2022-06-10T12:14:41-06:00",
+    "shopifyPublishedAt": "2022-06-10T12:14:41-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 24.98,
@@ -2240,7 +2486,6 @@
     "minGrams": 3674,
     "maxGrams": 3674,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2295,7 +2540,12 @@
     "name": "Kids Ballerina Yoga Mat (3mm)",
     "slug": "gaiam-kids-ballerina-yoga-mat-3mm",
     "description": "The Ballerina Yoga Mat will inspire your kid to spin, twist, twirl, and maybe even strike a dancer's yoga pose. This kid-friendly (and kid-sized) yoga mat is 3mm thick and features a “sticky” textured surface to help keep little hands and feet grounded during poses. \n\n3mm thick\n\"Sticky” textured surface to give kids the grip they need\n\nLightweight and easy to carry\nComes with our lifetime guarantee\n\nMeasurements: 60\"L x 24\"W x 3mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 3,
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2304,6 +2554,8 @@
     ],
     "shopifyId": 6701167312942,
     "shopifyHandle": "kids-ballerina-yoga-mat-3mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "3mm",
       "Kidnasium",
@@ -2313,6 +2565,8 @@
       "Size- Kids",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-10-04T12:15:25-06:00",
+    "shopifyPublishedAt": "2021-10-12T11:30:07-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 19.98,
@@ -2321,7 +2575,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": false,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2364,7 +2617,12 @@
     "name": "Premium Santorini Yoga Mat (6mm)",
     "slug": "gaiam-premium-santorini-yoga-mat-6mm",
     "description": "Let your mind wander to Santorini and crystal clear ocean views with the Premium Santorini Yoga Mat. 6mm of premium cushioning with a stable non-slip surface, will help you keep strong and grounded during any pose or practice. Lightweight and durable, this mat is perfect for home use or at the studio. \n\nNon-slip surface\n6mm of premium cushioning\nIdeal for home or studio use\nLightweight and durable\nLatex-free\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2375,6 +2633,8 @@
     ],
     "shopifyId": 6687615516718,
     "shopifyHandle": "premium-santorini-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2382,6 +2642,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-08-31T10:32:42-06:00",
+    "shopifyPublishedAt": "2021-10-04T12:59:00-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2390,7 +2652,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2433,7 +2694,12 @@
     "name": "Classic Yoga Mat (4mm) - Vibrant Flourish",
     "slug": "gaiam-classic-yoga-mat-4mm-vibrant-flourish",
     "description": "Perfect for yoga or just meditation, the Vibrant Flourish yoga mat features a calming, floral-inspired print to help you ground down and relax. The 4mm of cushioning keeps you comfortable and the textured grippy surface keeps you stable during any pose or practice. Lightweight and portable, this mat is ideal for home or studio use. \n\n4mm thick\n“Sticky” textured mat surface\nPVC construction\nLightweight and portable\nCovered by our lifetime mat guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2442,6 +2708,8 @@
     ],
     "shopifyId": 6786909405230,
     "shopifyHandle": "classic-yoga-mat-4mm-vibrant-flourish",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
@@ -2449,6 +2717,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2022-06-10T12:14:53-06:00",
+    "shopifyPublishedAt": "2022-06-10T12:14:53-06:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 21.98,
@@ -2457,7 +2727,6 @@
     "minGrams": 3674,
     "maxGrams": 3674,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2500,7 +2769,12 @@
     "name": "Premium Pink Marrakesh Yoga Mat (6mm)",
     "slug": "gaiam-premium-yoga-mat-pink-marrakesh-6mm",
     "description": "One of our best-selling yoga mats is now available in a cushier, 6mm size. Find your center on this Premium Pink Marrakesh Yoga Mat. 6mm of premium cushioning will help keep you and your joints comfortable during any pose and the no-slip grip will keep you in place during any practice. Like this mat but wish it came in a 4mm version? Shop our Navy Fleur Marrakesh Yoga Mat.\n\nMarrakesh inspired print\nTextured for non-slip performance\n6mm of premium cushioning\nIdeal for home or studio use\nLatex-free PVC\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2510,6 +2784,8 @@
     ],
     "shopifyId": 6713114198062,
     "shopifyHandle": "premium-yoga-mat-pink-marrakesh-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2517,6 +2793,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2021-11-04T14:07:21-06:00",
+    "shopifyPublishedAt": "2022-01-07T13:59:07-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2525,7 +2803,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2568,7 +2845,12 @@
     "name": "Premium Reversible Ethereal Beauty Yoga Mat (6mm)",
     "slug": "gaiam-premium-reversible-yoga-mat-ethereal-beauty-6mm",
     "description": "You won't be getting the blues while using the Ethereal Beauty Reversible Yoga Mat. Choose between two inspiring prints that allow you to mix it up for every practice. This mat has 6mm of cushioned support that provides comfort and stability to keep you in place during any pose while being gentle on your joints.\n\n\n\n\n\n\n\n\n\n\n\n\nTwo unique reversible designs\n6mm thickness for premium comfort\nTextured surface for non-slip performance\nComes with access to a full online video library\n\nComes with our lifetime guarantee\n\n\n\n\n\n\n\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2579,6 +2861,8 @@
     ],
     "shopifyId": 6866070372398,
     "shopifyHandle": "premium-reversible-yoga-mat-ethereal-beauty-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2589,6 +2873,8 @@
       "Style- Printed",
       "Style- Reversible"
     ],
+    "shopifyCreatedAt": "2023-02-21T13:08:01-07:00",
+    "shopifyPublishedAt": "2023-02-21T13:13:52-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 39.98,
@@ -2597,7 +2883,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2658,7 +2943,12 @@
     "name": "Premium Violet Vision Yoga Mat (6mm)",
     "slug": "gaiam-premium-yoga-mat-violet-vision-6mm",
     "description": "If you're a minimalist, this mat is for you. The neutral color with a metallic accent are perfect for any yoga setting. The thick cushioning, comfortable non-slip surface, and lifetime guarantee support all the power and passion you put into it.\n\n6mm thickness for premium comfort\nTextured surface for non-slip performance\nComes with access to a full online video library\n\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2668,6 +2958,8 @@
     ],
     "shopifyId": 6866042716206,
     "shopifyHandle": "premium-yoga-mat-violet-vision-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2676,6 +2968,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2023-02-21T10:36:56-07:00",
+    "shopifyPublishedAt": "2023-02-21T10:41:19-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2684,7 +2978,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2727,7 +3020,12 @@
     "name": "Moonlit Tide Classic Yoga Mat (4mm)",
     "slug": "gaiam-moonlit-tide-classic-yoga-mat-4mm",
     "description": "Feel the calm while using the Moonlit Tide Classic Yoga Mat. This mat's celestial print will add a feeling of peace and serenity to your yoga practice. Plus it's lightweight and durable, designed for home or studio use. \n\n\n\nTextured for non-slip performance\n4mm of cushioning\nSupports you and your joints\nIdeal for yoga at home or the studio\nMade exclusively by Gaiam\n\nLifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm\n\n\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2736,6 +3034,8 @@
     ],
     "shopifyId": 6866037768238,
     "shopifyHandle": "moonlit-tide-classic-yoga-mat-4mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
@@ -2743,6 +3043,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2023-02-21T09:52:03-07:00",
+    "shopifyPublishedAt": "2023-02-21T10:22:40-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 24.98,
@@ -2751,7 +3053,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2794,7 +3095,12 @@
     "name": "Premium Here and Now Yoga Mat (6mm)",
     "slug": "gaiam-premium-here-and-now-yoga-mat-6mm",
     "description": "Enjoy the cool, calming colors of the Here and Now Premium Yoga Mat. Whether you're a new Yogi, or a seasoned pro, this mat is a must-have for your practice. The thick cushioning, comfortable non-slip surface and lifetime guarantee can support all the power and passion you put into it.\n\n6mm thickness for premium comfort\n\nTextured surface for non-slip performance\nComes with access to a full online video library\n\nComes with our lifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 6mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 6,
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2804,6 +3110,8 @@
     ],
     "shopifyId": 6866041110574,
     "shopifyHandle": "premium-here-and-now-yoga-mat-6mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "6mm",
       "Material- Latex Free",
@@ -2812,6 +3120,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2023-02-21T10:23:21-07:00",
+    "shopifyPublishedAt": "2023-02-21T10:35:12-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 34.98,
@@ -2820,7 +3130,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2863,7 +3172,12 @@
     "name": "Wild Perennial Classic Yoga Mat (4mm)",
     "slug": "gaiam-wild-perennial-classic-yoga-mat-4mm",
     "description": "Find your center and flow freely on the Wild Perennial Classic Yoga Mat. This mat's cheery color and floral design will add a feeling of peace and serenity to your yoga practice. Plus it's lightweight and durable, designed for home or studio use. \n\nTextured for non-slip performance\n4mm of cushioning\nSupports you and your joints\nIdeal for yoga at home or the studio\nMade exclusively by Gaiam\n\nLifetime guarantee\n\nMeasurements: 68\"L x 24\"W x 4mm.\nMaterials: PVC. Latex-Free. \nCare Instructions: Printed yoga mats release a very strong but harmless odor when first unwrapped. Please unroll and air out your mat for 2-3 days before use. Spot clean with our Yoga Mat Wash or damp cloth with cold water and mild detergent. Dry flat. The mat may fade and become brittle and unusable if exposed to the sun for extended periods of time. We recommend storing your mat in a mat bag when not in use. Learn more about How to Remove That New Yoga Mat Smell.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "PVC",
     "features": [
       "Eco-Friendly",
@@ -2872,6 +3186,8 @@
     ],
     "shopifyId": 6865545396270,
     "shopifyHandle": "wild-perennial-classic-yoga-mat-4mm",
+    "shopifyVendor": "Gaiam",
+    "shopifyProductType": "Yoga/Yoga Mats",
     "shopifyTags": [
       "4mm",
       "Material- Latex Free",
@@ -2879,6 +3195,8 @@
       "Size- Standard",
       "Style- Printed"
     ],
+    "shopifyCreatedAt": "2023-02-17T15:18:33-07:00",
+    "shopifyPublishedAt": "2023-02-17T15:21:36-07:00",
     "shopifyUpdatedAt": "2026-01-09T06:02:53-07:00",
     "variantsCount": 1,
     "minPrice": 24.98,
@@ -2887,7 +3205,6 @@
     "minGrams": 3688,
     "maxGrams": 3688,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",

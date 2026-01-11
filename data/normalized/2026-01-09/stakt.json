@@ -5,19 +5,40 @@
     "name": "The Stakt Mat Pro",
     "slug": "stakt-the-stakt-mat-pro",
     "description": "Everything you love about the Stakt Mat, plus a premium textured layer for enhanced performance.\nWhat makes the Stakt Mat Pro different?\n\n\n \nPremium Durability: The premium textured layer provides added strength, ensuring your mat stands up to even the most rigorous workouts.\n\n\nSuperior Grip: Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support.\n\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W Folded\nPatent #US-D1050762-S",
-    "thickness": 12,
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24 W"
+    },
     "features": [
       "Non-Slip",
       "Premium"
     ],
     "shopifyId": 8037178015926,
     "shopifyHandle": "the-stakt-mat-pro",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
     "shopifyTags": [
       "20% at Checkout",
       "honeycomb-supplier-product",
       "Logicbroker",
       "staktmatpro"
     ],
+    "shopifyCreatedAt": "2024-07-29T11:20:09-04:00",
+    "shopifyPublishedAt": "2024-08-01T07:45:57-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 6,
     "minPrice": 128,
@@ -26,15 +47,6 @@
     "minGrams": 1361,
     "maxGrams": 1361,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Midnight",
-      "Dune",
-      "Lilac",
-      "Forest",
-      "Fig"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -158,6 +170,14 @@
         "height": 2052,
         "position": 18
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight",
+      "Dune",
+      "Lilac",
+      "Forest",
+      "Fig"
     ]
   },
   {
@@ -166,18 +186,39 @@
     "name": "The Stakt Mat",
     "slug": "stakt-the-mat",
     "description": "Stakt is the only 2 in 1 fitness mat that doubles as a block for added versatility in your workouts and extra support for whichever way you move. This reimagined yoga mat is twice as thick and super lightweight.\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W FoldedPatent #US-D1050762-S",
-    "thickness": 12,
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24 W"
+    },
     "features": [
       "Lightweight"
     ],
     "shopifyId": 6599577534646,
     "shopifyHandle": "the-mat",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
     "shopifyTags": [
       "20% at Checkout",
       "Cortina",
       "everything_bundle",
       "honeycomb-supplier-product"
     ],
+    "shopifyCreatedAt": "2021-03-23T18:56:27-04:00",
+    "shopifyPublishedAt": "2021-08-20T18:56:15-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 6,
     "minPrice": 94,
@@ -186,15 +227,6 @@
     "minGrams": 1361,
     "maxGrams": 1361,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Dune",
-      "Midnight",
-      "Iron",
-      "Tide",
-      "Rosewater",
-      "Seafoam"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -312,6 +344,14 @@
         "height": 2048,
         "position": 17
       }
+    ],
+    "availableColors": [
+      "Dune",
+      "Midnight",
+      "Iron",
+      "Tide",
+      "Rosewater",
+      "Seafoam"
     ]
   },
   {
@@ -320,25 +360,35 @@
     "name": "The Stakt Mat Pro XL",
     "slug": "stakt-stakt-mat-pro-xl",
     "description": "Meet the Stakt Mat Pro XL -  the same premium, ultra-supportive mat you love, now with even more room to move. At 80\" x 28\", it’s longer and wider than the original Stakt Mat Pro (69\" x 24\"), giving you extra comfort, stability, and space for every flow, sculpt, or stretch. Perfect for taller users or anyone who wants a little more wiggle room on the mat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnfolded: 80\" W x 28\" LFolded: 28\" x 10\" x 4\"",
-    "length": 203.2,
-    "width": 71.12,
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" x 28\""
+    },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" x 28\""
+    },
     "features": [
       "Extra Wide",
       "Premium"
     ],
     "shopifyId": 8384218300598,
     "shopifyHandle": "stakt-mat-pro-xl",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "",
     "shopifyTags": [],
+    "shopifyCreatedAt": "2026-01-01T17:48:50-05:00",
+    "shopifyPublishedAt": "2026-01-08T20:36:56-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 1,
     "minPrice": 158,
     "maxPrice": 158,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -385,6 +435,9 @@
         "height": 2048,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -396,9 +449,13 @@
     "features": [],
     "shopifyId": 8106896621750,
     "shopifyHandle": "the-strength-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
     "shopifyTags": [
       "set"
     ],
+    "shopifyCreatedAt": "2024-11-11T22:05:41-05:00",
+    "shopifyPublishedAt": "2025-12-31T20:14:58-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 36,
     "minPrice": 188.8,
@@ -407,15 +464,6 @@
     "minGrams": 6804,
     "maxGrams": 6804,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Midnight",
-      "Lilac",
-      "Dune",
-      "Forest",
-      "Fig"
-    ],
     "shopifyOptions": [
       {
         "name": "Choose The Stakt Mat Pro Color",
@@ -449,6 +497,14 @@
         "height": 1478,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight",
+      "Lilac",
+      "Dune",
+      "Forest",
+      "Fig"
     ]
   },
   {
@@ -462,9 +518,13 @@
     ],
     "shopifyId": 8099435675830,
     "shopifyHandle": "the-stakt-starter-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
     "shopifyTags": [
       "set"
     ],
+    "shopifyCreatedAt": "2024-10-27T18:25:49-04:00",
+    "shopifyPublishedAt": "2024-11-13T20:15:50-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 36,
     "minPrice": 217.6,
@@ -473,15 +533,6 @@
     "minGrams": 7711,
     "maxGrams": 7711,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Iron",
-      "Midnight",
-      "Rosewater",
-      "Dune",
-      "Seafoam",
-      "Tide"
-    ],
     "shopifyOptions": [
       {
         "name": "Choose The Stakt Mat Color",
@@ -515,6 +566,14 @@
         "height": 1486,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Iron",
+      "Midnight",
+      "Rosewater",
+      "Dune",
+      "Seafoam",
+      "Tide"
     ]
   },
   {
@@ -528,9 +587,13 @@
     ],
     "shopifyId": 8354102050998,
     "shopifyHandle": "the-bring-stakt-anywhere-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
     "shopifyTags": [
       "set"
     ],
+    "shopifyCreatedAt": "2025-11-07T15:09:40-05:00",
+    "shopifyPublishedAt": "2025-11-07T15:20:14-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 30,
     "minPrice": 161.6,
@@ -539,15 +602,6 @@
     "minGrams": 2722,
     "maxGrams": 2722,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Iron",
-      "Rosewater",
-      "Dune",
-      "Tide",
-      "Seafoam",
-      "Midnight"
-    ],
     "shopifyOptions": [
       {
         "name": "Mat Color",
@@ -580,6 +634,14 @@
         "height": 1080,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Iron",
+      "Rosewater",
+      "Dune",
+      "Tide",
+      "Seafoam",
+      "Midnight"
     ]
   },
   {
@@ -593,9 +655,13 @@
     ],
     "shopifyId": 8354083143862,
     "shopifyHandle": "the-holiday-gift-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
     "shopifyTags": [
       "set"
     ],
+    "shopifyCreatedAt": "2025-11-07T13:34:10-05:00",
+    "shopifyPublishedAt": "2025-12-31T20:19:45-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 108,
     "minPrice": 201.6,
@@ -604,15 +670,6 @@
     "minGrams": 7257,
     "maxGrams": 7711,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Dune",
-      "Lilac",
-      "Midnight",
-      "Forest",
-      "Fig"
-    ],
     "shopifyOptions": [
       {
         "name": "Pro Mat Color",
@@ -655,6 +712,14 @@
         "height": 1458,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Dune",
+      "Lilac",
+      "Midnight",
+      "Forest",
+      "Fig"
     ]
   },
   {
@@ -665,9 +730,13 @@
     "features": [],
     "shopifyId": 8100530258102,
     "shopifyHandle": "the-pilates-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
     "shopifyTags": [
       "set"
     ],
+    "shopifyCreatedAt": "2024-10-29T08:17:52-04:00",
+    "shopifyPublishedAt": "2025-11-07T14:51:08-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:26-05:00",
     "variantsCount": 54,
     "minPrice": 164.8,
@@ -676,15 +745,6 @@
     "minGrams": 2155,
     "maxGrams": 2155,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight",
-      "Dune",
-      "Forest",
-      "Lilac",
-      "Black",
-      "Fig"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -724,6 +784,14 @@
         "height": 1464,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Midnight",
+      "Dune",
+      "Forest",
+      "Lilac",
+      "Black",
+      "Fig"
     ]
   }
 ]

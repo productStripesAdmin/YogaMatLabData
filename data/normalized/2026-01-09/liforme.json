@@ -14,6 +14,8 @@
     ],
     "shopifyId": 6149522456751,
     "shopifyHandle": "liforme-classic-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -35,28 +37,14 @@
       "type-Yoga Mat",
       "YGroup_yogamat"
     ],
+    "shopifyCreatedAt": "2020-12-10T12:06:14+00:00",
+    "shopifyPublishedAt": "2024-03-25T10:31:33+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 13,
     "minPrice": 160,
     "maxPrice": 160,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Grey",
-      "Deep Forest Green",
-      "Terracotta",
-      "Dusk Blue",
-      "Maroon",
-      "Purple",
-      "Olive",
-      "Aqua Teal",
-      "Blue",
-      "Pink",
-      "Golden Sand",
-      "Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -175,6 +163,21 @@
         "height": 2048,
         "position": 16
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Grey",
+      "Deep Forest Green",
+      "Terracotta",
+      "Dusk Blue",
+      "Maroon",
+      "Purple",
+      "Olive",
+      "Aqua Teal",
+      "Blue",
+      "Pink",
+      "Golden Sand",
+      "Green"
     ]
   },
   {
@@ -183,7 +186,12 @@
     "name": "Liforme Cosmic Moon Yoga Mat",
     "slug": "liforme-liforme-cosmic-moon-yoga-mat",
     "description": "TRULY LUMINOUS. The Cosmic Moon Yoga Mat features a radiant moon AlignForMe® posture alignment design, in beautiful shades of yellow, blue, green, lilac, and white on our super-grippy mat surface. Inspired by the celestial energy of the lunar cycle, this visually stunning Yoga mat is designed to support your physical and spiritual transformation.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. The unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -193,6 +201,8 @@
     ],
     "shopifyId": 7765817622703,
     "shopifyHandle": "liforme-cosmic-moon-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -207,18 +217,14 @@
       "type-Yoga Mat",
       "YGroup_cosmic-yogamat"
     ],
+    "shopifyCreatedAt": "2024-03-18T12:58:11+00:00",
+    "shopifyPublishedAt": "2025-03-04T11:06:04+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Dusk Blue",
-      "Black",
-      "Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -291,6 +297,11 @@
         "height": 2048,
         "position": 10
       }
+    ],
+    "availableColors": [
+      "Dusk Blue",
+      "Black",
+      "Blue"
     ]
   },
   {
@@ -299,7 +310,12 @@
     "name": "Liforme Magic Galaxy Yoga Mat - Gold & Silver",
     "slug": "liforme-liforme-magic-galaxy-yoga-mat-gold-silver",
     "description": "Step onto the Liforme Magic Galaxy Yoga Mat and feel your practice expand in every direction. Inspired by a starry night sky, its celestial AlignForMe® design intuitively guides your posture and balance - transforming every session into something magical.\nEach mat is carefully hand-printed using our signature non-toxic, eco-friendly metallic inks, creating a shimmering celestial finish that’s truly unique. The Magic Galaxy is a luminous, gold & silver fully printed design, rich in detail, artistry, and craftsmanship, and is also available in a second celestial palette to suit your vibe: Silver on dusk blue or black mat surface.\nBeyond its beauty, it’s engineered for performance: unmatched grip and stability, even through the sweatiest flows. Crafted from sustainably sourced natural rubber and PVC-free materials, it’s planet-friendly, vegan, and made to perform - practice after practice.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning - ideal for all body types and Yoga styles.\nEasily transport your Magic Galaxy anywhere on the Planet with our a complimentary Yoga Mat bag making transport and storage effortless.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -309,6 +325,8 @@
     ],
     "shopifyId": 14969576849784,
     "shopifyHandle": "liforme-magic-galaxy-yoga-mat-gold-silver",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -323,16 +341,14 @@
       "type-Yoga Mat",
       "YGroup_magic-galaxy-yoga-mat"
     ],
+    "shopifyCreatedAt": "2025-09-26T14:51:45+01:00",
+    "shopifyPublishedAt": "2025-10-20T17:24:50+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -361,6 +377,9 @@
         "height": 2048,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -369,7 +388,12 @@
     "name": "Liforme Tropical Paradise Yoga Mat",
     "slug": "liforme-liforme-tropical-paradise-yoga-mat",
     "description": "TRULY EXOTIC.  Welcome to your oasis, a bright sea of brilliant colours with the Liforme Tropical Paradise Yoga Mat. Featuring a vibrant AlignForMe® design in tropical pink, green, orange, purple, red, yellow, and white flora and fauna, evoking a sunny day in paradise.Printed using durable, eco-friendly, non-toxic ink, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. This joyful refuge will be your happy place as you move freely on our unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.Designed to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles. \nTake your slice of paradise anywhere with the complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -379,6 +403,8 @@
     ],
     "shopifyId": 14958245052792,
     "shopifyHandle": "liforme-tropical-paradise-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -392,16 +418,14 @@
       "type-Yoga Mat",
       "YGroup_tropical-yogamat"
     ],
+    "shopifyCreatedAt": "2025-08-18T13:50:12+01:00",
+    "shopifyPublishedAt": "2025-09-22T16:38:45+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Aqua Teal"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -418,6 +442,9 @@
         "height": 4096,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Aqua Teal"
     ]
   },
   {
@@ -426,7 +453,12 @@
     "name": "Liforme x You - A unique Yoga Mat",
     "slug": "liforme-liforme-x-you-your-unique-yoga-mat",
     "description": "Truly Unique. With the Liforme Yoga Mat Customiser, the look of your next mat is completely up to you. Start by picking your favourite Liforme mat colour and theme, then add alignment guidelines (as few or as many as you like) in the colours of your choice and finish it with your signature for a Yoga mat as unique as you are.\nEvery custom Liforme Yoga Mat features our beloved grippy surface, three-layer construction, and eco-friendly commitment. Our user-friendly interface and innovative printing process make the process fun, quick, and easy.\nComplimentary bag included.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -434,6 +466,8 @@
     ],
     "shopifyId": 7159308124335,
     "shopifyHandle": "liforme-x-you-your-unique-yoga-mat",
+    "shopifyVendor": "Liforme Customiser",
+    "shopifyProductType": "Liforme x You",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -465,31 +499,14 @@
       "type-Yoga Mat",
       "YGroup_custommat"
     ],
+    "shopifyCreatedAt": "2022-02-18T15:35:59+00:00",
+    "shopifyPublishedAt": "2025-10-21T08:04:04+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 48,
     "minPrice": 240,
     "maxPrice": 260,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Purple",
-      "Orange",
-      "Yellow",
-      "Blue",
-      "Pink",
-      "White",
-      "Dusk",
-      "Olive",
-      "Black",
-      "Red",
-      "Maroon",
-      "Sand",
-      "Terracotta",
-      "Aqua",
-      "Forest"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -645,6 +662,24 @@
         "height": 2048,
         "position": 19
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Purple",
+      "Orange",
+      "Yellow",
+      "Blue",
+      "Pink",
+      "White",
+      "Dusk",
+      "Olive",
+      "Black",
+      "Red",
+      "Maroon",
+      "Sand",
+      "Terracotta",
+      "Aqua",
+      "Forest"
     ]
   },
   {
@@ -653,7 +688,12 @@
     "name": "Liforme Mindful Garden Yoga Mat",
     "slug": "liforme-liforme-mindful-garden-yoga-mat",
     "description": "TRULY IN BLOOM. Step into your practice with the Liforme Mindful Garden Yoga Mat, featuring a beautiful floral AlignForMe® alignment guide printed in six vibrant, non-toxic, durable eco-friendly ink colours. These intelligent alignment markers work intuitively with your body, allowing you to stay balanced, aligned and centred; creating a joyful place to nurture your Yoga practice.\nFeaturing our GripForMe® non-slip top surface, this mat delivers unmatched grip and the perfect balance of firm stability and soft cushioning. It’s truly planet-friendly and body-kind, made from sustainably sourced natural rubber and PVC-free materials.\nLonger and wider than standard Yoga mats, it gives you the space you need to move freely and practice without limits.\nIncludes a complimentary Yoga mat bag for effortless carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -663,6 +703,8 @@
     ],
     "shopifyId": 7765813526703,
     "shopifyHandle": "liforme-mindful-garden-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -679,18 +721,14 @@
       "type-Yoga Mat",
       "YGroup_mindfulyoga"
     ],
+    "shopifyCreatedAt": "2024-03-18T12:28:08+00:00",
+    "shopifyPublishedAt": "2024-03-25T10:31:40+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Olive",
-      "Purple",
-      "Grey"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -751,6 +789,11 @@
         "height": 2048,
         "position": 8
       }
+    ],
+    "availableColors": [
+      "Olive",
+      "Purple",
+      "Grey"
     ]
   },
   {
@@ -759,7 +802,12 @@
     "name": "Liforme Blossoming Lotus Yoga Mat",
     "slug": "liforme-liforme-blossoming-lotus-yoga-mat",
     "description": "TRULY FLOURISHING. The Blossoming Lotus Yoga Mat is an exuberant reinterpretation of Liforme’s original Lotus centrepiece, which has been featured on our mats since they debuted in 2013. Printed using durable, eco-friendly, non-toxic inks, the AlignForMe® posture alignment design appears in a beautiful gradient of pinks on our grey base, or in rich tangerine and violet tones on our deep purple Earth surface. These intelligent markers help guide Yogis of all levels and sizes to improved posture, balance, and body awareness.\nExperience unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -769,6 +817,8 @@
     ],
     "shopifyId": 7769349980335,
     "shopifyHandle": "liforme-blossoming-lotus-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -783,17 +833,14 @@
       "type-Yoga Mat",
       "YGroup_lotus-yoga-mat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:25:52+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:33+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Purple",
-      "Grey"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -847,6 +894,10 @@
         "height": 2048,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Purple",
+      "Grey"
     ]
   },
   {
@@ -855,7 +906,12 @@
     "name": "Liforme Deep Forest Mindful Garden Yoga Mat",
     "slug": "liforme-liforme-deep-forest-mindful-garden-yoga-mat",
     "description": "TRULY IN BLOOM. Step into your practice with the Liforme Mindful Garden Yoga Mat, featuring a beautiful floral AlignForMe® alignment guide printed in verdant botanical non-toxic, durable eco-friendly ink colours. These intelligent alignment markers work intuitively with your body, allowing you to stay balanced, aligned and centred; creating a joyful place to nurture your Yoga practice.\nFeaturing our GripForMe® non-slip top surface, this mat delivers unmatched grip and the perfect balance of firm stability and soft cushioning. It’s truly planet-friendly and body-kind, made from sustainably sourced natural rubber and PVC-free materials.\nLonger and wider than standard Yoga mats, it gives you the space you need to move freely and practice without limits.\nIncludes a complimentary Yoga mat bag for effortless carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -865,6 +921,8 @@
     ],
     "shopifyId": 14909729276280,
     "shopifyHandle": "liforme-deep-forest-mindful-garden-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -881,16 +939,14 @@
       "type-Yoga Mat",
       "YGroup_mindfulyoga"
     ],
+    "shopifyCreatedAt": "2025-04-25T14:03:15+01:00",
+    "shopifyPublishedAt": "2025-05-06T14:59:22+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Deep Forest Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -907,6 +963,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Deep Forest Green"
     ]
   },
   {
@@ -915,7 +974,12 @@
     "name": "Liforme White Magic Yoga Mat",
     "slug": "liforme-liforme-white-magic-yoga-mat",
     "description": "TRULY MAGICAL. The Liforme White Magic Yoga Mat, designed in collaboration with international Yoga teacher Kino MacGregor, brings a touch of elegance and enchantment to your practice. Its creamy base is beautifully printed with a metallic gold AlignForMe® posture alignment design, a magical embellished version of our original alignment system. \nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -925,6 +989,8 @@
     ],
     "shopifyId": 7772431286447,
     "shopifyHandle": "liforme-white-magic-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -939,16 +1005,14 @@
       "type-Yoga Mat",
       "YGroup_whiteyoga"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:10:20+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:42+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 200,
     "maxPrice": 200,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "White"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -983,6 +1047,9 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "White"
     ]
   },
   {
@@ -991,7 +1058,12 @@
     "name": "Liforme Magic Galaxy Yoga Mat - Silver",
     "slug": "liforme-liforme-magic-galaxy-yoga-mat-silver",
     "description": "Step onto the Liforme Magic Galaxy Yoga Mat and feel your practice expand in every direction. Inspired by a starry night sky, its celestial AlignForMe® design intuitively guides your posture and balance - transforming every session into something magical.\nEach mat is carefully hand-printed using our signature non-toxic, eco-friendly metallic inks, creating a shimmering celestial finish that’s truly unique. The Magic Galaxy is a luminous, gold & silver fully printed design, rich in detail, artistry, and craftsmanship, and is also available in a second celestial palette to suit your vibe: Gold & Silver on dusk blue or black mat surface.\nBeyond its beauty, it’s engineered for performance: unmatched grip and stability, even through the sweatiest flows. Crafted from sustainably sourced natural rubber and PVC-free materials, it’s planet-friendly, vegan, and made to perform - practice after practice.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning - ideal for all body types and Yoga styles.\nEasily transport your Magic Galaxy anywhere on the Planet with our a complimentary Yoga Mat bag making transport and storage effortless.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1001,6 +1073,8 @@
     ],
     "shopifyId": 14969535791480,
     "shopifyHandle": "liforme-magic-galaxy-yoga-mat-silver",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1015,17 +1089,14 @@
       "type-Yoga Mat",
       "YGroup_magic-galaxy-yoga-mat"
     ],
+    "shopifyCreatedAt": "2025-09-26T12:21:25+01:00",
+    "shopifyPublishedAt": "2025-10-20T17:19:58+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Dusk Blue",
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1055,6 +1126,10 @@
         "height": 2048,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Dusk Blue",
+      "Black"
     ]
   },
   {
@@ -1063,7 +1138,12 @@
     "name": "Liforme Black & Gold Yoga Mat",
     "slug": "liforme-liforme-black-gold-yoga-mat",
     "description": "TRULY GLORIOUS. The Liforme Black & Gold Yoga Mat brings bold elegance to your practice. Set against our mat(te) black surface, the mat features a striking gold AlignForMe® posture alignment system, designed to guide you intuitively through each pose with improved posture, balance, and body awareness.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1073,6 +1153,8 @@
     ],
     "shopifyId": 7769350373551,
     "shopifyHandle": "liforme-black-gold-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1087,16 +1169,14 @@
       "type-Yoga Mat",
       "YGroup_balck-gold-yoga-mat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:28:07+00:00",
+    "shopifyPublishedAt": "2024-04-16T10:58:40+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 200,
     "maxPrice": 200,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1137,6 +1217,9 @@
         "height": 2048,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1145,7 +1228,12 @@
     "name": "Liforme Majestic Carpet Yoga Mat",
     "slug": "liforme-liforme-majestic-carpet-yoga-mat",
     "description": "TRULY MAJESTIC. Welcome to the warmth and comfort of home, wherever you practice. Inspired by the beauty of traditional woven rugs, the Liforme Majestic Yoga Mat brings grounding energy and elegance to every flow. Choose from our rich maroon mat surface, featuring our Majestic AlignForMe® Design in deep reds, oranges, yellows, and browns, or our golden sand mat surface, printed with soothing olive green, orange, and yellow hues.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber, designed to complement your home environment. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nLonger and wider than standard Yoga mats, it provides the space you need to move freely, with the perfect balance of firm stability and soft cushioning. Made from sustainably sourced natural rubber and PVC-free, non-toxic materials, it’s truly planet-friendly and body-kind.\nIncludes a complimentary Yoga mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1155,6 +1243,8 @@
     ],
     "shopifyId": 7772324528303,
     "shopifyHandle": "liforme-majestic-carpet-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1169,17 +1259,14 @@
       "type-Yoga Mat",
       "YGroup_majesticyoga"
     ],
+    "shopifyCreatedAt": "2024-03-26T13:17:19+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:41+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 195,
     "maxPrice": 195,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Maroon",
-      "Golden Sand"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1203,6 +1290,10 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Maroon",
+      "Golden Sand"
     ]
   },
   {
@@ -1211,7 +1302,12 @@
     "name": "Liforme Mystique Yoga Mat",
     "slug": "liforme-liforme-mystique-yoga-mat",
     "description": "TRULY ALLURING. Feel the allure of Mystique with the Liforme Mystique Yoga Mat. Featuring an abstract, tone-on-tone AlignForMe® design that evokes mystery, elegance, and sophistication. Its enigmatic appeal lies in its union of sleek black ink on our black mat surface. Printed using durable, eco-friendly, non-toxic ink, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.Designed to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles. \nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1221,6 +1317,8 @@
     ],
     "shopifyId": 14934739550584,
     "shopifyHandle": "liforme-mystique-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1234,16 +1332,14 @@
       "type-Yoga Mat",
       "YGroup_mystique-yogamat"
     ],
+    "shopifyCreatedAt": "2025-06-10T11:18:25+01:00",
+    "shopifyPublishedAt": "2025-07-07T17:31:44+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black on Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1266,6 +1362,9 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Black on Black"
     ]
   },
   {
@@ -1283,6 +1382,8 @@
     ],
     "shopifyId": 7772435906735,
     "shopifyHandle": "liforme-mother-earth-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1298,6 +1399,8 @@
       "type-Yoga Mat",
       "YGroup_motherearth"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:22:51+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:46+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
@@ -1306,10 +1409,6 @@
     "minGrams": 3500,
     "maxGrams": 3500,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1332,6 +1431,9 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Purple"
     ]
   },
   {
@@ -1349,6 +1451,8 @@
     ],
     "shopifyId": 7769350963375,
     "shopifyHandle": "liforme-rainbow-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1362,18 +1466,14 @@
       "type-Yoga Mat",
       "YGroup_rainbow-yoga-mat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:31:38+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:40+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blue Sky",
-      "Yellow Hope",
-      "Grateful Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1428,6 +1528,11 @@
         "height": 2048,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Blue Sky",
+      "Yellow Hope",
+      "Grateful Pink"
     ]
   },
   {
@@ -1436,7 +1541,12 @@
     "name": "Liforme Expressions Yoga Mat",
     "slug": "liforme-liforme-expressions-yoga-mat",
     "description": "TRULY EXPRESSIVE. Let your practice reflect what you feel inside with the Liforme Expressions Yoga Mats. Featuring our iconic AlignForMe® system, reimagined with subtle, symbolic designs that represent Happiness, Gratitude and Love. Choose the sunshine mandala and flying bluebirds of Happiness, the prayer hands and blossoming lotus of Gratitude, or the radiant Love Lotus at the centre of the Love design. Each variation offers meaningful guidance to improve posture and body awareness while uplifting your spirit.\nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1446,6 +1556,8 @@
     ],
     "shopifyId": 7769271992495,
     "shopifyHandle": "liforme-expressions-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1464,19 +1576,14 @@
       "type-Yoga Mat",
       "YGroup_expression-yogamat"
     ],
+    "shopifyCreatedAt": "2024-03-22T13:45:14+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:26+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 4,
     "minPrice": 170,
     "maxPrice": 170,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Happiness Orange",
-      "Love Red",
-      "Gratitude Pink",
-      "Gratitude Grey"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1514,6 +1621,12 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Happiness Orange",
+      "Love Red",
+      "Gratitude Pink",
+      "Gratitude Grey"
     ]
   },
   {
@@ -1522,7 +1635,12 @@
     "name": "Liforme Paisley Passion Yoga Mat",
     "slug": "liforme-liforme-paisley-passion-yoga-mat",
     "description": "TRULY IMPASSIONED. Find your passion for every pose with the Liforme Paisley Passion Yoga Mat. Whether it's the maroon mat swirling with tonal shades of pink or the olive mat adorned with citrus and vanilla hues, each features a gorgeous paisley centrepiece and AlignForMe® alignment system, designed enhance posture, balance, and body awareness.\nExperience unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1532,6 +1650,8 @@
     ],
     "shopifyId": 7772433055919,
     "shopifyHandle": "liforme-paisley-passion-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1546,17 +1666,14 @@
       "type-Yoga Mat",
       "YGroup_mindfulyoga"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:16:23+00:00",
+    "shopifyPublishedAt": "2024-04-09T09:20:10+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Olive",
-      "Maroon"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1580,6 +1697,10 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Olive",
+      "Maroon"
     ]
   },
   {
@@ -1597,6 +1718,8 @@
     ],
     "shopifyId": 7769350865071,
     "shopifyHandle": "liforme-radiant-sun-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1607,17 +1730,14 @@
       "NEW-SITE",
       "YGroup_radiant-sun-yoga-mat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:31:21+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:38+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Yellow",
-      "Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1641,6 +1761,10 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Yellow",
+      "Blue"
     ]
   },
   {
@@ -1649,7 +1773,12 @@
     "name": "Liforme In Line Yoga Mat",
     "slug": "liforme-liforme-in-line-yoga-mat",
     "description": "TRULY SLEEK.  Minimal, elegant, and streamlined, the Liforme In Line Yoga Mat, was designed to keep your Yoga practice straight and true. This tone-on-tone mat features a black AlignForMe® posture alignment design on our black mat surface for a sleek, understated look. \nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.Designed to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles. \nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1659,6 +1788,8 @@
     ],
     "shopifyId": 14934740730232,
     "shopifyHandle": "liforme-in-line-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1672,16 +1803,14 @@
       "type-Yoga Mat",
       "YGroup_inline-yogamat"
     ],
+    "shopifyCreatedAt": "2025-06-10T11:21:48+01:00",
+    "shopifyPublishedAt": "2025-07-07T17:33:42+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black on Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1698,6 +1827,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Black on Black"
     ]
   },
   {
@@ -1706,7 +1838,12 @@
     "name": "Liforme Tantalising Terracotta Yoga Mat",
     "slug": "liforme-liforme-tantalising-terracotta-yoga-mat",
     "description": "TRULY CONNECTED. Ground down to the Earth to connect to your higher self. The Liforme Tantalising Terracotta Yoga Mat’s tile-inspired Mosaic AlignForMe® design expresses organic forms in earthy shades of dark red, orange, and umber. \nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1716,6 +1853,8 @@
     ],
     "shopifyId": 8053955068079,
     "shopifyHandle": "liforme-tantalising-terracotta-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -1729,16 +1868,14 @@
       "type-Yoga Mat",
       "YGroup_tantalising-yoga-mat"
     ],
+    "shopifyCreatedAt": "2024-08-12T17:40:05+01:00",
+    "shopifyPublishedAt": "2024-08-13T16:45:08+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Terracotta"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1755,6 +1892,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Terracotta"
     ]
   },
   {
@@ -1772,6 +1912,8 @@
     ],
     "shopifyId": 14943989956984,
     "shopifyHandle": "liforme-dragon-phoenix-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1782,17 +1924,14 @@
       "type-Yoga Mat",
       "YGroup_zodiacmat"
     ],
+    "shopifyCreatedAt": "2025-07-14T16:01:41+01:00",
+    "shopifyPublishedAt": "2025-11-02T18:21:44+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 200,
     "maxPrice": 200,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Dragon Red",
-      "Phoenix Red"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1828,6 +1967,10 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Dragon Red",
+      "Phoenix Red"
     ]
   },
   {
@@ -1845,6 +1988,8 @@
     ],
     "shopifyId": 7769345917103,
     "shopifyHandle": "liforme-zodiac-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1857,19 +2002,14 @@
       "type-Yoga Mat",
       "YGroup_zodiacmat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:05:16+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:32+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 4,
     "minPrice": 170,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Tiger Orange",
-      "Rat Red",
-      "Pig Red",
-      "Dog Red"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1913,6 +2053,12 @@
         "height": 2048,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Tiger Orange",
+      "Rat Red",
+      "Pig Red",
+      "Dog Red"
     ]
   },
   {
@@ -1930,6 +2076,8 @@
     ],
     "shopifyId": 7769350668463,
     "shopifyHandle": "liforme-evolve-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -1942,19 +2090,14 @@
       "type-Yoga Mat",
       "YGroup_evolvemat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:30:17+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:37+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 4,
     "minPrice": 160,
     "maxPrice": 160,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Blue",
-      "Green",
-      "Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1992,6 +2135,12 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Blue",
+      "Green",
+      "Pink"
     ]
   },
   {
@@ -2000,7 +2149,12 @@
     "name": "Liforme Mindful Garden XL Yoga Mat",
     "slug": "liforme-liforme-mindful-garden-xl-yoga-mat",
     "description": "TRULY IN BLOOM. Step into your practice with the Liforme Mindful Garden Yoga Mat, featuring a beautiful floral AlignForMe® alignment guide printed in six vibrant, non-toxic, durable eco-friendly ink colours. These intelligent alignment markers work intuitively with your body, allowing you to stay balanced, aligned and centred; creating a joyful place to nurture your Yoga practice.\nFeaturing our GripForMe® non-slip top surface, this mat delivers unmatched grip and the perfect balance of firm stability and soft cushioning. It’s truly planet-friendly and body-kind, made from sustainably sourced natural rubber and PVC-free materials.\nWith an extra 10 inches (25 cm) in length compared to our regular Yoga mats, our extra large Yoga mat offers gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary XL Yoga mat bag for effortless carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2009,6 +2163,8 @@
     ],
     "shopifyId": 14867347341688,
     "shopifyHandle": "liforme-mindful-garden-xl-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "XL Yoga Mat",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -2025,17 +2181,14 @@
       "type-XL Yoga Mat",
       "YGroup_mindfulyoga"
     ],
+    "shopifyCreatedAt": "2025-01-02T12:01:02+00:00",
+    "shopifyPublishedAt": "2025-01-14T10:14:01+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 2,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Olive",
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2059,6 +2212,10 @@
         "height": 2048,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Olive",
+      "Purple"
     ]
   },
   {
@@ -2067,7 +2224,12 @@
     "name": "Liforme Cosmic Moon XL Yoga Mat",
     "slug": "liforme-liforme-cosmic-moon-xl-yoga-mat",
     "description": "TRULY LUMINOUS. The Cosmic Moon XL Yoga Mat features a radiant moon AlignForMe® posture alignment design, in beautiful shades of yellow, blue, green, lilac, and white on our super-grippy mat surface. Inspired by the celestial energy of the lunar cycle, this visually stunning Yoga mat is designed to support your physical and spiritual transformation.\nWith an extra 10 inches (25 cm) in length compared to our regular Yoga mats, our extra large Yoga mat offers gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nIncludes a complimentary XL Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2076,6 +2238,8 @@
     ],
     "shopifyId": 14867341443448,
     "shopifyHandle": "liforme-cosmic-moon-xl-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "XL Yoga Mat",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -2091,16 +2255,14 @@
       "type-XL Yoga Mat",
       "YGroup_cosmic-yogamat"
     ],
+    "shopifyCreatedAt": "2025-01-02T11:34:06+00:00",
+    "shopifyPublishedAt": "2025-01-14T10:13:59+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Dusk Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2117,6 +2279,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Dusk Blue"
     ]
   },
   {
@@ -2125,7 +2290,12 @@
     "name": "Liforme Blossoming Lotus XL Yoga Mat",
     "slug": "liforme-liforme-blossoming-lotus-xl-yoga-mat",
     "description": "TRULY FLOURISHING. The Blossoming Lotus Yoga Mat is an exuberant reinterpretation of Liforme’s original Lotus centrepiece, which has been featured on our mats since they debuted in 2013. Printed using durable, eco-friendly, non-toxic inks, the AlignForMe® posture alignment design appears in a beautiful gradient of pinks on our grey base, or in rich tangerine and violet tones on our deep purple Earth surface. These intelligent markers help guide Yogis of all levels and sizes to improved posture, balance, and body awareness.\nWith an extra 10 inches (25 cm) in length compared to our regular Yoga mats, our extra large Yoga mat offers gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nExperience unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nIncludes a complimentary XL Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2134,6 +2304,8 @@
     ],
     "shopifyId": 14867343049080,
     "shopifyHandle": "liforme-blossoming-lotus-xl-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "XL Yoga Mat",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -2148,16 +2320,14 @@
       "type-XL Yoga Mat",
       "YGroup_lotus-yoga-mat"
     ],
+    "shopifyCreatedAt": "2025-01-02T11:46:53+00:00",
+    "shopifyPublishedAt": "2025-01-14T10:13:07+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2174,6 +2344,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Purple"
     ]
   },
   {
@@ -2182,7 +2355,12 @@
     "name": "Liforme XL Mountain Yoga Mat",
     "slug": "liforme-liforme-xl-mountain-yoga-mat",
     "description": "TRULY MASSIVE. The Liforme Mountain XL Yoga Mat features a topographically inspired AlignForMe® design printed with our durable, non-toxic inks on our mat(te) black surface. These intelligent alignment markers are designed to intuitively guide you through each pose, supporting improved posture, balance, and body awareness.\nWith an extra 10 inches (25 cm) in length compared to our regular Yoga mats, our extra large Yoga mat offers unparalleled room for growth. Draw on the power of earth and freedom of sky to breathe, move, and expand in every direction. \nPerfect for all body types and Yoga styles, this mat provides the perfect balance of firm stability and soft cushioning, supported by our signature GripForMe® non-slip surface. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nIncludes a complimentary XL Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2191,6 +2369,8 @@
     ],
     "shopifyId": 7772436267183,
     "shopifyHandle": "liforme-xl-mountain-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "XL Yoga Mat",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -2205,16 +2385,14 @@
       "type-XL Yoga Mat",
       "YGroup_xl-mountain-mat"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:23:54+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:48+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2249,6 +2427,9 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2257,7 +2438,12 @@
     "name": "Liforme XL Yoga Mat",
     "slug": "liforme-liforme-xl-yoga-mat",
     "description": "TRULY MASSIVE. The Liforme XL Yoga Mat now features a printed AlignForMe®  alignment guide. This new printed design replaces the previous etched version, offering a cleaner, more defined look with subtle contrast that’s easier to see as you move. It intuitively guides you through each pose to help you align more naturally and confidently, supporting better posture, balance, and body awareness.With an extra 10 inches (25 cm) in length compared to our regular Yoga mats, our extra large Yoga mat offers unparalleled room for growth and the perfect balance of firm stability and soft cushioning. Ideal for taller Yogis or those who value the freedom to stretch, flow, and move without limits.,Experience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.Includes a complimentary XL Yoga Mat bag for easy carrying and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2266,6 +2452,8 @@
     ],
     "shopifyId": 7772436496559,
     "shopifyHandle": "liforme-xl-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "XL Yoga Mat",
     "shopifyTags": [
       "4mm",
       "add to-yoga mats",
@@ -2283,19 +2471,14 @@
       "type-XL Yoga Mat",
       "YGroup_xl-mat"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:24:44+00:00",
+    "shopifyPublishedAt": "2025-08-18T17:39:14+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 4,
     "minPrice": 200,
     "maxPrice": 200,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Dusk Blue",
-      "Olive",
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2333,6 +2516,12 @@
         "height": 2048,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Dusk Blue",
+      "Olive",
+      "Purple"
     ]
   },
   {
@@ -2341,7 +2530,12 @@
     "name": "Liforme Classic Travel Yoga Mat",
     "slug": "liforme-liforme-classic-travel-yoga-mat",
     "description": "TRULY REVOLUTIONARY. The original ground-breaking Liforme Classic Travel Yoga Mat features our unique and patented AlignForMe® posture alignment design. The intelligent markers help guide Yogis of all levels and sizes to improve form, posture, and body awareness with every practice.\nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nThinner and lighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga Mat bag for easy carrying and storage.",
-    "thickness": 2,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2351,6 +2545,8 @@
     ],
     "shopifyId": 7739030765743,
     "shopifyHandle": "liforme-classic-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "2mm",
       "BOGO50",
@@ -2367,22 +2563,14 @@
       "NEW-SITE",
       "YGroup_travelmat"
     ],
+    "shopifyCreatedAt": "2024-02-28T15:21:12+00:00",
+    "shopifyPublishedAt": "2024-03-26T17:33:04+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 7,
     "minPrice": 130,
     "maxPrice": 130,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Deep Forest Green",
-      "Purple",
-      "Olive",
-      "Blue",
-      "Pink",
-      "Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2471,6 +2659,15 @@
         "height": 2048,
         "position": 12
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Deep Forest Green",
+      "Purple",
+      "Olive",
+      "Blue",
+      "Pink",
+      "Green"
     ]
   },
   {
@@ -2479,7 +2676,12 @@
     "name": "Liforme Cosmic Moon Travel Yoga Mat",
     "slug": "liforme-liforme-cosmic-moon-travel-yoga-mat",
     "description": "TRULY LUMINOUS. The Cosmic Moon Yoga Mat features a radiant moon AlignForMe® posture alignment design, in beautiful shades of yellow, blue, green, lilac, and white on our super-grippy mat surface. Inspired by the celestial energy of the lunar cycle, this visually stunning Yoga mat is designed to support your physical and spiritual transformation.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nLighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga mat bag for easy travel and storage.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2489,6 +2691,8 @@
     ],
     "shopifyId": 7772468838575,
     "shopifyHandle": "liforme-cosmic-moon-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "4mm",
       "BOGO50",
@@ -2503,18 +2707,14 @@
       "NEW-SITE",
       "YGroup_cosmic-travel-mat"
     ],
+    "shopifyCreatedAt": "2024-03-26T17:11:22+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:54+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 155,
     "maxPrice": 155,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Dusk Blue",
-      "Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2581,6 +2781,11 @@
         "height": 2048,
         "position": 9
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Dusk Blue",
+      "Blue"
     ]
   },
   {
@@ -2589,7 +2794,12 @@
     "name": "Liforme Mindful Garden Travel Yoga Mat",
     "slug": "liforme-liforme-mindful-garden-travel-yoga-mat",
     "description": "TRULY IN BLOOM. Step into your practice with the Liforme Mindful Garden Travel Yoga Mat, featuring a beautiful floral AlignForMe® alignment guide printed in six vibrant, non-toxic, durable eco-friendly ink colours. These intelligent alignment markers work intuitively with your body, allowing you to stay balanced, aligned and centred; creating a joyful place to nurture your Yoga practice.\nFeaturing our GripForMe® non-slip top surface, this mat is lighter than our regular Yoga mats making it perfect for your on-the-go practice. It’s truly planet-friendly and body-kind, made from sustainably sourced natural rubber and PVC-free materials.\nIncludes a complimentary Travel Yoga mat bag for easy travel and storage.",
-    "thickness": 2,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2599,6 +2809,8 @@
     ],
     "shopifyId": 7765817229487,
     "shopifyHandle": "liforme-mindful-garden-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "2mm",
       "BOGO50",
@@ -2615,6 +2827,8 @@
       "type-travel mat",
       "YGroup_mindfultravel"
     ],
+    "shopifyCreatedAt": "2024-03-18T12:55:24+00:00",
+    "shopifyPublishedAt": "2024-03-25T10:31:40+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 155,
@@ -2623,12 +2837,6 @@
     "minGrams": 4000,
     "maxGrams": 4000,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Olive",
-      "Grey",
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2659,6 +2867,11 @@
         "height": 2048,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Olive",
+      "Grey",
+      "Purple"
     ]
   },
   {
@@ -2667,7 +2880,12 @@
     "name": "Liforme Expressions Travel Yoga Mat",
     "slug": "liforme-liforme-expressions-travel-yoga-mat",
     "description": "TRULY EXPRESSIVE. Let your practice reflect what you feel inside with the Liforme Expressions Travel Yoga Mats. Featuring our iconic AlignForMe® system, reimagined with subtle, symbolic designs that represent Happiness, Gratitude and Love. Choose the sunshine mandala and flying bluebirds of Happiness, the prayer hands and blossoming lotus of Gratitude, or the radiant Love Lotus at the centre of the Love design. Each variation offers meaningful guidance to improve posture and body awareness while uplifting your spirit.\nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nLighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga Mat bag for easy carrying and storage.",
-    "thickness": 2,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2677,6 +2895,8 @@
     ],
     "shopifyId": 7769345294511,
     "shopifyHandle": "liforme-expressions-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "2mm",
       "BOGO50",
@@ -2694,18 +2914,14 @@
       "type-Yoga Travel Mat",
       "YGroup_expression-travelmat"
     ],
+    "shopifyCreatedAt": "2024-03-22T16:00:57+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:29+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 135,
     "maxPrice": 135,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Happiness Orange",
-      "Love Red",
-      "Gratitude Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2736,6 +2952,11 @@
         "height": 2048,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Happiness Orange",
+      "Love Red",
+      "Gratitude Pink"
     ]
   },
   {
@@ -2744,7 +2965,12 @@
     "name": "Liforme Black & Gold Travel Yoga Mat",
     "slug": "liforme-liforme-black-gold-travel-yoga-mat",
     "description": "TRULY GLORIOUS. The Liforme Black & Gold Travel Yoga Mat brings bold elegance to your practice. Set against our mat(te) black surface, the mat features a striking gold AlignForMe® posture alignment system, designed to guide you intuitively through each pose with improved posture, balance, and body awareness.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nLighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga Mat bag for easy carrying and storage.",
-    "thickness": 2,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2754,6 +2980,8 @@
     ],
     "shopifyId": 7772452782255,
     "shopifyHandle": "liforme-black-gold-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "2mm",
       "BOGO50",
@@ -2766,16 +2994,14 @@
       "type-Yoga Travel Mat",
       "YGroup_black-gold-travel-mat"
     ],
+    "shopifyCreatedAt": "2024-03-26T16:51:04+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:51+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 165,
     "maxPrice": 165,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2792,6 +3018,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2809,6 +3038,8 @@
     ],
     "shopifyId": 7772470182063,
     "shopifyHandle": "liforme-rainbow-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "BOGO50",
       "BOGO_offer",
@@ -2821,18 +3052,14 @@
       "NEW-SITE",
       "YGroup_rainbow-travel-mat"
     ],
+    "shopifyCreatedAt": "2024-03-26T17:13:35+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:55+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 3,
     "minPrice": 155,
     "maxPrice": 155,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Blue Sky",
-      "Yellow Hope",
-      "Grateful Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2887,6 +3114,11 @@
         "height": 2048,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Blue Sky",
+      "Yellow Hope",
+      "Grateful Pink"
     ]
   },
   {
@@ -2895,7 +3127,12 @@
     "name": "Liforme White Magic Travel Yoga Mat",
     "slug": "liforme-liforme-white-magic-travel-yoga-mat",
     "description": "TRULY MAGICAL. The Liforme White Magic Yoga Mat, designed in collaboration with international Yoga teacher Kino MacGregor, brings a touch of elegance and enchantment to your practice. Its creamy base is beautifully printed with a metallic gold AlignForMe® posture alignment design, a magical embellished version of our original alignment system. \nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and non-toxic materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nLighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga mat bag for easy travel and storage.",
-    "thickness": 2,
+    "thickness": {
+      "value": 2,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "2mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -2905,6 +3142,8 @@
     ],
     "shopifyId": 7772479881391,
     "shopifyHandle": "liforme-white-magic-travel-yoga-mat",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Travel Yoga Mat",
     "shopifyTags": [
       "2mm",
       "BOGO50",
@@ -2918,16 +3157,14 @@
       "Product",
       "YGroup_whitetravel"
     ],
+    "shopifyCreatedAt": "2024-03-26T17:30:19+00:00",
+    "shopifyPublishedAt": "2024-04-03T11:27:56+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 1,
     "minPrice": 165,
     "maxPrice": 165,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "White"
-    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2944,6 +3181,9 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "White"
     ]
   },
   {
@@ -2957,6 +3197,8 @@
     ],
     "shopifyId": 7794263818415,
     "shopifyHandle": "liforme-classic-yoga-mat-travel-mat-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "add to-yoga mats",
       "bundle",
@@ -2967,28 +3209,14 @@
       "type-Yoga Travel Mat",
       "YGroup_bundle"
     ],
+    "shopifyCreatedAt": "2024-04-04T15:20:55+01:00",
+    "shopifyPublishedAt": "2025-12-12T10:31:30+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 91,
     "minPrice": 246,
     "maxPrice": 246,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Purple",
-      "Olive",
-      "Blue",
-      "Pink",
-      "Green",
-      "Dusk Blue",
-      "Maroon",
-      "Golden Sand",
-      "Deep Forest Green",
-      "Black",
-      "Terracotta",
-      "Aqua Teal"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Classic Yoga Mat (Colour)",
@@ -3120,6 +3348,21 @@
         "height": 2048,
         "position": 16
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Purple",
+      "Olive",
+      "Blue",
+      "Pink",
+      "Green",
+      "Dusk Blue",
+      "Maroon",
+      "Golden Sand",
+      "Deep Forest Green",
+      "Black",
+      "Terracotta",
+      "Aqua Teal"
     ]
   },
   {
@@ -3134,6 +3377,8 @@
     ],
     "shopifyId": 7806773133487,
     "shopifyHandle": "liforme-classic-yoga-mat-and-yoga-pad-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "add to-yoga mats",
       "bundle",
@@ -3143,24 +3388,14 @@
       "type-Yoga Mat",
       "YGroup_bundle"
     ],
+    "shopifyCreatedAt": "2024-04-09T17:14:20+01:00",
+    "shopifyPublishedAt": "2025-12-11T14:26:05+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 54,
     "minPrice": 187,
     "maxPrice": 187,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Dusk Blue",
-      "Purple",
-      "Olive",
-      "Maroon",
-      "Blue",
-      "Pink",
-      "Golden Sand",
-      "Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Classic Yoga Mat (Colour)",
@@ -3233,6 +3468,17 @@
         "height": 2048,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Dusk Blue",
+      "Purple",
+      "Olive",
+      "Maroon",
+      "Blue",
+      "Pink",
+      "Golden Sand",
+      "Green"
     ]
   },
   {
@@ -3246,6 +3492,8 @@
     ],
     "shopifyId": 7819513430191,
     "shopifyHandle": "liforme-classic-travel-yoga-mat-and-yoga-pad-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "bundle",
       "NEW-SITE",
@@ -3254,21 +3502,14 @@
       "type-Yoga Travel Mat",
       "YGroup_bundle"
     ],
+    "shopifyCreatedAt": "2024-04-12T13:49:53+01:00",
+    "shopifyPublishedAt": "2025-12-11T14:26:05+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 36,
     "minPrice": 161,
     "maxPrice": 161,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Purple",
-      "Olive",
-      "Blue",
-      "Pink",
-      "Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Classic Travel Yoga Mat (Colour)",
@@ -3302,6 +3543,14 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Purple",
+      "Olive",
+      "Blue",
+      "Pink",
+      "Green"
     ]
   },
   {
@@ -3315,6 +3564,8 @@
     ],
     "shopifyId": 7843816603823,
     "shopifyHandle": "liforme-classic-yoga-mat-travel-mat-yoga-pad-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "bundle",
       "collection-bundle",
@@ -3326,6 +3577,8 @@
       "type-Yoga Travel Mat",
       "YGroup_bundle"
     ],
+    "shopifyCreatedAt": "2024-04-18T16:23:07+01:00",
+    "shopifyPublishedAt": "2025-12-11T14:26:06+00:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 96,
     "minPrice": 280,
@@ -3334,15 +3587,6 @@
     "minGrams": 1,
     "maxGrams": 1,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Grey",
-      "Dusk Blue",
-      "Purple",
-      "Olive",
-      "Blue",
-      "Pink"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Classic Yoga Mat (Colour)",
@@ -3384,6 +3628,14 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Grey",
+      "Dusk Blue",
+      "Purple",
+      "Olive",
+      "Blue",
+      "Pink"
     ]
   },
   {
@@ -3400,6 +3652,8 @@
     ],
     "shopifyId": 14834002329976,
     "shopifyHandle": "liforme-cosmic-moon-yoga-mat-travel-mat-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "bundle",
       "NEW-SITE",
@@ -3407,6 +3661,8 @@
       "type-Yoga Travel Mat",
       "YGroup_cosmic-yogamat"
     ],
+    "shopifyCreatedAt": "2024-11-12T10:51:17+00:00",
+    "shopifyPublishedAt": "2025-05-22T11:35:16+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 9,
     "minPrice": 293,
@@ -3415,12 +3671,6 @@
     "minGrams": 1,
     "maxGrams": 1,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black",
-      "Dusk Blue",
-      "Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Cosmic Moon Travel Yoga Mat (Colour)",
@@ -3448,6 +3698,11 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Black",
+      "Dusk Blue",
+      "Blue"
     ]
   },
   {
@@ -3463,6 +3718,8 @@
     ],
     "shopifyId": 14834011013496,
     "shopifyHandle": "liforme-mindful-garden-yoga-mat-travel-mat-bundle",
+    "shopifyVendor": "Liforme",
+    "shopifyProductType": "Bundle",
     "shopifyTags": [
       "bundle",
       "NEW-SITE",
@@ -3470,6 +3727,8 @@
       "type-Yoga Travel Mat",
       "YGroup_mindfulyoga"
     ],
+    "shopifyCreatedAt": "2024-11-12T11:29:28+00:00",
+    "shopifyPublishedAt": "2025-05-22T11:35:16+01:00",
     "shopifyUpdatedAt": "2026-01-09T13:03:07+00:00",
     "variantsCount": 9,
     "minPrice": 293,
@@ -3478,12 +3737,6 @@
     "minGrams": 1,
     "maxGrams": 1,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Olive",
-      "Grey",
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Liforme Mindful Garden Travel Yoga Mat (Colour)",
@@ -3511,6 +3764,11 @@
         "height": 2048,
         "position": 1
       }
+    ],
+    "availableColors": [
+      "Olive",
+      "Grey",
+      "Purple"
     ]
   }
 ]

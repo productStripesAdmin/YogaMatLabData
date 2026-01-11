@@ -118,7 +118,13 @@
         "^(\\d+(?:\\.\\d+)?)$"
       ],
       "unit": "mm",
-      "description": "Extract from options like 'Size: 5 MM' or 'Thickness: 8 MM'"
+      "description": "Extract from options like 'Size: 5 MM' or 'Thickness: 8 MM'",
+      "structure": {
+        "value": "number (normalized to mm)",
+        "unit": "'mm' (always mm - normalized unit)",
+        "source": "'options' (when extracted from product options)",
+        "originalText": "string with original unit (e.g., '5 MM', '1/4 inch thick')"
+      }
     },
     "dimensions": {
       "optionNames": ["size", "dimensions", "dimension"],
@@ -126,7 +132,21 @@
         "(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?\\s*[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?"
       ],
       "units": "cm",
-      "description": "Extract from options like 'Size: 72\" x 26\"' or 'Size: 80\" x 26\"'"
+      "description": "Extract from options like 'Size: 72\" x 26\"' or 'Size: 80\" x 26\"'",
+      "structure": {
+        "length": {
+          "value": "number (normalized to cm)",
+          "unit": "'cm' (always cm - normalized unit)",
+          "source": "'options' | 'description'",
+          "originalText": "string with original unit (e.g., '72\" x 26\"', '80\" Long')"
+        },
+        "width": {
+          "value": "number (normalized to cm)",
+          "unit": "'cm' (always cm - normalized unit)",
+          "source": "'options' | 'description'",
+          "originalText": "string with original unit (e.g., '72\" x 26\"', '28\" Wide')"
+        }
+      }
     },
     "colors": {
       "optionNames": ["color", "colour", "color/pattern"],
@@ -142,7 +162,13 @@
         "(\\d+/\\d+)\\s*inch"
       ],
       "unit": "mm",
-      "description": "Fallback: Extract thickness from description with unit conversion"
+      "description": "Fallback: Extract thickness from description with unit conversion",
+      "structure": {
+        "value": "number (normalized to mm)",
+        "unit": "'mm' (always mm - normalized unit)",
+        "source": "'description' (when extracted from product description)",
+        "originalText": "string with original unit (e.g., '5mm', '1/4 inch thick')"
+      }
     },
     "length": {
       "patterns": [
@@ -151,7 +177,13 @@
         "(\\d+)\"\\s*[xX×]"
       ],
       "unit": "cm",
-      "description": "Fallback: Extract length (converted to cm)"
+      "description": "Fallback: Extract length (converted to cm)",
+      "structure": {
+        "value": "number (normalized to cm)",
+        "unit": "'cm' (always cm - normalized unit)",
+        "source": "'description'",
+        "originalText": "string with original unit (e.g., '80\" Long', '72\" x')"
+      }
     },
     "width": {
       "patterns": [
@@ -160,7 +192,13 @@
         "[xX×]\\s*(\\d+)\""
       ],
       "unit": "cm",
-      "description": "Fallback: Extract width (converted to cm)"
+      "description": "Fallback: Extract width (converted to cm)",
+      "structure": {
+        "value": "number (normalized to cm)",
+        "unit": "'cm' (always cm - normalized unit)",
+        "source": "'description'",
+        "originalText": "string with original unit (e.g., 'x 26\"', '28\" Wide')"
+      }
     },
     "weight": {
       "patterns": [
@@ -169,7 +207,13 @@
         "(\\d+)\\s*grams"
       ],
       "unit": "kg",
-      "description": "Fallback: Extract weight from description (converted to kg)"
+      "description": "Fallback: Extract weight from description (converted to kg)",
+      "structure": {
+        "value": "number (normalized to kg)",
+        "unit": "'kg' (always kg - normalized unit)",
+        "source": "'description' | 'variants'",
+        "originalText": "string with original unit (e.g., '2.5kg', '5.5 lbs', '2500 grams')"
+      }
     },
     "material": {
       "keywords": [

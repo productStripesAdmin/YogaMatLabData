@@ -8,6 +8,8 @@
     "features": [],
     "shopifyId": 6239914426548,
     "shopifyHandle": "w9327r-wild-thing-bra-white",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "aloversary20off",
       "Bluemoon-family",
@@ -50,6 +52,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9609R"
     ],
+    "shopifyCreatedAt": "2021-02-23T11:48:11-08:00",
+    "shopifyPublishedAt": "2020-02-03T11:05:44-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 110,
@@ -58,10 +62,6 @@
     "minGrams": 96,
     "maxGrams": 96,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "White"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -108,6 +108,9 @@
         "height": 1395,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "White"
     ]
   },
   {
@@ -119,6 +122,8 @@
     "features": [],
     "shopifyId": 6239910789300,
     "shopifyHandle": "w5473r-high-waist-airbrush-legging-white",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "aloversary20off",
       "b:1:Back in Stock",
@@ -166,6 +171,8 @@
       "YCRF_reviews:women",
       "YGroup_W5473R"
     ],
+    "shopifyCreatedAt": "2021-02-23T11:47:00-08:00",
+    "shopifyPublishedAt": "2018-05-09T20:59:21-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 165,
@@ -174,10 +181,6 @@
     "minGrams": 227,
     "maxGrams": 227,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "White"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -237,6 +240,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "White"
     ]
   },
   {
@@ -248,6 +254,8 @@
     "features": [],
     "shopifyId": 7404211077300,
     "shopifyHandle": "w9680r-airbrush-heart-throb-bra-black-white",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "b:1:Best Seller",
       "BIScollection",
@@ -286,16 +294,14 @@
       "YCRF_reviews:bras",
       "YGroup_W9680R"
     ],
+    "shopifyCreatedAt": "2023-08-03T16:19:15-07:00",
+    "shopifyPublishedAt": "2023-09-15T09:58:11-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 125,
     "maxPrice": 125,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black/White"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -353,6 +359,9 @@
         "height": 2909,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black/White"
     ]
   },
   {
@@ -365,6 +374,8 @@
     "features": [],
     "shopifyId": 7404209340596,
     "shopifyHandle": "w51298r-airbrush-high-waist-heart-throb-legging-black-white",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "b:1:Best Seller",
       "BIScollection",
@@ -404,16 +415,14 @@
       "YCRF_reviews:women",
       "YGroup_W51298R"
     ],
+    "shopifyCreatedAt": "2023-08-03T16:19:13-07:00",
+    "shopifyPublishedAt": "2023-09-15T09:57:41-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black/White"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -478,6 +487,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black/White"
     ]
   },
   {
@@ -492,6 +504,8 @@
     ],
     "shopifyId": 7325040771252,
     "shopifyHandle": "w9587r-airbrush-real-bra-tank-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Tops:Tanks",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRBRUSH",
       "BVCategory:Women",
@@ -531,6 +545,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9587R"
     ],
+    "shopifyCreatedAt": "2022-12-07T12:23:36-08:00",
+    "shopifyPublishedAt": "2023-06-21T14:02:22-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 110,
@@ -539,10 +555,6 @@
     "minGrams": 128,
     "maxGrams": 128,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -594,6 +606,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -602,11 +617,19 @@
     "name": "Airbrush High-Waist 7/8 Bootcut Legging - Black",
     "slug": "aloyoga-w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
     "description": "You’re obsessed with bootcut looks, and we don’t blame you — it’s now available in our bestselling 7/8 length. The Airbrush High-Waist 7/8 Bootcut Legging in sculpting performance Airbrush is sweet from every angle, with a wide waistband & a forward, flared leg. Show them off with your favorite cropped tee or bra top & you’re ready to hit practice or pavement.",
+    "length": {
+      "value": 20.32,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "8 length"
+    },
     "features": [
       "Extra Wide"
     ],
     "shopifyId": 6779614888116,
     "shopifyHandle": "w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "aloversary20off",
       "BuilderDropzoneStyle:AIRBRUSH",
@@ -641,6 +664,8 @@
       "YCRF_reviews:women",
       "YGroup_W51119R"
     ],
+    "shopifyCreatedAt": "2021-07-27T15:18:42-07:00",
+    "shopifyPublishedAt": "2021-09-15T09:56:49-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 180,
@@ -649,10 +674,6 @@
     "minGrams": 331,
     "maxGrams": 331,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -717,6 +738,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -728,6 +752,8 @@
     "features": [],
     "shopifyId": 6718361862324,
     "shopifyHandle": "w1406r-alosoft-crop-finesse-short-sleeve-white",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Tops:Short Sleeves",
     "shopifyTags": [
       "aloversary20off",
       "BuilderDropzoneStyle:ALOSOFT",
@@ -763,6 +789,8 @@
       "YCRF_reviews:women",
       "YGroup_W1406R"
     ],
+    "shopifyCreatedAt": "2021-06-21T17:30:54-07:00",
+    "shopifyPublishedAt": "2021-07-19T09:45:59-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 95,
@@ -771,10 +799,6 @@
     "minGrams": 86,
     "maxGrams": 104,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "White"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -832,6 +856,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "White"
     ]
   },
   {
@@ -846,6 +873,8 @@
     ],
     "shopifyId": 4520937521270,
     "shopifyHandle": "w7092r-warrior-mat-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
     "shopifyTags": [
       "aloversary20off",
       "b:1:Best Seller",
@@ -876,6 +905,8 @@
       "YCRF_reviews:accessories",
       "YGroup_W7092R"
     ],
+    "shopifyCreatedAt": "2020-06-03T17:22:29-07:00",
+    "shopifyPublishedAt": "2020-10-23T16:06:52-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 210,
@@ -884,10 +915,6 @@
     "minGrams": 726,
     "maxGrams": 726,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -923,6 +950,9 @@
         "height": 1395,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -934,6 +964,8 @@
     "features": [],
     "shopifyId": 7569581572276,
     "shopifyHandle": "w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRLIFT",
       "BVCategory:Women",
@@ -965,6 +997,8 @@
       "YCRF_reviews:women",
       "YGroup_W51361R"
     ],
+    "shopifyCreatedAt": "2024-04-04T14:48:23-07:00",
+    "shopifyPublishedAt": "2024-06-13T16:20:04-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 195,
@@ -973,10 +1007,6 @@
     "minGrams": 191,
     "maxGrams": 191,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Navy"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1028,6 +1058,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Navy"
     ]
   },
   {
@@ -1041,6 +1074,8 @@
     ],
     "shopifyId": 7900117893300,
     "shopifyHandle": "w9681r-airlift-line-up-bra-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "b:1:Best Seller",
       "BuilderDropzoneStyle:AIRLIFT",
@@ -1082,6 +1117,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9681R"
     ],
+    "shopifyCreatedAt": "2024-12-12T15:01:25-08:00",
+    "shopifyPublishedAt": "2024-12-12T16:16:02-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 140,
@@ -1090,10 +1127,6 @@
     "minGrams": 73,
     "maxGrams": 73,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1145,6 +1178,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1156,6 +1192,8 @@
     "features": [],
     "shopifyId": 7900116353204,
     "shopifyHandle": "w51154r-airlift-high-waist-7-8-line-up-legging-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "b:1:Best Seller",
       "BuilderDropzoneStyle:AIRLIFT",
@@ -1193,16 +1231,14 @@
       "YCRF_reviews:women",
       "YGroup_W51318R"
     ],
+    "shopifyCreatedAt": "2024-12-12T15:01:20-08:00",
+    "shopifyPublishedAt": "2024-12-12T16:07:08-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 205,
     "maxPrice": 205,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1260,6 +1296,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1273,6 +1312,8 @@
     ],
     "shopifyId": 7404214354100,
     "shopifyHandle": "a0326u-yoga-strap-black-anthracite",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Straps",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Black:Color",
@@ -1294,6 +1335,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0326U"
     ],
+    "shopifyCreatedAt": "2023-08-03T16:29:00-07:00",
+    "shopifyPublishedAt": "2023-08-18T16:30:16-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 45,
@@ -1302,10 +1345,6 @@
     "minGrams": 96,
     "maxGrams": 96,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black/Anthracite"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1335,6 +1374,9 @@
         "height": 1395,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Black/Anthracite"
     ]
   },
   {
@@ -1348,6 +1390,8 @@
     ],
     "shopifyId": 4594791841910,
     "shopifyHandle": "a0084u-uplifting-yoga-block-black-silver",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Blocks",
     "shopifyTags": [
       "aloversary20off",
       "BVCategory:Accessories",
@@ -1368,6 +1412,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0084U"
     ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:46-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 48,
@@ -1376,10 +1422,6 @@
     "minGrams": 409,
     "maxGrams": 409,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black/Silver"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1409,6 +1451,9 @@
         "height": 1395,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Black/Silver"
     ]
   },
   {
@@ -1420,6 +1465,8 @@
     "features": [],
     "shopifyId": 6239914033332,
     "shopifyHandle": "w9327r-wild-thing-bra-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "aloversary20off",
       "Bluemoon-family",
@@ -1467,6 +1514,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9609R"
     ],
+    "shopifyCreatedAt": "2021-02-23T11:48:06-08:00",
+    "shopifyPublishedAt": "2020-02-03T11:05:45-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 110,
@@ -1475,10 +1524,6 @@
     "minGrams": 96,
     "maxGrams": 96,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1531,6 +1576,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1544,6 +1592,8 @@
     ],
     "shopifyId": 7902722162868,
     "shopifyHandle": "a0779u-lightweight-warrior-mat-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Black:Color",
@@ -1562,6 +1612,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0779U"
     ],
+    "shopifyCreatedAt": "2024-12-20T16:25:13-08:00",
+    "shopifyPublishedAt": "2025-01-24T09:45:48-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 180,
@@ -1570,10 +1622,6 @@
     "minGrams": 2386,
     "maxGrams": 2386,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1609,6 +1657,9 @@
         "height": 1395,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1622,6 +1673,8 @@
     ],
     "shopifyId": 4594792300662,
     "shopifyHandle": "a0029u-grounded-no-slip-towel-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
     "shopifyTags": [
       "aloversary20off",
       "BVCategory:Accessories",
@@ -1642,6 +1695,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0029U"
     ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:22-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 110,
@@ -1650,10 +1705,6 @@
     "minGrams": 549,
     "maxGrams": 549,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1695,6 +1746,9 @@
         "height": 1395,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -1706,6 +1760,8 @@
     "features": [],
     "shopifyId": 7900116943028,
     "shopifyHandle": "w9679r-airlift-intrigue-bra-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRLIFT",
       "BVCategory:Women",
@@ -1744,6 +1800,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9679R"
     ],
+    "shopifyCreatedAt": "2024-12-12T15:01:21-08:00",
+    "shopifyPublishedAt": "2024-12-12T16:14:04-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 110,
@@ -1752,10 +1810,6 @@
     "minGrams": 78,
     "maxGrams": 78,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Espresso"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1808,6 +1862,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Espresso"
     ]
   },
   {
@@ -1821,6 +1878,8 @@
     ],
     "shopifyId": 7900115271860,
     "shopifyHandle": "w51314r-7-8-high-waist-airlift-legging-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "AA25-PDPselects",
       "addtoCA",
@@ -1862,16 +1921,14 @@
       "YCRF_reviews:women",
       "YGroup_W51314R"
     ],
+    "shopifyCreatedAt": "2024-12-12T15:01:17-08:00",
+    "shopifyPublishedAt": "2024-12-12T15:52:38-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 190,
     "maxPrice": 190,
     "priceCurrency": "USD",
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Espresso"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1937,6 +1994,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Espresso"
     ]
   },
   {
@@ -1951,6 +2011,8 @@
     ],
     "shopifyId": 7850803429556,
     "shopifyHandle": "w7192r-warrior-mat-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Espresso:Color",
@@ -1971,6 +2033,8 @@
       "YCRF_reviews:accessories",
       "YGroup_W7192R"
     ],
+    "shopifyCreatedAt": "2024-09-19T15:27:10-07:00",
+    "shopifyPublishedAt": "2024-12-31T09:41:51-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 210,
@@ -1979,10 +2043,6 @@
     "minGrams": 3797,
     "maxGrams": 3797,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Espresso"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2012,6 +2072,9 @@
         "height": 1395,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Espresso"
     ]
   },
   {
@@ -2025,6 +2088,8 @@
     ],
     "shopifyId": 7850770464948,
     "shopifyHandle": "a0029u-grounded-no-slip-mat-towel-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Espresso:Color",
@@ -2045,6 +2110,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0029U"
     ],
+    "shopifyCreatedAt": "2024-09-19T15:04:35-07:00",
+    "shopifyPublishedAt": "2024-12-31T09:41:45-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 110,
@@ -2053,10 +2120,6 @@
     "minGrams": 549,
     "maxGrams": 549,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Espresso"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2098,6 +2161,9 @@
         "height": 1395,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Espresso"
     ]
   },
   {
@@ -2111,6 +2177,8 @@
     ],
     "shopifyId": 6789727355060,
     "shopifyHandle": "a0094-pivot-barre-sock-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Accessories:Socks",
     "shopifyTags": [
       "aloversary20off",
       "BVCategory:Socks",
@@ -2130,6 +2198,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0094W"
     ],
+    "shopifyCreatedAt": "2021-08-02T21:33:13-07:00",
+    "shopifyPublishedAt": "2022-01-21T09:23:30-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 2,
     "minPrice": 53,
@@ -2138,10 +2208,6 @@
     "minGrams": 32,
     "maxGrams": 32,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2190,6 +2256,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2203,6 +2272,8 @@
     ],
     "shopifyId": 7850809557172,
     "shopifyHandle": "a0326u-yoga-strap-jungle",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Straps",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Jungle:Color",
@@ -2224,6 +2295,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0326U"
     ],
+    "shopifyCreatedAt": "2024-09-19T15:32:08-07:00",
+    "shopifyPublishedAt": "2024-12-31T09:41:51-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 45,
@@ -2232,10 +2305,6 @@
     "minGrams": 96,
     "maxGrams": 96,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Jungle"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2265,6 +2334,9 @@
         "height": 1395,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Jungle"
     ]
   },
   {
@@ -2278,6 +2350,8 @@
     ],
     "shopifyId": 7325042868404,
     "shopifyHandle": "w9679r-airlift-intrigue-bra-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bras",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRLIFT",
       "BVCategory:Women",
@@ -2317,6 +2391,8 @@
       "YCRF_reviews:bras",
       "YGroup_W9679R"
     ],
+    "shopifyCreatedAt": "2022-12-07T12:30:47-08:00",
+    "shopifyPublishedAt": "2023-04-30T11:19:52-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 110,
@@ -2325,10 +2401,6 @@
     "minGrams": 78,
     "maxGrams": 78,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2381,6 +2453,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2394,6 +2469,8 @@
     ],
     "shopifyId": 7325039034548,
     "shopifyHandle": "w6363r-high-waist-airlift-short-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Shorts",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRLIFT",
       "BVCategory:Women",
@@ -2431,6 +2508,8 @@
       "YCRF_reviews:women",
       "YGroup_W6363R"
     ],
+    "shopifyCreatedAt": "2022-12-07T12:14:18-08:00",
+    "shopifyPublishedAt": "2023-01-12T16:41:55-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 120,
@@ -2439,10 +2518,6 @@
     "minGrams": 73,
     "maxGrams": 73,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2495,6 +2570,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2506,6 +2584,8 @@
     "features": [],
     "shopifyId": 6718360944820,
     "shopifyHandle": "w3601r-alosoft-crop-finesse-long-sleeve-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Tops:Long Sleeves",
     "shopifyTags": [
       "aloversary20off",
       "BuilderDropzoneStyle:ALOSOFT",
@@ -2540,6 +2620,8 @@
       "YCRF_reviews:women",
       "YGroup_W3601R"
     ],
+    "shopifyCreatedAt": "2021-06-21T17:30:47-07:00",
+    "shopifyPublishedAt": "2021-07-19T09:46:19-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 110,
@@ -2548,10 +2630,6 @@
     "minGrams": 132,
     "maxGrams": 163,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2597,6 +2675,9 @@
         "height": 1395,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2608,6 +2689,8 @@
     "features": [],
     "shopifyId": 6718362779828,
     "shopifyHandle": "w51104r-alosoft-high-waist-7-8-highlight-legging-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "aloversary20off",
       "b:1:Best Seller",
@@ -2646,6 +2729,8 @@
       "YCRF_reviews:women",
       "YGroup_W51104R"
     ],
+    "shopifyCreatedAt": "2021-06-21T17:31:32-07:00",
+    "shopifyPublishedAt": "2021-07-19T09:45:53-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 155,
@@ -2654,10 +2739,6 @@
     "minGrams": 181,
     "maxGrams": 231,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2709,6 +2790,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2720,6 +2804,8 @@
     "features": [],
     "shopifyId": 7902720590004,
     "shopifyHandle": "a0503u-alo-water-bottle-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Bottle",
     "shopifyTags": [
       "BVCategory:Accessories",
       "Color:Black:Color",
@@ -2740,6 +2826,8 @@
       "YCRF_reviews:accessories",
       "YGroup_A0503U"
     ],
+    "shopifyCreatedAt": "2024-12-20T16:25:08-08:00",
+    "shopifyPublishedAt": "2025-01-24T09:45:46-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 1,
     "minPrice": 95,
@@ -2748,10 +2836,6 @@
     "minGrams": 454,
     "maxGrams": 454,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2793,6 +2877,9 @@
         "height": 1395,
         "position": 4
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2804,6 +2891,8 @@
     "features": [],
     "shopifyId": 7902732878004,
     "shopifyHandle": "w54178r-airlift-high-waist-7-8-rebel-legging-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "BuilderDropzoneStyle:AIRLIFT",
       "BVCategory:Women",
@@ -2840,6 +2929,8 @@
       "YCRF_reviews:women",
       "YGroup_W54178R"
     ],
+    "shopifyCreatedAt": "2024-12-20T16:54:50-08:00",
+    "shopifyPublishedAt": "2025-06-08T12:30:28-07:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 5,
     "minPrice": 205,
@@ -2848,10 +2939,6 @@
     "minGrams": 82,
     "maxGrams": 100,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2915,6 +3002,9 @@
         "height": 1395,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -2923,9 +3013,17 @@
     "name": "7/8 High-Waist Airbrush Legging - Black",
     "slug": "aloyoga-w5604r-7-8-high-waist-airbrush-legging-black",
     "description": "The 7/8 High-Waist Airbrush Legging — all the smoothing, sculpting benefits of the full-length version, in a perfectly cropped package. So good for studio & all-day cool for street, this look features flat-locked seaming for comfort and functionality, no side seams, and an on-trend high waist.",
+    "length": {
+      "value": 20.32,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "8 Length"
+    },
     "features": [],
     "shopifyId": 6239911346356,
     "shopifyHandle": "w5604r-7-8-high-waist-airbrush-legging-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "7/8 Length",
       "aloversary20off",
@@ -2973,6 +3071,8 @@
       "YCRF_reviews:women",
       "YGroup_W5604R"
     ],
+    "shopifyCreatedAt": "2021-02-23T11:47:07-08:00",
+    "shopifyPublishedAt": "2019-02-14T15:47:53-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 165,
@@ -2981,10 +3081,6 @@
     "minGrams": 159,
     "maxGrams": 159,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3050,6 +3146,9 @@
         "height": 1395,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Black"
     ]
   },
   {
@@ -3061,6 +3160,8 @@
     "features": [],
     "shopifyId": 6695201439924,
     "shopifyHandle": "w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Women:Bottoms:Leggings",
     "shopifyTags": [
       "aloversary20off",
       "BuilderDropzoneStyle:ALOSOFT",
@@ -3097,6 +3198,8 @@
       "YCRF_reviews:women",
       "YGroup_W5762R"
     ],
+    "shopifyCreatedAt": "2021-06-09T16:29:24-07:00",
+    "shopifyPublishedAt": "2023-11-21T13:26:59-08:00",
     "shopifyUpdatedAt": "2026-01-08T22:25:44-08:00",
     "variantsCount": 6,
     "minPrice": 160,
@@ -3105,10 +3208,6 @@
     "minGrams": 159,
     "maxGrams": 159,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Athletic Heather Grey"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3161,6 +3260,9 @@
         "height": 1395,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Athletic Heather Grey"
     ]
   }
 ]

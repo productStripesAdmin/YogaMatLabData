@@ -5,8 +5,18 @@
     "name": "Jade Harmony Yoga Mat - JadeYoga",
     "slug": "jadeyoga-harmony-mat",
     "description": "Named Best Mat for Grip by Yoga Journal for 2024!\n\nOur most popular mat provides great traction and cushion while still providing stability for standing poses.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, available in two lengths: 68\" and 74”, and weighs about 5 pounds. (For a wider and longer variety, see Harmony XW at 28\" wide)\n\n68\" Mat Colors: Purple, Midnight Blue, Olive Green, Black, Jade Green, Raspberry, Slate Blue, Tibetan Orange, Sky Blue, Saffron, Pink, Teal and Sky Blue/Saffron*\n\n74\" Mat Colors: Jade Green, Black, Midnight Blue, Olive, Sky Blue, and Purple.\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.\n*Although Jade mats are 99% latex free, as they are from rubber trees, there may be trace amounts of latex proteins in the mats so we recommend persons with latex allergies avoid contact with our mats.\n\n\n\nJade's Color Cause Program: 100% of profits from the sale of the Saffron/Sky Blue Ukraine mat will be donated to Ukraine TrustChain and Revived Soldiers Ukraine.  $5 will be donated to ovarian cancer causes for every Teal mat purchased, $5 from each Saffron mat will be donated to Autism causes and $5 will be donated to breast cancer causes for every pink mat purchased!  Saffron is available starting in April for Autism Awareness Month, Teal is available starting in September for Ovarian Cancer Awareness Month and Pink is available starting in October for Breast Cancer Awareness Month.",
-    "length": 172.72,
-    "weight": 2.267964547178199,
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 pounds"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -15,10 +25,14 @@
     ],
     "shopifyId": 426167656,
     "shopifyHandle": "harmony-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Harmony",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2015-02-16T15:17:57-05:00",
+    "shopifyPublishedAt": "2015-02-16T15:16:00-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 20,
     "minPrice": 99.95,
@@ -27,23 +41,6 @@
     "minGrams": 2177,
     "maxGrams": 2404,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Purple",
-      "Black",
-      "Tibetan Orange",
-      "Teal",
-      "Midnight Blue",
-      "Olive",
-      "Raspberry",
-      "Pink",
-      "Slate Blue",
-      "Jade Green",
-      "Saffron",
-      "Sky Blue",
-      "Sky Blue/Saffron for Ukraine",
-      "Moe-gi Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -183,6 +180,22 @@
         "height": 2961,
         "position": 18
       }
+    ],
+    "availableColors": [
+      "Purple",
+      "Black",
+      "Tibetan Orange",
+      "Teal",
+      "Midnight Blue",
+      "Olive",
+      "Raspberry",
+      "Pink",
+      "Slate Blue",
+      "Jade Green",
+      "Saffron",
+      "Sky Blue",
+      "Sky Blue/Saffron for Ukraine",
+      "Moe-gi Green"
     ]
   },
   {
@@ -191,8 +204,18 @@
     "name": "Best-Selling Travel Yoga Mat  – Lightweight, Portable and Durable",
     "slug": "jadeyoga-travel-mat",
     "description": "Light and Portable:  The Jade Travel Yoga Mat folds up to fit easily into your luggage, allowing you to take your practice with you everywhere!\n\nGreat for yogis on the go, and for those who like closer contact with the ground, along with a little cushion! \n\nIncredible grip from open cell natural rubber\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws.\n\nDimensions: 1/8\" thick, 24\" wide, is available in two lengths: 68\" and 74\", and weighs just over 3 pounds\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
-    "length": 172.72,
-    "weight": 1.3607787283069193,
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 1.3607787283069193,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3 pounds"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -202,10 +225,14 @@
     ],
     "shopifyId": 443985608,
     "shopifyHandle": "travel-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Travel",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2015-03-11T08:46:11-04:00",
+    "shopifyPublishedAt": "2015-03-11T08:43:00-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 5,
     "minPrice": 79.95,
@@ -214,12 +241,6 @@
     "minGrams": 1542,
     "maxGrams": 1678,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight Blue",
-      "Olive Green",
-      "Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -276,6 +297,11 @@
         "height": 1200,
         "position": 6
       }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Olive Green",
+      "Purple"
     ]
   },
   {
@@ -284,9 +310,24 @@
     "name": "Jade Fusion Yoga & Pilates Mat – Extra Thick Natural Rubber Yoga & Pilates Mat - JadeYoga",
     "slug": "jadeyoga-fusion-mat",
     "description": "Named Best Thick Mat by Yoga Journal for 2024!\n\nExtra Thick, Extra Comfort: Our thickest mat available, at 5/16\" (8mm) thick, the Fusion mat provides extra cushion for whenever you want, or need, that extra comfort and is great for restorative yoga, pilates, core fitness practices, and cross-fit! \n\nIncredible grip and ultra comfortable: Never worry about slipping again with our grippy, open cell natural rubber mats.\n\nEco-Friendly: Made from natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 5/16\" (8mm) thick, 24\" wide, available in two lengths: 68\" and 74\", and weighs about 8.5 pounds. (For a wider and longer variety, see Fusion XW at 28\" wide and 80\" long)\n\n68\" Mat Colors: Purple, Midnight Blue, Slate Blue, and Jade Green\n\n74\" Mat Colors: Purple, Midnight Blue, and Jade Green\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
-    "thickness": 8,
-    "length": 172.72,
-    "weight": 3.855539730202938,
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 3.855539730202938,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "8.5 pounds"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -296,10 +337,14 @@
     ],
     "shopifyId": 443967080,
     "shopifyHandle": "fusion-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Fusion",
     "shopifyTags": [
       "2666 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2015-03-11T08:18:40-04:00",
+    "shopifyPublishedAt": "2015-03-11T08:16:00-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 7,
     "minPrice": 174.95,
@@ -308,13 +353,6 @@
     "minGrams": 3629,
     "maxGrams": 3992,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight Blue",
-      "Purple",
-      "Slate Blue",
-      "Jade Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -378,6 +416,12 @@
         "height": 3280,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Purple",
+      "Slate Blue",
+      "Jade Green"
     ]
   },
   {
@@ -386,8 +430,18 @@
     "name": "Jade Voyager Mat - Lightweight and Portable - JadeYoga",
     "slug": "jadeyoga-voyager-mat",
     "description": "Thinnest, Lightest and Most Portable: The Jade Voyager Mat is truly the most portable mat Jade offers, made specifically to go with you everywhere and anywhere.\n\nFolds up to about the size of a yoga block- allowing it to fit perfectly into your suitcase or backpack!\n\nGreat for Traveling:  At 1/16\" thick, and 1.5 pounds, the Voyager mat is ideal for those that have to travel light and/or have limited storage space due to its portability.\n\n\n\n\n\n \n\n\n\nDimensions: 1/16\" thick, 24\" wide, 68\" long, and weighs just over 1.5 pounds\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nStorage: Please note that just like you would expect creases in your clothes when traveling, creases are a natural consequence of folding the Voyager mat. These effects will be minimized by keeping your mat rolled when not traveling\n\nConstruction: The reinforcing scrim (which is hidden inside our other mats) is visible on the bottom of the Voyager mat- a consequence of its being as lightweight as possible!\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
-    "length": 172.72,
-    "weight": 0.6803893641534596,
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 0.6803893641534596,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.5 pounds"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -396,10 +450,14 @@
     ],
     "shopifyId": 3094879877,
     "shopifyHandle": "voyager-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Voyager",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2015-11-27T15:45:04-05:00",
+    "shopifyPublishedAt": "2015-03-11T08:43:00-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 5,
     "minPrice": 49.95,
@@ -408,14 +466,6 @@
     "minGrams": 771,
     "maxGrams": 771,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight Blue",
-      "Purple",
-      "Olive Green",
-      "Black",
-      "Jade Green"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -515,6 +565,13 @@
         "height": 3121,
         "position": 13
       }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Purple",
+      "Olive Green",
+      "Black",
+      "Jade Green"
     ]
   },
   {
@@ -523,7 +580,24 @@
     "name": "Jade Level One Yoga Mat  For Beginners – JadeYoga",
     "slug": "jadeyoga-level-1-mat",
     "description": "The perfect mat for the new yogi\n\nGreat grip and cushion to help you focus on the poses without worrying about slipping or what toxins are in your mat at an entry-level price\n\nAt 4mm thick, the Level One is slightly thinner than the Harmony mat and a bit thicker than the Travel Mat.\n\nDimensions: 4mm thick, 24\" wide and 68\" long\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws.\n\nReview: Click here for a review by Outdoor Prolink\n\n\nPlease note: Level 1 is constructed in a \"single-pass\" with the reinforcing scrim on the bottom of the mat rather than the middle.\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
-    "thickness": 4,
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -533,10 +607,14 @@
     ],
     "shopifyId": 51826982930,
     "shopifyHandle": "level-1-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2017-11-22T07:57:28-05:00",
+    "shopifyPublishedAt": "2017-11-22T07:46:17-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 2,
     "minPrice": 49.95,
@@ -545,11 +623,6 @@
     "minGrams": 2268,
     "maxGrams": 2268,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Classic Blue",
-      "Classic Purple"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -603,6 +676,10 @@
         "height": 1200,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Classic Blue",
+      "Classic Purple"
     ]
   },
   {
@@ -611,7 +688,24 @@
     "name": "Jade Elite S Yoga Mat - Durable and Supportive - Eco Friendly - JadeYoga",
     "slug": "jadeyoga-elite-s",
     "description": "Firm and Durable: Jade's ELITE S mat is specifically designed for those with vigorous practice, making it our most durable mat yet! \n\nDesigned for a flowing practice: The ELITE S is ideal for Ashtanga, and those with more flowing practices\n\nExtra dense top layer gives the mat added firmness and durability, while its smooth surface boasts outstanding grip for almost any practice.\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, and 71\" long and weight approximately 5 lbs\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch. \n\n\n\n\n\nSEE WHAT INDEPENDENT YOGIS ARE SAYING ABOUT THE JADE ELITE S YOGA MAT:\n\n\n\n\n“It is AMAZING! Nothing moves. Nothing. The mat never moves…my hands, feet, etc. don’t ever shift or move around in the practice. I am in love!” I LOVE this new mat by Jade specifically designed for Ashtanga Yoga. Practicing on it was a dream, it had great grip, and it's thick enough so it was cushiony but firm as well. The feel and thickness are on point. I would recommend this mat to all Ashtangis for their daily yoga practice.”",
-    "weight": 2.267964547178199,
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "71\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -620,10 +714,14 @@
     ],
     "shopifyId": 8617281682,
     "shopifyHandle": "elite-s",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Elite S",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2016-12-18T15:02:20-05:00",
+    "shopifyPublishedAt": "2016-12-18T14:54:00-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 129.95,
@@ -632,10 +730,6 @@
     "minGrams": 2359,
     "maxGrams": 2359,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Forest Green/Black"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -664,6 +758,9 @@
         "height": 1200,
         "position": 3
       }
+    ],
+    "availableColors": [
+      "Forest Green/Black"
     ]
   },
   {
@@ -672,7 +769,12 @@
     "name": "Harmony XW Yoga Mat – Eco Friendly and Chemical Free -  JadeYoga",
     "slug": "jadeyoga-harmony-mat-xw",
     "description": "Extra Wide and Extra Long: Our most popular premium 3/16\" thick jade yoga Harmony mat now is available in 28\" width, extra wide (standard mats are 24\" wide), allowing you to broaden your practice.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 28\" wide, and 80\" long\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.",
-    "length": 203.2,
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "80\" Length"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -683,6 +785,8 @@
     ],
     "shopifyId": 444002112,
     "shopifyHandle": "harmony-mat-xw",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Harmony XW",
     "shopifyTags": [
       "2866 Box",
       "jade yoga harmony mat",
@@ -691,6 +795,8 @@
       "Yoga Harmony Mat",
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2015-03-11T09:07:58-04:00",
+    "shopifyPublishedAt": "2015-03-11T09:06:00-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 149.95,
@@ -699,10 +805,6 @@
     "minGrams": 3039,
     "maxGrams": 3039,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Midnight Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -732,6 +834,9 @@
         "height": 1200,
         "position": 2
       }
+    ],
+    "availableColors": [
+      "Midnight Blue"
     ]
   },
   {
@@ -740,8 +845,18 @@
     "name": "XW Fusion Yoga Mat - Extra Wide and Thick for Grip - JadeYoga",
     "slug": "jadeyoga-xw-fusion",
     "description": "Our Thickest, Longest, Widest Mat: At 5/16\" (8mm) thick, the XW Fusion is perfect for the XL yogi, or anyone looking for a mat with enough room to comfortably move and enough cushion for their body.\n\n80\" Long and 28\" Wide: Wider and longer than your average yoga mat\n\nIncredible grip and ultra comfortable: Never worry about slipping again with our grippy, open cell natural rubber mats.\n\nEco-Friendly: Made from natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 5/16\" (8mm) thick, 28\" wide and is available 80\" long, in beautiful two tone Purple/Midnight Blue\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n \n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
-    "thickness": 8,
-    "length": 203.2,
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "80\""
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -751,9 +866,13 @@
     ],
     "shopifyId": 3366458053,
     "shopifyHandle": "xw-fusion",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "XW Fusion",
     "shopifyTags": [
       "2866 Box"
     ],
+    "shopifyCreatedAt": "2015-12-31T11:50:19-05:00",
+    "shopifyPublishedAt": "2015-12-31T11:21:00-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 249.95,
@@ -762,10 +881,6 @@
     "minGrams": 4990,
     "maxGrams": 4990,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "80\""
-    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -808,7 +923,12 @@
     "name": "Fusion Mini Yoga Mat – Eco Friendly and Natural Rubber - JadeYoga",
     "slug": "jadeyoga-fusion-mini-mats",
     "description": "JadeYoga now has Fusion Mini Yoga Mats available! Say goodbye to wrestling with your yoga mat to fold it over to cushion your knees, and hello to the ease and simplicity of extra cushion in the areas you need it most. \n\nThe Fusion Mini Mat is 24” wide, 12” long, and 5/16” (8mm) thick\n\n\nPlace on top of your yoga mat for extra cushion in the areas you need it most\n\nWide as the average yoga mat for use on top of your existing mat\n\nRoom and the cushion to get deep into your poses.\n\nExtra support for Yin yoga and restorative practices, or any time you need it\n\nNatural rubber provides outstanding grip and comfort\nAvailable in two colors, Midnight Blue and Purple, two of our most popular colors. \n\nEco-friendly natural rubber is a rapidly renewable resource",
-    "thickness": 8,
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -818,9 +938,13 @@
     ],
     "shopifyId": 4380497608776,
     "shopifyHandle": "fusion-mini-mats",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "yoga mat"
     ],
+    "shopifyCreatedAt": "2019-11-26T10:37:30-05:00",
+    "shopifyPublishedAt": "2019-11-26T10:45:00-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 2,
     "minPrice": 29.95,
@@ -829,11 +953,6 @@
     "minGrams": 590,
     "maxGrams": 590,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Purple",
-      "Midnight Blue"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -887,6 +1006,10 @@
         "height": 1711,
         "position": 7
       }
+    ],
+    "availableColors": [
+      "Purple",
+      "Midnight Blue"
     ]
   },
   {
@@ -895,7 +1018,12 @@
     "name": "Organic Cotton Mysore Yoga Rug – JadeYoga",
     "slug": "jadeyoga-organic-cotton-mysore-yoga-rugs-1",
     "description": "Perfect for Outdoor Use: Jade's organic cotton Mysore yoga rugs are perfect for all kinds of yoga classes, including Ashtanga, outdoor classes, and beach yoga. Please use it on top of your Jade mat to prevent slipping when using it on hard surfaces such as hardwood, laminate, and tile floors.\n\nOrganic cotton and all-natural vegetable dyes made from herbs such as indigo, cumin, and turmeric. The herbal dyes are specially made in small batches in order to get the most color and benefits from the herbs.  To see the process of dying our yarns, click here.\n\n\nConnect to the traditional roots of yoga with the Mysore yoga rug\nDimensions: 26” wide and 72” long, and lightweight at only 2.5 lbs\n\nHandwoven by local artisans in India: These rugs are handwoven by rural artisans in India, preserving a tradition and art form and providing a livelihood for weavers. Weaving is a traditional way of life for many people in this area of India and has seen a huge decline in recent years as it can be very difficult to make a living with weaving and many people have left in search of other jobs. These yoga rugs support the traditional weavers and allow them to use their skills to support their families. For many of them, this is the only job they have ever had and making these rugs allows them to keep this tradition alive.  To see a video with one of our weavers, please click here.  \nCare Instructions: Machine washable. Wash colors separately in cold water and hang to dry as rugs may shrink in the wash.\n\nBe The Change: Through our partnership with the Akshaya Patra Foundation, with each Mysore yoga rug purchased, Jade will provide a week of hot lunches for a child in need in India.\n\n\n*Please note that colors on the screen are approximations and do not match the rugs exactly; if you would like to know the exact color of our rugs, please visit one of our retailers or email us to request a free sample swatch.",
-    "weight": 1.1339822735890994,
+    "weight": {
+      "value": 1.1339822735890994,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5 lbs"
+    },
     "material": "Cotton",
     "features": [
       "Lightweight",
@@ -903,12 +1031,16 @@
     ],
     "shopifyId": 4030691999816,
     "shopifyHandle": "organic-cotton-mysore-yoga-rugs-1",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Cotton Yoga Rug",
     "shopifyTags": [
       "2866 Box",
       "mysore yoga rugs",
       "Retail",
       "Yoga Rug"
     ],
+    "shopifyCreatedAt": "2019-09-02T15:09:20-04:00",
+    "shopifyPublishedAt": "2019-09-02T15:09:20-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 5,
     "minPrice": 79.95,
@@ -917,14 +1049,6 @@
     "minGrams": 1134,
     "maxGrams": 1134,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Indigo (blue)",
-      "Karungali (black)",
-      "Turmeric (yellow)",
-      "Tulasi (green)",
-      "Anatoo (orange)"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -993,6 +1117,13 @@
         "height": 1200,
         "position": 9
       }
+    ],
+    "availableColors": [
+      "Indigo (blue)",
+      "Karungali (black)",
+      "Turmeric (yellow)",
+      "Tulasi (green)",
+      "Anatoo (orange)"
     ]
   },
   {
@@ -1001,16 +1132,32 @@
     "name": "Meditation Mats – Handwoven Darbha Grass Mats -  JadeYoga",
     "slug": "jadeyoga-dharba-grass-yoga-meditation-mat",
     "description": "Handwoven Darbha Grass meditation mats will transport you to a natural state of meditation with their earthy grass feel and scent.\n\n\nMeditate in peace with a Darbha grass mat and enjoy the natural scent of the mat\n\nMade from Darbha grass and cotton. Darbha grass is a tropical grass that grows in India and is considered sacred.\n\nClick here for a review from Business Insider.  \n\nDimensions: 26\" wide and 72\" long\n\nPlease use over a Jade mat to prevent slipping on hard floors such as hardwood, laminate, or tile floors.\n\nMade by local artisans in India: Jade's Darbha grass meditation mats are handwoven by rural artisans, preserving a tradition and art form and providing a livelihood for weavers. Weaving is a traditional way of life for many people in this area of India and has seen a massive decline in recent years as it can be very difficult to make a living with weaving and many people have left in search of other jobs. These rugs support the traditional weavers and allow them to use their skills to support their families. For many of them, this is the only job they have ever had and making these rugs allows them to keep this tradition alive. Please click here to hear our weaver talk about his work. \n\nBe The Change: Through our partnership with the Akshaya Patra Foundation, with each Darbha Grass meditation mat purchased, Jade will provide a week of hot lunches for a child in India.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" long"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26\" wide"
+    },
     "material": "Cotton",
     "features": [
       "Extra Wide"
     ],
     "shopifyId": 4030779555912,
     "shopifyHandle": "dharba-grass-yoga-meditation-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Darbha Grass Mat",
     "shopifyTags": [
       "2866 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2019-09-02T15:38:06-04:00",
+    "shopifyPublishedAt": "2019-09-02T15:38:06-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 64.95,
@@ -1019,7 +1166,6 @@
     "minGrams": 907,
     "maxGrams": 907,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1056,19 +1202,33 @@
     "name": "Recycled Sari Yoga Rug - JadeYoga",
     "slug": "jadeyoga-recycled-sari-yoga-rug",
     "description": "Perfect for Outdoor Use: Jade's recycled sari yoga rugs are perfect for all kinds of yoga classes, including Ashtanga, outdoor classes, and beach yoga. Please use it on top of your Jade mat to prevent slipping when using it on hard surfaces such as hardwood, laminate, and tile floors.\n\nSustainable: Made with recycled cotton and a mix of Sari Materials which are made of a variety of silk materials. \n\nHandmade: Created by the Local Women's Handicraft (LWH) in Nepal. LWH seeks to empower and educate women, enabling them to write their own destinies.\n\nEmpowering Women: LWH provides a safe space for women who have escaped abusive practices in the textile industry and other injustices in their local communities. Their manufacturing facilities allow these women to learn new skills and crafts as a group to help heal and rehabilitate their spirits.\n\nEthical Fashion: Through raising awareness and making fashion an ethical way, their goal is to end childhood slavery, forced marriage, and other injustices against women.\n\nDimensions: 24\" x 72\"\n\nCare Instructions: Washing: Hand wash or machine wash on gentle cycle, opt for cold water as often as possible. Use lukewarm water when needed. Do not use bleach. Drying: We recommend air-dry only. Do not tumble dry. Our upcycled materials are mainly made from silk fabrics and other materials, silk is very delicate and the high temperatures of the tumble dryer can shrink or damage your silks. Ironing: Iron on low setting if needed.\n\n\n*Please note that every rug is handmade and colors will vary.",
-    "length": 60.96,
-    "width": 182.88,
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" x 72\""
+    },
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" x 72\""
+    },
     "material": "Cotton",
     "features": [
       "Eco-Friendly"
     ],
     "shopifyId": 5609212379287,
     "shopifyHandle": "recycled-sari-yoga-rug",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
     "shopifyTags": [
       "lwh",
       "recycled sari rugs",
       "Sari Yoga Rug"
     ],
+    "shopifyCreatedAt": "2020-09-03T17:32:03-04:00",
+    "shopifyPublishedAt": "2020-09-03T17:36:40-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 79.95,
@@ -1077,7 +1237,6 @@
     "minGrams": 907,
     "maxGrams": 907,
     "isAvailable": true,
-    "hasMultipleColors": false,
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1108,8 +1267,24 @@
     "name": "Jade Extra Yoga Mat - JadeYoga",
     "slug": "jadeyoga-jade-extra-yoga-mat",
     "description": "Extra of everything you want in a yoga mat!\n\n\nExtra Grip - Textured Polyurethane (PU) surface for superior grip\n\nExtra Durable - PU surface for longer life\n\nExtra Absorbent - PU surface absorbs sweat and is moisture wicking\n\nExtra Safe - Antimicrobial (silver nitrate) surface\n\nExtra Clean - Easy to clean surface\n\nDimensions: 4.5mm thick, 26\" wide, 71” long, and weighs about 5 pounds\n\nMat Colors: Kiwi Green, Sapphire Blue, Safety Orange, Red Hot\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS TWO TREES FOR EVERY EXTRA MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Latex Warning: Persons with rubber or latex allergies should avoid contact with this mat as it contains dry natural rubber and may contain latex.",
-    "thickness": 4.5,
-    "weight": 2.267964547178199,
+    "thickness": {
+      "value": 4.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.5mm"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 pounds"
+    },
     "material": "Natural Rubber",
     "features": [
       "Non-Slip",
@@ -1118,10 +1293,14 @@
     ],
     "shopifyId": 8521067036823,
     "shopifyHandle": "jade-extra-yoga-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "EXTRA",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2024-08-27T14:18:17-04:00",
+    "shopifyPublishedAt": "2024-08-27T15:02:31-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 4,
     "minPrice": 79.95,
@@ -1130,13 +1309,6 @@
     "minGrams": 2177,
     "maxGrams": 2177,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Kiwi Green",
-      "Sapphire Blue",
-      "Safety Orange",
-      "Red Hot"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1204,6 +1376,12 @@
         "height": 3712,
         "position": 9
       }
+    ],
+    "availableColors": [
+      "Kiwi Green",
+      "Sapphire Blue",
+      "Safety Orange",
+      "Red Hot"
     ]
   },
   {
@@ -1212,8 +1390,30 @@
     "name": "Jade Cork Yoga Mat - Hot Yoga - Eco Friendly - JadeYoga",
     "slug": "jadeyoga-jade-cork-yoga-mat",
     "description": "The Perfect Mat For Hot Yoga!\n\nEco-Friendly: Made with sustainably harvested cork and natural rubber, rapidly renewable resources and contains no PVC*\n\nGreat Grip: Cork provides outstanding grip for hot yoga or other sweaty practices\n\nComfortable: Natural rubber base provides more comfort and resilience \n\n\nDimensions:  4.5mm thick, 24\" wide, and 72\" long and weight approximately 5 lbs\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n*Made in Spain, the surface of the Jade Cork mat is harvested sustainably from cork trees in Portugal. Trees are not cut down, but after the tree is 25 years old, the bark of the tree is removed. This is repeated every 9 years, with the bark regenerating in the interim - absorbing additional CO2 during this process.\n*To Clean: Cork mats can be washed with soap and water then rinsed with water. Hang inside to dry.  Store rolled with cork side out.\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.",
-    "thickness": 4.5,
-    "weight": 2.267964547178199,
+    "thickness": {
+      "value": 4.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1222,10 +1422,14 @@
     ],
     "shopifyId": 8521108488343,
     "shopifyHandle": "jade-cork-yoga-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Cork",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2024-08-27T15:25:07-04:00",
+    "shopifyPublishedAt": "2024-08-27T15:34:00-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 1,
     "minPrice": 99.95,
@@ -1234,10 +1438,6 @@
     "minGrams": 2359,
     "maxGrams": 2359,
     "isAvailable": true,
-    "hasMultipleColors": false,
-    "availableColors": [
-      "Natural"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1278,6 +1478,9 @@
         "height": 3246,
         "position": 5
       }
+    ],
+    "availableColors": [
+      "Natural"
     ]
   },
   {
@@ -1286,9 +1489,24 @@
     "name": "Jade Mushroom Mat",
     "slug": "jadeyoga-jade-mushroom-mat",
     "description": "Jade Mushroom Mat diverts organic waste from landfills, reducing harmful methane emissions, a significant contributor to global warming, and provides an additional income stream for farmers in developing countries.\n\nEco-Friendly - Made in Spain with natural rubber, a rapidly renewable resource, tapped from rubber trees and USDA Organic certified oyster mushroom waste and contains no PVC or synthetic plastics.\n\nNon-Slip - Natural Rubber surface guarantees optimum grip.\n\nComfortable - Better cushion and more resilience than any other yoga mat.\n\nThe Jade Mushroom Mat is 5mm thick and is available in 68\" or 74\" lengths, and weighs about 4.5lbs.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Latex Warning: Persons with rubber or latex allergies should avoid contact with this mat as it contains dry natural rubber and may contain latex.\n*Jade Mats have a rubber scent – your assurance that Jade mats are made sustainably with natural rubber. This natural scent is normal and will dissipate over time.",
-    "thickness": 5,
-    "length": 172.72,
-    "weight": 2.041168092460379,
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 2.041168092460379,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.5lbs"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1297,10 +1515,14 @@
     ],
     "shopifyId": 9094656196759,
     "shopifyHandle": "jade-mushroom-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "MUSHROOM",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2025-06-19T13:44:46-04:00",
+    "shopifyPublishedAt": "2025-09-22T11:37:54-04:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 6,
     "minPrice": 99.95,
@@ -1309,13 +1531,6 @@
     "minGrams": 2177,
     "maxGrams": 2177,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight Blue",
-      "Jade Green",
-      "Purple",
-      "Raspberry"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1391,6 +1606,12 @@
         "height": 4928,
         "position": 9
       }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Jade Green",
+      "Purple",
+      "Raspberry"
     ]
   },
   {
@@ -1399,7 +1620,12 @@
     "name": "Jade Harmony 2.0",
     "slug": "jadeyoga-jade-harmony-2-0",
     "description": "Jade Harmony 2.0 has all the grip and comfort our Harmony mat, plus more!\n\n\nEco-Friendly - Made in Spain with natural rubber, a rapidly renewable resource, tapped from rubber trees and contains no PVC.\n\nNon-Slip - Open cell natural rubber guarantees optimum grip.\n\nFSC Certified - Natural rubber is sourced from responsibly managed forests.\nOEKO-TEX® Certified - Free from harmful substances and safe for everyday use.\n\nSustainability - Made using 100% renewable energy.\n\nDurability- Tougher and longer lasting with even better grip.\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Latex Warning: Persons with rubber or latex allergies should avoid contact with this mat as it contains dry natural rubber and may contain latex.\n*Jade Mats have a rubber scent – your assurance that Jade mats are made sustainably with natural rubber. This natural scent is normal and will dissipate over time.",
-    "length": 172.72,
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
     "material": "Natural Rubber",
     "features": [
       "Eco-Friendly",
@@ -1408,10 +1634,14 @@
     ],
     "shopifyId": 9282036367511,
     "shopifyHandle": "jade-harmony-2-0",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "MUSHROOM",
     "shopifyTags": [
       "2655 Box",
       "Retail"
     ],
+    "shopifyCreatedAt": "2025-12-05T16:55:19-05:00",
+    "shopifyPublishedAt": "2025-12-08T20:53:18-05:00",
     "shopifyUpdatedAt": "2026-01-09T08:03:03-05:00",
     "variantsCount": 7,
     "minPrice": 99.95,
@@ -1420,14 +1650,6 @@
     "minGrams": 2177,
     "maxGrams": 2177,
     "isAvailable": true,
-    "hasMultipleColors": true,
-    "availableColors": [
-      "Midnight Blue",
-      "Jade Green",
-      "Purple",
-      "Black",
-      "Olive"
-    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1528,6 +1750,13 @@
         "height": 3280,
         "position": 13
       }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Jade Green",
+      "Purple",
+      "Black",
+      "Olive"
     ]
   }
 ]

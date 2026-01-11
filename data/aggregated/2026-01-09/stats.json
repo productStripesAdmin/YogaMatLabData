@@ -3,10 +3,10 @@
   "totalProducts": 507,
   "totalBrands": 23,
   "priceStats": {
-    "min": 0,
-    "max": 0,
-    "average": 0,
-    "median": 0
+    "min": 19.98,
+    "max": 1138,
+    "average": 136.48806706114388,
+    "median": 110
   },
   "materialBreakdown": {
     "Cotton": 27,

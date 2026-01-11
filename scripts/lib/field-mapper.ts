@@ -11,12 +11,35 @@ export interface NormalizedYogaMat {
   // Optional fields with data from Shopify
   description?: string;
 
-  // Measurements (all in metric units)
+  // Measurements (structured with units and source tracking)
   // Extracted from options first, then description/tags as fallback
-  thickness?: number; // in mm
-  length?: number; // in cm
-  width?: number; // in cm
-  weight?: number; // in kg
+  thickness?: {
+    value: number; // Normalized value
+    unit: 'mm'; // Always mm (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit (e.g., "1/4 inch thick")
+  };
+
+  length?: {
+    value: number; // Normalized value
+    unit: 'cm'; // Always cm (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit (e.g., "80\" Long")
+  };
+
+  width?: {
+    value: number; // Normalized value
+    unit: 'cm'; // Always cm (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit (e.g., "28\" Wide")
+  };
+
+  weight?: {
+    value: number; // Normalized value
+    unit: 'kg'; // Always kg (normalized unit)
+    source: 'description' | 'variants';
+    originalText: string; // Original text with original unit (e.g., "5 lbs", "2500 grams")
+  };
 
   // Product attributes
   material?: MaterialType;
@@ -26,6 +49,8 @@ export interface NormalizedYogaMat {
   // Shopify metadata
   shopifyId: number;
   shopifyHandle: string;
+  shopifyVendor: string;
+  shopifyProductType: string;
   shopifyTags: string[];
   shopifyCreatedAt: string;
   shopifyPublishedAt: string;
@@ -100,9 +125,14 @@ export function generateSlug(brandSlug: string, productHandle: string): string {
 
 /**
  * Extracts thickness from options (priority) or text (fallback)
- * Returns value in mm
+ * Returns structured data with value normalized to mm
  */
-function extractThickness(product: ShopifyProduct, text: string): number | undefined {
+function extractThickness(product: ShopifyProduct, text: string): {
+  value: number; // Always in mm (normalized)
+  unit: 'mm'; // Always 'mm' (normalized unit)
+  source: 'options' | 'description';
+  originalText: string; // Original text with original unit
+} | undefined {
   // First, try to extract from options
   if (product.options) {
     for (const option of product.options) {
@@ -111,12 +141,22 @@ function extractThickness(product: ShopifyProduct, text: string): number | undef
         for (const value of option.values) {
           const mmMatch = value.match(/(\d+(?:\.\d+)?)\s*mm/i);
           if (mmMatch) {
-            return parseFloat(mmMatch[1]);
+            return {
+              value: parseFloat(mmMatch[1]), // Already in mm
+              unit: 'mm',
+              source: 'options',
+              originalText: value,
+            };
           }
           // Some brands use just numbers for thickness options
           const numMatch = value.match(/^(\d+(?:\.\d+)?)\s*$/);
           if (numMatch && parseFloat(numMatch[1]) < 20) { // Likely mm if < 20
-            return parseFloat(numMatch[1]);
+            return {
+              value: parseFloat(numMatch[1]), // Already in mm
+              unit: 'mm',
+              source: 'options',
+              originalText: value,
+            };
           }
         }
       }
@@ -135,21 +175,38 @@ function extractThickness(product: ShopifyProduct, text: string): number | undef
     const match = text.match(pattern);
     if (match) {
       const value = match[1];
+      const originalText = match[0];
+      const isInch = pattern.source.includes('inch');
 
       // Handle fractions like "1/4 inch"
       if (value.includes('/')) {
         const [num, den] = value.split('/').map(Number);
-        return (num / den) * 25.4; // Convert inches to mm
+        return {
+          value: (num / den) * 25.4, // Convert inches to mm
+          unit: 'mm', // Normalized unit
+          source: 'description',
+          originalText,
+        };
       }
 
       const numValue = parseFloat(value);
 
       // If pattern includes "inch", convert to mm
-      if (pattern.source.includes('inch')) {
-        return numValue * 25.4;
+      if (isInch) {
+        return {
+          value: numValue * 25.4, // Convert inches to mm
+          unit: 'mm', // Normalized unit
+          source: 'description',
+          originalText,
+        };
       }
 
-      return numValue; // Already in mm
+      return {
+        value: numValue, // Already in mm
+        unit: 'mm', // Normalized unit
+        source: 'description',
+        originalText,
+      };
     }
   }
 
@@ -298,7 +355,20 @@ function classifySingleDimension(value: string, numValue: number, unit: 'cm' | '
  * Extracts dimensions from options (priority) or text (fallback)
  * Returns length and width in cm
  */
-function extractDimensions(product: ShopifyProduct, text: string): { length?: number; width?: number } {
+function extractDimensions(product: ShopifyProduct, text: string): {
+  length?: {
+    value: number; // Always in cm (normalized)
+    unit: 'cm'; // Always 'cm' (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit
+  };
+  width?: {
+    value: number; // Always in cm (normalized)
+    unit: 'cm'; // Always 'cm' (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit
+  };
+} {
   // First, try to extract from options
   if (product.options) {
     for (const option of product.options) {
@@ -311,17 +381,28 @@ function extractDimensions(product: ShopifyProduct, text: string): { length?: nu
           if (dimMatch) {
             let length = parseFloat(dimMatch[1]);
             let width = parseFloat(dimMatch[2]);
+            const isCm = value.toLowerCase().includes('cm');
 
-            // Convert to cm based on unit
-            if (value.toLowerCase().includes('cm')) {
-              return { length, width }; // Already in cm
-            } else {
-              // Assume inches, convert to cm
-              return {
-                length: length * 2.54,
-                width: width * 2.54
-              };
+            // Convert to cm
+            if (!isCm) {
+              length = length * 2.54;
+              width = width * 2.54;
             }
+
+            return {
+              length: {
+                value: length, // Normalized to cm
+                unit: 'cm', // Normalized unit
+                source: 'options',
+                originalText: value,
+              },
+              width: {
+                value: width, // Normalized to cm
+                unit: 'cm', // Normalized unit
+                source: 'options',
+                originalText: value,
+              }
+            };
           }
 
           // Try to match single dimension (e.g., "Standard 71\"", "Long 85\"", "215cm")
@@ -329,16 +410,30 @@ function extractDimensions(product: ShopifyProduct, text: string): { length?: nu
           if (singleMatch) {
             const numValue = parseFloat(singleMatch[1]);
             const unitMatch = singleMatch[2].toLowerCase();
-            const unit = unitMatch.includes('cm') ? 'cm' : 'inch';
-            const valueInCm = unit === 'cm' ? numValue : numValue * 2.54;
+            const isCm = unitMatch.includes('cm');
+            const valueInCm = isCm ? numValue : numValue * 2.54;
 
             // Classify as length or width
-            const dimension = classifySingleDimension(value, numValue, unit);
+            const dimension = classifySingleDimension(value, numValue, isCm ? 'cm' : 'inch');
 
             if (dimension === 'length') {
-              return { length: valueInCm };
+              return {
+                length: {
+                  value: valueInCm, // Normalized to cm
+                  unit: 'cm', // Normalized unit
+                  source: 'options',
+                  originalText: value,
+                }
+              };
             } else {
-              return { width: valueInCm };
+              return {
+                width: {
+                  value: valueInCm, // Normalized to cm
+                  unit: 'cm', // Normalized unit
+                  source: 'options',
+                  originalText: value,
+                }
+              };
             }
           }
         }
@@ -347,23 +442,104 @@ function extractDimensions(product: ShopifyProduct, text: string): { length?: nu
   }
 
   // Fallback: extract from text
+  // Pattern 1: Try L x W format first (e.g., "72\" x 26\"", "183cm x 61cm")
   const dimensionPattern = /(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?/i;
-  const match = text.match(dimensionPattern);
+  const lxwMatch = text.match(dimensionPattern);
 
-  if (match) {
-    let length = parseFloat(match[1]);
-    let width = parseFloat(match[2]);
+  if (lxwMatch) {
+    let length = parseFloat(lxwMatch[1]);
+    let width = parseFloat(lxwMatch[2]);
+    const isCm = text.toLowerCase().includes('cm');
+    const originalText = lxwMatch[0];
 
-    // Convert to cm based on unit in text
-    if (text.toLowerCase().includes('cm')) {
-      return { length, width }; // Already in cm
-    } else {
-      // Assume inches, convert to cm
-      return {
-        length: length * 2.54,
-        width: width * 2.54
-      };
+    // Convert to cm
+    if (!isCm) {
+      length = length * 2.54;
+      width = width * 2.54;
     }
+
+    return {
+      length: {
+        value: length, // Normalized to cm
+        unit: 'cm', // Normalized unit
+        source: 'description',
+        originalText,
+      },
+      width: {
+        value: width, // Normalized to cm
+        unit: 'cm', // Normalized unit
+        source: 'description',
+        originalText,
+      }
+    };
+  }
+
+  // Pattern 2: Try separate "X\" Long" and "X\" Wide" patterns
+  // Examples: "80\" Long and 28\" Wide", "28\" wide and is available 80\" long"
+  const result: {
+    length?: {
+      value: number; // Always in cm (normalized)
+      unit: 'cm'; // Always 'cm' (normalized unit)
+      source: 'options' | 'description';
+      originalText: string; // Original text with original unit
+    };
+    width?: {
+      value: number; // Always in cm (normalized)
+      unit: 'cm'; // Always 'cm' (normalized unit)
+      source: 'options' | 'description';
+      originalText: string; // Original text with original unit
+    };
+  } = {};
+
+  // Match length patterns
+  const lengthPatterns = [
+    /(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s+(?:long|length|l\b)/i,
+    /(?:long|length).*?(\d+(?:\.\d+)?)\s*(?:inch|"|cm)/i,
+  ];
+
+  for (const pattern of lengthPatterns) {
+    const lengthMatch = text.match(pattern);
+    if (lengthMatch) {
+      const lengthValue = parseFloat(lengthMatch[1]);
+      const isCm = text.toLowerCase().includes('cm');
+      const valueInCm = isCm ? lengthValue : lengthValue * 2.54;
+
+      result.length = {
+        value: valueInCm, // Normalized to cm
+        unit: 'cm', // Normalized unit
+        source: 'description',
+        originalText: lengthMatch[0],
+      };
+      break;
+    }
+  }
+
+  // Match width patterns
+  const widthPatterns = [
+    /(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s+(?:wide|width|w\b)/i,
+    /(?:wide|width).*?(\d+(?:\.\d+)?)\s*(?:inch|"|cm)/i,
+  ];
+
+  for (const pattern of widthPatterns) {
+    const widthMatch = text.match(pattern);
+    if (widthMatch) {
+      const widthValue = parseFloat(widthMatch[1]);
+      const isCm = text.toLowerCase().includes('cm');
+      const valueInCm = isCm ? widthValue : widthValue * 2.54;
+
+      result.width = {
+        value: valueInCm, // Normalized to cm
+        unit: 'cm', // Normalized unit
+        source: 'description',
+        originalText: widthMatch[0],
+      };
+      break;
+    }
+  }
+
+  // Return if we found at least length or width
+  if (result.length || result.width) {
+    return result;
   }
 
   return {};
@@ -371,30 +547,42 @@ function extractDimensions(product: ShopifyProduct, text: string): { length?: nu
 
 /**
  * Extracts weight from text or variant grams
- * Returns weight in kg
+ * Returns structured data with value normalized to kg
  */
-function extractWeight(product: ShopifyProduct, text: string): number | undefined {
+function extractWeight(product: ShopifyProduct, text: string): {
+  value: number; // Always in kg (normalized)
+  unit: 'kg'; // Always 'kg' (normalized unit)
+  source: 'description' | 'variants';
+  originalText: string; // Original text with original unit
+} | undefined {
   // Try extracting from text first
   const patterns = [
-    /(\d+(?:\.\d+)?)\s*kg/i,
-    /(\d+(?:\.\d+)?)\s*(?:lbs?|pounds?)/i,
-    /(\d+)\s*grams/i,
+    { regex: /(\d+(?:\.\d+)?)\s*kg/i, unit: 'kg' as const },
+    { regex: /(\d+(?:\.\d+)?)\s*(?:lbs?|pounds?)/i, unit: 'lb' as const },
+    { regex: /(\d+)\s*grams/i, unit: 'g' as const },
   ];
 
-  for (const pattern of patterns) {
-    const match = text.match(pattern);
+  for (const { regex, unit } of patterns) {
+    const match = text.match(regex);
     if (match) {
       const value = parseFloat(match[1]);
+      const originalText = match[0];
+      let valueInKg: number;
 
-      if (pattern.source.includes('kg')) {
-        return value; // Already in kg
+      if (unit === 'kg') {
+        valueInKg = value; // Already in kg
+      } else if (unit === 'lb') {
+        valueInKg = value / 2.20462; // Convert lbs to kg
+      } else { // unit === 'g'
+        valueInKg = value / 1000; // Convert grams to kg
       }
-      if (pattern.source.includes('lbs?|pounds?')) {
-        return value / 2.20462; // Convert lbs to kg
-      }
-      if (pattern.source.includes('gram')) {
-        return value / 1000; // Convert grams to kg
-      }
+
+      return {
+        value: valueInKg, // Normalized to kg
+        unit: 'kg', // Normalized unit
+        source: 'description',
+        originalText,
+      };
     }
   }
 
@@ -559,6 +747,11 @@ function extractColors(product: ShopifyProduct): string[] | undefined {
       optionName === 'color/pattern' ||
       /(?:mat|yoga|sock|towel).*?(?:colour|color)/i.test(optionName) // Liforme pattern
     ) {
+      const classification = classifyOptionValues(option.values);
+      if (classification === 'thickness') {
+        continue;
+      }
+
       return option.values.filter(v => v && v !== 'Default Title');
     }
   }
@@ -671,40 +864,21 @@ function extractThicknessOptions(product: ShopifyProduct): Array<{
 
   for (const option of product.options) {
     const optionName = option.name.toLowerCase();
+    const classification = classifyOptionValues(option.values);
 
-    // Explicit thickness option
-    if (optionName === 'thickness') {
-      for (const value of option.values) {
-        if (value === 'Default Title') continue;
+    const isThicknessOption = optionName === 'thickness' || classification === 'thickness';
+    if (!isThicknessOption) continue;
 
-        const parsed = parseThicknessString(value);
-        if (parsed !== null) {
-          thicknesses.push({
-            value: parsed,
-            unit: 'mm',
-            originalString: value
-          });
-        }
-      }
-    }
+    for (const value of option.values) {
+      if (value === 'Default Title') continue;
 
-    // Size option that contains thickness
-    if (optionName === 'size') {
-      const classification = classifyOptionValues(option.values);
-
-      if (classification === 'thickness') {
-        for (const value of option.values) {
-          if (value === 'Default Title') continue;
-
-          const parsed = parseThicknessString(value);
-          if (parsed !== null) {
-            thicknesses.push({
-              value: parsed,
-              unit: 'mm',
-              originalString: value
-            });
-          }
-        }
+      const parsed = parseThicknessString(value);
+      if (parsed !== null) {
+        thicknesses.push({
+          value: parsed,
+          unit: 'mm',
+          originalString: value
+        });
       }
     }
   }
@@ -748,6 +922,8 @@ export function mapShopifyToYogaMat(
     // Shopify metadata
     shopifyId: product.id,
     shopifyHandle: product.handle,
+    shopifyVendor: product.vendor,
+    shopifyProductType: product.product_type,
     shopifyTags: product.tags,
     shopifyCreatedAt: product.created_at,
     shopifyPublishedAt: product.published_at,

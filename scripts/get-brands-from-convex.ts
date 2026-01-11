@@ -437,6 +437,17 @@ async function main() {
     });
   }
 
+  // Show successful brands with 0 products (needs investigation)
+  const zeroProductBrands = results.filter(
+    (r) => r.success && r.products.length === 0 && !r.usedFallback
+  );
+  if (zeroProductBrands.length > 0) {
+    logger.warn('\nSuccessful extractions with 0 products:');
+    zeroProductBrands.forEach((r) => {
+      logger.warn(`  ⚠ ${r.brand.name}: 0 products extracted`);
+    });
+  }
+
   if (summary.failedBrands > 0) {
     logger.warn('\nFailed brands:');
     summary.results
