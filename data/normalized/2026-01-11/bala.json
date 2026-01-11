@@ -1,0 +1,2929 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Compact Mat",
+    "slug": "bala-the-compact-mat",
+    "description": "At 12MM thick, The Compact Mat is designed for comfort and convenience. This capsule-shaped mat effortlessly transforms into a block, offering extra support when and where you need it most. Or unfold to reveal a moisture-wicking, non-slip surface ideal for any and every movement.\nLightweight and travel-friendly, The Compact Mat is a must-have whether you’re WFH, in studio or on-the-go.   \nThe Compact Mat is FINAL SALE and not eligible for refunds or exchanges.",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12MM"
+    },
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 8074604085383,
+    "shopifyHandle": "the-compact-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-04-22T09:54:38-07:00",
+    "shopifyPublishedAt": "2025-07-29T09:06:31-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 6,
+    "minPrice": 89,
+    "maxPrice": 89,
+    "priceCurrency": "USD",
+    "minGrams": 2676,
+    "maxGrams": 2676,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blush",
+          "Charcoal",
+          "Heather",
+          "Sage",
+          "Sea",
+          "Sand"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Blush.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Blush.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Blush.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Charcoal.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Charcoal.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Charcoal.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Heather.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Heather.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Heather.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Sage.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Sage.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Sage.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Sand.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Sand.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Sand.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Float_Sea.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Detail_Sea.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheCompactMat_Flat_Sea.jpg?v=1745340800",
+        "width": 1200,
+        "height": 1500,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9320_BLCHARCOAL.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9320_BLUSH.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9320_SAGE.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9320_SAND.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9320_SEA.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9336_BLCHARCOAL.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9336_BLUSH.jpg?v=1759436982",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9336_SAGE.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9336_SAND.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9336_SEA.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9394_BLCHARCOAL.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9394_BLUSH.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9394_SAGE.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9394_SAND.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9394_SEA.jpg?v=1759436981",
+        "width": 2000,
+        "height": 2998,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CompactMat_blush_1424_webres.jpg?v=1759436981",
+        "width": 1365,
+        "height": 2048,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CompactMat_charcoal_1424_webres.jpg?v=1759436981",
+        "width": 1365,
+        "height": 2048,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CompactMat_sage_1424_webres.jpg?v=1759436981",
+        "width": 1365,
+        "height": 2048,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CompactMat_sand_1424_webres.jpg?v=1759436981",
+        "width": 1365,
+        "height": 2048,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CompactMat_sea_1424_webres.jpg?v=1759436981",
+        "width": 1365,
+        "height": 2048,
+        "position": 38
+      }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Heather",
+      "Sage",
+      "Sea",
+      "Sand"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Play Mat",
+    "slug": "bala-the-play-mat",
+    "description": "The perfect mat for your busy life. The Play Mat is built for comfort and speed, whether at home or on-the-go. The first-of-its-kind portal shape is a true showstopper. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nFloor it. \nPatent Pending\n***Final Sale***",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "options",
+      "originalText": "5 MM"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Antimicrobial"
+    ],
+    "shopifyId": 7371478925447,
+    "shopifyHandle": "the-play-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Floor",
+    "shopifyTags": [
+      "100-149",
+      "aerobics",
+      "all",
+      "All Products",
+      "anti-fitness",
+      "Bala",
+      "barre",
+      "beach",
+      "blush",
+      "cardio",
+      "charcoal",
+      "dance",
+      "featured",
+      "fitness",
+      "flex-hsa",
+      "flow",
+      "fun",
+      "hiit",
+      "mat",
+      "new arrivals",
+      "pilates",
+      "recovery",
+      "sage",
+      "sand",
+      "sea",
+      "strength",
+      "strength training",
+      "yoga",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2023-01-30T10:53:50-08:00",
+    "shopifyPublishedAt": "2023-08-30T14:11:22-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 9,
+    "minPrice": 99,
+    "maxPrice": 129,
+    "priceCurrency": "USD",
+    "minGrams": 4400,
+    "maxGrams": 4400,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "5 MM",
+          "8 MM"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Charcoal",
+          "Blush",
+          "Sea",
+          "Sand",
+          "Sage",
+          "Charcoal RL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_01_72caf37a-1cc0-471a-9f76-3985e2b53f9a.jpg?v=1676527778",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_02_9ad285bc-0f6d-448c-b80f-2a6a7d953dff.jpg?v=1676529600",
+        "width": 2400,
+        "height": 3000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_03_92488efb-6346-49ab-ba17-50b3b283b870.jpg?v=1676529600",
+        "width": 2400,
+        "height": 3000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_04_418ea1ec-9961-4845-b7bb-a540519494d6.jpg?v=1676529600",
+        "width": 2400,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Charcoal_05_53693a8c-545d-4218-b6c7-7aad43401769.jpg?v=1676529600",
+        "width": 2400,
+        "height": 3000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Blush_01.jpg?v=1676529600",
+        "width": 2400,
+        "height": 3000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Group1148.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Blush_02.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Blush_03.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Blush_04.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Blush_05.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sand_01.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sand_02.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sand_03.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sand_04.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sand_05.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sea_01v2.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sea_02.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sea_03.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sea_04.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sea_05.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sage_01v2.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sage_02.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sage_03.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sage_04.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmat_Sage_05.jpg?v=1677283676",
+        "width": 2400,
+        "height": 3000,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMat_Blush_Render_Angle_DTC_2400x3000_b1157b91-ce1c-4611-99ea-5319dcf7af5d_1.jpg?v=1715713419",
+        "width": 2400,
+        "height": 3000,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Blush_Render_Pack_DTC_2400x3000_883aa466-8955-42f1-aa24-fee44ca319.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Blush_Render_Pack_DTC_2400x3000_883aa466-8955-42f1-aa24-fee44ca3195c.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Blush_Render_Pack_DTC_2400x3000_883aa466-8955-42f1-aa24-fee44ca3195.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Blush_Render_Pack_DTC_2400x3000_883aa466-8955-42f1-aa24-fee44ca.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Charcoal_01.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Charcoal_03.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Charcoal_04.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Charcoal_05.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Charcoal_06.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Sand_Render_Angle_DTC_2400x3000_50cc83d5-828c-442a-8fbb-336c7044336f.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Sand_Render_Pack_DTC_2400x3000_60f56656-219c-4b87-91fe-47c0d41d10.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Sand_Render_Pack_DTC_2400x3000_60f56656-219c-4b87-91fe-47c0d41d1085.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Sand_Model_DTC_2400x3000_f2761364-fa5d-44c9-84d5-67404982871.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/Playmat_Sand_Render_Pack_DTC_2400x3000_60f56656-219c-4b87-91fe-47c0d41d108.jpg?v=1715713895",
+        "width": 2400,
+        "height": 3000,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/RalphLaurenPinkPonyxBala_PlayMat_1.png?v=1727224174",
+        "width": 1200,
+        "height": 1500,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/RalphLaurenPinkPonyxBala_PlayMat_2.png?v=1727224174",
+        "width": 1200,
+        "height": 1500,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/RalphLaurenPinkPonyxBala_PlayMat_3.png?v=1727224174",
+        "width": 1200,
+        "height": 1500,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0805_BLCHARCOAL.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0805_BLUSH.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0805_SAGE.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0805_SAND.jpg?v=1759442886",
+        "width": 2000,
+        "height": 2998,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0805_SEA.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0821_BLCHARCOAL.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0821_BLUSH.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0821_SAGE.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0821_SAND.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0821_SEA.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0841_BLCHARCOAL.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0841_BLUSH.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0841_SAGE.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0841_SAND.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0841_SEA.jpg?v=1759442885",
+        "width": 2000,
+        "height": 2998,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_blush_0867_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_blush_1327_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_charcoal_0867_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_charcoal_1327_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sage_0867_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sage_1327_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sand_0867_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sand_1327_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sea_0867_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 68
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/ThePlayMat_sea_1327_webres.jpg?v=1759442885",
+        "width": 1365,
+        "height": 2048,
+        "position": 69
+      }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Blush",
+      "Sea",
+      "Sand",
+      "Sage",
+      "Charcoal RL"
+    ],
+    "availableThicknesses": [
+      {
+        "value": 5,
+        "unit": "mm",
+        "originalString": "5 MM"
+      },
+      {
+        "value": 8,
+        "unit": "mm",
+        "originalString": "8 MM"
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Wavy Mat",
+    "slug": "bala-wavy-mat",
+    "description": "At 5MM thick, The Wavy Mat will awaken your senses and elevate your practice. The never-before-seen mat shape will uplevel your space. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nWave your old mat goodbye. \nPatent Pending",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5MM"
+    },
+    "features": [
+      "Antimicrobial"
+    ],
+    "shopifyId": 7570101403783,
+    "shopifyHandle": "wavy-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "Bala x SPANX",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-03-15T08:17:56-07:00",
+    "shopifyPublishedAt": "2024-03-15T08:17:56-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 5,
+    "minPrice": 120,
+    "maxPrice": 129,
+    "priceCurrency": "USD",
+    "minGrams": 2821,
+    "maxGrams": 2821,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Charcoal",
+          "Sea",
+          "Blush",
+          "Sand",
+          "Spanx"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Charcoal_02.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Charcoal_03.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Charcoal_01.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Blush_02.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Blush_03.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Blush_01.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sand_02.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sand_03.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sand_01.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sea_02.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sea_03.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sea_01.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sage_02.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sage_03.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24037_WavyMat5_Sage_01.jpg?v=1710517145",
+        "width": 1200,
+        "height": 1500,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/WesCockx_Bala_13_WavyMat5_FINAL_02_02.jpg?v=1752598034",
+        "width": 1200,
+        "height": 1500,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/WesCockx_Bala_13_WavyMat5_FINAL_03_02.jpg?v=1752598034",
+        "width": 1200,
+        "height": 1500,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/WesCockx_Bala_13_WavyMat5_FINAL_01_02.jpg?v=1752598034",
+        "width": 1200,
+        "height": 1500,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0846_BLCHARCOAL.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0846_BLUSH.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0846_SAGE.jpg?v=1759444261",
+        "width": 2000,
+        "height": 2998,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0846_SAND.jpg?v=1759444263",
+        "width": 2000,
+        "height": 2998,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0846_SEA.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0854_BLCHARCOAL.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0854_BLUSH.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0854_SAGE.jpg?v=1759444261",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0854_SAND.jpg?v=1759444261",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0854_SEA.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0866_BLCHARCOAL.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0866_BLUSH.jpg?v=1759444262",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0866_SAGE.jpg?v=1759444263",
+        "width": 2000,
+        "height": 2998,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0866_SAND.jpg?v=1759444263",
+        "width": 2000,
+        "height": 2998,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0866_SEA.jpg?v=1759444261",
+        "width": 2000,
+        "height": 2998,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1612_BLUSH.jpg?v=1759444262",
+        "width": 2048,
+        "height": 1365,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1612_CHARCOAL.jpg?v=1759444263",
+        "width": 2048,
+        "height": 1365,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1612_SAGE.jpg?v=1759444262",
+        "width": 2048,
+        "height": 1365,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1612_SAND.jpg?v=1759444261",
+        "width": 2048,
+        "height": 1365,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1612_SEA.jpg?v=1759444263",
+        "width": 2048,
+        "height": 1365,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1632_BLUSH.jpg?v=1759444261",
+        "width": 2048,
+        "height": 1365,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1632_CHARCOAL.jpg?v=1759444263",
+        "width": 2048,
+        "height": 1365,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1632_SAGE.jpg?v=1759444263",
+        "width": 2048,
+        "height": 1365,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1632_SAND.jpg?v=1759444262",
+        "width": 2048,
+        "height": 1365,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BalaBangles_r1_01E_1632_SEA.jpg?v=1759444261",
+        "width": 2048,
+        "height": 1365,
+        "position": 43
+      }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Spanx"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Deco Mat",
+    "slug": "bala-deco-mat",
+    "description": "At 5MM thick, The Deco Mat will transform your space and your life. Designed to fit seamlessly in your home or stand out in your studio. Its antimicrobial, waterproof top layer is moisture-wicking and nonslip.\nSlay. \n\n***Final Sale***",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5MM"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Antimicrobial"
+    ],
+    "shopifyId": 8062868488327,
+    "shopifyHandle": "deco-mat",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-04-02T09:40:25-07:00",
+    "shopifyPublishedAt": "2025-05-16T14:20:32-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 5,
+    "minPrice": 99,
+    "maxPrice": 99,
+    "priceCurrency": "USD",
+    "minGrams": 3538,
+    "maxGrams": 3538,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Charcoal",
+          "Blush",
+          "Sand",
+          "Sage",
+          "Sea"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Blush.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Flat_Blush.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Detail_Blush.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Charcoal.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Flat_Charcoal.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Detail_Charcoal.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Sage.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Flat_Sage.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Sea.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Detail_Sage.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Flat_Sea.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Detail_Sea.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Float_Sand.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Flat_Sand.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_Detail_Sand.jpg?v=1745335378",
+        "width": 1200,
+        "height": 1500,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A8683_BLCHARCOAL.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A8683_BLUSH.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A8683_SAGE.jpg?v=1759437208",
+        "width": 2000,
+        "height": 2998,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A8683_SAND.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A8683_SEA.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9415_BLCHARCOAL.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9415_BLUSH.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9415_SAGE.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9415_SAND.jpg?v=1759437208",
+        "width": 2000,
+        "height": 2998,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9415_SEA.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9435_BLCHARCOAL.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9435_BLUSH.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9435_SAGE.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9435_SAND.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9435_SEA.jpg?v=1759437207",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_blush_0867_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_blush_1327_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_charcoal_0867_webres.jpg?v=1759437208",
+        "width": 1365,
+        "height": 2048,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_charcoal_1327_webres.jpg?v=1759437208",
+        "width": 1365,
+        "height": 2048,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sage_0867_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sage_1327_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sand_0867_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sand_1327_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sea_0867_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheDecoMat_sea_1327_webres.jpg?v=1759437207",
+        "width": 1365,
+        "height": 2048,
+        "position": 40
+      }
+    ],
+    "availableColors": [
+      "Charcoal",
+      "Blush",
+      "Sand",
+      "Sage",
+      "Sea"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Mat Scrunchie",
+    "slug": "bala-mat-scrunchie",
+    "description": "The Mat Scrunchie, the first and only scrunchie that keeps your mat neatly rolled and looking really, really cute. \nOh yes, we did.",
+    "features": [],
+    "shopifyId": 8011412308103,
+    "shopifyHandle": "mat-scrunchie",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "accessories",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-12-27T09:44:38-08:00",
+    "shopifyPublishedAt": "2025-01-21T14:17:42-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 5,
+    "minPrice": 25,
+    "maxPrice": 25,
+    "priceCurrency": "USD",
+    "minGrams": 118,
+    "maxGrams": 118,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blush",
+          "Charcoal",
+          "Sage",
+          "Sand",
+          "Sea"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Blush.jpg?v=1766151096",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Float_Blush.jpg?v=1766151096",
+        "width": 1200,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Flat_Blush.jpg?v=1744820046",
+        "width": 1200,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Charcoal.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Float_Charcoal.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Flat_Charcoal.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Sage.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Float_Sage.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Flat_Sage.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Sand.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Float_Sand.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Flat_Sand.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Detail_Sea.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Float_Sea.jpg?v=1766151161",
+        "width": 1200,
+        "height": 1500,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25041_PDP_Flat_Sea.jpg?v=1744820046",
+        "width": 1200,
+        "height": 1500,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9246_BLCHARCOAL.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9246_BLUSH.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9246_SAGE.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9246_SAND.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9246_SEA.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9257_BLCHARCOAL.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9257_BLUSH.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9257_SAGE.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9257_SAND.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9257_SEA.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9269_BLCHARCOAL.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9269_BLUSH.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9269_SAGE.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9269_SAND.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A9269_SEA.jpg?v=1759442240",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_blush_0133_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_blush_9541_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_charcoal_0133_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_charcoal_9541_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sage_0133_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sage_9541_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sand_0133_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sand_9541_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sea_0133_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/TheMatScrunchie_sea_9541_webres.jpg?v=1759442240",
+        "width": 1365,
+        "height": 2048,
+        "position": 40
+      }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sage",
+      "Sand",
+      "Sea"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Play Mat Towel",
+    "slug": "bala-the-play-mat-towel",
+    "description": "Round out your practice with The Play Mat Towel, designed to take on your sweatiest of practices. Made in an absorbent fabric with a gripped underside to prevent slipping, it’s perfect for yoga, pilates, and heated room exercises.\nAfter all, good things come to those who sweat.",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7382292758663,
+    "shopifyHandle": "the-play-mat-towel",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "Bala",
+      "blush",
+      "charcoal",
+      "flex-hsa",
+      "floor",
+      "flow",
+      "mat",
+      "recovery",
+      "sage",
+      "sand",
+      "sculpt",
+      "sea",
+      "sweat",
+      "unwind",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2023-03-14T15:00:01-07:00",
+    "shopifyPublishedAt": "2023-03-14T15:00:01-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 5,
+    "minPrice": 65,
+    "maxPrice": 65,
+    "priceCurrency": "USD",
+    "minGrams": 454,
+    "maxGrams": 454,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Sage",
+          "Sea",
+          "Blush",
+          "Sand",
+          "Charcoal"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Charcoal_01.jpg?v=1678914056",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Charcoal_03.jpg?v=1678914056",
+        "width": 2400,
+        "height": 3000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Charcoal_02.jpg?v=1678914056",
+        "width": 2400,
+        "height": 3000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Charcoal_04.jpg?v=1678914056",
+        "width": 2400,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Blush_01.jpg?v=1678927680",
+        "width": 2400,
+        "height": 3000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Group1153.jpg?v=1678927680",
+        "width": 2400,
+        "height": 3000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Blush_03.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Blush_02.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Blush_04.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sand_01.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sand_03.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sand_02.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sand_04.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sea_01.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sea_03.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sea_02.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sea_04.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sage_01.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sage_03.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sage_02.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/products/Playmattowel_Sage_04.jpg?v=1678927677",
+        "width": 2400,
+        "height": 3000,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0049_BLUSH.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0049_CHARCOAL.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0049_SAGE.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0049_SAND.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0049_SEA.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0075_BLUSH.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0075_CHARCOAL.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0075_SAGE.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0075_SAND.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0075_SEA.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0096_BLUSH.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0096_CHARCOAL.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0096_SAGE.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0096_SAND.jpg?v=1759443165",
+        "width": 2000,
+        "height": 2998,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0096_SEA.jpg?v=1759443166",
+        "width": 2000,
+        "height": 2998,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_blush_0963_webres_a0408e76-048d-48b6-baa7-d63789631201.jpg?v=1759443166",
+        "width": 1365,
+        "height": 2048,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_charcoal_0963_webres_57bcf397-138a-4a6d-954f-85336db42725.jpg?v=1759443166",
+        "width": 1365,
+        "height": 2048,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sage_0963_webres_4bb72765-45cc-4833-a954-1f0ecc8497ee.jpg?v=1759443165",
+        "width": 1365,
+        "height": 2048,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sand_0963_webres_f98d048d-a3b0-4cdd-9398-4541069723b3.jpg?v=1759443165",
+        "width": 1365,
+        "height": 2048,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sea_0963_webres_b85b09e9-cb73-42a7-958b-dc60e54aa8c9.jpg?v=1759443166",
+        "width": 1365,
+        "height": 2048,
+        "position": 41
+      }
+    ],
+    "availableColors": [
+      "Sage",
+      "Sea",
+      "Blush",
+      "Sand",
+      "Charcoal"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Capsule Mat Towel",
+    "slug": "bala-capsule-mat-towel",
+    "description": "The Capsule Mat Towel is designed to work as hard as you do. Made from a soft, absorbent fabric with silicone nubs to prevent slipping, The Capsule Mat Towel is ideal for yoga, pilates, and heated sessions. \nGet ready to get sweaty!",
+    "features": [],
+    "shopifyId": 8065107263623,
+    "shopifyHandle": "capsule-mat-towel",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-04-07T09:18:24-07:00",
+    "shopifyPublishedAt": "2025-06-11T14:46:44-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 6,
+    "minPrice": 65,
+    "maxPrice": 65,
+    "priceCurrency": "USD",
+    "minGrams": 454,
+    "maxGrams": 454,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Blush",
+          "Charcoal",
+          "Sand",
+          "Sage",
+          "Sea",
+          "Heather"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_ce9d4c0b-4a52-46e1-9794-742c69e4a470.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BLUSH_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CHARCOAL_7ed5eec4-5d21-40d5-ba97-ad9b18a604f6.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CHARCOAL_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CHARCOAL_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/CHARCOAL_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/HEATHER_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/HEATHER_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/HEATHER.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/HEATHER_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAGE_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAGE_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAGE_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAGE_622446d1-13ba-4043-a48f-acdfba3a7c35.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAND_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAND_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAND_59b03465-44af-4279-9f4d-9c80bc22aa08.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SAND_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SEA_020846ca-9be1-4dc4-9c0d-d61acecf1562.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SEA_3.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SEA_1.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/SEA_2.jpg?v=1749484826",
+        "width": 1200,
+        "height": 1500,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0774_BLUSH.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0774_CHARCOAL.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0774_SAGE.jpg?v=1759436594",
+        "width": 2000,
+        "height": 2998,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0774_SAND.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0774_SEA.jpg?v=1759436594",
+        "width": 2000,
+        "height": 2998,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0790_BLCHARCOAL.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0790_BLUSH.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0790_SAGE.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0790_SAND.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0790_SEA.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0803_BLUSH.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0803_CHARCOAL.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0803_SAGE.jpg?v=1759436595",
+        "width": 2000,
+        "height": 2998,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0803_SAND.jpg?v=1759436594",
+        "width": 2000,
+        "height": 2998,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/037A0803_SEA.jpg?v=1759436594",
+        "width": 2000,
+        "height": 2998,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_blush_0963_webres.jpg?v=1759436595",
+        "width": 1365,
+        "height": 2048,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_charcoal_0963_webres.jpg?v=1759436594",
+        "width": 1365,
+        "height": 2048,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sage_0963_webres.jpg?v=1759436595",
+        "width": 1365,
+        "height": 2048,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sand_0963_webres.jpg?v=1759436595",
+        "width": 1365,
+        "height": 2048,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/PlayMatTowel_sea_0963_webres.jpg?v=1759436595",
+        "width": 1365,
+        "height": 2048,
+        "position": 44
+      }
+    ],
+    "availableColors": [
+      "Blush",
+      "Charcoal",
+      "Sand",
+      "Sage",
+      "Sea",
+      "Heather"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Scrunchie Kit",
+    "slug": "bala-the-scrunchie-kit",
+    "description": "Your Play Mat and your Play Mat's best friend—our new Mat Scrunchie.\nChoose your colors:\n\n1x Play Mat\n1x Mat Scrunchie",
+    "features": [],
+    "shopifyId": 8033474052231,
+    "shopifyHandle": "the-scrunchie-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-02-10T08:29:04-08:00",
+    "shopifyPublishedAt": "2025-05-14T09:35:32-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 111.6,
+    "maxPrice": 111.6,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25033_01_TheScrunchieKit.jpg?v=1739204883",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Wavy Scrunchie Kit",
+    "slug": "bala-the-wavy-scrunchie-kit",
+    "description": "Make waves with these two Bala exclusives, thoughtfully designed to be both functional and really, really cute.\nChoose your colors:\n\n1x Wavy Mat\n1x Mat Scrunchie",
+    "features": [],
+    "shopifyId": 8033474183303,
+    "shopifyHandle": "the-wavy-scrunchie-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-02-10T08:30:43-08:00",
+    "shopifyPublishedAt": "2025-05-14T09:35:08-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 138.6,
+    "maxPrice": 138.6,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25033_02_TheWavyScrunchieKit.jpg?v=1739204997",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Perfect (Mat)ch Kit",
+    "slug": "bala-the-perfect-match-kit",
+    "description": "They really were made for each other. Use them together in your sweatiest practice for the ultimate comfort and grip.\n\nChoose your colors:\n\n1x Play Mat\n1x Play Mat Towel",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 7865801080967,
+    "shopifyHandle": "the-perfect-match-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-08-01T10:56:56-07:00",
+    "shopifyPublishedAt": "2024-08-21T06:30:29-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 147.6,
+    "maxPrice": 147.6,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24160_PDP_Play-Mat-Play-Mat-Towel-Kit-0801.jpg?v=1722867563",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "The Resistance Kit",
+    "slug": "bala-the-resistance-kit",
+    "description": "Push your limits with The Resistance Kit. For any and every kind of movement. \n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x set of Bala Bands\n1x Play Mat",
+    "features": [],
+    "shopifyId": 7408196288647,
+    "shopifyHandle": "the-resistance-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "blush",
+      "charcoal",
+      "exclude_rebuy",
+      "flex-hsa",
+      "floor",
+      "flow",
+      "kits",
+      "mat",
+      "sage",
+      "sand",
+      "sculpt",
+      "sea",
+      "sweat",
+      "wrist weights",
+      "yoga",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2023-07-09T13:57:37-07:00",
+    "shopifyPublishedAt": "2025-01-08T10:40:18-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 179.1,
+    "maxPrice": 179.1,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/0525SMS375x500.png?v=1688936281",
+        "width": 1600,
+        "height": 2000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Yogi Kit",
+    "slug": "bala-yogi-kit",
+    "description": "Create a sacred space at home, or bring these yoga must-haves to your favorite studio. \n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x set of Bala Balance Blocks\n1x Play Mat\n1x Play Mat Towel",
+    "features": [],
+    "shopifyId": 7651226747015,
+    "shopifyHandle": "yogi-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-04-11T06:11:32-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:25:33-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 209.7,
+    "maxPrice": 209.7,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Yogi-Kit_PDP.jpg?v=1712864435",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Power Kit",
+    "slug": "bala-power-kit",
+    "description": "Everything you need to feel strong and powerful, both inside and out.  \n\n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x Power Ring\n1x Play Mat Plus",
+    "features": [],
+    "shopifyId": 7651230154887,
+    "shopifyHandle": "power-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-04-11T06:14:18-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:24:25-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 209.7,
+    "maxPrice": 209.7,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Sculpt-_-Slide-Kit_PDP.jpg?v=1712864532",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Sculpt & Slide Kit",
+    "slug": "bala-sculpt-slide-kit",
+    "description": "Upgrade your gym with everything you need to sculpt and slide your way through a better workout.\nChoose your colors and weights:\n\n\n\n1x set of Bala Bangles \n1x set of Capsule Sliders\n1x Wavy Mat\n1x Building Block",
+    "features": [],
+    "shopifyId": 7651233464455,
+    "shopifyHandle": "sculpt-slide-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-04-11T06:16:23-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:34:28-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210.6,
+    "maxPrice": 210.6,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24075_Homepage_Power-Kit_PDP_62f568c1-95eb-489a-ab9c-db688723b106.jpg?v=1712864653",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Mom and Me Kit",
+    "slug": "bala-mom-and-me-kit",
+    "description": "One for her, one for you- two sets of Bala essentials for boosting endorphins together.\n\n\nChoose your colors and weights:\n\n\n2x set of Bala Bangles \n2x Wavy Mats\n2x The High Socks",
+    "features": [],
+    "shopifyId": 7673534840967,
+    "shopifyHandle": "mom-and-me-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-04-17T12:25:33-07:00",
+    "shopifyPublishedAt": "2024-04-18T11:59:31-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 376.2,
+    "maxPrice": 376.2,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24081_Homepage_PDP-Mom-and-Me-Kit.jpg?v=1713453894",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Mighty Mama Kit",
+    "slug": "bala-mighty-mama-kit",
+    "description": "Level up her home gym with three strength training staples, plus the cutest new mat on the market. \n\n\nChoose your colors and weights:\n\n\n1x set of Bala Bangles \n1x Wavy Mats\n1x set of Bala Bars\n1x set of Bala Bands",
+    "features": [],
+    "shopifyId": 7673538248839,
+    "shopifyHandle": "mighty-mama-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-04-17T12:27:47-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:33:48-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 250.2,
+    "maxPrice": 250.2,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24081_Homepage_PDP-Mighty-Mama-Kit.jpg?v=1713455137",
+        "width": 2400,
+        "height": 3000,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Grounded Strength Kit",
+    "slug": "bala-grounded-strength-kit",
+    "description": "Two Bala best-sellers, one amazing kit (and workout).Choose your colors and weights:\n\n1x Play Mat\n1x Bala Beam",
+    "features": [],
+    "shopifyId": 7920995860615,
+    "shopifyHandle": "grounded-strength-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-10-29T15:27:58-07:00",
+    "shopifyPublishedAt": "2024-11-12T11:03:52-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 196.2,
+    "maxPrice": 196.2,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_GroundedStrengthKit.jpg?v=1731437224",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Power Flow Kit",
+    "slug": "bala-power-flow-kit",
+    "description": "No shortage of curves in this bundle. Our newest mat and our most versatile 10 LB weight.Choose your colors and weights:\n\n1x Power Ring\n1x Wavy Mat",
+    "weight": {
+      "value": 4.535929094356398,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "10 LB"
+    },
+    "features": [],
+    "shopifyId": 7920997105799,
+    "shopifyHandle": "power-flow-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-10-29T15:30:29-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:27:03-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 169.2,
+    "maxPrice": 169.2,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_PowerFlowKit.jpg?v=1731437265",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Powerhouse Performance Kit",
+    "slug": "bala-powerhouse-performance-kit",
+    "description": "Bala's strength training faves, paired with a mat that'll inspire you to move.Choose your colors and weights:\n\n1x Power Ring\n1x Play Mat\n1x Bala Beam",
+    "features": [],
+    "shopifyId": 7920997990535,
+    "shopifyHandle": "powerhouse-performance-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "exclude_rebuy",
+      "flex-hsa",
+      "kits",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2024-10-29T15:32:18-07:00",
+    "shopifyPublishedAt": "2025-02-21T10:27:16-08:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 276.3,
+    "maxPrice": 276.3,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL24223_Powerhouse_Performance_Kit.jpg?v=1731437405",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "bala",
+    "name": "Bala Mama Strength Kit",
+    "slug": "bala-bala-mama-strength-kit",
+    "description": "Mama, you're already stronger than ever. Here's what you need to ease back into movement while building balance and flexibility.",
+    "features": [],
+    "shopifyId": 8083141886087,
+    "shopifyHandle": "bala-mama-strength-kit",
+    "shopifyVendor": "Bala",
+    "shopifyProductType": "Kits",
+    "shopifyTags": [
+      "collab",
+      "exclude_rebuy",
+      "flex-hsa",
+      "mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-05-01T11:21:41-07:00",
+    "shopifyPublishedAt": "2025-05-14T09:38:41-07:00",
+    "shopifyUpdatedAt": "2026-01-11T07:11:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 206.1,
+    "maxPrice": 206.1,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0007/8151/6860/files/BL25088_02_BalaMamaStrengthKit.jpg?v=1746123633",
+        "width": 1200,
+        "height": 1500,
+        "position": 1
+      }
+    ]
+  }
+]
