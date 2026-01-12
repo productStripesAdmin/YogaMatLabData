@@ -48,6 +48,10 @@ npm run pipeline
 
 See [CLAUDE.md](./CLAUDE.md) for detailed architecture and implementation notes.
 
+### Dimensions & Options
+
+Dimension parsing (including round mat `diameter` and canonical `dimensionOptions`) is documented in `docs/DIMENSIONS.md`.
+
 ### Data Flow
 ```
 Convex brands → Extract → Normalize → Aggregate → Detect Changes

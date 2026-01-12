@@ -210,7 +210,7 @@
       "name": "The Play Mat",
       "brandSlug": "bala",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, width: undefined\" → [object Object]\""
     },
     {
       "slug": "bala-wavy-mat",
@@ -1211,7 +1211,7 @@
       "name": "Mountain Lion Cork Yoga Mat | 3.5MM OR 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "scoria-blossom-cork-yoga-mat",
@@ -1239,7 +1239,7 @@
       "name": "Standard Essential Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "scoria-flying-dragon-cork-yoga-mat-4-5mm",
@@ -1351,7 +1351,7 @@
       "name": "Travel Artist Cork Yoga Mat | 2MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "scoria-x-wide-essential-cork-yoga-mat-4-5mm",
@@ -1638,7 +1638,7 @@
       "name": "Recycled Suede Yoga Mat - Kundalini",
       "brandSlug": "shaktiwarrior",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: undefined\" → [object Object]\""
     },
     {
       "slug": "shaktiwarrior-samskara",

@@ -535,7 +535,7 @@ Is brands.isShopify being used? I would prefer to use brands.platform = shopify 
 
 It's not obvious which units are associated with the lenght, width, thickness, weight measurements that are extracted from text. Can you please save the units and original text, perhaps in an array: value, unit, originalText? 
 
-## Prompt 20 - Codex - 
+## Prompt 20 - Codex - DONE
 
 For some reasons, the following shopifyOptions are being saved as availableColors whereas it should be saved as availableThickness. Can you please check this. Ty!
 
@@ -546,3 +546,405 @@ For some reasons, the following shopifyOptions are being saved as availableColor
     values: ["5MM", "8MM"],
   },
 ]
+
+## Prompt 21 - Mat Dimensions (Lenght x Width x Thickness)
+
+As things stand, the products table has the following dimension fields extracted from text (name, description, etc.). These can be considered estimates or best guesses:
+
+- thickness: v.optional(v.number()), // in mm
+- length: v.optional(v.number()), // in cm
+- width: v.optional(v.number()), // in cm
+
+In addition, the shopifyOptions fields stores information like:
+
+```json
+"options": [
+  {
+    "name": "Color",
+    "position": 1,
+    "values": [
+      "Black"
+    ]
+  },
+  {
+    "name": "Size",
+    "position": 2,
+    "values": [
+      "One Size"
+    ]
+  }
+]
+```
+
+```json
+"options": [
+  {
+    "name": "Size", // Thickness in this case
+    "position": 1,
+    "values": [
+      "5 MM",
+      "8 MM"
+    ]
+  },
+  {
+    "name": "Color",
+    "position": 2,
+    "values": [
+      "Charcoal",
+      "Blush",
+      "Sea",
+      "Sand",
+      "Sage",
+      "Charcoal RL"
+    ]
+  }
+]
+```
+
+```json
+"options": [
+  {
+    "name": "Size", // Length in this case
+    "position": 1,
+    "values": [
+      "68\" Length",
+      "74\" Length"
+    ]
+  },
+  {
+    "name": "Color",
+    "position": 2,
+    "values": [
+      "Purple",
+      "Black",
+      "Tibetan Orange",
+      "Teal",
+      "Midnight Blue",
+      "Olive",
+      "Raspberry",
+      "Pink",
+      "Slate Blue",
+      "Jade Green",
+      "Saffron",
+      "Sky Blue",
+      "Sky Blue/Saffron for Ukraine",
+      "Moe-gi Green"
+    ]
+  }
+]
+```
+
+```json
+"options": [
+  {
+    "name": "Thick", // Thickness in this case
+    "position": 1,
+    "values": [
+      "7mm/0.3in",
+      "9mm/0.4in",
+      "12mm/0.5in"
+    ]
+  },
+  {
+    "name": "Color",
+    "position": 2,
+    "values": [
+      "Smoky Gray Pink",
+      "Light Water Blue",
+      "Light Grass Green"
+    ]
+  }
+]
+
+```
+
+```json
+"options": [
+  {
+    "name": "Size", // Text in this case!
+    "position": 1,
+    "values": [
+      "LYM" // Liforme yoga mat 185 cm (72.8 inches) long and 68 cm (26.8 inches) wide, which is longer and wider than average mats. It has a thickness of approximately 4.2 mm. 
+    ]
+  },
+  {
+    "name": "Colour",
+    "position": 2,
+    "values": [
+      "Grey",
+      "Purple",
+      "Orange",
+      "Yellow",
+      "Blue",
+      "Pink",
+      "White",
+      "Dusk",
+      "Olive",
+      "Black",
+      "Red",
+      "Maroon",
+      "Sand",
+      "Terracotta",
+      "Aqua",
+      "Forest"
+    ]
+  },
+  {
+    "name": "Customisation Level",
+    "position": 3,
+    "values": [
+      "3 Lines",
+      "5 Lines",
+      "7 Lines"
+    ]
+  }
+]
+
+```
+
+```json
+"options": [
+  {
+    "name": "Color",
+    "position": 1,
+    "values": [
+      "Elderberry",
+      "Black Sage (Green)",
+      "Black",
+      "Black Magic (Purple)",
+      "Black Thunder",
+      "Odyssey (Blue)",
+      "Earth",
+      "Midnight",
+      "Verve (Red)",
+      "Birch",
+      "Linen Birch Limited Edition",
+      "Harvest",
+      "Rooibos",
+      "Moon",
+      "Midnight Limited Edition",
+      "Indulge Limited Edition",
+      "Deep Verve",
+      "Sand"
+    ]
+  },
+  {
+    "name": "Size", // Length in this case
+    "position": 2,
+    "values": [
+      "Standard 71\" (180cm)",
+      "Short 68\" (173cm)",
+      "Long 85\" (215cm)"
+    ]
+  }
+]
+
+```
+
+```json
+"options": [
+  {
+    "name": "Select Mat Size", // Length in this case, in feet!
+    "position": 1,
+    "values": [
+      "Size 6' x 4'", // 6 Feet x 4 Feet
+      "Size 7' x 5'",
+      "Size 9' x 6'"
+    ]
+  }
+]
+
+```
+
+```json
+"options": [
+  {
+    "name": "Size",
+    "position": 1,
+    "values": [
+      "72\" x 26\"",
+      "80\" x 26\"",
+      "84\" X 30\""
+    ]
+  }
+]
+```
+
+As you can see, there's duplication of fields. How do you suggest I handle these fields. Priority should be given to the shopifyOptions field data. And it's important that I capture all options available.
+
+Should I continue to save the information as above? And use the "estimates" as a fallback if there shopifyOptions are not available? Or to just sense check that the data makes sense?
+
+## Prompt 21 - Mat Weight
+
+As things stand, the products table has the following weight field extracted from text (name, description, etc.). This can be considered an estimate or best guess:
+
+- weight: v.optional(v.number()), // in kg
+
+In addition, the following fields are extracted from variants information:
+
+- minGrams (=== minWeight)
+- maxGrams (=== maxWeight)
+
+In addition to or instead of minGrams, maxGrams, I think all shopify variant grams values should be saved. Do you agree with this?
+
+## Prompt 21 - Mat Dimensions (take 2)
+
+There are a number of other "dimension" fields that I forgot to mention. Are these still needed given dimensionOptions?
+
+```json
+availableSizes: v.optional(
+  v.array(
+    v.object({
+      length: v.number(),
+      width: v.number(),
+      unit: v.string(), // always "cm"
+      originalString: v.string(),
+    })
+  )
+),
+
+availableLengths: v.optional(
+  v.array(
+    v.object({
+      value: v.number(),
+      unit: v.string(), // always "cm"
+      originalString: v.string(),
+    })
+  )
+),
+
+availableThicknesses: v.optional(
+  v.array(
+    v.object({
+      value: v.number(),
+      unit: v.string(), // always "mm"
+      originalString: v.string(),
+    })
+  )
+),
+```
+
+## Prompt 22 - Circular Mats - DONE
+
+Some mats are circular. For those, I need to add a new dimension = diameter. And an feature flag = circular or round. Here's an example mat:
+
+```json
+{
+  "id": 7396274307115,
+  "title": "Blue Petals Round Cork Yoga Mat | Multi-use | 53\" dia",
+  "handle": "blue-petals-round-yoga-mat-multi-use-53-dia",
+  "body_html": "<h5>THE ROUND COLLECTION</h5>\n<p data-end=\"388\" data-start=\"120\"><strong data-end=\"146\" data-start=\"120\">Create your sanctuary.</strong> The <strong data-end=\"176\" data-start=\"151\">Zen Spaces Collection</strong> brings functional beauty to home practice corners, stretching nooks, or cozy meditation areas. Each round mat is designed to feel like a natural extension of your space—non-toxic, calming, and artfully grounded.</p>\n<p data-end=\"579\" data-start=\"390\">Our <strong>Blue Petals</strong> design feature bright blues forming a striking floral mandala that sparks clarity and balance. A statement piece for your home space, meditation space or corner.</p>\n<h5 style=\"text-align: left;\">Features</h5>\n<ul style=\"text-align: left;\">\n<li>Round and Circular yoga, stretch or home mat</li>\n<li>100% natural cork &amp; natural tree rubber</li>\n<li>Even though it is large for travel, it still includes a free cotton <a href=\"/collections/yoga-movement-props/products/mat-carry-strap-stay-weird-be-kind\" rel=\"noopener\" target=\"_blank\">mat carry strap</a>\n</li>\n<li>Backed by natural tree rubber (unlike other mats with synthetic TPE/PVC)</li>\n<li>ultra-grip activated with sweat<meta charset=\"utf-8\"> <br>\n</li>\n<li>naturally anti-microbial cork surface eliminating odor</li>\n<li>sustainably harvested<br>\n</li>\n<li>for a non-toxic home or practice<br>\n</li>\n<li>\n<meta charset=\"utf-8\">For meditation, it's perfect under our meditation cushions or Zabutons.</li>\n<li>Every purchase gives, scroll down to read more.</li>\n<li>Backed by a 1 Year Limited Warranty ~ find details<span> </span><a title=\"Scoria Cork Yoga Mats from Toronto Warranty for a year\" href=\"/pages/warranty-policy\" rel=\"noopener\" target=\"_blank\">here</a>\n</li>\n</ul>\n<h5 style=\"text-align: left;\">Specs</h5>\n<ul style=\"text-align: left;\">\n<li>\n<meta charset=\"utf-8\"> <span color=\"#444444\">53\" circle</span><span color=\"#444444\"> | approx. 4</span><span color=\"#444444\"> kg</span>\n</li>\n<li><span color=\"#444444\">thickness: 4.5mm (studio)</span></li>\n<li><span color=\"#444444\">plastic free packaging</span></li>\n<li><span color=\"#444444\">100% natural cork</span></li>\n<li><span color=\"#444444\">Backed by FSC natural rubber</span></li>\n</ul>\n<p style=\"text-align: left;\"><em>Possible allergens; natural rubber latex.</em><span></span></p>\n<h5 style=\"text-align: left;\">Clean &amp; Care</h5>\n<p style=\"text-align: left;\"><meta charset=\"utf-8\">Always roll cork side out<br data-end=\"2288\" data-start=\"2285\">Store in shade when not in use<br data-end=\"2323\" data-start=\"2320\">Antimicrobial cork surface requires minimal cleaning<br data-end=\"2380\" data-start=\"2377\">Wipe with soft cloth, mild soap, and water as needed</p>\n<p style=\"text-align: left;\"><em>Please note: due to the difference of digital screens, colours may differ slightly.</em></p>\n<h5 style=\"text-align: left;\">Yogis Featured</h5>\n<p style=\"text-align: left;\"><meta charset=\"utf-8\"><em>N/A</em></p>",
+  "published_at": "2025-08-24T14:47:52-04:00",
+  "created_at": "2025-06-12T15:39:02-04:00",
+  "updated_at": "2026-01-10T08:25:25-05:00",
+  "vendor": "Scoria",
+  "product_type": "",
+  "tags": [
+    "4.5mm",
+    "adults",
+    "art_creative",
+    "Artist Collection",
+    "round mat",
+    "sale",
+    "yoga mat"
+  ],
+  "variants": [
+    {
+      "id": 41782576840747,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "CiM-BL25-135",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "price": "129.00",
+      "grams": 6000,
+      "compare_at_price": "134.00",
+      "position": 1,
+      "product_id": 7396274307115,
+      "created_at": "2025-06-12T15:39:02-04:00",
+      "updated_at": "2026-01-10T08:25:25-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 35948522209323,
+      "created_at": "2025-10-30T18:54:32-04:00",
+      "position": 1,
+      "updated_at": "2025-10-30T18:54:34-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Blue-Petals-Lotus-Flower-Round-Circle-Yoga-Mat-Cork-Yoga-Meditation-All-Natural-Mat-Best-Canada-USA-Sustainable-Non-toxic-yoga-mats-zen-corner-natural-rug_495444f9-bd8f-4f2d-847a-766a.jpg?v=1761864874",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": 35948522274859,
+      "created_at": "2025-10-30T18:54:34-04:00",
+      "position": 2,
+      "updated_at": "2025-10-30T18:54:36-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Blue-Petals-Lotus-Flower-Half-Roll-Round-Circle-Yoga-Mat-Cork-Yoga-Meditation-All-Natural-Mat-Best-Canada-USA-Sustainable-Non-toxic-yoga-mats-zen-corner-natural-rug_bb916407-ade7-4d73.jpg?v=1761864876",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": 35948522307627,
+      "created_at": "2025-10-30T18:54:36-04:00",
+      "position": 3,
+      "updated_at": "2025-10-30T18:54:37-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Blue-Petals-Lotus-Flower-Roll-Round-Circle-Yoga-Mat-Cork-Yoga-Meditation-All-Natural-Mat-Best-Canada-USA-Sustainable-Non-toxic-yoga-mats-zen-corner-natural-rug_ce9a64a2-5433-4526-b7b5.jpg?v=1761864877",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": 35948683460651,
+      "created_at": "2025-10-30T21:04:26-04:00",
+      "position": 4,
+      "updated_at": "2025-10-30T21:06:39-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Web-Blue-6-Petals-Circle-Round-Cork--Stretch-Yoga-Mat-Sustainable-Natural-Eco-Friendly-Non-Toxic-best-canada-USA-carpet-yoga-pilates-workout.jpg?v=1761872799",
+      "width": 1400,
+      "height": 1650
+    },
+    {
+      "id": 35948683427883,
+      "created_at": "2025-10-30T21:04:26-04:00",
+      "position": 5,
+      "updated_at": "2025-10-30T21:06:39-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Web-Blue-5-Petals-Circle-Round-Cork--Stretch-Yoga-Mat-Sustainable-Natural-Eco-Friendly-Non-Toxic-best-canada-USA-carpet-yoga-pilates-workout.jpg?v=1761872799",
+      "width": 1400,
+      "height": 1650
+    },
+    {
+      "id": 35948683526187,
+      "created_at": "2025-10-30T21:04:52-04:00",
+      "position": 6,
+      "updated_at": "2025-10-30T21:06:39-04:00",
+      "product_id": 7396274307115,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/1371/3197/files/Web-Blue-9-Petals-Circle-Round-Cork--Stretch-Yoga-Mat-Sustainable-Natural-Eco-Friendly-Non-Toxic-best-canada-USA-carpet-yoga-pilates-workout.jpg?v=1761872799",
+      "width": 1400,
+      "height": 1650
+    },
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ]
+},
+```
