@@ -11,16 +11,42 @@ interface NormalizationSummary {
   totalProducts: number;
   validProducts: number;
   invalidProducts: number;
+  discardedProducts: number;
   brands: Array<{
     brandSlug: string;
     totalProducts: number;
     validProducts: number;
     invalidProducts: number;
+    discardedProducts: number;
+    discardedProductTypes: Array<{ productType: string; count: number }>;
     errors: Array<{
       productName: string;
       errors: string[];
     }>;
   }>;
+}
+
+function includesMatHint(text: string): boolean {
+  const normalized = text.toLowerCase();
+  if (/\bmat(s)?\b/i.test(normalized)) return true;
+  // Also match "yogamat" without whitespace (rare but seen in some systems).
+  const compact = normalized.replace(/\s+/g, '');
+  return /\byogamat(s)?\b/i.test(compact);
+}
+
+function shouldDiscardByProductType(params: { productType: string; title: string; tags: string[] }): boolean {
+  const productType = params.productType.trim();
+  if (!productType) return false; // Empty types are ambiguous; keep.
+
+  // Priority: if product_type itself suggests "mat", keep.
+  if (includesMatHint(productType)) return false;
+
+  // Fallback: some stores use bespoke product_type values (e.g. "Harmony") for mats.
+  // If title/tags still clearly indicate mats, keep.
+  if (includesMatHint(params.title)) return false;
+  if (includesMatHint(params.tags.join(' '))) return false;
+
+  return true;
 }
 
 async function ensureNormalizedDirectory(date: string) {
@@ -49,6 +75,8 @@ async function normalizeBrand(
   products: NormalizedYogaMat[];
   validProducts: number;
   invalidProducts: number;
+  discardedProducts: number;
+  discardedProductTypes: Array<{ productType: string; count: number }>;
   errors: Array<{ productName: string; errors: string[] }>;
 }> {
   logger.info(`Processing brand: ${brandSlug}`);
@@ -88,8 +116,21 @@ async function normalizeBrand(
   const errors: Array<{ productName: string; errors: string[] }> = [];
   let validCount = 0;
   let invalidCount = 0;
+  let discardedCount = 0;
+  const discardedTypeCounts = new Map<string, number>();
 
   for (const shopifyProduct of shopifyData.products) {
+    if (shouldDiscardByProductType({
+      productType: shopifyProduct.product_type ?? '',
+      title: shopifyProduct.title ?? '',
+      tags: Array.isArray(shopifyProduct.tags) ? shopifyProduct.tags : [],
+    })) {
+      discardedCount++;
+      const type = (shopifyProduct.product_type ?? '').trim();
+      discardedTypeCounts.set(type, (discardedTypeCounts.get(type) ?? 0) + 1);
+      continue;
+    }
+
     try {
       // Map to normalized format
       const enrichment = coreFeaturesIndex?.get(shopifyProduct.handle);
@@ -131,12 +172,19 @@ async function normalizeBrand(
   if (invalidCount > 0) {
     logger.warn(`  Skipped ${invalidCount} invalid products`);
   }
+  if (discardedCount > 0) {
+    logger.warn(`  Discarded ${discardedCount} product(s) by product_type filter`);
+  }
 
   return {
     brandSlug,
     products: normalizedProducts,
     validProducts: validCount,
     invalidProducts: invalidCount,
+    discardedProducts: discardedCount,
+    discardedProductTypes: Array.from(discardedTypeCounts.entries())
+      .map(([productType, count]) => ({ productType, count }))
+      .sort((a, b) => b.count - a.count || a.productType.localeCompare(b.productType)),
     errors,
   };
 }
@@ -168,6 +216,8 @@ async function generateSummary(
     brandSlug: string;
     validProducts: number;
     invalidProducts: number;
+    discardedProducts: number;
+    discardedProductTypes: Array<{ productType: string; count: number }>;
     products: NormalizedYogaMat[];
     errors: Array<{ productName: string; errors: string[] }>;
   }>
@@ -175,14 +225,17 @@ async function generateSummary(
   const summary: NormalizationSummary = {
     date,
     totalBrands: results.length,
-    totalProducts: results.reduce((sum, r) => sum + r.validProducts + r.invalidProducts, 0),
+    totalProducts: results.reduce((sum, r) => sum + r.validProducts + r.invalidProducts + r.discardedProducts, 0),
     validProducts: results.reduce((sum, r) => sum + r.validProducts, 0),
     invalidProducts: results.reduce((sum, r) => sum + r.invalidProducts, 0),
+    discardedProducts: results.reduce((sum, r) => sum + r.discardedProducts, 0),
     brands: results.map(r => ({
       brandSlug: r.brandSlug,
-      totalProducts: r.validProducts + r.invalidProducts,
+      totalProducts: r.validProducts + r.invalidProducts + r.discardedProducts,
       validProducts: r.validProducts,
       invalidProducts: r.invalidProducts,
+      discardedProducts: r.discardedProducts,
+      discardedProductTypes: r.discardedProductTypes,
       errors: r.errors,
     })),
   };
@@ -250,6 +303,9 @@ async function main() {
   logger.success(`Total brands: ${summary.totalBrands}`);
   logger.success(`Total products processed: ${summary.totalProducts}`);
   logger.success(`Valid products: ${summary.validProducts}`);
+  if (summary.discardedProducts > 0) {
+    logger.warn(`Discarded products (product_type filter): ${summary.discardedProducts}`);
+  }
   if (summary.invalidProducts > 0) {
     logger.warn(`Invalid products: ${summary.invalidProducts}`);
   }
@@ -265,6 +321,21 @@ async function main() {
         b.errors.forEach(e => {
           logger.error(`    - ${e.productName}: ${e.errors.join(', ')}`);
         });
+      });
+  }
+
+  if (summary.discardedProducts > 0) {
+    logger.warn('\nBrands with discarded products (product_type filter):');
+    summary.brands
+      .filter(b => b.discardedProducts > 0)
+      .forEach(b => {
+        const topTypes = b.discardedProductTypes.slice(0, 5);
+        const suffix = b.discardedProductTypes.length > 5 ? ` (+${b.discardedProductTypes.length - 5} more types)` : '';
+        logger.warn(`  ${b.brandSlug}: ${b.discardedProducts} discarded`);
+        for (const item of topTypes) {
+          logger.info(`    - ${item.count} × ${item.productType || '(empty)'}`);
+        }
+        if (suffix) logger.info(`    ${suffix}`);
       });
   }
 

@@ -2,6 +2,22 @@
 
 [scripts/normalize-data](/scripts/normalize-data.ts)
 
+## PRODUCT TYPE FILTER
+
+Normalization discards products early (so they never appear in `data/normalized/**` or downstream `data/aggregated/**`) when:
+- `product_type` is non-empty, and does **not** contain `mat`/`mats`, and
+- the product title/tags also do **not** contain `mat`/`mats`.
+
+This is primarily to prevent non-mat catalog items (e.g. apparel like leggings) from entering the dataset even if they appear in a `products.json` feed.
+
+## SHADOW TITLES
+
+Normalization also generates a consistent “shadow title” set for YogaMatLabApp:
+- `titleOriginal` (raw Shopify title)
+- `titleAuto` / `titleAutoConfidence` / `titleAutoVersion` (derived)
+
+See `docs/SHADOW_TITLES.md`.
+
 ## BRANDS
 
 need to store mat slug (ideally from products.json)

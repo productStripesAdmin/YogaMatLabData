@@ -20,7 +20,7 @@ For brands with Cloudflare protection (like Alo Yoga):
 
 ### 2. Save to This Directory
 
-Create a file named `{brand-slug}.json` in this directory:
+Create a file named `{brand-slug}.json` in this directory (recommended). The fetch script also supports a few fallback filename variants (e.g. removing dashes), but matching the Convex `brand.slug` is best.
 
 **Format:**
 ```json
@@ -36,8 +36,9 @@ Create a file named `{brand-slug}.json` in this directory:
 }
 ```
 
-**Example for Alo Yoga:**
-`data/raw/manual/alo-yoga.json`
+**Example for Alo Yoga (Convex slug: `alo-yoga`):**
+- Recommended: `data/raw/manual/alo-yoga.json`
+- Also supported: `data/raw/manual/aloyoga.json`
 
 ### 3. Run the Pipeline
 
@@ -68,5 +69,5 @@ The script will automatically:
 
 - Files in this directory are **version controlled** (checked into git)
 - Update these files periodically to keep data fresh
-- The pipeline will **always try to scrape first** and only use fallback on failure
-- You can set `scrapingEnabled: false` in Convex to skip scraping entirely and always use the fallback
+- The pipeline will use the manual fallback on failure.
+- For consistently blocked brands (like Alo Yoga), the pipeline will **prefer the manual file and skip live fetch** when a manual file is present.

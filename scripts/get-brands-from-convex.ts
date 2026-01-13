@@ -65,6 +65,44 @@ interface ExtractionSummary {
   }>;
 }
 
+function getManualRawFallbackPaths(brandSlug: string): string[] {
+  const slug = (brandSlug ?? '').toLowerCase().trim();
+  if (!slug) return [];
+  const noDashes = slug.replace(/-/g, '');
+  const underscore = slug.replace(/-/g, '_');
+  return Array.from(
+    new Set([
+      path.join(process.cwd(), 'data', 'raw', 'manual', `${slug}.json`),
+      path.join(process.cwd(), 'data', 'raw', 'manual', `${noDashes}.json`),
+      path.join(process.cwd(), 'data', 'raw', 'manual', `${underscore}.json`),
+    ])
+  );
+}
+
+async function loadManualRawFallback(brandSlug: string): Promise<{ products: ShopifyProduct[]; filepath: string } | null> {
+  const candidates = getManualRawFallbackPaths(brandSlug);
+  for (const filepath of candidates) {
+    try {
+      await fs.access(filepath);
+      const parsed = JSON.parse(await fs.readFile(filepath, 'utf-8')) as { products?: ShopifyProduct[] };
+      const products = Array.isArray(parsed.products) ? parsed.products : [];
+      return { products, filepath };
+    } catch {
+      // continue
+    }
+  }
+  return null;
+}
+
+function shouldPreferManualRaw(brand: Brand): boolean {
+  const url = (brand.productsJsonUrl ?? '').toLowerCase();
+  const website = (brand.website ?? '').toLowerCase();
+  // Some brands are consistently blocked (e.g. Alo Yoga products.json behind Cloudflare).
+  if (brand.slug === 'alo-yoga') return true;
+  if (url.includes('aloyoga.com') || website.includes('aloyoga.com')) return true;
+  return false;
+}
+
 async function ensureDataDirectories(date: string) {
   const rawDir = path.join(process.cwd(), 'data', 'raw', date);
   await fs.mkdir(rawDir, { recursive: true });
@@ -96,6 +134,42 @@ async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
     // Default to 'shopify' if platform not specified
     const platform = brand.platform || 'shopify';
     logger.info(`Platform: ${platform}`);
+
+    // Manual-only fast path for consistently blocked brands.
+    if (platform === 'shopify' && shouldPreferManualRaw(brand)) {
+      const fallback = await loadManualRawFallback(brand.slug);
+      if (fallback?.products?.length) {
+        logger.success(`📋 Using manual raw fallback (skipping live fetch): ${path.relative(process.cwd(), fallback.filepath)}`);
+
+        const dataCheck = await checkDataChanged(brand.slug, fallback.products);
+        const dataChanged = dataCheck.changed;
+
+        if (dataChanged) {
+          logger.info(`  ✓ Data changed (${dataCheck.reason})`);
+        } else {
+          logger.info(`  ℹ No changes detected`);
+        }
+
+        await updateHashRecord(
+          brand.slug,
+          fallback.products,
+          fallback.products.length,
+          dataChanged
+        );
+
+        logger.brandComplete(brand.name, fallback.products.length);
+
+        return {
+          brand,
+          products: fallback.products,
+          success: true,
+          totalPages: 1,
+          dataChanged,
+          usedFallback: true,
+          error: undefined,
+        };
+      }
+    }
 
     let allProducts: ShopifyProduct[] = [];
     let totalPages = 0;
@@ -286,12 +360,12 @@ async function saveResults(
 
     if (result.products.length === 0 && !result.success) {
       // Check if there's a manual/fallback file we can use
-      const fallbackPath = path.join(process.cwd(), 'data', 'raw', 'manual', filename);
+      const fallback = await loadManualRawFallback(result.brand.slug);
 
       try {
-        await fs.access(fallbackPath);
+        if (!fallback) throw new Error('No fallback');
         // Fallback file exists, copy it to today's date
-        await fs.copyFile(fallbackPath, filepath);
+        await fs.copyFile(fallback.filepath, filepath);
         logger.success(`📋 Used manual fallback for ${result.brand.slug} (live fetch failed, but fallback available)`);
 
         // Mark this result as successful with fallback
@@ -299,8 +373,7 @@ async function saveResults(
         result.usedFallback = true;
 
         // Load the fallback data to get product count
-        const fallbackData = JSON.parse(await fs.readFile(fallbackPath, 'utf-8'));
-        result.products = fallbackData.products || [];
+        result.products = fallback.products;
 
         continue;
       } catch {

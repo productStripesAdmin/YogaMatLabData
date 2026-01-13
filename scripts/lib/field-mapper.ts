@@ -8,6 +8,12 @@ export interface NormalizedYogaMat {
   name: string;
   slug: string;
 
+  // Shadow titles (standardized display title support)
+  titleOriginal?: string; // Raw title from the pipeline (Shopify)
+  titleAuto?: string; // Auto-normalized title (derived)
+  titleAutoConfidence?: number; // 0..1
+  titleAutoVersion?: string; // e.g., "shadow-title-v1"
+
   // Optional fields with data from Shopify
   description?: string;
 
@@ -227,6 +233,8 @@ function clamp01(value: number): number {
   return value;
 }
 
+const TITLE_AUTO_VERSION = 'shadow-title-v1';
+
 function pushUnique<T>(arr: T[], item: T, keyFn: (item: T) => string): void {
   const key = keyFn(item);
   if (arr.some(existing => keyFn(existing) === key)) return;
@@ -240,6 +248,155 @@ type TextSource = 'title' | 'tags' | 'description';
  */
 export function generateSlug(brandSlug: string, productHandle: string): string {
   return `${brandSlug}-${productHandle}`;
+}
+
+function normalizeTitleKey(value: string): string {
+  return value
+    .toLowerCase()
+    .replace(/[’‘]/g, "'")
+    .replace(/[“”″]/g, '"')
+    .replace(/[^a-z0-9]+/g, '');
+}
+
+function escapeForRegex(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function generateTitleAuto(params: {
+  titleOriginal: string;
+  vendor?: string;
+  availableColors?: string[];
+}): { titleAuto: string; confidence: number } {
+  const original = params.titleOriginal?.trim() ?? '';
+  if (!original) return { titleAuto: '', confidence: 0 };
+
+  let working = original;
+  const edits: string[] = [];
+
+  // Normalize common punctuation for easier matching.
+  working = working
+    .replace(/[–—]/g, '-')
+    .replace(/[“”″]/g, '"')
+    .replace(/[’‘]/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  // Remove common sale markers.
+  working = working.replace(/\(\s*sale\s*\)/ig, '').replace(/\bSALE\b/ig, '').trim();
+
+  // Remove parentheticals that are clearly measurements (e.g., "(6mm)", "(180 cm)", "(3.2 kg)").
+  working = working.replace(/\(([^)]{0,40})\)/g, (match, inner) => {
+    const text = String(inner ?? '');
+    if (/\d/.test(text) && /(mm|cm|kg|\blb\b|\blbs\b|inch|in\.|\bft\b|["″])/i.test(text)) {
+      edits.push('drop-parenthetical-measurement');
+      return ' ';
+    }
+    return match;
+  });
+
+  // Remove explicit dimension/measurement patterns.
+  const measurementPatterns: RegExp[] = [
+    /\b\d+(?:\.\d+)?\s*(?:mm|cm|kg)\b/ig,
+    /\b\d+(?:\.\d+)?\s*(?:lb|lbs|pounds?)\b/ig,
+    /\b\d+(?:\.\d+)?\s*(?:inches?|inch|in\.?|ft\.?|feet|foot)\b/ig,
+    /\b\d+\/\d+\s*(?:inches?|inch|in\.?|["″])/ig,
+    /\b\d+(?:\.\d+)?\s*(?:["″])\b/ig,
+    /\b\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])\s*[xX×]\s*\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?/ig,
+  ];
+
+  for (const pattern of measurementPatterns) {
+    if (pattern.test(working)) edits.push('drop-measurement');
+    working = working.replace(pattern, ' ');
+  }
+
+  // Remove leftover connector words commonly tied to measurements.
+  working = working.replace(/\b(?:thick|thickness)\b/ig, ' ');
+
+  // Remove repeated separators / formatting.
+  working = working
+    .replace(/\s*\|\s*/g, ' - ')
+    .replace(/\s*-\s*/g, ' - ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const vendor = (params.vendor ?? '').trim();
+  const vendorKey = vendor ? normalizeTitleKey(vendor) : '';
+
+  // Remove vendor repeated at the end (e.g., "... - JadeYoga").
+  if (vendor && vendorKey) {
+    const vendorAtEndRe = new RegExp(`\\s*-\\s*${escapeForRegex(vendor)}\\s*$`, 'i');
+    if (vendorAtEndRe.test(working)) {
+      working = working.replace(vendorAtEndRe, '').trim();
+      edits.push('drop-vendor-suffix');
+    }
+  }
+
+  // Remove trailing color/pattern only when it matches parsed availableColors.
+  const availableColors = (params.availableColors ?? [])
+    .map(c => c.replace(/\s+/g, ' ').trim())
+    .filter(Boolean);
+  const colorKeys = new Set(availableColors.map(c => normalizeTitleKey(c)).filter(Boolean));
+
+  if (colorKeys.size > 0) {
+    const suffixParts = working.split(' - ').map(s => s.trim()).filter(Boolean);
+    if (suffixParts.length > 1) {
+      const last = suffixParts[suffixParts.length - 1];
+      if (colorKeys.has(normalizeTitleKey(last))) {
+        suffixParts.pop();
+        working = suffixParts.join(' - ').trim();
+        edits.push('drop-color-suffix');
+      }
+    }
+  }
+
+  // If there are still multiple dash-separated segments, keep the first segment as the primary line name.
+  // (Colors / thickness / collection names tend to be appended after " - " in many stores.)
+  if (working.includes(' - ')) {
+    const parts = working.split(' - ').map(s => s.trim()).filter(Boolean);
+    if (parts.length > 1) {
+      working = parts[0];
+      edits.push('take-first-segment');
+    }
+  }
+
+  // Remove generic "Yoga Mat"/"Mat" suffix if we still have a descriptive line name.
+  const withoutMat = working.replace(/\bYoga\s+Mat(s)?\b/ig, '').replace(/\bMat(s)?\b/ig, '').replace(/\s+/g, ' ').trim();
+  const withoutMatWords = withoutMat.split(' ').filter(Boolean);
+  if (withoutMatWords.length >= 2) {
+    working = withoutMat;
+    edits.push('drop-mat-suffix');
+  }
+
+  // Ensure vendor prefix for consistency ("Manduka PRO", "Liforme Travel", etc.).
+  if (vendor && vendorKey) {
+    const titleKey = normalizeTitleKey(working);
+    if (titleKey && !titleKey.startsWith(vendorKey) && !titleKey.includes(vendorKey)) {
+      working = `${vendor} ${working}`.replace(/\s+/g, ' ').trim();
+      edits.push('prefix-vendor');
+    } else if (titleKey.includes(vendorKey) && !titleKey.startsWith(vendorKey)) {
+      // If vendor appears later in the title, move it to the front and remove later duplicates.
+      const vendorRe = new RegExp(escapeForRegex(vendor), 'ig');
+      working = `${vendor} ${working.replace(vendorRe, ' ')}`.replace(/\s+/g, ' ').trim();
+      edits.push('dedupe-vendor');
+    }
+  }
+
+  // Final cleanup.
+  working = working
+    .replace(/\s*-\s*$/g, '')
+    .replace(/^\s*-\s*/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!working) return { titleAuto: original, confidence: 0.3 };
+
+  // Confidence heuristics.
+  let confidence = 0.55;
+  if (edits.length > 0) confidence += Math.min(0.35, edits.length * 0.05);
+  if (normalizeTitleKey(working) === normalizeTitleKey(original)) confidence = 0.4;
+  if (working.split(' ').filter(Boolean).length <= 1) confidence = Math.min(confidence, 0.45);
+
+  return { titleAuto: working, confidence: clamp01(confidence) };
 }
 
 /**
@@ -1737,6 +1894,12 @@ export function mapShopifyToYogaMat(
   const enrichedColors = brandSlug === 'aloyoga'
     ? extractEnrichedColorsFromSections(enrichment?.productPageSections)
     : undefined;
+  const availableColors = mergeUniqueStrings(optionColors, enrichedColors);
+  const shadowTitle = generateTitleAuto({
+    titleOriginal: product.title,
+    vendor: product.vendor,
+    availableColors,
+  });
   const dimensionQueryFields = deriveDimensionQueryFields({
     thickness,
     length: dimensions.length,
@@ -1752,6 +1915,12 @@ export function mapShopifyToYogaMat(
     brandSlug,
     name: product.title,
     slug: generateSlug(brandSlug, product.handle),
+
+    // Shadow titles
+    titleOriginal: product.title,
+    titleAuto: shadowTitle.titleAuto || undefined,
+    titleAutoConfidence: shadowTitle.titleAuto ? shadowTitle.confidence : undefined,
+    titleAutoVersion: shadowTitle.titleAuto ? TITLE_AUTO_VERSION : undefined,
 
     // Optional
     description: description || undefined,
@@ -1810,7 +1979,7 @@ export function mapShopifyToYogaMat(
     images: mapImages(product),
 
     // Normalized extractions from options
-    availableColors: mergeUniqueStrings(optionColors, enrichedColors),
+    availableColors,
     availableDiameters: extractDiameters(product),
     dimensionOptions,
   };

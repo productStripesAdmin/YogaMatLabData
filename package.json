@@ -12,7 +12,7 @@
     "detect-changes": "tsx scripts/detect-changes.ts",
     "download-images": "tsx scripts/download-images.ts",
     "update-symlinks": "tsx scripts/update-latest-symlinks.ts",
-    "pipeline": "npm run fetch && npm run enrich && npm run normalize && npm run aggregate && npm run detect-changes"
+    "pipeline": "npm run fetch && npm run enrich && npm run normalize && npm run aggregate && npm run detect-changes && npm run update-symlinks"
   },
   "dependencies": {
     "convex": "^1.16.3",
