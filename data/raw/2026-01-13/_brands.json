@@ -4,160 +4,159 @@
     "name": "42 Birds",
     "website": "https://42birds.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://42birds.com/collections/cork-yoga-mats/products.json"
+    "productsJsonUrl": "https://42birds.com/collections/cork-yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "aloyoga",
     "name": "Alo Yoga",
     "website": "https://www.aloyoga.com",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.aloyoga.com/collections/yoga/products.json"
+    "productsJsonUrl": "https://www.aloyoga.com/collections/yoga/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "ananday",
     "name": "Ananday",
     "website": "https://ananday.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://ananday.com/collections/yoga-mats/products.json"
-  },
-  {
-    "slug": "bala",
-    "name": "Bala",
-    "website": "https://shopbala.com/",
-    "platform": "shopify",
-    "productsJsonUrl": "https://shopbala.com/collections/mats/products.json"
+    "productsJsonUrl": "https://ananday.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "gaiam",
     "name": "Gaiam",
     "website": "https://www.gaiam.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.gaiam.com/collections/printed-yoga-mats/products.json"
+    "productsJsonUrl": "https://www.gaiam.com/collections/printed-yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "gayo",
     "name": "Gayo",
     "website": "https://www.gayoshop.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.gayoshop.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://www.gayoshop.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "heathyoga",
     "name": "Heathyoga",
     "website": "https://www.heathyoga.net/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.heathyoga.net/collections/tpe-alignment-yoga-mats/products.json"
+    "productsJsonUrl": "https://www.heathyoga.net/collections/tpe-alignment-yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "houseofmats",
     "name": "House of Mats",
     "website": "https://www.houseofmats.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.houseofmats.com/en-eu/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://www.houseofmats.com/en-eu/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "jadeyoga",
     "name": "Jade Yoga",
     "website": "https://jadeyoga.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://jadeyoga.com/collections/yoga-mats/products.json"
-  },
-  {
-    "slug": "keep",
-    "name": "KEEP",
-    "website": "https://keepstore.com/",
-    "platform": "shopify",
-    "productsJsonUrl": "https://keepstore.com/collections/portable-yoga-mat-width-61cm/products.json"
+    "productsJsonUrl": "https://jadeyoga.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "liforme",
     "name": "Liforme",
     "website": "https://liforme.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://liforme.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://liforme.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "manduka",
     "name": "Manduka",
     "website": "https://www.manduka.com",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.manduka.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://www.manduka.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "okoliving",
     "name": "Öko Living",
     "website": "https://okoliving.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://okoliving.com/collections/mats/products.json"
+    "productsJsonUrl": "https://okoliving.com/collections/mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "thesatoriconcept",
     "name": "Satori Concept",
     "website": "https://www.thesatoriconcept.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.thesatoriconcept.com/collections/cork-yoga-mat/products.json|https://www.thesatoriconcept.com/collections/vegan-suede-yoga-mat/products.json|https://www.thesatoriconcept.com/collections/thick-yoga-mats/products.json|https://www.thesatoriconcept.com/collections/large-yoga-mats/products.json"
+    "productsJsonUrl": "https://www.thesatoriconcept.com/collections/cork-yoga-mat/products.json|https://www.thesatoriconcept.com/collections/vegan-suede-yoga-mat/products.json|https://www.thesatoriconcept.com/collections/thick-yoga-mats/products.json|https://www.thesatoriconcept.com/collections/large-yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "scoria",
     "name": "Scoria",
     "website": "https://www.scoriaworld.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.scoriaworld.com/collections/all-adult-cork-yoga-mats/products.json"
-  },
-  {
-    "slug": "sensu",
-    "name": "Sensu",
-    "website": "https://sensu.co/",
-    "platform": "shopify",
-    "productsJsonUrl": "https://sensu.co/collections/all/products.json"
+    "productsJsonUrl": "https://www.scoriaworld.com/collections/all-adult-cork-yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "shaktiwarrior",
     "name": "Shakti Warrior",
     "website": "https://www.shaktiwarriorshop.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.shaktiwarriorshop.com/collections/mats/products.json"
+    "productsJsonUrl": "https://www.shaktiwarriorshop.com/collections/mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "stakt",
     "name": "Stakt",
     "website": "https://shopstakt.com//",
     "platform": "shopify",
-    "productsJsonUrl": "https://shopstakt.com/collections/stakt-mats/products.json"
+    "productsJsonUrl": "https://shopstakt.com/collections/stakt-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "woloyoga",
     "name": "Wolo",
     "website": "https://woloyoga.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://woloyoga.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://woloyoga.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "yogadesignlab",
     "name": "Yoga Design Lab",
     "website": "https://yogadesignlab.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://yogadesignlab.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://yogadesignlab.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "yogamatters",
     "name": "YogaMatters",
     "website": "https://www.yogamatters.com/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.yogamatters.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://www.yogamatters.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "yogibare",
     "name": "Yogi Bare",
     "website": "https://www.yogi-bare.co.uk/",
     "platform": "shopify",
-    "productsJsonUrl": "https://www.yogi-bare.co.uk/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://www.yogi-bare.co.uk/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   },
   {
     "slug": "yolohayoga",
     "name": "Yoloha",
     "website": "https://yolohayoga.com",
     "platform": "shopify",
-    "productsJsonUrl": "https://yolohayoga.com/collections/yoga-mats/products.json"
+    "productsJsonUrl": "https://yolohayoga.com/collections/yoga-mats/products.json",
+    "scrapingEnabled": true
   }
 ]

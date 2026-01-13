@@ -1,9 +1,9 @@
 {
   "date": "2026-01-13",
-  "totalBrands": 23,
-  "successfulBrands": 23,
+  "totalBrands": 20,
+  "successfulBrands": 20,
   "failedBrands": 0,
-  "totalProducts": 507,
+  "totalProducts": 478,
   "results": [
     {
       "brandName": "42 Birds",
@@ -17,21 +17,13 @@
       "brandSlug": "aloyoga",
       "success": true,
       "productCount": 30,
-      "totalPages": 0,
-      "error": "All collections failed: Collection 1: HTTP 403: Forbidden"
+      "totalPages": 1
     },
     {
       "brandName": "Ananday",
       "brandSlug": "ananday",
       "success": true,
       "productCount": 4,
-      "totalPages": 1
-    },
-    {
-      "brandName": "Bala",
-      "brandSlug": "bala",
-      "success": true,
-      "productCount": 20,
       "totalPages": 1
     },
     {
@@ -70,13 +62,6 @@
       "totalPages": 1
     },
     {
-      "brandName": "KEEP",
-      "brandSlug": "keep",
-      "success": true,
-      "productCount": 7,
-      "totalPages": 1
-    },
-    {
       "brandName": "Liforme",
       "brandSlug": "liforme",
       "success": true,
@@ -112,13 +97,6 @@
       "totalPages": 1
     },
     {
-      "brandName": "Sensu",
-      "brandSlug": "sensu",
-      "success": true,
-      "productCount": 3,
-      "totalPages": 1
-    },
-    {
       "brandName": "Shakti Warrior",
       "brandSlug": "shaktiwarrior",
       "success": true,
@@ -143,7 +121,7 @@
       "brandName": "Yoga Design Lab",
       "brandSlug": "yogadesignlab",
       "success": true,
-      "productCount": 49,
+      "productCount": 51,
       "totalPages": 1
     },
     {
@@ -157,7 +135,7 @@
       "brandName": "Yogi Bare",
       "brandSlug": "yogibare",
       "success": true,
-      "productCount": 10,
+      "productCount": 9,
       "totalPages": 1
     },
     {

@@ -4,6 +4,10 @@
     "brandSlug": "manduka",
     "name": "Manduka PRO™ Yoga Mat 6mm",
     "slug": "manduka-manduka-pro-yoga-mat",
+    "titleOriginal": "Manduka PRO™ Yoga Mat 6mm",
+    "titleAuto": "Manduka PRO™",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "A studio-quality yoga mat with unmatched stability and a lifetime guarantee.\n\nThe PRO is a high-density yoga mat built to support your home practice. Crafted in Germany since 1997, it delivers floor-like stability with comfortable joint protection, and unmatched durability. A hygienic, closed-cell surface keeps sweat, moisture, and bacteria out of your mat, making it easy to clean and maintain for long-term performance. When you're ready to invest in your home practice, trust the mat that’s built to last with a lifetime guarantee.",
     "thickness": {
       "value": 6,
@@ -17,10 +21,38 @@
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "weight": {
+      "value": 3.4,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 kg"
+    },
     "features": [
       "Extra Thick",
+      "Extra Long",
+      "Extra Wide",
       "Antimicrobial",
       "Closed-Cell"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Lifetime guarantee",
+          "6 mm ultra-dense cushion for floor-like stability",
+          "Hygienic, closed-cell surface seals out moisture and bacteria, making it easy to clean & disinfect",
+          "Proprietary dot pattern on the bottom for added stability",
+          "Weight: Standard 7.5 lbs. (3.4 kg). Extra Long 9.5 lbs. (4.3 kg)",
+          "Length: Standard 71” (180 cm). Extra Long 85” (216 cm)",
+          "Width: 26” (66 cm)",
+          "Manufactured in an emissions-free facility in Germany",
+          "Crafted in Germany from PVC. The PRO Series is certified STANDARD 100 by OEKO-TEX® (12.HUS.17706 | Hohenstein) to keep you and your family safe from harmful substances.",
+          "Free of phthalates and harmful substances",
+          "Latex-Free",
+          "Limited Edition mats are hand-processed, so each pattern will be unique. We can't guarantee the mat will match the product images exactly."
+        ],
+        "confidence": 1
+      }
     ],
     "shopifyId": 4357742755898,
     "shopifyHandle": "manduka-pro-yoga-mat",
@@ -1061,6 +1093,10 @@
     "brandSlug": "manduka",
     "name": "PROlite® Yoga Mat 4.7mm",
     "slug": "manduka-prolite-yoga-mat",
+    "titleOriginal": "PROlite® Yoga Mat 4.7mm",
+    "titleAuto": "Manduka PROlite® Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The #1 teacher recommended mat mindfully made for a lifetime of flow...on the go.\nAll the beauty of our signature PRO mat and lighter for on-the-go flow. The PROlite’s super-dense cushioning and textured top layer adapts to your body for unparalleled support and joint protection. A no-slip dot pattern on the bottom layer keeps the mat in place, while closed-cell construction seals out sweat. OEKO-TEX® certified, our PROlite mat is mindfully made for mindful movers.",
     "thickness": {
       "value": 4.7,
@@ -1074,6 +1110,12 @@
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "weight": {
+      "value": 2.1,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.1 kg"
+    },
     "texture": "Textured",
     "textures": [
       "Textured"
@@ -1083,7 +1125,33 @@
     "features": [
       "Eco-Friendly",
       "Extra Thick",
+      "Antimicrobial",
       "Closed-Cell"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Lifetime Guarantee",
+          "4.7 mm dense cushioning for floor-like stability",
+          "Hygienic, closed-cell surface seals out moisture and bacteria, making it easy to clean & disinfect",
+          "Proprietary dot pattern on the bottom for added stability",
+          "Bimodal foam technology creates industry leading density, durability, and compression set",
+          "Provides maximum firmness without bottoming out",
+          "Unmatched support and stability to change poses with no bounce-back",
+          "100% latex free",
+          "5.0% polyester (Scrim) + 95% PVC",
+          "Crafted in Germany from PVC. The PRO Series is certified STANDARD 100 by OEKO-TEX® (12.HUS.17706 | Hohenstein) to keep you and your family safe from harmful substances.",
+          "Free of phthalates and harmful substances",
+          "Constructed in an emissions-free facility in Germany",
+          "Serial number unique to each mat printed on the bottom for authenticity",
+          "Vegan-friendly",
+          "Weight: Standard 4.63 lbs. (2.1 kg). Long 5 lbs. (2.3 kg)",
+          "Length: Standard 71” (180 cm). Long 79” (200 cm)",
+          "Width: 24” (61 cm)"
+        ],
+        "confidence": 1
+      }
     ],
     "shopifyId": 4357742690362,
     "shopifyHandle": "prolite-yoga-mat",
@@ -1645,6 +1713,10 @@
     "brandSlug": "manduka",
     "name": "eKO® Yoga Mat 5mm",
     "slug": "manduka-eko-yoga-mat-5mm",
+    "titleOriginal": "eKO® Yoga Mat 5mm",
+    "titleAuto": "Manduka eKO® Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
     "thickness": {
       "value": 5,
@@ -1658,6 +1730,12 @@
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8 kg"
+    },
     "texture": "Grippy",
     "textures": [
       "Grippy"
@@ -1667,8 +1745,34 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
+      "Extra Wide",
       "Alignment Marks",
       "Closed-Cell"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "5mm thickness",
+          "Ripple Water Catch-Grip surface for impressive traction in wet and dry conditions",
+          "Responsive Ride bottom rubber layer generates a springy ride for a supported yet comfortable practice",
+          "Maximum comfort to protect joints and bones",
+          "Closed-cell surface locks out moisture and bacteria, keeping the mat clean and in good condition longer than other natural rubber mats",
+          "Constructed of natural non-Amazon tree rubber",
+          "Sustainably harvested and made from over 30% recycled content",
+          "Responsibly constructed in an earth-friendly, energy efficient facility",
+          "99% latex free. Not recommended for those with Latex sensitivities.",
+          "Due to their biodegradable nature, the eKO Series is not recommended for a daily vigorous practice",
+          "Usage of eKO Series in a hot environment requires regular care to maintain the performance of the rubber",
+          "Pro Tip: Natural rubber provides a semi-sticky grip, but since it won't absorb sweat, we always recommend pairing your practice with our eQua® hand towels or yogitoes® hand towels",
+          "Recycled (rPET) product packaging",
+          "Vegan-friendly",
+          "Weight: Standard 8.36 lbs. (3.8 kg). Long 9.24 lbs. (4.2 kg)",
+          "Length: Standard 71” (180 cm). Long 79” (200 cm)",
+          "Width: 26” (61 cm)"
+        ],
+        "confidence": 1
+      }
     ],
     "shopifyId": 4487155056698,
     "shopifyHandle": "eko-yoga-mat-5mm",
@@ -2182,6 +2286,10 @@
     "brandSlug": "manduka",
     "name": "GRP® Adapt 2.0 Yoga Mat 5mm",
     "slug": "manduka-grp-adapt-2-0-yoga-mat-5mm",
+    "titleOriginal": "GRP® Adapt 2.0 Yoga Mat 5mm",
+    "titleAuto": "Manduka GRP® Adapt 2.0",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "thickness": {
       "value": 5,
       "unit": "mm",
@@ -2194,7 +2302,34 @@
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
-    "features": [],
+    "weight": {
+      "value": 2.4947610018960185,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5.5 lbs"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Upgraded Satin Grip™ top layer delivers our most consistent grip—even in extreme sweat",
+          "Enhnaced moisture absorbent layer designed to outperform leading competitors",
+          "5mm medium support cushion offers joint protection for any style of practice",
+          "Re-engineered internal construction channels sweat for faster absorption and steadier traction",
+          "Crafted with 20% recycled materials",
+          "Standard: 5.5 lbs; 71\" x 26\"; 5mm thick",
+          "Long: 7 lbs; 79\" x 26\"; 5mm thick",
+          "Material: Polyurethane / Natural Rubber / Latex",
+          "Not recommended for those with Latex sensitivities"
+        ],
+        "confidence": 0.9500000000000001
+      }
+    ],
     "shopifyId": 7481303269434,
     "shopifyHandle": "grp-adapt-2-0-yoga-mat-5mm",
     "shopifyVendor": "Manduka",
@@ -2362,6 +2497,10 @@
     "brandSlug": "manduka",
     "name": "GRP® Adapt Lite 2.0 Yoga Mat 4mm",
     "slug": "manduka-grp-adapt-lite-2-0-yoga-mat-4mm",
+    "titleOriginal": "GRP® Adapt Lite 2.0 Yoga Mat 4mm",
+    "titleAuto": "Manduka GRP® Adapt Lite 2.0",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Now in a new 4mm size, the GRP® Adapt Yoga Mat delivers serious grip in dry or sweaty conditions so you can move with confidence in any class.",
     "thickness": {
       "value": 4,
@@ -2375,6 +2514,12 @@
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "weight": {
+      "value": 1.7,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.7kg"
+    },
     "texture": "Grippy",
     "textures": [
       "Grippy"
@@ -2382,7 +2527,24 @@
     "textureSource": "description",
     "textureConfidence": 0.65,
     "features": [
+      "Eco-Friendly",
       "Non-Slip"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Satin Grip™ top layer delivers serious grip, even in sweaty conditions",
+          "Moisture Flow scrim absorbs and disperses sweat quickly for a consistently grippy surface",
+          "More absorbant than leading competitors",
+          "4mm medium support cushion provides comfortable joint protection for any style of practice",
+          "Crafted with 20% recycled materials",
+          "Standard: 1.7kg; 180cm x 61cm; 4mm thick",
+          "Material: Polyurethane / Natural Rubber / Latex",
+          "Not recommended for those with Latex sensitivities"
+        ],
+        "confidence": 0.9500000000000001
+      }
     ],
     "shopifyId": 7481311395898,
     "shopifyHandle": "grp-adapt-lite-2-0-yoga-mat-4mm",
@@ -2539,6 +2701,10 @@
     "brandSlug": "manduka",
     "name": "eKO® lite Yoga Mat 4mm",
     "slug": "manduka-eko-lite-yoga-mat-4mm",
+    "titleOriginal": "eKO® lite Yoga Mat 4mm",
+    "titleAuto": "Manduka eKO® lite",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "A lighter version of our original eKO mat with the same grippy natural rubber top layer and cushioned ride.\nBuilt sustainably for the mindful yogi, the lightweight eKO lite features a naturally grippy Catch-Grip™ surface texture for superior traction combined with our Responsive Ride™ core for a cushioned, springy ride. Sustainably harvested from non-Amazon rubber trees, the eKO lite is made from the planet for practice anywhere on the planet.",
     "thickness": {
       "value": 4,
@@ -3185,6 +3351,10 @@
     "brandSlug": "manduka",
     "name": "eKO® Superlite Travel Yoga Mat 1.5mm",
     "slug": "manduka-eko-superlite-travel-yoga-mat",
+    "titleOriginal": "eKO® Superlite Travel Yoga Mat 1.5mm",
+    "titleAuto": "Manduka eKO® Superlite Travel",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Naturally grippy mat made from sustainably harvested tree rubber, in a foldable, travel-ready size.\nDesigned for yogis on-the-go, the eKO SuperLite combines our signature orange peel top surface in natural rubber for the perfect grip. Our lightest mat to date, this foldable travel-ready mat is built to practice on…anywhere.",
     "thickness": {
       "value": 1.5,
@@ -3861,6 +4031,10 @@
     "brandSlug": "manduka",
     "name": "GRP® Adapt Travel Yoga Mat 1.5mm",
     "slug": "manduka-grp®-adapt-travel-yoga-mat-1-5mm",
+    "titleOriginal": "GRP® Adapt Travel Yoga Mat 1.5mm",
+    "titleAuto": "Manduka GRP® Adapt Travel",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The lightest version of our GRP Adapt mat in a foldable, travel-ready size.\nDesigned with a Satin Grip™ top layer for ultimate grip, the GRP Adapt Travel is the lightest and most versatile option to our GRP Adapt Series, featuring an all grip no slip design in both wet and dry conditions.",
     "thickness": {
       "value": 1.5,
@@ -4033,6 +4207,10 @@
     "brandSlug": "manduka",
     "name": "PRO Travel Yoga Mat 2mm",
     "slug": "manduka-pro-travel-yoga-mat",
+    "titleOriginal": "PRO Travel Yoga Mat 2mm",
+    "titleAuto": "Manduka PRO Travel",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The #1 mat recommended by teachers worldwide, built to last a lifetime.\nUltra-dense cushioning provides superior support, stability and joint protection.\nClosed-cell material seals out moisture and bacteria. Easy to disinfect and clean.\nMeticulously crafted in Germany. OEKO-TEX®️ certified.\nPro Tip: Pair with one of our performance towels to increase grip in sweaty sessions.\nStandard Length Mat: 2.0 mm thick; 71” x 24”; 2.4 lb",
     "thickness": {
       "value": 2,
@@ -4416,6 +4594,10 @@
     "brandSlug": "manduka",
     "name": "PRO® Squared Yoga Mat 6mm",
     "slug": "manduka-pro-squared-yoga-mat",
+    "titleOriginal": "PRO® Squared Yoga Mat 6mm",
+    "titleAuto": "Manduka PRO® Squared",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "All the same benefits of our PRO mat, in an extra large size for your home yoga sanctuary.\nCreate your very own home yoga sanctuary or home gym with our PRO Squared yoga mat. This square mat has all the same benefits of our bestselling PRO mat and is supersized to be the ultimate platform for play. The PRO Squared is big enough for two -- there's plenty of room to practice on your own, or with a partner.",
     "thickness": {
       "value": 6,
@@ -4687,6 +4869,10 @@
     "brandSlug": "manduka",
     "name": "PRO® Long & Wide Yoga Mat 6mm",
     "slug": "manduka-pro-long-wide-yoga-mat",
+    "titleOriginal": "PRO® Long & Wide Yoga Mat 6mm",
+    "titleAuto": "Manduka PRO® Long & Wide",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "All the same benefits of our PRO mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PRO Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
     "thickness": {
       "value": 6,
@@ -4863,6 +5049,10 @@
     "brandSlug": "manduka",
     "name": "PROlite® Long & Wide Yoga Mat 4.7mm",
     "slug": "manduka-prolite-long-wide-yoga-mat",
+    "titleOriginal": "PROlite® Long & Wide Yoga Mat 4.7mm",
+    "titleAuto": "Manduka PROlite® Long & Wide",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "All the same benefits of our PROlite mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PROlite Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
     "thickness": {
       "value": 4.7,
@@ -5039,6 +5229,10 @@
     "brandSlug": "manduka",
     "name": "Manduka X Yoga Mat 5mm",
     "slug": "manduka-manduka-x-yoga-mat-5mm",
+    "titleOriginal": "Manduka X Yoga Mat 5mm",
+    "titleAuto": "Manduka X",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "One of our most durable and supportive mats built for any yoga or fitness session.\nSome of us like to do it all—and that’s who the X mat is built for. Designed with a Double-Weave™ scrim system, this mat provides ultra-durability for any workout routine from yoga to Pilates to cardio. Go barefoot, rock your shoes, take it to the gym…meditate on the beach. With its grippy crosshatch texture, the X mat is the X-factor when it comes to superior fitness support.",
     "thickness": {
       "value": 5,
@@ -5329,6 +5523,10 @@
     "brandSlug": "manduka",
     "name": "begin yoga mat 5mm",
     "slug": "manduka-begin-yoga-mat-5mm",
+    "titleOriginal": "begin yoga mat 5mm",
+    "titleAuto": "Manduka begin yoga mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "A thick, cushioned mat with the same high-performance quality at a budget-conscious price.\nLooking for a high-performance mat with the same renowned, earth-friendly Manduka craftsmanship…at a lower price? Our Begin mat offers a cushioned ride for easy transitions and joint support, and also features an alignment stripe to guide poses and encourage your continued practice. Reversible and lightweight, Begin is ideal for anyone looking for a high quality mat that’s easy on the wallet.",
     "thickness": {
       "value": 5,
@@ -5722,6 +5920,10 @@
     "brandSlug": "manduka",
     "name": "Shala Yoga Rug",
     "slug": "manduka-shala-yoga-rug",
+    "titleOriginal": "Shala Yoga Rug",
+    "titleAuto": "Manduka Shala Yoga Rug",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "A sustainable yoga rug crafted by hand for your outdoor practices and easy flows.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMindfully made from pre-consumer apparel scraps, the Shala Yoga Rug pays homage to early yogic traditions while also supporting the craftsmanship of artisan weavers. The intricate weave provides support in a machine washable rug for a light flow or meditation at the beach or on an outside surface at your favorite adventure.",
     "length": {
       "value": 180,
@@ -5963,6 +6165,10 @@
     "brandSlug": "manduka",
     "name": "eKO® Yoga Mat 5mm (SALE)",
     "slug": "manduka-eko®-yoga-mat-5mm-2-0",
+    "titleOriginal": "eKO® Yoga Mat 5mm (SALE)",
+    "titleAuto": "Manduka eKO® Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
     "thickness": {
       "value": 5,

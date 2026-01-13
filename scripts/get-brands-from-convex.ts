@@ -26,7 +26,8 @@ interface Brand {
   name: string;
   slug: string;
   website: string;
-  scrapingEnabled: boolean;
+  // Optional because some Convex queries may omit it; treat missing as enabled.
+  scrapingEnabled?: boolean;
   productsJsonUrl: string | null;
   platform?: 'shopify' | 'lululemon' | 'bigcommerce' | 'custom'; // Platform type (defaults to 'shopify' if not specified)
   platformConfig?: {
@@ -109,6 +110,16 @@ async function ensureDataDirectories(date: string) {
   logger.info(`Created data directory: ${rawDir}`);
 }
 
+async function removeExistingRawBrandFile(date: string, brandSlug: string): Promise<void> {
+  const filepath = path.join(process.cwd(), 'data', 'raw', date, `${brandSlug}.json`);
+  try {
+    await fs.unlink(filepath);
+    logger.warn(`  Removed existing raw file for disabled brand: data/raw/${date}/${brandSlug}.json`);
+  } catch {
+    // File doesn't exist, nothing to do.
+  }
+}
+
 async function saveBrandsMetadata(date: string, brands: Brand[]): Promise<void> {
   const rawDir = path.join(process.cwd(), 'data', 'raw', date);
   const filepath = path.join(rawDir, '_brands.json');
@@ -119,7 +130,7 @@ async function saveBrandsMetadata(date: string, brands: Brand[]): Promise<void> 
     website: b.website,
     platform: b.platform || 'shopify',
     productsJsonUrl: b.productsJsonUrl,
-    scrapingEnabled: b.scrapingEnabled,
+    scrapingEnabled: b.scrapingEnabled ?? true,
   }));
 
   await fs.writeFile(filepath, JSON.stringify(minimal, null, 2), 'utf-8');
@@ -456,8 +467,13 @@ async function main() {
   let brands: Brand[];
   try {
     // Note: This assumes api.brands.getScrapableBrands exists in YogaMatLabApp
-    brands = await client.query('brands:getScrapableBrands' as any);
-    logger.success(`Found ${brands.length} enabled brands`);
+    const raw = await client.query('brands:getScrapableBrands' as any);
+    brands = (Array.isArray(raw) ? raw : []).map((b: Brand) => ({
+      ...b,
+      // Treat missing as enabled; disabled brands should return explicit `false`.
+      scrapingEnabled: b.scrapingEnabled ?? true,
+    }));
+    logger.success(`Found ${brands.length} brands from Convex`);
   } catch (error) {
     logger.error('Failed to fetch brands from Convex', error);
     logger.info(
@@ -481,6 +497,14 @@ async function main() {
   for (let i = 0; i < brands.length; i++) {
     const brand = brands[i];
     logger.info(`\n[${i + 1}/${brands.length}] Processing: ${brand.name}`);
+
+    if (brand.scrapingEnabled === false) {
+      logger.warn(`  Skipping (scrapingEnabled=false): ${brand.slug}`);
+      // If the repo already contains data for today's date (e.g. pulled from CI),
+      // remove the existing raw file so downstream steps don't include disabled brands.
+      await removeExistingRawBrandFile(date, brand.slug);
+      continue;
+    }
 
     const result = await fetchBrandProducts(brand);
     results.push(result);

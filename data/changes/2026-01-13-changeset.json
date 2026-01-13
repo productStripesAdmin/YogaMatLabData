@@ -2,13 +2,27 @@
   "date": "2026-01-13",
   "comparedWith": "2026-01-11",
   "summary": {
-    "totalChanges": 454,
-    "newProducts": 0,
-    "removedProducts": 0,
+    "totalChanges": 477,
+    "newProducts": 2,
+    "removedProducts": 34,
     "priceChanges": 0,
-    "specChanges": 454
+    "specChanges": 441
   },
   "changes": [
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-aqua",
+      "name": "Infinity Yoga Mat - Mandala Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {}
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-tribal-aqua",
+      "name": "Infinity Yoga Mat - Tribal Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {}
+    },
     {
       "slug": "42birds-cork-yoga-mat",
       "name": "Cork Lightweight Yoga Mat “The Robin”",
@@ -80,74 +94,186 @@
       "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
+      "slug": "aloyoga-w9327r-wild-thing-bra-white",
+      "name": "Wild Thing Bra - White",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w5473r-high-waist-airbrush-legging-white",
+      "name": "High-Waist Airbrush Legging - White",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w9680r-airbrush-heart-throb-bra-black-white",
+      "name": "Airbrush Heart Throb Bra - Black/White",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
       "slug": "aloyoga-w51298r-airbrush-high-waist-heart-throb-legging-black-white",
       "name": "Airbrush High-Waist Heart Throb Legging - Black/White",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w9587r-airbrush-real-bra-tank-black",
+      "name": "Airbrush Real Bra Tank - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
       "name": "Airbrush High-Waist 7/8 Bootcut Legging - Black",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-w1406r-alosoft-crop-finesse-short-sleeve-white",
       "name": "Alosoft Crop Finesse Short Sleeve - White",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy",
+      "name": "Airlift Strength Extreme High-Waist 7/8 Legging - Navy",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w9681r-airlift-line-up-bra-black",
+      "name": "Airlift Line Up Bra - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w51154r-airlift-high-waist-7-8-line-up-legging-black",
+      "name": "Airlift High-Waist 7/8 Line Up Legging - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-a0326u-yoga-strap-black-anthracite",
       "name": "Yoga Strap - Black/Anthracite",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-a0084u-uplifting-yoga-block-black-silver",
       "name": "Uplifting Yoga Block - Black/Silver",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-w9327r-wild-thing-bra-black",
       "name": "Wild Thing Bra - Black",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-a0029u-grounded-no-slip-towel-black",
+      "name": "Grounded No-Slip Towel - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-w9679r-airlift-intrigue-bra-espresso",
       "name": "Airlift Intrigue Bra - Espresso",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w51314r-7-8-high-waist-airlift-legging-espresso",
+      "name": "7/8 High-Waist Airlift Legging - Espresso",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-a0094-pivot-barre-sock-black",
       "name": "Women's Pivot Barre Sock - Black",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-a0326u-yoga-strap-jungle",
       "name": "Yoga Strap - Jungle",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → undefined\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w9679r-airlift-intrigue-bra-black",
+      "name": "Airlift Intrigue Bra - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w6363r-high-waist-airlift-short-black",
+      "name": "3\" High-Waist Airlift Short - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w3601r-alosoft-crop-finesse-long-sleeve-black",
+      "name": "Alosoft Crop Finesse Long Sleeve - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w51104r-alosoft-high-waist-7-8-highlight-legging-black",
+      "name": "Alosoft High-Waist 7/8 Highlight Legging - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-a0503u-alo-water-bottle-black",
+      "name": "ALO Water Bottle - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w54178r-airlift-high-waist-7-8-rebel-legging-black",
+      "name": "Airlift High-Waist 7/8 Rebel Legging - Black",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "aloyoga-w5604r-7-8-high-waist-airbrush-legging-black",
       "name": "7/8 High-Waist Airbrush Legging - Black",
       "brandSlug": "aloyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "aloyoga-w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey",
+      "name": "High-Waist Alosoft Lounge Legging - Athletic Heather Grey",
+      "brandSlug": "aloyoga",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "ananday-ananday-cork-yoga-mat",
@@ -734,8 +860,8 @@
       "slug": "jadeyoga-organic-cotton-mysore-yoga-rugs-1",
       "name": "Organic Cotton Mysore Yoga Rug – JadeYoga",
       "brandSlug": "jadeyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "jadeyoga-dharba-grass-yoga-meditation-mat",
@@ -776,8 +902,8 @@
       "slug": "jadeyoga-jade-harmony-2-0",
       "name": "Jade Harmony 2.0",
       "brandSlug": "jadeyoga",
-      "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "liforme-liforme-classic-yoga-mat",
@@ -1858,6 +1984,41 @@
       "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
+      "slug": "stakt-the-strength-set",
+      "name": "The Strength Set",
+      "brandSlug": "stakt",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "stakt-the-stakt-starter-set",
+      "name": "The Stakt Starter Set",
+      "brandSlug": "stakt",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "stakt-the-bring-stakt-anywhere-set",
+      "name": "The Bring Stakt Anywhere Set",
+      "brandSlug": "stakt",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "stakt-the-holiday-gift-set",
+      "name": "The New Year Set",
+      "brandSlug": "stakt",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
+      "slug": "stakt-the-pilates-set",
+      "name": "The Pilates Set",
+      "brandSlug": "stakt",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
       "slug": "thesatoriconcept-the-peaceful-mountain-cork-yoga-mat",
       "name": "Peaceful Mountain Cork Yoga Mat",
       "brandSlug": "thesatoriconcept",
@@ -2757,8 +2918,8 @@
       "slug": "yogibare-ever-grip-paws-desert-rose",
       "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
       "brandSlug": "yogibare",
-      "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "yogibare-minimalist-black-ever-grip-yoga-mat",

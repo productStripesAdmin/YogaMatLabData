@@ -4,6 +4,10 @@
     "brandSlug": "yolohayoga",
     "name": "Aura Cork Yoga Mat",
     "slug": "yolohayoga-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -74,13 +78,13 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:24:19-04:00",
     "shopifyPublishedAt": "2021-09-08T13:24:19-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 2,
-    "minPrice": 99,
-    "maxPrice": 119,
+    "minPrice": 130,
+    "maxPrice": 156,
     "variantPriceValues": [
-      99,
-      119
+      130,
+      156
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -185,6 +189,10 @@
     "brandSlug": "yolohayoga",
     "name": "Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -254,14 +262,14 @@
     ],
     "shopifyCreatedAt": "2024-09-17T10:33:09-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:51-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 3,
-    "minPrice": 159,
-    "maxPrice": 219,
+    "minPrice": 208,
+    "maxPrice": 286,
     "variantPriceValues": [
-      159,
-      179,
-      219
+      208,
+      234,
+      286
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -383,6 +391,10 @@
     "brandSlug": "yolohayoga",
     "name": "Original Cork Yoga Mat",
     "slug": "yolohayoga-original-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -454,13 +466,13 @@
     ],
     "shopifyCreatedAt": "2021-11-08T14:21:13-05:00",
     "shopifyPublishedAt": "2021-11-08T14:36:15-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 2,
-    "minPrice": 139,
-    "maxPrice": 159,
+    "minPrice": 182,
+    "maxPrice": 208,
     "variantPriceValues": [
-      139,
-      159
+      182,
+      208
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -565,6 +577,10 @@
     "brandSlug": "yolohayoga",
     "name": "Nomad Cork Yoga Mat",
     "slug": "yolohayoga-nomad-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -625,12 +641,12 @@
     ],
     "shopifyCreatedAt": "2021-11-08T14:37:11-05:00",
     "shopifyPublishedAt": "2021-11-08T14:41:36-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 119,
-    "maxPrice": 119,
+    "minPrice": 156,
+    "maxPrice": 156,
     "variantPriceValues": [
-      119
+      156
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -682,6 +698,10 @@
     "brandSlug": "yolohayoga",
     "name": "Nomad Air Cork Yoga Mat",
     "slug": "yolohayoga-travel-cork-yoga-mat",
+    "titleOriginal": "Nomad Air Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Nomad Air Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet the most portable cork yoga mat ever created. The Nomad Air is designed to fold or roll making it an extra compact mat that you can take with you anywhere you go.  Features a premium layer of eco-friendly cork on top for a non-slip surface that is easy to care for and maintain. A thin natural rubber bottom for unmatched durability that grips to any surface. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the nomad air will be there for you.",
     "thickness": {
       "value": 1.5,
@@ -751,13 +771,13 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:24:02-04:00",
     "shopifyPublishedAt": "2021-09-08T13:24:02-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 2,
-    "minPrice": 69,
-    "maxPrice": 89,
+    "minPrice": 91,
+    "maxPrice": 117,
     "variantPriceValues": [
-      69,
-      89
+      91,
+      117
     ],
     "priceCurrency": "USD",
     "minGrams": 953,
@@ -863,6 +883,10 @@
     "brandSlug": "yolohayoga",
     "name": "Nomad XL Cork Yoga Mat",
     "slug": "yolohayoga-nomad-xl-cork-yoga-mat",
+    "titleOriginal": "Nomad XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Nomad XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Extra-Large Nomad measures 80″ x 48″, offering an expansive practice space ideal for home studios, gyms, and more. Its premium eco-friendly cork surface delivers a naturally non-slip layer that is both easy to clean and maintain. Beneath, a luxuriously dense plant foam base provides exceptional comfort and support. Weighing just 4.5 lbs, the Nomad XL is conveniently portable, making it as versatile as it is high-performing.",
     "thickness": {
       "value": 4,
@@ -931,12 +955,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:50-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:50-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 199,
-    "maxPrice": 199,
+    "minPrice": 260,
+    "maxPrice": 260,
     "variantPriceValues": [
-      199
+      260
     ],
     "priceCurrency": "USD",
     "minGrams": 2041,
@@ -1019,6 +1043,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Aura Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-aura-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -1090,12 +1118,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:49-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:49-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -1184,6 +1212,10 @@
     "brandSlug": "yolohayoga",
     "name": "Chakras Aura Cork Yoga Mat",
     "slug": "yolohayoga-chakras-aura-cork-yoga-mat",
+    "titleOriginal": "Chakras Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Chakras Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -1255,12 +1287,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:27-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:27-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -1349,6 +1381,10 @@
     "brandSlug": "yolohayoga",
     "name": "Blossom Aura Cork Yoga Mat",
     "slug": "yolohayoga-blossom-aura-cork-yoga-mat",
+    "titleOriginal": "Blossom Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Blossom Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -1419,12 +1455,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:35-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:35-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -1513,6 +1549,10 @@
     "brandSlug": "yolohayoga",
     "name": "Kids Aura Cork Yoga Mat",
     "slug": "yolohayoga-kids-cork-yoga-mat",
+    "titleOriginal": "Kids Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Kids Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Created with young yogis in mind. Natural cork surface makes cleaning and care easy, while providing a grippy and safe surface for little hands and feet. Thick, lightweight foam made from renewable materials provides extra padding for developing joints and growing bones. Non-Toxic and free from any latex, PVC’s and plasticizers.",
     "thickness": {
       "value": 6,
@@ -1586,12 +1626,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:42-04:00",
     "shopifyPublishedAt": "2023-11-28T11:58:54-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 49,
-    "maxPrice": 49,
+    "minPrice": 64,
+    "maxPrice": 64,
     "variantPriceValues": [
-      49
+      64
     ],
     "priceCurrency": "USD",
     "minGrams": 907,
@@ -1680,6 +1720,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond of Harmony Aura Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Pond of Harmony Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond of Harmony Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -1751,12 +1795,12 @@
     ],
     "shopifyCreatedAt": "2022-06-30T12:37:58-04:00",
     "shopifyPublishedAt": "2022-06-30T12:40:43-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -1845,6 +1889,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -1917,12 +1965,12 @@
     ],
     "shopifyCreatedAt": "2024-10-25T10:45:29-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:55-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -2011,6 +2059,10 @@
     "brandSlug": "yolohayoga",
     "name": "Unity Pro XL Cork Yoga Mat",
     "slug": "yolohayoga-unity-xl-cork-yoga-mat",
+    "titleOriginal": "Unity Pro XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Unity Pro XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The extra-large Unity is the ultimate home studio mat. With double the width of a standard yoga mat, the Unity XL gives you extra space to move, stretch, and flow freely. A cork and natural rubber blended surface creates a more grounded and supportive feel, serious grip performance dry or wet, optimum durability, and low environmental impact. Whether you are doing a high-intensity workout or a gentle flow, we haven't found a type of practice this mat isn't good for. Handcrafted responsibly with 83% bio-certified materials.",
     "thickness": {
       "value": 6,
@@ -2081,12 +2133,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:24:12-04:00",
     "shopifyPublishedAt": "2021-09-08T13:24:12-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 329,
-    "maxPrice": 329,
+    "minPrice": 430,
+    "maxPrice": 430,
     "variantPriceValues": [
-      329
+      430
     ],
     "priceCurrency": "USD",
     "minGrams": 7711,
@@ -2181,6 +2233,10 @@
     "brandSlug": "yolohayoga",
     "name": "Balance and Unity Aura Cork Yoga Mat",
     "slug": "yolohayoga-balance-and-unity-aura-cork-yoga-mat",
+    "titleOriginal": "Balance and Unity Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Balance and Unity Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -2252,12 +2308,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:59-04:00",
     "shopifyPublishedAt": "2024-09-06T11:25:20-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -2346,6 +2402,10 @@
     "brandSlug": "yolohayoga",
     "name": "Chakras Original Cork Yoga Mat",
     "slug": "yolohayoga-chakras-original-cork-yoga-mat",
+    "titleOriginal": "Chakras Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Chakras Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -2417,12 +2477,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:29-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:29-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -2511,6 +2571,10 @@
     "brandSlug": "yolohayoga",
     "name": "Harmony Aura Cork Yoga Mat",
     "slug": "yolohayoga-harmony-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Harmony Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Harmony Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -2582,12 +2646,12 @@
     ],
     "shopifyCreatedAt": "2023-08-01T21:42:33-04:00",
     "shopifyPublishedAt": "2023-11-02T12:03:33-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -2676,6 +2740,10 @@
     "brandSlug": "yolohayoga",
     "name": "Flight Home Aura Cork Yoga Mat",
     "slug": "yolohayoga-flight-home-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Flight Home Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Flight Home Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -2747,12 +2815,12 @@
     ],
     "shopifyCreatedAt": "2023-08-01T21:46:19-04:00",
     "shopifyPublishedAt": "2023-08-01T21:50:28-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -2841,6 +2909,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Nomad Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-nomad-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -2913,12 +2985,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:48-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:48-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -3007,6 +3079,10 @@
     "brandSlug": "yolohayoga",
     "name": "Blossom Original Cork Yoga Mat",
     "slug": "yolohayoga-blossom-original-cork-yoga-mat",
+    "titleOriginal": "Blossom Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Blossom Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -3079,12 +3155,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:45-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:45-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -3173,6 +3249,10 @@
     "brandSlug": "yolohayoga",
     "name": "Float On Aura Cork Yoga Mat",
     "slug": "yolohayoga-float-on-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Float On Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Float On Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -3244,12 +3324,12 @@
     ],
     "shopifyCreatedAt": "2023-08-01T21:51:18-04:00",
     "shopifyPublishedAt": "2023-08-01T21:52:17-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -3338,6 +3418,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Original Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-original-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -3410,12 +3494,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:48-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:48-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -3504,6 +3588,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mind of the Universe Nomad Cork Yoga Mat",
     "slug": "yolohayoga-mind-of-the-universe-nomad-cork-yoga-mat",
+    "titleOriginal": "Mind of the Universe Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mind of the Universe Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -3576,12 +3664,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:12-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:12-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -3670,6 +3758,10 @@
     "brandSlug": "yolohayoga",
     "name": "Balance and Unity Original Cork Yoga Mat",
     "slug": "yolohayoga-balance-and-unity-original-cork-yoga-mat",
+    "titleOriginal": "Balance and Unity Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Balance and Unity Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -3742,12 +3834,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:56-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:56-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -3836,6 +3928,10 @@
     "brandSlug": "yolohayoga",
     "name": "Inhale Exhale Aura Cork Yoga Mat",
     "slug": "yolohayoga-inhale-exhale-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Inhale Exhale Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Inhale Exhale Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -3907,12 +4003,12 @@
     ],
     "shopifyCreatedAt": "2023-10-03T16:06:18-04:00",
     "shopifyPublishedAt": "2025-10-14T10:30:31-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -4001,6 +4097,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond Of Harmony Original Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-original-cork-yoga-mat",
+    "titleOriginal": "Pond Of Harmony Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond Of Harmony Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -4073,12 +4173,12 @@
     ],
     "shopifyCreatedAt": "2022-06-30T12:34:22-04:00",
     "shopifyPublishedAt": "2022-06-30T12:36:39-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -4167,6 +4267,10 @@
     "brandSlug": "yolohayoga",
     "name": "Solar and Lunar Original Cork Yoga Mat",
     "slug": "yolohayoga-solar-and-lunar-original-cork-yoga-mat",
+    "titleOriginal": "Solar and Lunar Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Solar and Lunar Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -4239,12 +4343,12 @@
     ],
     "shopifyCreatedAt": "2022-06-30T13:45:29-04:00",
     "shopifyPublishedAt": "2022-11-07T12:07:30-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -4333,6 +4437,10 @@
     "brandSlug": "yolohayoga",
     "name": "Infinite Transformation Nomad Cork Yoga Mat",
     "slug": "yolohayoga-infinite-transformation-nomad-cork-yoga-mat",
+    "titleOriginal": "Infinite Transformation Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Infinite Transformation Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -4405,12 +4513,12 @@
     ],
     "shopifyCreatedAt": "2022-06-30T13:18:17-04:00",
     "shopifyPublishedAt": "2022-06-30T13:20:45-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -4499,6 +4607,10 @@
     "brandSlug": "yolohayoga",
     "name": "Earth Rest Nomad Cork Yoga Mat",
     "slug": "yolohayoga-earth-rest-nomad-cork-yoga-mat",
+    "titleOriginal": "Earth Rest Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Earth Rest Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -4571,12 +4683,12 @@
     ],
     "shopifyCreatedAt": "2021-09-08T13:23:57-04:00",
     "shopifyPublishedAt": "2021-09-08T13:23:57-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -4665,6 +4777,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond of Harmony Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Pond of Harmony Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond of Harmony Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -4735,12 +4851,12 @@
     ],
     "shopifyCreatedAt": "2024-10-25T10:53:11-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:56-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -4829,6 +4945,10 @@
     "brandSlug": "yolohayoga",
     "name": "Harmony Original Cork Yoga Mat",
     "slug": "yolohayoga-harmony-original-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Harmony Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Harmony Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -4901,12 +5021,12 @@
     ],
     "shopifyCreatedAt": "2023-08-01T21:22:21-04:00",
     "shopifyPublishedAt": "2023-08-01T21:25:11-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -4995,6 +5115,10 @@
     "brandSlug": "yolohayoga",
     "name": "Harmony Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-harmony-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Harmony Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Harmony Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -5067,12 +5191,12 @@
     ],
     "shopifyCreatedAt": "2024-10-28T10:02:54-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:59-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -5161,6 +5285,10 @@
     "brandSlug": "yolohayoga",
     "name": "Flight Home Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-flight-home-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Flight Home Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Flight Home Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -5233,12 +5361,12 @@
     ],
     "shopifyCreatedAt": "2024-10-28T10:08:18-04:00",
     "shopifyPublishedAt": "2024-11-05T07:50:00-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -5327,6 +5455,10 @@
     "brandSlug": "yolohayoga",
     "name": "Balance and Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-balance-and-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Balance and Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Balance and Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -5399,12 +5531,12 @@
     ],
     "shopifyCreatedAt": "2024-10-25T09:22:58-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:53-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -5493,6 +5625,10 @@
     "brandSlug": "yolohayoga",
     "name": "Infinite Transformation Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-infinite-transformation-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Infinite Transformation Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Infinite Transformation Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -5563,12 +5699,12 @@
     ],
     "shopifyCreatedAt": "2024-10-25T11:01:01-04:00",
     "shopifyPublishedAt": "2024-11-05T07:49:57-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -5657,6 +5793,10 @@
     "brandSlug": "yolohayoga",
     "name": "El Dorado Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-el-dorado-unity-pro-cork-yoga-mat",
+    "titleOriginal": "El Dorado Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga El Dorado Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -5729,12 +5869,12 @@
     ],
     "shopifyCreatedAt": "2024-10-28T10:15:45-04:00",
     "shopifyPublishedAt": "2024-11-05T07:50:03-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -5823,6 +5963,10 @@
     "brandSlug": "yolohayoga",
     "name": "Tiger Lotus Aura Cork Yoga Mat",
     "slug": "yolohayoga-tiger-lotus-aura-cork-yoga-mat",
+    "titleOriginal": "Tiger Lotus Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Tiger Lotus Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -5893,12 +6037,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:09:17-04:00",
     "shopifyPublishedAt": "2025-06-25T13:33:36-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -5987,6 +6131,10 @@
     "brandSlug": "yolohayoga",
     "name": "Tiger Lotus Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-tiger-lotus-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Tiger Lotus Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Tiger Lotus Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -6056,12 +6204,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:37:40-04:00",
     "shopifyPublishedAt": "2025-06-25T13:33:39-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -6150,6 +6298,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond of Harmony Nomad XL Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-nomad-xl-cork-yoga-mat",
+    "titleOriginal": "Pond of Harmony Nomad XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond of Harmony Nomad XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Extra-Large Nomad measures 80″ x 48″, offering an expansive practice space ideal for home studios, gyms, and more. Its premium eco-friendly cork surface delivers a naturally non-slip layer that is both easy to clean and maintain. Beneath, a luxuriously dense foam base provides exceptional comfort and support. Weighing just 4.5 lbs, the Nomad XL is conveniently portable, making it as versatile as it is high-performing.",
     "thickness": {
       "value": 4,
@@ -6218,12 +6370,12 @@
     ],
     "shopifyCreatedAt": "2025-04-18T15:50:55-04:00",
     "shopifyPublishedAt": "2025-04-22T12:41:49-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 239,
-    "maxPrice": 239,
+    "minPrice": 312,
+    "maxPrice": 312,
     "variantPriceValues": [
-      239
+      312
     ],
     "priceCurrency": "USD",
     "minGrams": 2041,
@@ -6312,6 +6464,10 @@
     "brandSlug": "yolohayoga",
     "name": "Rise Up Nomad Cork Yoga Mat",
     "slug": "yolohayoga-rise-up-nomad-cork-yoga-mat",
+    "titleOriginal": "Rise Up Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Rise Up Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -6385,12 +6541,12 @@
     ],
     "shopifyCreatedAt": "2024-07-03T12:09:45-04:00",
     "shopifyPublishedAt": "2024-07-09T12:27:37-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 119,
-    "maxPrice": 119,
+    "minPrice": 156,
+    "maxPrice": 156,
     "variantPriceValues": [
-      119
+      156
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -6479,6 +6635,10 @@
     "brandSlug": "yolohayoga",
     "name": "Tiger Lotus Original Cork Yoga Mat",
     "slug": "yolohayoga-tiger-lotus-original-cork-yoga-mat",
+    "titleOriginal": "Tiger Lotus Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Tiger Lotus Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -6551,12 +6711,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:01:10-04:00",
     "shopifyPublishedAt": "2025-06-25T13:33:34-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 169,
-    "maxPrice": 169,
+    "minPrice": 221,
+    "maxPrice": 221,
     "variantPriceValues": [
-      169
+      221
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -6645,6 +6805,10 @@
     "brandSlug": "yolohayoga",
     "name": "Balance and Unity Nomad XL Cork Yoga Mat",
     "slug": "yolohayoga-balance-and-unity-nomad-xl-cork-yoga-mat",
+    "titleOriginal": "Balance and Unity Nomad XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Balance and Unity Nomad XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Extra-Large Nomad measures 80″ x 48″, offering an expansive practice space ideal for home studios, gyms, and more. Its premium eco-friendly cork surface delivers a naturally non-slip layer that is both easy to clean and maintain. Beneath, a luxuriously dense foam base provides exceptional comfort and support. Weighing just 4.5 lbs, the Nomad XL is conveniently portable, making it as versatile as it is high-performing.",
     "thickness": {
       "value": 4,
@@ -6714,12 +6878,12 @@
     ],
     "shopifyCreatedAt": "2025-04-18T15:52:59-04:00",
     "shopifyPublishedAt": "2025-04-22T12:41:50-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 239,
-    "maxPrice": 239,
+    "minPrice": 312,
+    "maxPrice": 312,
     "variantPriceValues": [
-      239
+      312
     ],
     "priceCurrency": "USD",
     "minGrams": 2041,
@@ -6808,6 +6972,10 @@
     "brandSlug": "yolohayoga",
     "name": "Infinite Bloom Aura Cork Yoga Mat",
     "slug": "yolohayoga-infinite-bloom-aura-cork-yoga-mat",
+    "titleOriginal": "Infinite Bloom Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Infinite Bloom Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -6880,12 +7048,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T13:37:34-04:00",
     "shopifyPublishedAt": "2025-09-30T10:27:30-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -6974,6 +7142,10 @@
     "brandSlug": "yolohayoga",
     "name": "Zest For Life Aura Cork Yoga Mat",
     "slug": "yolohayoga-zest-for-life-aura-cork-yoga-mat",
+    "titleOriginal": "Zest For Life Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Zest For Life Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -7044,12 +7216,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:06:38-04:00",
     "shopifyPublishedAt": "2025-06-25T13:39:22-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -7138,6 +7310,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Nomad XL Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-nomad-xl-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Nomad XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Nomad XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Extra-Large Nomad measures 80″ x 48″, offering an expansive practice space ideal for home studios, gyms, and more. Its premium eco-friendly cork surface delivers a naturally non-slip layer that is both easy to clean and maintain. Beneath, a luxuriously dense foam base provides exceptional comfort and support. Weighing just 4.5 lbs, the Nomad XL is conveniently portable, making it as versatile as it is high-performing.",
     "thickness": {
       "value": 4,
@@ -7206,12 +7382,12 @@
     ],
     "shopifyCreatedAt": "2025-04-18T15:43:18-04:00",
     "shopifyPublishedAt": "2025-04-22T12:41:48-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 239,
-    "maxPrice": 239,
+    "minPrice": 312,
+    "maxPrice": 312,
     "variantPriceValues": [
-      239
+      312
     ],
     "priceCurrency": "USD",
     "minGrams": 2041,
@@ -7300,6 +7476,10 @@
     "brandSlug": "yolohayoga",
     "name": "Zest For Life Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-zest-for-life-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Zest For Life Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Zest For Life Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -7369,12 +7549,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:33:53-04:00",
     "shopifyPublishedAt": "2025-06-25T13:39:29-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -7463,6 +7643,10 @@
     "brandSlug": "yolohayoga",
     "name": "Tiger Lotus Nomad Cork Yoga Mat",
     "slug": "yolohayoga-tiger-lotus-nomad-cork-yoga-mat",
+    "titleOriginal": "Tiger Lotus Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Tiger Lotus Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -7535,12 +7719,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:20:54-04:00",
     "shopifyPublishedAt": "2025-06-25T13:33:37-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -7629,6 +7813,10 @@
     "brandSlug": "yolohayoga",
     "name": "Infinite Bloom Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-infinite-bloom-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Infinite Bloom Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Infinite Bloom Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -7700,12 +7888,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T11:46:34-04:00",
     "shopifyPublishedAt": "2025-09-30T10:27:28-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -7794,6 +7982,10 @@
     "brandSlug": "yolohayoga",
     "name": "Peacock Oracle Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-peacock-oracle-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Peacock Oracle Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Peacock Oracle Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -7865,12 +8057,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T11:55:10-04:00",
     "shopifyPublishedAt": "2025-09-30T10:24:56-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -7959,6 +8151,10 @@
     "brandSlug": "yolohayoga",
     "name": "Peacock Oracle Aura Cork Yoga Mat",
     "slug": "yolohayoga-peacock-oracle-aura-cork-yoga-mat",
+    "titleOriginal": "Peacock Oracle Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Peacock Oracle Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -8031,12 +8227,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T13:42:10-04:00",
     "shopifyPublishedAt": "2025-09-30T10:24:57-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -8125,6 +8321,10 @@
     "brandSlug": "yolohayoga",
     "name": "Awaken and Transform Aura Cork Yoga Mat",
     "slug": "yolohayoga-awaken-and-transform-aura-cork-yoga-mat",
+    "titleOriginal": "Awaken and Transform Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Awaken and Transform Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -8195,12 +8395,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T12:00:08-04:00",
     "shopifyPublishedAt": "2025-09-30T10:31:30-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -8289,6 +8489,10 @@
     "brandSlug": "yolohayoga",
     "name": "Awaken and Transform Unity Pro Cork Yoga Mat",
     "slug": "yolohayoga-awaken-and-transform-unity-pro-cork-yoga-mat",
+    "titleOriginal": "Awaken and Transform Unity Pro Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Awaken and Transform Unity Pro Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Introducing the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.",
     "thickness": {
       "value": 6,
@@ -8358,12 +8562,12 @@
     ],
     "shopifyCreatedAt": "2025-09-17T11:27:38-04:00",
     "shopifyPublishedAt": "2025-09-30T10:31:29-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 189,
-    "maxPrice": 189,
+    "minPrice": 247,
+    "maxPrice": 247,
     "variantPriceValues": [
-      189
+      247
     ],
     "priceCurrency": "USD",
     "minGrams": 3175,
@@ -8452,6 +8656,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond of Harmony Nomad Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-nomad-cork-yoga-mat",
+    "titleOriginal": "Pond of Harmony Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond of Harmony Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -8524,12 +8732,12 @@
     ],
     "shopifyCreatedAt": "2025-08-04T11:12:51-04:00",
     "shopifyPublishedAt": "2025-08-04T11:36:58-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -8618,6 +8826,10 @@
     "brandSlug": "yolohayoga",
     "name": "Zest For Life Nomad Cork Yoga Mat",
     "slug": "yolohayoga-zest-for-life-nomad-cork-yoga-mat",
+    "titleOriginal": "Zest For Life Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Zest For Life Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -8690,12 +8902,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:18:27-04:00",
     "shopifyPublishedAt": "2025-06-25T13:39:26-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 119,
-    "maxPrice": 119,
+    "minPrice": 156,
+    "maxPrice": 156,
     "variantPriceValues": [
-      119
+      156
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -8784,6 +8996,10 @@
     "brandSlug": "yolohayoga",
     "name": "Swirly Flow Nomad Cork Yoga Mat",
     "slug": "yolohayoga-swirly-flow-nomad-cork-yoga-mat",
+    "titleOriginal": "Swirly Flow Nomad Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Swirly Flow Nomad Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.",
     "thickness": {
       "value": 4,
@@ -8856,12 +9072,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T11:11:24-04:00",
     "shopifyPublishedAt": "2025-06-25T13:39:24-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 149,
-    "maxPrice": 149,
+    "minPrice": 195,
+    "maxPrice": 195,
     "variantPriceValues": [
-      149
+      195
     ],
     "priceCurrency": "USD",
     "minGrams": 1361,
@@ -8950,6 +9166,10 @@
     "brandSlug": "yolohayoga",
     "name": "Swirly Flow Original Cork Yoga Mat",
     "slug": "yolohayoga-swirly-flow-original-cork-yoga-mat",
+    "titleOriginal": "Swirly Flow Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Swirly Flow Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -9022,12 +9242,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T10:45:23-04:00",
     "shopifyPublishedAt": "2025-12-30T12:10:26-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 139,
-    "maxPrice": 139,
+    "minPrice": 182,
+    "maxPrice": 182,
     "variantPriceValues": [
-      139
+      182
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -9116,6 +9336,10 @@
     "brandSlug": "yolohayoga",
     "name": "Zest For Life Original Cork Yoga Mat",
     "slug": "yolohayoga-zest-for-life-original-cork-yoga-mat",
+    "titleOriginal": "Zest For Life Original Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Zest For Life Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.",
     "thickness": {
       "value": 6,
@@ -9188,12 +9412,12 @@
     ],
     "shopifyCreatedAt": "2025-06-25T10:56:29-04:00",
     "shopifyPublishedAt": "2025-06-25T13:39:19-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 139,
-    "maxPrice": 139,
+    "minPrice": 182,
+    "maxPrice": 182,
     "variantPriceValues": [
-      139
+      182
     ],
     "priceCurrency": "USD",
     "minGrams": 1588,
@@ -9282,6 +9506,10 @@
     "brandSlug": "yolohayoga",
     "name": "Infinite Transformation Aura Cork Yoga Mat",
     "slug": "yolohayoga-infinite-transformation-aura-cork-yoga-mat-plant-foam",
+    "titleOriginal": "Infinite Transformation Aura Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Infinite Transformation Aura Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.",
     "thickness": {
       "value": 6,
@@ -9353,12 +9581,12 @@
     ],
     "shopifyCreatedAt": "2022-06-30T13:08:20-04:00",
     "shopifyPublishedAt": "2026-01-09T12:07:20-05:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 129,
-    "maxPrice": 129,
+    "minPrice": 169,
+    "maxPrice": 169,
     "variantPriceValues": [
-      129
+      169
     ],
     "priceCurrency": "USD",
     "minGrams": 1451,
@@ -9447,6 +9675,10 @@
     "brandSlug": "yolohayoga",
     "name": "Mountain Magic Unity Pro XL Cork Yoga Mat",
     "slug": "yolohayoga-mountain-magic-unity-pro-xl-cork-yoga-mat",
+    "titleOriginal": "Mountain Magic Unity Pro XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Mountain Magic Unity Pro XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The extra-large Unity is the ultimate home studio mat. With double the width of a standard yoga mat, the Unity XL gives you extra space to move, stretch, and flow freely. A cork and natural rubber blended surface creates a more grounded and supportive feel, serious grip performance dry or wet, optimum durability, and low environmental impact. Whether you are doing a high-intensity workout or a gentle flow, we haven't found a type of practice this mat isn't good for. Handcrafted responsibly with 83% bio-certified materials.",
     "thickness": {
       "value": 6,
@@ -9516,12 +9748,12 @@
     ],
     "shopifyCreatedAt": "2025-10-15T13:15:01-04:00",
     "shopifyPublishedAt": "2025-10-15T13:55:16-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 369,
-    "maxPrice": 369,
+    "minPrice": 482,
+    "maxPrice": 482,
     "variantPriceValues": [
-      369
+      482
     ],
     "priceCurrency": "USD",
     "minGrams": 7711,
@@ -9622,6 +9854,10 @@
     "brandSlug": "yolohayoga",
     "name": "Pond of Harmony Unity Pro XL Cork Yoga Mat",
     "slug": "yolohayoga-pond-of-harmony-unity-pro-xl-cork-yoga-mat",
+    "titleOriginal": "Pond of Harmony Unity Pro XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Pond of Harmony Unity Pro XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The extra-large Unity is the ultimate home studio mat. With double the width of a standard yoga mat, the Unity XL gives you extra space to move, stretch, and flow freely. A cork and natural rubber blended surface creates a more grounded and supportive feel, serious grip performance dry or wet, optimum durability, and low environmental impact. Whether you are doing a high-intensity workout or a gentle flow, we haven't found a type of practice this mat isn't good for. Handcrafted responsibly with 83% bio-certified materials.",
     "thickness": {
       "value": 6,
@@ -9691,12 +9927,12 @@
     ],
     "shopifyCreatedAt": "2025-10-15T13:35:27-04:00",
     "shopifyPublishedAt": "2025-10-15T13:55:18-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 369,
-    "maxPrice": 369,
+    "minPrice": 482,
+    "maxPrice": 482,
     "variantPriceValues": [
-      369
+      482
     ],
     "priceCurrency": "USD",
     "minGrams": 7711,
@@ -9797,6 +10033,10 @@
     "brandSlug": "yolohayoga",
     "name": "Harmony Unity Pro XL Cork Yoga Mat",
     "slug": "yolohayoga-harmony-unity-pro-xl-cork-yoga-mat",
+    "titleOriginal": "Harmony Unity Pro XL Cork Yoga Mat",
+    "titleAuto": "Yoloha Yoga Harmony Unity Pro XL Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The extra-large Unity is the ultimate home studio mat. With double the width of a standard yoga mat, the Unity XL gives you extra space to move, stretch, and flow freely. A cork and natural rubber blended surface creates a more grounded and supportive feel, serious grip performance dry or wet, optimum durability, and low environmental impact. Whether you are doing a high-intensity workout or a gentle flow, we haven't found a type of practice this mat isn't good for. Handcrafted responsibly with 83% bio-certified materials.",
     "thickness": {
       "value": 6,
@@ -9866,12 +10106,12 @@
     ],
     "shopifyCreatedAt": "2025-10-15T13:50:11-04:00",
     "shopifyPublishedAt": "2025-10-15T13:55:19-04:00",
-    "shopifyUpdatedAt": "2026-01-12T22:59:52-05:00",
+    "shopifyUpdatedAt": "2026-01-13T10:33:26-05:00",
     "variantsCount": 1,
-    "minPrice": 369,
-    "maxPrice": 369,
+    "minPrice": 482,
+    "maxPrice": 482,
     "variantPriceValues": [
-      369
+      482
     ],
     "priceCurrency": "USD",
     "minGrams": 7711,

@@ -10,6 +10,10 @@ Normalization discards products early (so they never appear in `data/normalized/
 
 This is primarily to prevent non-mat catalog items (e.g. apparel like leggings) from entering the dataset even if they appear in a `products.json` feed.
 
+## SCRAPING ENABLED FILTER
+
+Fetch writes `data/raw/{date}/_brands.json` (including each brand’s `scrapingEnabled` flag). During normalization, if that metadata file exists, we only process raw brand files whose `scrapingEnabled !== false`. This prevents stale raw files (e.g. pulled from CI) from accidentally leaking disabled brands into `data/normalized/**` and downstream outputs.
+
 ## SHADOW TITLES
 
 Normalization also generates a consistent “shadow title” set for YogaMatLabApp:

@@ -26,6 +26,11 @@ interface NormalizationSummary {
   }>;
 }
 
+type BrandsMetadata = Array<{
+  slug: string;
+  scrapingEnabled?: boolean;
+}>;
+
 function includesMatHint(text: string): boolean {
   const normalized = text.toLowerCase();
   if (/\bmat(s)?\b/i.test(normalized)) return true;
@@ -53,6 +58,28 @@ async function ensureNormalizedDirectory(date: string) {
   const normalizedDir = path.join(process.cwd(), 'data', 'normalized', date);
   await fs.mkdir(normalizedDir, { recursive: true });
   logger.info(`Created normalized directory: ${normalizedDir}`);
+}
+
+async function loadEnabledBrandSlugs(date: string): Promise<{ enabled: Set<string>; sourcePath: string } | null> {
+  const sourcePath = path.join(process.cwd(), 'data', 'raw', date, '_brands.json');
+  try {
+    const raw = await fs.readFile(sourcePath, 'utf-8');
+    const parsed = JSON.parse(raw) as unknown;
+    const brands = Array.isArray(parsed) ? (parsed as BrandsMetadata) : null;
+    if (!brands) return null;
+
+    const enabled = new Set(
+      brands
+        .filter(b => typeof b?.slug === 'string' && b.slug.trim().length > 0)
+        // Treat missing scrapingEnabled as enabled for backwards compatibility.
+        .filter(b => b.scrapingEnabled !== false)
+        .map(b => b.slug)
+    );
+
+    return { enabled, sourcePath };
+  } catch {
+    return null;
+  }
 }
 
 async function getRawFiles(date: string): Promise<string[]> {
@@ -267,8 +294,24 @@ async function main() {
   // Ensure normalized directory exists
   await ensureNormalizedDirectory(date);
 
+  // If fetch saved brands metadata, use it to avoid normalizing disabled brands even if raw files exist.
+  const enabledBrandsMeta = await loadEnabledBrandSlugs(date);
+
   // Get all raw brand files
-  const rawFiles = await getRawFiles(date);
+  const rawFilesAll = await getRawFiles(date);
+  const rawFiles = enabledBrandsMeta
+    ? rawFilesAll.filter((file) => enabledBrandsMeta.enabled.has(file.replace('.json', '')))
+    : rawFilesAll;
+
+  if (enabledBrandsMeta) {
+    const ignored = rawFilesAll.length - rawFiles.length;
+    if (ignored > 0) {
+      logger.warn(
+        `Ignoring ${ignored} raw brand file(s) because scrapingEnabled=false (${path.relative(process.cwd(), enabledBrandsMeta.sourcePath)})`
+      );
+    }
+  }
+
   logger.info(`Found ${rawFiles.length} brand files to process`);
 
   if (rawFiles.length === 0) {
