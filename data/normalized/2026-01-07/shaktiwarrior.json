@@ -1,0 +1,3924 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Sage",
+    "slug": "shaktiwarrior-recycled-pu-yoga-mat-sage",
+    "description": "The Sage Arch Yoga Mat features a unique arch shape for better alignment and flow, made from recycled PU and natural tree rubber. With non-slip grip and dense cushioning, it offers sustainable support for regular and hot yoga.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 7380228571202,
+    "shopifyHandle": "recycled-pu-yoga-mat-sage",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "Shanti Yoga Mat",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2024-11-05T00:58:48-05:00",
+    "shopifyPublishedAt": "2024-11-05T01:00:30-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 84,
+    "maxPrice": 84,
+    "variantPriceValues": [
+      84
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/BLUE1.png?v=1730786350",
+        "width": 2700,
+        "height": 3700,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Blue2.png?v=1730786350",
+        "width": 1448,
+        "height": 2048,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Blue3.png?v=1730786350",
+        "width": 1448,
+        "height": 1942,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat.png?v=1730741477",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Arch_Mats.jpg?v=1730792551",
+        "width": 1232,
+        "height": 879,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Firestone",
+    "slug": "shaktiwarrior-recycled-pu-yoga-mat-firestone",
+    "description": "The Firestone Arch Yoga Mat features a unique arch shape to support natural movement and enhance stability. Made from recycled PU and natural tree rubber, it offers non-slip grip, joint-friendly cushioning, and sustainable performance for all styles of yoga.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7380222967874,
+    "shopifyHandle": "recycled-pu-yoga-mat-firestone",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "New Arrivals",
+      "no sale",
+      "Shanti Yoga Mat",
+      "Star",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2024-11-05T00:36:08-05:00",
+    "shopifyPublishedAt": "2024-11-05T00:40:15-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 109,
+    "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Red2.png?v=1730785510",
+        "width": 2160,
+        "height": 2960,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/RED_1.png?v=1730785132",
+        "width": 2700,
+        "height": 3700,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/RED_3.png?v=1730785133",
+        "width": 1448,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat.png?v=1730741477",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/ARchStudio.jpg?v=1730797086",
+        "width": 960,
+        "height": 1184,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Moonbeam",
+    "slug": "shaktiwarrior-recycled-pu-yoga-mat-moonbeam",
+    "description": "The Arch Shaped Moonbeam Mat is designed for comfort and alignment with its unique arch shape. Made from recycled PU and natural rubber, it offers a non-slip surface, joint support, and eco-friendly performance for mindful movement.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 7380221689922,
+    "shopifyHandle": "recycled-pu-yoga-mat-moonbeam",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "New Arrivals",
+      "no sale",
+      "Shanti Yoga Mat",
+      "Star",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2024-11-05T00:31:54-05:00",
+    "shopifyPublishedAt": "2024-11-05T00:33:53-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 109,
+    "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Beige_2.png?v=1730785772",
+        "width": 2160,
+        "height": 2960,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/BEIGE1.png?v=1730784736",
+        "width": 2700,
+        "height": 3700,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Beige3_24925494-3318-4cf9-b7e7-6836a705b987.png?v=1730786024",
+        "width": 1448,
+        "height": 1942,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat.png?v=1730741477",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Earthstone",
+    "slug": "shaktiwarrior-recycled-pu-yoga-mat-earthstone",
+    "description": "Experience comfort and balance with our Arch Shaped Recycled PU Yoga Mat—crafted from eco-conscious recycled PU and natural tree rubber for non-slip grip, joint support, and mindful movement. Its curved design promotes alignment and flow in every practice.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 7379928350786,
+    "shopifyHandle": "recycled-pu-yoga-mat-earthstone",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "New Arrivals",
+      "no sale",
+      "Shanti Yoga Mat",
+      "Star",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2024-11-04T13:32:24-05:00",
+    "shopifyPublishedAt": "2024-11-04T14:57:31-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 109,
+    "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Orange1.png?v=1730746037",
+        "width": 2700,
+        "height": 3700,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Orange2.png?v=1730784627",
+        "width": 1448,
+        "height": 2048,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Orange3.png?v=1730784627",
+        "width": 1448,
+        "height": 1942,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat.png?v=1730741477",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/ArchBrown_copy.jpg?v=1742481640",
+        "width": 992,
+        "height": 1216,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Chakra",
+    "slug": "shaktiwarrior-chakra-pro",
+    "description": "Designed with a detailed hand-drawn chakra motif, this mat combines eco-friendly cork and rubber for durability, grip, and joint-friendly comfort.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 102427983891,
+    "shopifyHandle": "chakra-pro",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2017-12-22T02:28:47-05:00",
+    "shopifyPublishedAt": "2017-12-22T02:28:45-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 2,
+    "minPrice": 94,
+    "maxPrice": 104,
+    "variantPriceValues": [
+      94,
+      104
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1700,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      1700,
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W",
+          "Extra Long and Extra Wide - 84\" L x 27\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/chakra_087183b5-ea2d-4ee0-925a-5ec5eea05fcd.jpg?v=1575989959",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5067_17.jpg?v=1575989948",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5067_14.jpg?v=1575989948",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_018fad42-e7cd-4378-9a26-090b4b1f2500.png?v=1730737114",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5067_11.jpg?v=1575989948",
+        "width": 1025,
+        "height": 1400,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5067_15.jpg?v=1575989948",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5067_13.jpg?v=1575989948",
+        "width": 1025,
+        "height": 1400,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/IMG_3529.jpg?v=1706683815",
+        "width": 4272,
+        "height": 2763,
+        "position": 8
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.8500000000000001
+        },
+        {
+          "value": 213.36,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Sahasrara",
+    "slug": "shaktiwarrior-sahasrara-pro",
+    "description": "Elevate your practice with our Black Sahasrara Cork Yoga Mat—featuring a hand-drawn Crown Chakra design on eco-friendly, non-slip cork for natural grip, durability, and grounding support. Crafted for mindful movement and sustainable living.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4774451576898,
+    "shopifyHandle": "sahasrara-pro",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "no sale",
+      "Star",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2021-01-27T05:37:44-05:00",
+    "shopifyPublishedAt": "2021-01-27T05:38:32-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670495_1.jpg?v=1669387476",
+        "width": 3194,
+        "height": 4384,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670488_3copy.jpg?v=1669387476",
+        "width": 3206,
+        "height": 4375,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670495_4.jpg?v=1669387476",
+        "width": 3194,
+        "height": 4384,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_a993452c-3935-4bc6-9b9c-dfbc15ac0807.png?v=1734003003",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670495_3.jpg?v=1669387476",
+        "width": 3194,
+        "height": 4384,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670488_2_d0b106e0-4d07-4dfd-af94-2be80cf315e5.jpg?v=1669387476",
+        "width": 3206,
+        "height": 4375,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670495_5.jpg?v=1669387476",
+        "width": 3194,
+        "height": 4384,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Akasa",
+    "slug": "shaktiwarrior-tpe-yoga-mat-akasa",
+    "description": "Crafted from recycled plastic with 6mm cushioning, this vibrant mat features a dreamcatcher design to uplift your practice with grip, comfort, and joy.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip"
+    ],
+    "shopifyId": 7220116914242,
+    "shopifyHandle": "tpe-yoga-mat-akasa",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2024-05-14T06:17:03-04:00",
+    "shopifyPublishedAt": "2024-05-14T06:20:14-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 51,
+    "maxPrice": 51,
+    "variantPriceValues": [
+      51
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/MFSpiriSW5072_9.jpg?v=1716360202",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEAkasa.png?v=1767013228",
+        "width": 1024,
+        "height": 1536,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_10.png?v=1767013228",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_10_V2.png?v=1767013228",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670303_1.jpg?v=1767013228",
+        "width": 1768,
+        "height": 2160,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670303_4.jpg?v=1767013228",
+        "width": 1768,
+        "height": 2160,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Chakra",
+    "slug": "shaktiwarrior-chakra-shanti-pu-yoga-mat",
+    "description": "Step into serenity with the Chakra Recycled PU Yoga Mat—featuring a radiant gold chakra design on an ivory recycled PU surface and a natural tree rubber base. Enjoy non-slip grip, joint support, and eco-conscious performance for regular and hot yoga.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 6840115822658,
+    "shopifyHandle": "chakra-shanti-pu-yoga-mat",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "Shanti Yoga Mat",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2022-11-02T15:18:25-04:00",
+    "shopifyPublishedAt": "2022-11-02T15:23:45-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 74,
+    "maxPrice": 74,
+    "variantPriceValues": [
+      74
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670624_1_M_243b9090-e7b4-4933-ba96-c3440f02753d.jpg?v=1669381752",
+        "width": 3206,
+        "height": 4375,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670624_4_M_45c649b7-a6a1-4353-ae33-ae75074c94d7.jpg?v=1685118400",
+        "width": 3211,
+        "height": 4381,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670624_5_M.jpg?v=1685118400",
+        "width": 3194,
+        "height": 4384,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat.png?v=1730741477",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670624_4_M.jpg?v=1685118400",
+        "width": 3194,
+        "height": 4384,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670624_3_M.jpg?v=1685118400",
+        "width": 3194,
+        "height": 4384,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670624_1_M.jpg?v=1685118400",
+        "width": 3211,
+        "height": 4381,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Anahata",
+    "slug": "shaktiwarrior-anahata-shanti-pu-yoga-mat",
+    "description": "Flow with calm and balance on the Heart Chakra Recycled PU Yoga Mat—featuring an Anahata-inspired design on eco-friendly recycled PU and natural tree rubber for grip, support, and mindful movement",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 6840112808002,
+    "shopifyHandle": "anahata-shanti-pu-yoga-mat",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "dol",
+      "Shanti Yoga Mat",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2022-11-02T15:03:04-04:00",
+    "shopifyPublishedAt": "2022-11-02T15:16:14-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3000,
+    "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670594_1_W_a1a8cb82-aa49-4995-949c-04130be4599a.jpg?v=1699349261",
+        "width": 3201,
+        "height": 4394,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670594_1_Mcopy.jpg?v=1699349261",
+        "width": 3211,
+        "height": 4381,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670594_4.jpg?v=1699349261",
+        "width": 3194,
+        "height": 4384,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat_664e1560-47c7-4655-abd7-63eb544d30de.png?v=1734003200",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670594_3.jpg?v=1699349261",
+        "width": 3194,
+        "height": 4384,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670594_2_M.jpg?v=1699349261",
+        "width": 3211,
+        "height": 4381,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/anahataPU5-grey.jpg?v=1699349261",
+        "width": 1768,
+        "height": 2160,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670594_5.jpg?v=1699349261",
+        "width": 3194,
+        "height": 4384,
+        "position": 8
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Sahasrara",
+    "slug": "shaktiwarrior-sahasrara-hemp",
+    "description": "The mat is made from sustainable hemp and features a detailed Sahasrara Crown design, representing unity and focus. Built for grip, support, and conscious practice",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704917585986,
+    "shopifyHandle": "sahasrara-hemp",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-10-14T09:39:49-04:00",
+    "shopifyPublishedAt": "2020-10-14T09:39:53-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 81,
+    "maxPrice": 81,
+    "variantPriceValues": [
+      81
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1900,
+    "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/792_1.jpg?v=1610552537",
+        "width": 3206,
+        "height": 4375,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/blacklotushemp1.jpg?v=1610552537",
+        "width": 1026,
+        "height": 1404,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/792_5.jpg?v=1610552537",
+        "width": 3206,
+        "height": 4375,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/792_4.jpg?v=1610552537",
+        "width": 3206,
+        "height": 4375,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/792_3.jpg?v=1610552537",
+        "width": 3206,
+        "height": 4375,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/792_2.jpg?v=1610552537",
+        "width": 3206,
+        "height": 4375,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled PU Yoga Mat - Sahasrara",
+    "slug": "shaktiwarrior-sahasrara-pu-wide-yoga-mat",
+    "description": "Unveil the elegance of the Sahasrara Recycled PU Yoga Mat—featuring a lotus-inspired design on a sleek black recycled PU surface with natural tree rubber. With a wider base for stability, it’s ideal for both regular and hot yoga.",
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Extra Wide"
+    ],
+    "shopifyId": 6735189114946,
+    "shopifyHandle": "sahasrara-pu-wide-yoga-mat",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Recycled PU Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "Shanti Yoga Mat",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2022-04-06T13:22:59-04:00",
+    "shopifyPublishedAt": "2022-04-07T08:49:17-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3000,
+    "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "widthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Extra Wide - 72\" L x 28\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_1_M.jpg?v=1649336851",
+        "width": 3206,
+        "height": 4375,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670495_2_M.jpg?v=1685092630",
+        "width": 3200,
+        "height": 4393,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_2_G.jpg?v=1685092630",
+        "width": 3425,
+        "height": 4370,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_3_M.jpg?v=1685092630",
+        "width": 3206,
+        "height": 4375,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_4_M.jpg?v=1685092630",
+        "width": 3206,
+        "height": 4375,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/REcycledPU_Yogamat_664e1560-47c7-4655-abd7-63eb544d30de.png?v=1734003200",
+        "width": 2700,
+        "height": 3700,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_5_M.jpg?v=1734003200",
+        "width": 3206,
+        "height": 4375,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670501_2_M.jpg?v=1734003200",
+        "width": 3206,
+        "height": 4375,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/850024670495_1_Mcopy.jpg?v=1734003200",
+        "width": 3200,
+        "height": 4393,
+        "position": 9
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "widthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Anahata",
+    "slug": "shaktiwarrior-anahata-hemp",
+    "description": "Embrace balance with the Anahata Hemp Yoga Mat—crafted from 100% sustainable hemp and natural rubber for sweat-activated grip and joint support. Ideal for hot yoga, its green design reflects the heart chakra, symbolizing love and harmony.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4766902714434,
+    "shopifyHandle": "anahata-hemp",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "dol",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2021-01-13T10:54:42-05:00",
+    "shopifyPublishedAt": "2021-01-13T10:57:02-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 69,
+    "maxPrice": 69,
+    "variantPriceValues": [
+      69
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/793_1.jpg?v=1610553415",
+        "width": 3206,
+        "height": 4375,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/anahatahemp3.jpg?v=1611757819",
+        "width": 1026,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/793_4.jpg?v=1610553415",
+        "width": 3206,
+        "height": 4375,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/793_3.jpg?v=1610553415",
+        "width": 3206,
+        "height": 4375,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/793_5.jpg?v=1610553414",
+        "width": 3206,
+        "height": 4375,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Eco_Friendly_Yoga_Mat.png?v=1767011286",
+        "width": 2700,
+        "height": 3700,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/793_2.jpg?v=1742468819",
+        "width": 3206,
+        "height": 4375,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Shivshakti",
+    "slug": "shaktiwarrior-shivshakti-pro",
+    "description": "Step onto the Shakti Warrior Cork Yoga Mat with its majestic Tiger Design—symbolizing strength, balance, and resilience. Crafted for power and performance with eco-friendly materials and enhanced grip for every practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 2013180133442,
+    "shopifyHandle": "shivshakti-pro",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "Etsy",
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2019-08-26T05:08:36-04:00",
+    "shopifyPublishedAt": "2019-08-26T05:03:46-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/1_shakti.jpg?v=1575978355",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/6_copy_18838618-3e0d-4be8-9f47-747d800ac4d7.jpg?v=1575978355",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/5_copy.jpg?v=1575978355",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/4_copy_96ec45cf-cce9-4204-872a-582f905f6443.jpg?v=1575978355",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/3_76b611a6-7b71-40fa-aa19-9b283df1aeb8.jpg?v=1575978355",
+        "width": 1025,
+        "height": 1400,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_a993452c-3935-4bc6-9b9c-dfbc15ac0807.png?v=1734003003",
+        "width": 2700,
+        "height": 3700,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled Suede Yoga Mat - Sacred",
+    "slug": "shaktiwarrior-sacred-rubber",
+    "description": "The Sacred Geometry Yoga Mat features a meaningful design symbolizing universal energy, crafted from natural tree rubber and recycled microfiber suede for cushioned support and sweat-activated grip.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704901431362,
+    "shopifyHandle": "sacred-rubber",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Suede Mats",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-10-14T08:48:31-04:00",
+    "shopifyPublishedAt": "2020-10-14T08:48:32-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 59,
+    "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2500,
+    "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/sacredsuede.jpg?v=1648289652",
+        "width": 1026,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/SPWS2110_7_J.jpg?v=1734005181",
+        "width": 1500,
+        "height": 1500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2102_2_M.jpg?v=1734005181",
+        "width": 1500,
+        "height": 2007,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/sacredsuede3.jpg?v=1734005181",
+        "width": 1022,
+        "height": 1404,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2110_3_J_7c019848-b114-428f-9c16-4423673595a8.jpg?v=1734005179",
+        "width": 1400,
+        "height": 1873,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2110_2_J.jpg?v=1734005179",
+        "width": 1400,
+        "height": 1873,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2110_5.jpg?v=1734005179",
+        "width": 1400,
+        "height": 1871,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/SPWS2110_4_J.jpg?v=1734005179",
+        "width": 1420,
+        "height": 1900,
+        "position": 8
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled Suede Yoga Mat - Ajna",
+    "slug": "shaktiwarrior-ajna-pro",
+    "description": "Elevate your practice with the Ajna Pro Yoga Mat—crafted from recycled microfiber suede and natural tree rubber for extra cushioning, sweat-activated grip, and an Ajna chakra-inspired design. Eco-friendly, durable, and free from harmful substances.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704877379650,
+    "shopifyHandle": "ajna-pro",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Suede Mats",
+    "shopifyTags": [
+      "SUMMERSALE"
+    ],
+    "shopifyCreatedAt": "2020-10-14T07:45:15-04:00",
+    "shopifyPublishedAt": "2020-10-14T07:45:18-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 72,
+    "maxPrice": 72,
+    "variantPriceValues": [
+      72
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2500,
+    "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2106_1.jpg?v=1626018981",
+        "width": 1400,
+        "height": 1871,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Ajna_Rubber.png?v=1767010524",
+        "width": 1024,
+        "height": 1536,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/ajna4suede.jpg?v=1767010524",
+        "width": 766,
+        "height": 1053,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2106_6_J.jpg?v=1767010524",
+        "width": 1400,
+        "height": 1871,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat.png?v=1767010524",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2106_4_J.jpg?v=1767010434",
+        "width": 1400,
+        "height": 1871,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled Suede Yoga Mat - Kundalini",
+    "slug": "shaktiwarrior-kundalini",
+    "description": "Ignite your practice with the Kundalini Design Yoga Mat—featuring an artful design inspired by awakening energy. Made with recycled suede and natural tree rubber, it offers joint support, non-slip grip, and lasting durability.",
+    "thickness": {
+      "value": 1,
+      "unit": "mm",
+      "source": "options",
+      "originalText": "Travel - 1mm"
+    },
+    "width": {
+      "value": 0.1,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Travel - 1mm"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704857555010,
+    "shopifyHandle": "kundalini",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Suede Mats",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-10-14T06:44:30-04:00",
+    "shopifyPublishedAt": "2020-10-14T06:44:32-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 2,
+    "minPrice": 62,
+    "maxPrice": 81,
+    "variantPriceValues": [
+      62,
+      81
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2200,
+    "maxGrams": 2500,
+    "variantGramsValues": [
+      2200,
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 1,
+    "thicknessMmMax": 1,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 0.1,
+    "widthCmMax": 0.1,
+    "thicknessMmx10Values": [
+      10
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      1
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Travel - 1mm",
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/snake1.jpg?v=1626016995",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/snake4.jpg?v=1626016995",
+        "width": 766,
+        "height": 1053,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/KundaliniSuedeMat.png?v=1767011286",
+        "width": 1024,
+        "height": 1536,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SWA30_2_M.jpg?v=1767011286",
+        "width": 777,
+        "height": 1050,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/snake0.jpg?v=1767011286",
+        "width": 685,
+        "height": 1050,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Eco_Friendly_Yoga_Mat.png?v=1767011286",
+        "width": 2700,
+        "height": 3700,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2107_3_J.jpg?v=1767011286",
+        "width": 1400,
+        "height": 1757,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2107_4_J.jpg?v=1767011286",
+        "width": 1400,
+        "height": 1868,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2107_2_J.jpg?v=1767011286",
+        "width": 1400,
+        "height": 1871,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2107_5_J.jpg?v=1767011286",
+        "width": 1400,
+        "height": 1871,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2107_7_J.jpg?v=1767011286",
+        "width": 1400,
+        "height": 1871,
+        "position": 11
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1,
+          "sourceOptionName": "Size",
+          "rawValue": "Travel - 1mm",
+          "confidence": 0.7000000000000001
+        }
+      ],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Samskara",
+    "slug": "shaktiwarrior-samskara",
+    "description": "Strong yet serene—this 6mm mat blends elephant energy, eco materials, and non-slip grip for grounded, graceful practice.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip"
+    ],
+    "shopifyId": 4499946242114,
+    "shopifyHandle": "samskara",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-04-05T12:57:37-04:00",
+    "shopifyPublishedAt": "2020-04-05T12:57:37-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 49,
+    "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/elephantPVC_2fa0f34e-335d-4098-8ec3-329b57da3dca.jpg?v=1606049085",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/elephantpvc6.jpg?v=1606049089",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEsamskara.png?v=1767012958",
+        "width": 1024,
+        "height": 1536,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_6.png?v=1767012958",
+        "width": 3206,
+        "height": 4378,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEYogaMat.png?v=1767013015",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit.png?v=1767012958",
+        "width": 3206,
+        "height": 4378,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled Suede Yoga Mat - Lotus",
+    "slug": "shaktiwarrior-lotus",
+    "description": "The elegant lotus design symbolizes purity and enlightenment, while the mat’s joint-friendly cushioning and non-slip grip offer both beauty and reliable support throughout your practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704850116674,
+    "shopifyHandle": "lotus",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Suede Mats",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop",
+      "white"
+    ],
+    "shopifyCreatedAt": "2020-10-14T06:32:20-04:00",
+    "shopifyPublishedAt": "2020-10-14T06:32:23-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2500,
+    "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/lotus3.jpg?v=1626012598",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2109_3_J.jpg?v=1626012768",
+        "width": 1400,
+        "height": 1871,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2109_7_J.jpg?v=1718394316",
+        "width": 1500,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2109_6.jpg?v=1718394316",
+        "width": 1400,
+        "height": 1871,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/Recycledsuede-Lotus.png?v=1718394316",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/lotus1.jpg?v=1718394312",
+        "width": 3189,
+        "height": 4370,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Sahasrara",
+    "slug": "shaktiwarrior-sahasrara",
+    "description": "Connect to pure consciousness with 6mm of support, eco-conscious materials, and a lotus design for unity and flow.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick"
+    ],
+    "shopifyId": 4704820887618,
+    "shopifyHandle": "sahasrara",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-10-14T05:08:44-04:00",
+    "shopifyPublishedAt": "2020-10-14T05:08:45-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 59,
+    "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1200,
+    "maxGrams": 1200,
+    "variantGramsValues": [
+      1200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/mandalablackNEW_copy.jpg?v=1755510553",
+        "width": 3295,
+        "height": 4417,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEsahasrara.png?v=1767013015",
+        "width": 1024,
+        "height": 1536,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/mandalablackNEW3_3f6a9733-07ac-4250-a93b-0ba32ea2a4e4.jpg?v=1767013015",
+        "width": 1024,
+        "height": 1536,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/mandalablackNEW4_5780ded4-e379-4f4e-b3ee-4898ccd59354.jpg?v=1767013015",
+        "width": 1024,
+        "height": 1536,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEYogaMat.png?v=1767013015",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Ajna",
+    "slug": "shaktiwarrior-ajna",
+    "description": "Inspired by ocean calm, this blue marble 6mm mat offers grip, stability, and sustainable serenity for intuitive movement.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip"
+    ],
+    "shopifyId": 4704518471746,
+    "shopifyHandle": "ajna",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-10-13T13:20:07-04:00",
+    "shopifyPublishedAt": "2020-10-13T13:20:10-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 59,
+    "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1400,
+    "maxGrams": 1400,
+    "variantGramsValues": [
+      1400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670310_4.jpg?v=1677502358",
+        "width": 3206,
+        "height": 4378,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/Ajna3copy.jpg?v=1677502358",
+        "width": 1026,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/AjnaTPE.png?v=1767012275",
+        "width": 1024,
+        "height": 1531,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEYogaMat.png?v=1767013015",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670310_2.jpg?v=1767012275",
+        "width": 3206,
+        "height": 4378,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670310_3.jpg?v=1767012275",
+        "width": 3206,
+        "height": 4378,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Samskara",
+    "slug": "shaktiwarrior-samskara-hemp",
+    "description": "The mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a detailed elephant motif, it's crafted for high performance and eco-conscious practice",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4490546020418,
+    "shopifyHandle": "samskara-hemp",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-03-26T06:53:53-04:00",
+    "shopifyPublishedAt": "2020-03-26T06:53:53-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/elephanthemp3.jpg?v=1599049800",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/elephanthempmat.jpg?v=1599049800",
+        "width": 1020,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/mandalahemp2_91f574bc-a8b3-4086-9ac3-386a532bce9a.jpg?v=1599049800",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/mandalahemp5_ea3a9261-4d6b-4311-a2d8-067c3fd3b80f.jpg?v=1599049800",
+        "width": 1200,
+        "height": 1600,
+        "position": 4
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Chakra",
+    "slug": "shaktiwarrior-chakra-hemp",
+    "description": "This mat combines hemp and natural tree rubber with vibrant chakra symbolism. Use for sweat-activated grip, durability, and love for sustainability. Crafted for high performance and mindful movement, it’s an eco-conscious choice for your daily practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 4489858154562,
+    "shopifyHandle": "chakra-hemp",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "no sale",
+      "Star",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2020-03-25T11:00:44-04:00",
+    "shopifyPublishedAt": "2020-03-25T11:00:44-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 2,
+    "minPrice": 89,
+    "maxPrice": 99,
+    "variantPriceValues": [
+      89,
+      99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1900,
+    "variantGramsValues": [
+      1800,
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W",
+          "Extra Long and Extra Wide - 84\" L x 27\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/chakrahemp8_b883fc33-ef53-433d-b4a2-d4f8cfb40ba3.jpg?v=1599050151",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/chakrahemp11.jpg?v=1599050151",
+        "width": 1026,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/CHAKRAHEMP2_a1713beb-09b6-421c-872d-4b139971a953.jpg?v=1599050151",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/Chakrahemp3.jpg?v=1599050151",
+        "width": 1200,
+        "height": 1600,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_a993452c-3935-4bc6-9b9c-dfbc15ac0807.png?v=1734003003",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.8500000000000001
+        },
+        {
+          "value": 213.36,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Samskara",
+    "slug": "shaktiwarrior-samskara-pro",
+    "description": "Elevate your practice with the Shakti Warrior Cork Yoga Mat—featuring a hand-drawn elephant design, eco-friendly materials, and enhanced grip for sustainable, high-performance movement.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 2013231972418,
+    "shopifyHandle": "samskara-pro",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "Etsy",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2019-08-26T06:18:17-04:00",
+    "shopifyPublishedAt": "2019-08-26T06:17:34-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1900,
+    "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/1squarecopy.jpg?v=1589641745",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/6squarecopy_1.jpg?v=1589641745",
+        "width": 1400,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/3_774dcada-f01a-4129-ad22-fedaa4deba0e.jpg?v=1589641745",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_11272055-a923-49af-a45a-0272278f2cb5.png?v=1730737083",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/5_copy_685dedcc-5992-496b-950f-402afacbffef.jpg?v=1589641745",
+        "width": 1025,
+        "height": 1400,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/4_copy_3a2ff078-4a28-4a11-9a44-6032f97db511.jpg?v=1589641745",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/IMG_85042.jpg?v=1706683873",
+        "width": 1200,
+        "height": 800,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Mandala",
+    "slug": "shaktiwarrior-mandala-pro",
+    "description": "Made from cork and natural rubber, this mat delivers non-slip performance and joint support, finished with a detailed mandala design for a distinct look.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 2013167878210,
+    "shopifyHandle": "mandala-pro",
+    "shopifyVendor": "Shakti Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "dol",
+      "Star",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2019-08-26T04:38:05-04:00",
+    "shopifyPublishedAt": "2019-08-26T04:36:12-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 2,
+    "minPrice": 84,
+    "maxPrice": 99,
+    "variantPriceValues": [
+      84,
+      99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1900,
+    "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W",
+          "Extra Long and Extra Wide - 84\" L x 27\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/1_shakti_95dc6520-7dd0-492b-a3ec-1cf5cd7e71b7.jpg?v=1596023520",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/6_copy.jpg?v=1596023520",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/3.jpg?v=1575979461",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/5.jpg?v=1575979461",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_aa0df4a2-11a0-4660-b21d-7c619efb22fe.png?v=1730742328",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/4_copy.jpg?v=1575979461",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/IMG_8965_a3e1d160-a9b6-4349-b4de-933231adaedd.jpg?v=1706683843",
+        "width": 3456,
+        "height": 2304,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.8500000000000001
+        },
+        {
+          "value": 213.36,
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Aum",
+    "slug": "shaktiwarrior-aum",
+    "description": "Embrace focus and serenity with the Aum Cork Yoga Mat -crafted for mindful movement, enhanced grip, and a calming presence on the mat. Perfect for setting intentions and deepening your practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 1691037532226,
+    "shopifyHandle": "aum",
+    "shopifyVendor": "Spiritual Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2018-11-20T02:57:46-05:00",
+    "shopifyPublishedAt": "2018-11-20T02:50:24-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1900,
+    "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/aumplainmat.jpg?v=1602766754",
+        "width": 1026,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/plainmat.jpg?v=1602766754",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5065_12_eb5a7585-499f-4bc8-9341-6ff3db209be2.jpg?v=1602766754",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_7e5a2ff5-8afc-4a9c-971f-6a1473f6f43c.png?v=1730737047",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/5_6c25f2b5-dd99-454c-b78d-489c691c7c32.jpg?v=1602766754",
+        "width": 1025,
+        "height": 1400,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SW-MAT-02_3.jpg?v=1602766754",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/IMG_OMYOGA.jpg?v=1602766754",
+        "width": 1025,
+        "height": 1400,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Chakra",
+    "slug": "shaktiwarrior-chakra-yoga-mat",
+    "description": "Find balance on the Chakra TPE Yoga Mat—crafted from recycled plastic with 6mm cushioning and a vibrant chakra design for grip, alignment, and mindful flow.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 102427951123,
+    "shopifyHandle": "chakra-yoga-mat",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "no sale",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2017-12-22T02:28:45-05:00",
+    "shopifyPublishedAt": "2017-12-22T02:28:43-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 49,
+    "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_7.png?v=1718395173",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_3.png?v=1718395174",
+        "width": 1500,
+        "height": 2049,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPE_chakra.png?v=1767011663",
+        "width": 1024,
+        "height": 1536,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEYogaMat.png?v=1767013015",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/edit_8.png?v=1767011663",
+        "width": 1500,
+        "height": 2049,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSPIRISW0005_8.jpg?v=1767011663",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SWWImg2.jpg?v=1767011663",
+        "width": 1025,
+        "height": 1400,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Recycled Suede Yoga Mat - Zakti",
+    "slug": "shaktiwarrior-zakti",
+    "description": "Channel strength and stability with the Elephant design Yoga Mat—crafted from natural tree rubber and recycled microfiber suede for superior cushioning, non-slip grip, and eco-conscious durability.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 102427885587,
+    "shopifyHandle": "zakti",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Suede Mats",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2017-12-22T02:28:41-05:00",
+    "shopifyPublishedAt": "2017-12-22T02:28:40-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2495,
+    "maxGrams": 2495,
+    "variantGramsValues": [
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5069_14.jpg?v=1626004565",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5069_22.jpg?v=1626004565",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5069_16.jpg?v=1626004565",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5069_17_74207cd2-7628-48ab-ac34-5e1ed6f7b62e.jpg?v=1626004565",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5069_18.jpg?v=1626004565",
+        "width": 1025,
+        "height": 1400,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/SPWS2108_5_J.jpg?v=1626004581",
+        "width": 1400,
+        "height": 1889,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "TPE Yoga Mat - Jnana",
+    "slug": "shaktiwarrior-jnana-yoga-mat",
+    "description": "Rise into bliss with our Feather Design TPE Yoga Mat—crafted from recycled plastic with 6mm cushioning and angelic symbolism for grip, support, and soulful flow.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "TPE",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip"
+    ],
+    "shopifyId": 102427852819,
+    "shopifyHandle": "jnana-yoga-mat",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "TPE Mat",
+    "shopifyTags": [
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2017-12-22T02:28:39-05:00",
+    "shopifyPublishedAt": "2017-12-22T02:28:37-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 49,
+    "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1400,
+    "maxGrams": 1400,
+    "variantGramsValues": [
+      1400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670334_4_b98e00d4-c3a3-4a7d-a956-b1247d35ec0e.jpg?v=1677502048",
+        "width": 3206,
+        "height": 4378,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPE_Jnana.png?v=1767012095",
+        "width": 1024,
+        "height": 1531,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670334_2.jpg?v=1767012095",
+        "width": 3206,
+        "height": 4378,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/TPEYogaMat.png?v=1767013015",
+        "width": 2700,
+        "height": 3700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/ojas-collection.jpg?v=1767012095",
+        "width": 3456,
+        "height": 2304,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/IMG_7849.jpg?v=1767012095",
+        "width": 3456,
+        "height": 2304,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/850024670334_3.jpg?v=1767012095",
+        "width": 3206,
+        "height": 4378,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Cork Yoga Mat - Akasa",
+    "slug": "shaktiwarrior-akasa-pro",
+    "description": "Step onto the Akasa Cork Yoga Mat - featuring a hand-drawn Dreamcatcher design on eco-friendly cork to inspire positive energy, grip, and mindful movement in every practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 102427787283,
+    "shopifyHandle": "akasa-pro",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Cork Mat",
+    "shopifyTags": [
+      "customify",
+      "customizable",
+      "SUMMERSALE",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2017-12-22T02:28:34-05:00",
+    "shopifyPublishedAt": "2017-12-22T02:28:33-05:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 81,
+    "maxPrice": 81,
+    "variantPriceValues": [
+      81
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2000,
+    "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/dreamcatcher_49b4619c-421d-430a-883c-b9bb760d7011.jpg?v=1596023475",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSPIRISW0003_10.jpg?v=1596023475",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5068_12.jpg?v=1575992048",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5068_13.jpg?v=1575992048",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_a993452c-3935-4bc6-9b9c-dfbc15ac0807.png?v=1734003003",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/products/MFSpiriSW5068_9.jpg?v=1734003003",
+        "width": 1025,
+        "height": 1400,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/IMG_5048.jpg?v=1734003003",
+        "width": 1125,
+        "height": 1332,
+        "position": 7
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Firestone",
+    "slug": "shaktiwarrior-hemp-yoga-mat-firestone",
+    "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a rich, deep burgundy hue that inspires focus and warmth, it’s crafted for high performance and an eco-conscious practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7494628409410,
+    "shopifyHandle": "hemp-yoga-mat-firestone",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "New Arrivals",
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2025-06-08T09:24:35-04:00",
+    "shopifyPublishedAt": "2025-06-10T14:47:54-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/top.jpg?v=1749389189",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/side.jpg?v=1749389189",
+        "width": 1200,
+        "height": 1600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/strap.jpg?v=1749389189",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/angle.jpg?v=1749389189",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_aa0df4a2-11a0-4660-b21d-7c619efb22fe.png?v=1730742328",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - Moonbeam",
+    "slug": "shaktiwarrior-hemp-yoga-mat-moonbeam",
+    "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a moon hue that inspires neutrality, it’s crafted for high performance and an eco-conscious practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7495728660546,
+    "shopifyHandle": "hemp-yoga-mat-moonbeam",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "No Sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2025-06-10T14:09:35-04:00",
+    "shopifyPublishedAt": "2025-06-12T04:10:53-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/top_c240f71b-c970-4db0-9608-bba8d61c821d.jpg?v=1749715820",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/side_d44a746d-e2f5-446b-a2b9-25726296bb6b.jpg?v=1749715820",
+        "width": 1200,
+        "height": 1600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/strap_0ea48d7d-aa48-4a2c-8e37-f84aee193bd0.jpg?v=1749715820",
+        "width": 1025,
+        "height": 1400,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/angle_af38279e-4301-405c-a580-f0f45b74e0f2.jpg?v=1749715820",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "shaktiwarrior",
+    "name": "Hemp Yoga Mat - River",
+    "slug": "shaktiwarrior-hemp-yoga-mat-river",
+    "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a deep blue hue that inspires neutrality, it’s crafted for high performance and an eco-conscious practice.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7495737212994,
+    "shopifyHandle": "hemp-yoga-mat-river",
+    "shopifyVendor": "S Warrior",
+    "shopifyProductType": "Hemp Mat",
+    "shopifyTags": [
+      "New Arrivals",
+      "no sale",
+      "Verishop"
+    ],
+    "shopifyCreatedAt": "2025-06-10T14:31:17-04:00",
+    "shopifyPublishedAt": "2025-06-10T14:32:36-04:00",
+    "shopifyUpdatedAt": "2026-01-07T10:07:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 83,
+    "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1800,
+    "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "Studio - 72\" L x 24\" W"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/top_e2ae2ccf-e874-40e3-be2b-6c04130444cb.jpg?v=1749580331",
+        "width": 1025,
+        "height": 1400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/strap_dd47a069-7a37-4821-a20b-21c91a999835.jpg?v=1749580331",
+        "width": 1025,
+        "height": 1400,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/side_af0823d3-f637-4099-bb1c-8519340f3823.jpg?v=1749580331",
+        "width": 1200,
+        "height": 1600,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/angle_8897c6c9-326e-4f8a-af2d-7a15b55870aa.jpg?v=1749580331",
+        "width": 1025,
+        "height": 1400,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2664/1900/files/EcoFriendlyYogaMat_a993452c-3935-4bc6-9b9c-dfbc15ac0807.png?v=1734003003",
+        "width": 2700,
+        "height": 3700,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 182.88,
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  }
+]

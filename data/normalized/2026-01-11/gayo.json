@@ -1,0 +1,741 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "gayo",
+    "name": "Eco-Friendly Cork Yoga Mat",
+    "slug": "gayo-yoga-cork-mat",
+    "description": "Find Your Balance with Earthy Comfort\nExperience the perfect blend of comfort, support, and sustainability with Gayo's Premium Cork Yoga Mat with Enhanced Grip. Designed to elevate your yoga practice, this high-grip cork yoga mat for home workouts offers ample room to stretch, flow, and meditate.\n Its added thickness cushions your joints for enhanced support during your most challenging poses, making it an ideal choice for eco-friendly yoga enthusiasts seeking performance and durability.\n\n\nEarthy Comfort: The cork surface yoga mat provides a soft yet firm texture for excellent joint cushioning.\nSpine Aligned: Built-in alignment lines help improve posture.\nBigger & Thicker: This durable cork yoga mat for all levels of practice features a spacious design for extra support.\n\nNon-Slip Performance: Enjoy the superior performance of this sustainable cork yoga mat with a non-slip surface, ensuring stability during practice.\n\nDurable & Sustainable: Made from sustainably sourced cork and natural rubber, our product is an eco-conscious choice. Ideal for home use, it offers both comfortable cork surface benefits and exceptional grip.\n\nThis cork yoga mat is ideal for practice at any level, offering exceptional durability and stability. Its sustainable cork surface ensures a top-notch experience, enhancing your practice with reliable support and eco-friendly benefits.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "weight": {
+      "value": 4.082336184920758,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "9 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide",
+      "Alignment Marks",
+      "Premium"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Dimensions: 72\" x 26\" x 5mm",
+          "Weight: 9 lbs",
+          "Material: Sustainably sourced cork and natural tree rubber",
+          "Features: Built-in alignment lines, non-slip surface",
+          "Allow the mat to air dry completely before rolling it up.",
+          "Always roll it up with the cork side facing outwards.",
+          "Avoid prolonged exposure to sunlight; store in a shaded area.",
+          "Clean with a damp cloth, mild soap, and warm water.",
+          "Earthy Comfort : The cork surface yoga mat provides a soft yet firm texture for excellent joint cushioning.",
+          "Spine Aligned: Built-in alignment lines help improve posture.",
+          "Bigger & Thicker: This durable cork yoga mat for all levels of practice features a spacious design for extra support .",
+          "Non-Slip Performance : Enjoy the superior performance of this sustainable cork yoga mat with a non-slip surface, ensuring stability during practice.",
+          "Durable & Sustainable : Made from sustainably sourced cork and natural rubber, our product is an eco-conscious choice . Ideal for home use, it offers both comfortable cork surface benefits and exceptional grip."
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 7676617392310,
+    "shopifyHandle": "yoga-cork-mat",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "all",
+      "eco friendly yoga mat",
+      "Eco-Friendly Yoga Gear",
+      "large yoga mat",
+      "Organic Yoga Mat",
+      "Sustainable Yoga Gear",
+      "sustainable yoga mat",
+      "Yoga Accessories",
+      "Yoga Gift",
+      "Yoga Gift for friend",
+      "Yoga Gift for men",
+      "Yoga Gift for Mom",
+      "Yoga Gift for myself",
+      "Yoga Gift for sister",
+      "Yoga Gift for wife",
+      "yoga gift for women",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2023-10-02T21:08:22-04:00",
+    "shopifyPublishedAt": "2023-10-02T21:08:22-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:17-05:00",
+    "variantsCount": 1,
+    "minPrice": 69.97,
+    "maxPrice": 69.97,
+    "variantPriceValues": [
+      69.97
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 4082,
+    "maxGrams": 4082,
+    "variantGramsValues": [
+      4082
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Eco_Friendly_Cork_Yoga_Mat.jpg?v=1741471781",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Biodegradable_yoga_mat_with_alignment_lines.jpg?v=1741471972",
+        "width": 3000,
+        "height": 3000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Cork_and_natural_rubber_yoga_mat.jpg?v=1741472095",
+        "width": 3000,
+        "height": 3000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Best_non_slip_cork_yoga_mat.jpg?v=1741472209",
+        "width": 3000,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Eco-conscious_sweat_resistant_yoga_mat_kit.jpg?v=1741472280",
+        "width": 3000,
+        "height": 3000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Natural_Yoga_mat_gift_for_all_yogis.jpg?v=1741472369",
+        "width": 3000,
+        "height": 3000,
+        "position": 6
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "gayo",
+    "name": "Organic & Eco-Friendly Cotton Yoga Mat",
+    "slug": "gayo-handmade-cotton-yoga-mat",
+    "description": "Organic Comfort for Your Practice\nIntroducing Gayo’s Handmade Organic Cotton Yoga Mat, the perfect eco-friendly yoga mat for mindful practice and conscious living. This handcrafted yoga mat is made from 100% natural cotton, offering a soft, supportive surface ideal for home yoga sessions or outdoor yoga workouts.\n Whether you’re seeking a sustainable yoga mat for restorative or gentle yoga or a breathable organic cotton mat for travel, this mat delivers comfort, durability, and environmental care.\n Designed for year-round use, it also doubles as an organic cotton exercise mat for indoor and outdoor mindfulness practices. Elevate your yoga experience with a mat that embodies mindfulness, sustainability, and effortless comfort.\n\nComfortable and supportive\nDurable & long-lasting\nAbsorbent & moisture-wicking\nLightweight & Portable - Ideal for travel and on-the-go yogis",
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74 inches x 26 inches "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74 inches x 26 inches "
+    },
+    "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "features": [
+      "Eco-Friendly",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Material : 100% Organic Cotton",
+          "Dimensions : 74 inches x 26 inches",
+          "Weight : Lightweight",
+          "Thickness : Comfortable and supportive",
+          "Hand Wash Only : Gently hand wash in cold water with mild detergent.",
+          "Drying : Air dry in the shade. Avoid machine drying.",
+          "Maintenance : Do not bleach. Ensure mat is completely dry before use.",
+          "Comfortable and supportive",
+          "Durable & long-lasting",
+          "Absorbent & moisture-wicking",
+          "Lightweight & Portable - Ideal for travel and on-the-go yogis"
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 7596248465590,
+    "shopifyHandle": "handmade-cotton-yoga-mat",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Organic Mat",
+    "shopifyTags": [
+      "all",
+      "cotton yoga rug",
+      "Environmentally Friendly",
+      "foldable yoga mat",
+      "hand crafted",
+      "Natural Materials",
+      "Non-Toxic",
+      "Organic Yoga Mat",
+      "sustainable yoga mat",
+      "woven yoga mat",
+      "Yoga Accessories",
+      "Yoga Gear",
+      "Yoga Gift",
+      "Yoga Gift for friend",
+      "Yoga Gift for men",
+      "Yoga Gift for Mom",
+      "Yoga Gift for myself",
+      "Yoga Gift for sister",
+      "Yoga Gift for wife",
+      "yoga gift for women",
+      "Yoga mat",
+      "yoga mat cotton"
+    ],
+    "shopifyCreatedAt": "2023-05-15T10:12:07-04:00",
+    "shopifyPublishedAt": "2023-05-15T10:12:07-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:17-05:00",
+    "variantsCount": 2,
+    "minPrice": 49.97,
+    "maxPrice": 49.97,
+    "variantPriceValues": [
+      49.97
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1066,
+    "maxGrams": 1066,
+    "variantGramsValues": [
+      1066
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Navy",
+          "LightCoral"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Organic_Eco-Friendly_Cotton_Yoga_Mat.jpg?v=1741473415",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GOTS_certified_natural_cotton_yoga_mat.jpg?v=1741473743",
+        "width": 3000,
+        "height": 3000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_YOGA_MAT_-_EASY_TO_CARRY_-_D1_A.jpg?v=1749237570",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Handwoven_natural_yoga_mat.jpg?v=1749237570",
+        "width": 3000,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Non-toxic_sustainable_yoga_mat.jpg?v=1749237570",
+        "width": 3000,
+        "height": 3000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_NEW_YOGA_MAT_-_MAIN_IMAGE_-_5_1.jpg?v=1764078100",
+        "width": 3000,
+        "height": 3000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_YOGA_MAT_-_DURABLE_-_2_2.jpg?v=1764078299",
+        "width": 3000,
+        "height": 3000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_YOGA_MAT_-_EASY_TO_CARRY_-_3_2.jpg?v=1764078298",
+        "width": 3000,
+        "height": 3000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_YOGA_MAT_-_PERFECT_-_4_2.jpg?v=1764078299",
+        "width": 3000,
+        "height": 3000,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_NEW_YOGA_MAT_-_MAIN_IMAGE_-_5_2.jpg?v=1764078299",
+        "width": 3000,
+        "height": 3000,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/GYO_-_YOGA_MAT_-_INFOGRAPHICS_-_1_2.jpg?v=1764078299",
+        "width": 3000,
+        "height": 3000,
+        "position": 11
+      }
+    ],
+    "availableColors": [
+      "Navy",
+      "LightCoral"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "gayo",
+    "name": "Eco Balance Yoga Mat- 4 mm",
+    "slug": "gayo-eco-friendly-non-slip-yoga-mat-4mm",
+    "description": "Stability, Comfort & Sustainability in Every Pose\nLooking for a yoga mat that’s comfortable, durable, and easy to carry? The Eco Balance Yoga Mat 4 mm delivers just that, combining eco-friendly materials with superior grip for a stable and reliable practice.\n Made from natural tree rubber and high-performance Eco-polyurethane, this non-toxic, sustainable yoga mat supports all styles of yoga, from active flows to restorative sessions. Its 4 mm thickness provides balanced cushioning to protect your joints while maintaining a grounded feel.\n Lightweight and portable, it’s perfect for home workouts, studio classes, or outdoor yoga sessions, making it a top choice for buyers who value performance, sustainability, and convenience.\n\n\n Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.\n\nEnhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.\n\nAlignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice\n\nLightweight & Portable – Easy to carry with the included strap for on-the-go yoga.\n\nAesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment.\n\nDesigned for yogis of all levels, this mat brings comfort and confidence to every practice. Elevate your flow with a mat that’s as mindful as your movements.. Designed to last, reducing waste over time.",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4 mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "weight": {
+      "value": 2.9029946203880943,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "6.4 lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Dimensions: 72\" x 26\" x 4mm",
+          "Weight: 6.4 lbs",
+          "Material: Natural rubber & high-performance Eco-pu",
+          "Features: Built-in alignment lines, non-slip surface",
+          "Clean with a damp cloth, mild soap, and warm water.",
+          "Allow the mat to air dry completely before rolling it up.",
+          "Avoid prolonged exposure to sunlight; store in a shaded area.",
+          "Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.",
+          "Enhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.",
+          "Alignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice",
+          "Lightweight & Portable – Easy to carry with the included strap for on-the-go yoga.",
+          "Aesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment."
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 8158717542582,
+    "shopifyHandle": "eco-friendly-non-slip-yoga-mat-4mm",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "all",
+      "eco friendly yoga mat",
+      "Eco-Friendly Yoga Gear",
+      "large yoga mat",
+      "Organic Yoga Mat",
+      "Sustainable Yoga Gear",
+      "sustainable yoga mat",
+      "Yoga Accessories",
+      "Yoga Gift",
+      "Yoga Gift for friend",
+      "Yoga Gift for men",
+      "Yoga Gift for Mom",
+      "Yoga Gift for myself",
+      "Yoga Gift for sister",
+      "Yoga Gift for wife",
+      "yoga gift for women",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-02-28T16:45:34-05:00",
+    "shopifyPublishedAt": "2025-03-07T10:22:56-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:17-05:00",
+    "variantsCount": 1,
+    "minPrice": 75.97,
+    "maxPrice": 75.97,
+    "variantPriceValues": [
+      75.97
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2903,
+    "maxGrams": 2903,
+    "variantGramsValues": [
+      2903
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Eco-friendly_non_slip_yoga_mat.jpg?v=1741361846",
+        "width": 3000,
+        "height": 3000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Non_slip_durable_yoga_mat.jpg?v=1741361932",
+        "width": 3000,
+        "height": 3000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/4mm_thick_large_yoga_mat.jpg?v=1741361976",
+        "width": 3000,
+        "height": 3000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/Eco-friendly_non_toxic_yoga_mat.jpg?v=1741362020",
+        "width": 3000,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/premium_afforadable_thick_yoga_mat.jpg?v=1741362068",
+        "width": 3000,
+        "height": 3000,
+        "position": 5
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "gayo",
+    "name": "Eco Balance Pro Yoga Mat- 5 mm",
+    "slug": "gayo-eco-balance-yoga-mat-5-mm",
+    "description": "Stability, Comfort & Sustainability in Every Pose\nMove with confidence on a mat designed for grip, durability, and eco-friendly performance. Made from natural tree rubber and high-performance Eco-polyurethane, this non-toxic mat provides excellent traction and support for all styles of yoga.\n With a 5 mm thickness for optimal cushioning, it’s the perfect choice if you’re wondering “what thickness yoga mat should I get?”\n Featuring alignment lines for precision and a lightweight, portable design, it’s an ideal yoga mat for home practice or studio and outdoor yoga workouts.\n\n\n Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.\n\nEnhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.\n\nAlignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice\n\nLightweight & Portable – Easy to carry with the included strap for on-the-go yoga.\n\nAesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment.\n\nDesigned for yogis of all levels, this mat brings comfort and confidence to every practice. Elevate your flow with a mat that’s as mindful as your movements.. Designed to last, reducing waste over time.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5 mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" x 26\" "
+    },
+    "weight": {
+      "value": 3.810180439259374,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "8.4 lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Specs",
+        "items": [
+          "Dimensions: 72\" x 26\" x 5mm",
+          "Weight: 8.4 lbs",
+          "Material: Natural rubber & high-performance Eco-pu",
+          "Features: Built-in alignment lines, non-slip surface",
+          "Clean with a damp cloth, mild soap, and warm water.",
+          "Allow the mat to air dry completely before rolling it up.",
+          "Avoid prolonged exposure to sunlight; store in a shaded area.",
+          "Your Practice, Your Planet – Made with natural rubber and free from harmful toxins.",
+          "Enhanced Performance – \"EcoLock Surface Technology\" keeps you stable, even in sweaty sessions.",
+          "Alignment Lines for Precision – Helps maintain perfect posture, refine your form, and deepen your practice",
+          "Lightweight & Portable – Easy to carry with the included strap for on-the-go yoga.",
+          "Aesthetic & Functional Design - In Soft & Calming Colors this mat is designed to create a peaceful, focused environment."
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 8255924961462,
+    "shopifyHandle": "eco-balance-yoga-mat-5-mm",
+    "shopifyVendor": "Gayo",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "all",
+      "eco friendly yoga mat",
+      "Eco-Friendly Yoga Gear",
+      "large yoga mat",
+      "Organic Yoga Mat",
+      "Sustainable Yoga Gear",
+      "sustainable yoga mat",
+      "Yoga Accessories",
+      "Yoga Gift",
+      "Yoga Gift for friend",
+      "Yoga Gift for men",
+      "Yoga Gift for Mom",
+      "Yoga Gift for myself",
+      "Yoga Gift for sister",
+      "Yoga Gift for wife",
+      "yoga gift for women",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2025-07-07T14:21:43-04:00",
+    "shopifyPublishedAt": "2025-07-07T14:38:58-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:17-05:00",
+    "variantsCount": 1,
+    "minPrice": 79.9,
+    "maxPrice": 79.9,
+    "variantPriceValues": [
+      79.9
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3810,
+    "maxGrams": 3810,
+    "variantGramsValues": [
+      3810
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-0.jpg?v=1751912788",
+        "width": 1500,
+        "height": 1319,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-1.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1442,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-2.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-3.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1451,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-4.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-5.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0622/9694/8918/files/B0DWNZJ1K2-listing-6.jpg?v=1751912801",
+        "width": 1500,
+        "height": 1441,
+        "position": 7
+      }
+    ]
+  }
+]

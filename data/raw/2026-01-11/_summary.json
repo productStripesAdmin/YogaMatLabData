@@ -1,0 +1,171 @@
+{
+  "date": "2026-01-11",
+  "totalBrands": 23,
+  "successfulBrands": 23,
+  "failedBrands": 0,
+  "totalProducts": 507,
+  "results": [
+    {
+      "brandName": "42 Birds",
+      "brandSlug": "42birds",
+      "success": true,
+      "productCount": 10,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Alo Yoga",
+      "brandSlug": "aloyoga",
+      "success": true,
+      "productCount": 30,
+      "totalPages": 0,
+      "error": "All collections failed: Collection 1: HTTP 403: Forbidden"
+    },
+    {
+      "brandName": "Ananday",
+      "brandSlug": "ananday",
+      "success": true,
+      "productCount": 4,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Bala",
+      "brandSlug": "bala",
+      "success": true,
+      "productCount": 20,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Gaiam",
+      "brandSlug": "gaiam",
+      "success": true,
+      "productCount": 35,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Gayo",
+      "brandSlug": "gayo",
+      "success": true,
+      "productCount": 4,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Heathyoga",
+      "brandSlug": "heathyoga",
+      "success": true,
+      "productCount": 6,
+      "totalPages": 1
+    },
+    {
+      "brandName": "House of Mats",
+      "brandSlug": "houseofmats",
+      "success": true,
+      "productCount": 21,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Jade Yoga",
+      "brandSlug": "jadeyoga",
+      "success": true,
+      "productCount": 16,
+      "totalPages": 1
+    },
+    {
+      "brandName": "KEEP",
+      "brandSlug": "keep",
+      "success": true,
+      "productCount": 7,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Liforme",
+      "brandSlug": "liforme",
+      "success": true,
+      "productCount": 41,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Manduka",
+      "brandSlug": "manduka",
+      "success": true,
+      "productCount": 16,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Öko Living",
+      "brandSlug": "okoliving",
+      "success": true,
+      "productCount": 18,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Satori Concept",
+      "brandSlug": "thesatoriconcept",
+      "success": true,
+      "productCount": 12,
+      "totalPages": 4
+    },
+    {
+      "brandName": "Scoria",
+      "brandSlug": "scoria",
+      "success": true,
+      "productCount": 44,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Sensu",
+      "brandSlug": "sensu",
+      "success": true,
+      "productCount": 3,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Shakti Warrior",
+      "brandSlug": "shaktiwarrior",
+      "success": true,
+      "productCount": 32,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Stakt",
+      "brandSlug": "stakt",
+      "success": true,
+      "productCount": 8,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Wolo",
+      "brandSlug": "woloyoga",
+      "success": true,
+      "productCount": 8,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yoga Design Lab",
+      "brandSlug": "yogadesignlab",
+      "success": true,
+      "productCount": 49,
+      "totalPages": 1
+    },
+    {
+      "brandName": "YogaMatters",
+      "brandSlug": "yogamatters",
+      "success": true,
+      "productCount": 53,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yogi Bare",
+      "brandSlug": "yogibare",
+      "success": true,
+      "productCount": 10,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yoloha",
+      "brandSlug": "yolohayoga",
+      "success": true,
+      "productCount": 60,
+      "totalPages": 1
+    }
+  ]
+}

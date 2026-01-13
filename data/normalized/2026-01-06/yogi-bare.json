@@ -1,0 +1,807 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "Performance Pilates Arch Mat FSC® Certified Natural Rubber - Chocolate",
+    "slug": "yogi-bare-pilates-mat",
+    "description": "Your order also comes with a free gift with purchase travel size premium botanical skincare \"oil la la\" from our friends at lelive. \nSculpted. Supported. Sustainably.\nGet ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.\nSustainability meets studio grade support.\nCrafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nAesthetic + Spacious Double Arch Design\nSuperior Grip: Our infamous ultra grip top layer supports your every move.\nCushioned Comfort: Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. \nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\n \nThe Feel\nAnything is possible with the right support.\nHeld under hand, stable under foot. Delicious colour ways you can taste.\nThe perfect balance of comfort and control so the focus stays on your practice.\n\nThe Detail\n660mm x 1800mm\nChoose from either 5mm or 8mm thickness\nAesthetic + Spacious Double Arch Design\nFSC® Certified Natural Rubber\nNon Toxic. PVC free.",
+    "thickness": 5,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 15258628718971,
+    "shopifyHandle": "pilates-mat",
+    "shopifyTags": [
+      "Boxing Day"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 2,
+    "minPrice": 81,
+    "maxPrice": 104,
+    "priceCurrency": "USD",
+    "minGrams": 2400,
+    "maxGrams": 3200,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "5MM",
+      "8MM"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thickness",
+        "position": 1,
+        "values": [
+          "5MM",
+          "8MM"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533196",
+        "width": 1024,
+        "height": 1024,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_3.jpg?v=1766533196",
+        "width": 1024,
+        "height": 1024,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_1.jpg?v=1766533196",
+        "width": 1024,
+        "height": 1024,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign6245_Product_Page.jpg?v=1766533196",
+        "width": 2000,
+        "height": 1999,
+        "position": 4
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "Performance Pilates Arch Mat FSC® Certified Natural Rubber - Milk",
+    "slug": "yogi-bare-pilates-mat-black-copy",
+    "description": "Your order also comes with a free gift with purchase travel size premium botanical skincare \"oil la la\" from our friends at lelive. \nSculpted. Supported. Sustainably. \nGet ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.\nSustainability meets studio grade support.\nCrafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.\n\n\nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nAesthetic + Spacious Double Arch Design \nSuperior Grip: Our infamous ultra grip top layer supports your every move.\nCushioned Comfort: Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. \nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\n \nThe Feel\nAnything is possible with the right support.\nHeld under hand, stable under foot. Delicious colour ways you can taste.\nThe perfect balance of comfort and control so the focus stays on your practice.\n\nThe Detail\n660mm x 1800mm\nAesthetic + Spacious Double Arch Design \nChoose from either 5mm or 8mm thickness\nFSC® Certified Natural Rubber\n\nPVC free.",
+    "thickness": 5,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 15280332734843,
+    "shopifyHandle": "pilates-mat-black-copy",
+    "shopifyTags": [
+      "Boxing Day",
+      "Pilates Mat"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 2,
+    "minPrice": 81,
+    "maxPrice": 104,
+    "priceCurrency": "USD",
+    "minGrams": 2800,
+    "maxGrams": 3200,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "5MM",
+      "8MM"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thickness",
+        "position": 1,
+        "values": [
+          "5MM",
+          "8MM"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_Boxing_Sale.jpg?v=1766532895",
+        "width": 1024,
+        "height": 1024,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign5749_1_Product_Page_23647f01-066c-44c8-a8af-9b1ae522da99.jpg?v=1766532895",
+        "width": 2000,
+        "height": 1999,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_Mat_Ecom_1.jpg?v=1766532895",
+        "width": 1024,
+        "height": 1024,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_2.jpg?v=1766532895",
+        "width": 1024,
+        "height": 1024,
+        "position": 4
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "Performance Pilates Arch Mat.  FSC® Certified Natural Rubber - Black",
+    "slug": "yogi-bare-pilates-mat-black",
+    "description": "Your order also comes with a free gift with purchase travel size premium botanical skincare \"oil la la\" from our friends at lelive. \nSculpted. Supported. Sustainably.\nGet ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.\nSustainability meets studio grade support.\nCrafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.\nEach mat comes with a free special gift of premium botanical skincare Oil La La from our friends at lelive.\nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nAesthetic + Spacious Double Arch Design \nSuperior Grip: Our infamous ultra grip top layer supports your every move.\nCushioned Comfort: Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. \nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\n \nThe Feel\nAnything is possible with the right support.\nHeld under hand, stable under foot. Delicious colour ways you can taste.\nThe perfect balance of comfort and control so the focus stays on your practice.\n\nThe Detail\n660mm x 1800mm\nAesthetic + Spacious Double Arch Design \nChoose from either 5mm or 8mm thickness\nFSC® Certified Natural Rubber\nNon toxic. PVC free.",
+    "thickness": 5,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 15280332538235,
+    "shopifyHandle": "pilates-mat-black",
+    "shopifyTags": [
+      "Boxing Day"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 2,
+    "minPrice": 81,
+    "maxPrice": 104,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "5MM",
+      "8MM"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thickness",
+        "position": 1,
+        "values": [
+          "5MM",
+          "8MM"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Back_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533110",
+        "width": 1024,
+        "height": 1024,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Black_Pilates_Mat_Ecom_3.jpg?v=1766533110",
+        "width": 1024,
+        "height": 1024,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign5412_Product_Page_b4831aff-5108-4ffb-968b-eac6012a4c11.jpg?v=1766533110",
+        "width": 2000,
+        "height": 2002,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Back_Pilates_Mat_Ecom_1.jpg?v=1766533110",
+        "width": 1024,
+        "height": 1024,
+        "position": 4
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "The Original Paws Sticky Grip Yoga Mat. FSC® Certified Natural Rubber -  Wild Forest",
+    "slug": "yogi-bare-yogi-bare-paws-yoga-pilates-mat-wild-forest",
+    "description": "Grip that sticks. Support that shows up.\nThe mat that made us famous.\nOur classic sticky grip built for high-performance grip and grounded stability, Vogue named us every Yoga Teacher’s favourite mat for a reason.\nBecause when you can trust your mat to hold and support you the rest just clicks.\n \nWhy You’ll Love It\nUnbeatable grip,  even in hot, sweaty flows. \nEngineered for performance with an ultra sticky grip top layer and stable, supportive base.\nFSC™ certified Rubber meaning our rubber is traceable and from a renewable protected source and biodegradable in correct landfill conditions. \nBuilt to last. Durable by design: tear-resistant, high-tensile rubber that won’t flake, stretch, or roll mid-flow\nSubtle alignment guides for intuitive precision without distraction\nFor the yogi who wants their mat to work as hard as they do.",
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 7911520108682,
+    "shopifyHandle": "yogi-bare-paws-yoga-pilates-mat-wild-forest",
+    "shopifyTags": [
+      "_Bestseller",
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_2_5b1fae48-3ce7-406a-a313-455b8ffc0657.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_5.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-WildForest_cef99fdc-1ec9-4c23-8aa6-b2bad20d9e39.jpg?v=1755183182",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_7.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_3.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_6.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_4.png?v=1755183182",
+        "width": 1920,
+        "height": 1920,
+        "position": 7
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "The Original Paws Sticky Grip Yoga Mat. FSC® Certified Natural Rubber - Midnight Black",
+    "slug": "yogi-bare-yogi-bare-paws-yoga-mat-midnight",
+    "description": "Grip that sticks. Support that shows up.\nThe mat that made us famous.\nOur classic sticky grip built for high-performance grip and grounded stability, Vogue named us every Yoga Teacher’s favourite mat for a reason.\nBecause when you can trust your mat to hold and support you the rest just clicks.\n \nWhy You’ll Love It\nUnbeatable grip,  even in hot, sweaty flows. \nEngineered for performance with an ultra sticky grip top layer and stable, supportive base.\nFSC™ certified Rubber meaning our rubber is traceable and from a renewable protected source and biodegradable in correct landfill conditions. \nBuilt to last. Durable by design: tear-resistant, high-tensile rubber that won’t flake, stretch, or roll mid-flow\nSubtle alignment guides for intuitive precision without distraction\nFor the yogi who wants their mat to work as hard as they do.",
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 7911519649930,
+    "shopifyHandle": "yogi-bare-paws-yoga-mat-midnight",
+    "shopifyTags": [
+      "_Bestseller",
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_1_a5ebe7a7-7f61-43c4-ac8a-88d616e5b000.jpg?v=1755183321",
+        "width": 1920,
+        "height": 1920,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_13.jpg?v=1755195662",
+        "width": 1920,
+        "height": 1920,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-Midnight.jpg?v=1755195662",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_12.jpg?v=1755195662",
+        "width": 1920,
+        "height": 1920,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_3.jpg?v=1755183321",
+        "width": 1920,
+        "height": 1920,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_11.jpg?v=1755183321",
+        "width": 1920,
+        "height": 1920,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_6_copy.jpg?v=1755183851",
+        "width": 1920,
+        "height": 1920,
+        "position": 7
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "Flow Paws - Natural rubber extreme grip yoga mat",
+    "slug": "yogi-bare-flow-paws-natural-rubber-extreme-grip-yoga-mat",
+    "description": "The mat that holds you - so you can surf all of life's big waves.\n \n\n\nWorld First Innovation: Vivid photographic print on sustainable rubber.\n\n\nUltra grip, zero slip: Stays put—even in your sweatiest downward dog\n\n\nSweat-friendly surface: Gets grippier the more you move\n\n\nCushioned comfort: 4mm of joint-loving support\n\n\nSubtle alignment guides: For hitting your marks without overthinking it\n\n\nPlanet-kind materials: Sustainably sourced, biodegradable rubber\n\n\nTough love: No flaking, peeling, or giving up mid-flow\n\n\n\n\nYour journey is yours. But we’re right here beside you.",
+    "thickness": 4,
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 5402465271946,
+    "shopifyHandle": "flow-paws-natural-rubber-extreme-grip-yoga-mat",
+    "shopifyTags": [
+      "_Bestseller",
+      "Best for_Extra Support",
+      "Best for_Ultra Grip",
+      "Boxing Day",
+      "LIVE",
+      "Paws"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 103,
+    "maxPrice": 103,
+    "priceCurrency": "USD",
+    "minGrams": 2500,
+    "maxGrams": 2500,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_Ecom_Boxing_Sale.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_Website.jpg?v=1766533845",
+        "width": 1920,
+        "height": 1920,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-04_3e5c6037-cd1f-4451-a5d7-f13fdcb5b7c0.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_4.jpg?v=1766533845",
+        "width": 1920,
+        "height": 1920,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-05.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-03_3d9809b8-fa45-45b5-b12a-cd89dbe6cb47.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow2.jpg?v=1766533845",
+        "width": 1920,
+        "height": 1920,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-06.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-01_1c362339-a3d1-46a0-9053-a6e98fa8fa45.png?v=1766533845",
+        "width": 3334,
+        "height": 3334,
+        "position": 9
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Warm Sand",
+    "slug": "yogi-bare-ever-grip-paws-warm-sand",
+    "description": "Grip that never quits.\nEasy clean. Built to last. Matte feel. Ultra Grip. \nWhy we made this\nIntroducing our latest innovation “Ever Grip”.\nAfter a decade of creating Yoga mats for you, your home & your favourite studios we created Ever Grip.\nOur unique innovation created to be more durable, long lasting and be non marking.\nThe feel is a “matte grip”.  Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nSuperior Grip: Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.\nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\nTough and durable: Made to handle daily practice without wearing down\nWipe clean finish: Sweat, spills, and smudges wipe right off\nSupportive: 4mm cushioning for joint support, stability and comfort\nNon-toxic materials: Free from PVC, TPE and harsh chemicals glues or dyes.\nInnovated for life: Our favourite Paws mat. Reimagined. Anti sweat stain surface.",
+    "thickness": 4,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7911519846538,
+    "shopifyHandle": "ever-grip-paws-warm-sand",
+    "shopifyTags": [
+      "_Bestseller",
+      "Black Friday",
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_1.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_13.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-WarmSand.jpg?v=1762794519",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_website_11.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_2.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_12.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_3.jpg?v=1762794519",
+        "width": 1920,
+        "height": 1920,
+        "position": 7
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Midnight Black",
+    "slug": "yogi-bare-midnight-black-ever-grip-paws-with-eyelets",
+    "description": "Grip that never quits.\nEasy clean. Built to last. Matte feel. Ultra Grip. \nWhy we made this\nIntroducing our latest innovation “Ever Grip”.\nAfter a decade of creating Yoga mats for you, your home & your favourite studios we created Ever Grip.\nOur unique innovation created to be more durable, long lasting and be non marking.\nThe feel is a “matte grip”.  Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nSuperior Grip: Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.\nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\nTough and durable: Made to handle daily practice without wearing down\nWipe clean finish: Sweat, spills, and smudges wipe right off\nSupportive: 4mm cushioning for joint support, stability and comfort\nNon-toxic materials: Free from PVC, TPE and harsh chemicals glues or dyes.\nInnovated for life: Our favourite Paws mat. Reimagined. Anti sweat stain surface.",
+    "thickness": 4,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 8262034292874,
+    "shopifyHandle": "midnight-black-ever-grip-paws-with-eyelets",
+    "shopifyTags": [
+      "_Bestseller",
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Minimalist_Website_1.png?v=1755195609",
+        "width": 1920,
+        "height": 1920,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_13.jpg?v=1755195662",
+        "width": 1920,
+        "height": 1920,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-Midnight.jpg?v=1755195662",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_12.jpg?v=1755195662",
+        "width": 1920,
+        "height": 1920,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_6_copy.jpg?v=1755183851",
+        "width": 1920,
+        "height": 1920,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_3.jpg?v=1755183321",
+        "width": 1920,
+        "height": 1920,
+        "position": 6
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
+    "slug": "yogi-bare-ever-grip-paws-desert-rose",
+    "description": "Grip that never quits.\nEasy clean. Built to last. Matte feel. Ultra Grip. \nWhy we made this\nIntroducing our latest innovation “Ever Grip”.\nAfter a decade of creating Yoga mats for you, your home & your favourite studios we created Ever Grip.\nOur unique innovation created to be more durable, long lasting and be non marking.\nThe feel is a “matte grip”.  Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nSuperior Grip: Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.\nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\nTough and durable: Made to handle daily practice without wearing down\nWipe clean finish: Sweat, spills, and smudges wipe right off\nSupportive: 4mm cushioning for joint support, stability and comfort\nNon-toxic materials: Free from PVC, TPE and harsh chemicals glues or dyes.\nInnovated for life: Our favourite Paws mat. Reimagined. Anti sweat stain surface.",
+    "thickness": 4,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 7911519322250,
+    "shopifyHandle": "ever-grip-paws-desert-rose",
+    "shopifyTags": [
+      "_Bestseller",
+      "Boxing Day",
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_Boxing_Sale.jpg?v=1766533633",
+        "width": 1920,
+        "height": 1920,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0764copy.jpg?v=1766533633",
+        "width": 1024,
+        "height": 768,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_2.jpg?v=1766533633",
+        "width": 1920,
+        "height": 1920,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0964copy.jpg?v=1766533633",
+        "width": 1024,
+        "height": 768,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_3.jpg?v=1766533633",
+        "width": 1920,
+        "height": 1920,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0869copy.jpg?v=1766533633",
+        "width": 768,
+        "height": 1024,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0804copy.jpg?v=1766533633",
+        "width": 768,
+        "height": 1024,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_4.jpg?v=1766533633",
+        "width": 1920,
+        "height": 1920,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_1.jpg?v=1766533633",
+        "width": 1920,
+        "height": 1920,
+        "position": 9
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "yogi-bare",
+    "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - The Minimalist",
+    "slug": "yogi-bare-minimalist-black-ever-grip-yoga-mat",
+    "description": "Minimalist Alignment Design. \nEasy clean. Built to last. Matte feel. Ultra Grip. \nWhy we made this\nIntroducing our latest innovation Ever Grip\nAfter a decade of creating Yoga mats for you, your home & your favourite studios we created Ever Grip\nOur unique innovation created to be more durable, long lasting and be non marking.\nThe feel is a “matte grip”.  Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nSuperior Grip: Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.\nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\nTough and durable: Made to handle daily practice without wearing down\nWipe clean finish: Sweat, spills, and smudges wipe right off\nSupportive: 4mm cushioning for joint support, stability and comfort\nNon-toxic materials: Free from PVC, TPE and harsh chemicals glues or dyes.\nInnovated for life: Our favourite Paws mat. Reimagined. Anti sweat stain surface.",
+    "thickness": 4,
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks"
+    ],
+    "shopifyId": 8288671498378,
+    "shopifyHandle": "minimalist-black-ever-grip-yoga-mat",
+    "shopifyTags": [
+      "LIVE",
+      "wholesale"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T14:54:45+00:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "priceCurrency": "USD",
+    "minGrams": 2300,
+    "maxGrams": 2300,
+    "isAvailable": false,
+    "hasMultipleColors": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-01.png?v=1762794559",
+        "width": 3334,
+        "height": 3334,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign1405copy.jpg?v=1762794559",
+        "width": 960,
+        "height": 1280,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-02.png?v=1762794559",
+        "width": 3334,
+        "height": 3334,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Selects_YogiBare_LoganHouse_Campaign1389_87595ee3-3cd2-49cb-9140-5e12e5664bcb.jpg?v=1762794559",
+        "width": 2000,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-04.png?v=1762794559",
+        "width": 3334,
+        "height": 3334,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_11_73c80a59-b273-4ac4-8963-13ef0d89a1d7.jpg?v=1762794559",
+        "width": 1920,
+        "height": 1920,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Minimal_Website_3_copy.png?v=1762794559",
+        "width": 1920,
+        "height": 1920,
+        "position": 7
+      }
+    ]
+  }
+]

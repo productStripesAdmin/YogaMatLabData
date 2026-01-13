@@ -1,0 +1,791 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "[Large Space] Super Wide and Thick Exercise Mat",
+    "slug": "keep-12566",
+    "features": [
+      "Extra Wide"
+    ],
+    "shopifyId": 7703088726200,
+    "shopifyHandle": "12566",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:30:58-07:00",
+    "shopifyPublishedAt": "2024-07-30T00:33:19-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 8,
+    "minPrice": 89.99,
+    "maxPrice": 109.99,
+    "variantPriceValues": [
+      89.99,
+      99.99,
+      109.99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 4536,
+    "maxGrams": 4990,
+    "variantGramsValues": [
+      4536,
+      4990
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 12,
+    "thicknessMmx10Values": [
+      70,
+      90,
+      120
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thick",
+        "position": 1,
+        "values": [
+          "7mm/0.3in",
+          "9mm/0.4in",
+          "12mm/0.5in"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Smoky Gray Pink",
+          "Light Water Blue",
+          "Light Grass Green"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_53f61d52-3760-4951-8fd7-88dbf618c96d.jpg?v=1726724845",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_d201a764-1a9b-49b2-bf23-6a2f3c69cc3d.png?v=1716281933",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_1d4be118-72dd-48f7-9a3d-0e6ee186f1e1.png?v=1716281934",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_42a19f5b-15dc-4dcc-aa66-4cb2cf2ba6ff.png?v=1716281934",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Smoky Gray Pink",
+      "Light Water Blue",
+      "Light Grass Green"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        },
+        {
+          "value": 9,
+          "sourceOptionName": "Thick",
+          "rawValue": "9mm/0.4in",
+          "confidence": 1
+        },
+        {
+          "value": 12,
+          "sourceOptionName": "Thick",
+          "rawValue": "12mm/0.5in",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "[Beginner Assist] Yoga Mat with Position Lines",
+    "slug": "keep-12912",
+    "features": [],
+    "shopifyId": 7703088791736,
+    "shopifyHandle": "12912",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:31:00-07:00",
+    "shopifyPublishedAt": "2024-08-01T00:25:08-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 3,
+    "minPrice": 89.99,
+    "maxPrice": 89.99,
+    "variantPriceValues": [
+      89.99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pink",
+          "Purple",
+          "Gray"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-6_63305d0f-6fc9-4b85-a825-24eb0684cf83.jpg?v=1726727221",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_afd9b3ae-b14d-4edf-8794-9ff214eb1f04.jpg?v=1716280419",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_9c81c857-22f4-4e0d-a4b4-36223182c955.jpg?v=1716280419",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_c674bb82-9d0f-4ff8-b8ff-4ba693fa393c.jpg?v=1716280422",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d5854c82-1713-4e99-bdb0-9c91f3afed7f.jpg?v=1716280422",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/5_1096bf4b-58ba-46c9-8dfc-c95d88b90677.jpg?v=1716280421",
+        "width": 800,
+        "height": 800,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6_ef52f5b1-22c5-4adc-9684-813091aa1808.jpg?v=1716280420",
+        "width": 800,
+        "height": 800,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_a5a28dab-8075-49d5-8d23-10ac571436a1.jpg?v=1716280419",
+        "width": 800,
+        "height": 800,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/8_ed4dfb55-bfb9-418a-a3c5-34e9a6d27562.jpg?v=1716280421",
+        "width": 800,
+        "height": 800,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/9_85b2d9f1-9061-4bf9-8800-ae7ecba3788e.jpg?v=1716280420",
+        "width": 800,
+        "height": 800,
+        "position": 10
+      }
+    ],
+    "availableColors": [
+      "Pink",
+      "Purple",
+      "Gray"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "Jump Rope Mat",
+    "slug": "keep-10004030",
+    "features": [],
+    "shopifyId": 7703088922808,
+    "shopifyHandle": "10004030",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:31:03-07:00",
+    "shopifyPublishedAt": "2024-07-25T02:45:20-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 8,
+    "minPrice": 79.9,
+    "maxPrice": 86.9,
+    "variantPriceValues": [
+      79.9,
+      86.9
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 8.889999999999999,
+    "thicknessMmMax": 12.7,
+    "thicknessMmx10Values": [
+      89,
+      127
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thick",
+        "position": 1,
+        "values": [
+          "0.35in",
+          "0.5in"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Pink",
+          "Green",
+          "Purple",
+          "Gray"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-5_d91cf6e9-a37c-4207-bcce-c37e82be3f9a.jpg?v=1726827391",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_b2142087-f242-4702-885c-ae9b2b403e54.png?v=1716279150",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_28ed2bc6-5713-4b7c-bc9f-6505e6d4ad3f.png?v=1716279148",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-3_ad971040-8e08-4e48-a376-6863a13f649b.png?v=1716279149",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_284fcd71-7f22-4ad2-bcbe-415dff2bb1fc.png?v=1716279149",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      }
+    ],
+    "availableColors": [
+      "Pink",
+      "Green",
+      "Purple",
+      "Gray"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 8.889999999999999,
+          "sourceOptionName": "Thick",
+          "rawValue": "0.35in",
+          "confidence": 1
+        },
+        {
+          "value": 12.7,
+          "sourceOptionName": "Thick",
+          "rawValue": "0.5in",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "High Elasticity TPE Pro Training Mat",
+    "slug": "keep-10010278",
+    "material": "TPE",
+    "features": [],
+    "shopifyId": 7703088955576,
+    "shopifyHandle": "10010278",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:31:04-07:00",
+    "shopifyPublishedAt": "2024-07-30T01:04:17-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 2,
+    "minPrice": 109.9,
+    "maxPrice": 109.9,
+    "variantPriceValues": [
+      109.9
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Hibiscus Purple",
+          "Night Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_9.jpg?v=1726827174",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6.jpg?v=1716278488",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-1.jpg?v=1716278487",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-2.jpg?v=1716278487",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-3.jpg?v=1716278489",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_6-4.jpg?v=1716278488",
+        "width": 800,
+        "height": 800,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_7.jpg?v=1716278488",
+        "width": 800,
+        "height": 800,
+        "position": 7
+      }
+    ],
+    "availableColors": [
+      "Hibiscus Purple",
+      "Night Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "Extra Large Home Mat",
+    "slug": "keep-10002590",
+    "features": [],
+    "shopifyId": 7703088857272,
+    "shopifyHandle": "10002590",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:31:01-07:00",
+    "shopifyPublishedAt": "2024-07-29T01:49:41-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 4,
+    "minPrice": 86.9,
+    "maxPrice": 99.9,
+    "variantPriceValues": [
+      86.9,
+      99.9
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 9,
+    "thicknessMmx10Values": [
+      70,
+      90
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Gray Pink",
+          "Hibiscus Purple"
+        ]
+      },
+      {
+        "name": "Thick",
+        "position": 2,
+        "values": [
+          "7mm/0.3in",
+          "9mm/0.4in"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-4_0b3e9ad7-f5d4-44fe-863d-4e96ef0db83e.jpg?v=1726308055",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_ff7fa374-3ce5-4895-8b35-57ebb7cd7da2.png?v=1716280145",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_bc979bf5-b117-4185-8270-b09a4e85e07e.png?v=1716280145",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Gray Pink",
+      "Hibiscus Purple"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        },
+        {
+          "value": 9,
+          "sourceOptionName": "Thick",
+          "rawValue": "9mm/0.4in",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "Extra Large Aerobics Mat",
+    "slug": "keep-10003641",
+    "features": [],
+    "shopifyId": 7703088890040,
+    "shopifyHandle": "10003641",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:31:02-07:00",
+    "shopifyPublishedAt": "2024-07-29T02:24:20-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 4,
+    "minPrice": 89.19,
+    "maxPrice": 89.19,
+    "variantPriceValues": [
+      89.19
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3402,
+    "maxGrams": 3402,
+    "variantGramsValues": [
+      3402
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pink",
+          "Green",
+          "Purple",
+          "Gray"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/7_9bef7de5-fed8-4a86-a73a-a1fecb3264f6.jpg?v=1726307825",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-1_bbb8773d-69fb-489b-ac8e-817feed9de3c.png?v=1716279828",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/PNG-2_96c134fe-b546-44d0-9a92-c1c5b8641497.png?v=1716279829",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_414fa8fe-4ba9-40b3-8b2a-93ae6b5505fb.png?v=1716279830",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/6.png?v=1716279829",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      }
+    ],
+    "availableColors": [
+      "Pink",
+      "Green",
+      "Purple",
+      "Gray"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "keep",
+    "name": "[Dormitory Partner] Classic Exercise Mat",
+    "slug": "keep-12801",
+    "features": [],
+    "shopifyId": 7703088758968,
+    "shopifyHandle": "12801",
+    "shopifyVendor": "Keep",
+    "shopifyProductType": "Yoga Equipment",
+    "shopifyTags": [
+      "Yoga Mat"
+    ],
+    "shopifyCreatedAt": "2024-05-20T23:30:59-07:00",
+    "shopifyPublishedAt": "2024-07-29T00:18:55-07:00",
+    "shopifyUpdatedAt": "2026-01-07T07:07:07-08:00",
+    "variantsCount": 10,
+    "minPrice": 79.9,
+    "maxPrice": 85.9,
+    "variantPriceValues": [
+      79.9,
+      85.9
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 7,
+    "thicknessMmx10Values": [
+      60,
+      70
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Thick",
+        "position": 1,
+        "values": [
+          "6mm/0.24in",
+          "7mm/0.3in"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Blue",
+          "Dark Gray",
+          "Purple",
+          "Pink",
+          "Mat Purple/Dark Gray",
+          "Pink/Purple",
+          "Blue/Silver Gray",
+          "Dark Gray/Silver Gray"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png-5_3ddc145c-d059-4a21-9c23-8a06da4d76d7.jpg?v=1726724924",
+        "width": 1200,
+        "height": 1200,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/1_032ec27a-e377-406e-87a1-3cc45102c1ad.jpg?v=1716280736",
+        "width": 800,
+        "height": 800,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/2_4aa31bc2-7494-435e-bc52-2129fa2767d2.jpg?v=1716280735",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/3_44f83e82-280f-4b1e-93d9-bf690f29def1.jpg?v=1716280736",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/4_d11ef741-6cbd-460b-8812-61c6041a52e8.jpg?v=1716280736",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png3_75504877-5bbf-49d8-a374-9c0b3df22b0d.png?v=1718956974",
+        "width": 800,
+        "height": 800,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png4_ac1b9a08-b9bf-4df5-a77b-777742967123.png?v=1718956974",
+        "width": 800,
+        "height": 800,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png2_f1bec908-890e-4ff9-9942-9243c17192c7.png?v=1718956974",
+        "width": 800,
+        "height": 800,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0657/9355/6664/files/png1_a65faf45-0314-4f61-8d69-abafc6620553.png?v=1718956974",
+        "width": 800,
+        "height": 800,
+        "position": 9
+      }
+    ],
+    "availableColors": [
+      "Blue",
+      "Dark Gray",
+      "Purple",
+      "Pink",
+      "Mat Purple/Dark Gray",
+      "Pink/Purple",
+      "Blue/Silver Gray",
+      "Dark Gray/Silver Gray"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "Thick",
+          "rawValue": "6mm/0.24in",
+          "confidence": 1
+        },
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,5407 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "Manduka PRO™ Yoga Mat 6mm",
+    "slug": "manduka-manduka-pro-yoga-mat",
+    "description": "A studio-quality yoga mat with unmatched stability and a lifetime guarantee.\n\nThe PRO is a high-density yoga mat built to support your home practice. Crafted in Germany since 1997, it delivers floor-like stability with comfortable joint protection, and unmatched durability. A hygienic, closed-cell surface keeps sweat, moisture, and bacteria out of your mat, making it easy to clean and maintain for long-term performance. When you're ready to invest in your home practice, trust the mat that’s built to last with a lifetime guarantee.",
+    "thickness": 6,
+    "length": 180.34,
+    "features": [
+      "Extra Thick",
+      "Antimicrobial",
+      "Closed-Cell"
+    ],
+    "shopifyId": 4357742755898,
+    "shopifyHandle": "manduka-pro-yoga-mat",
+    "shopifyTags": [
+      "adult",
+      "Discontinued",
+      "PRO",
+      "PRO Mat",
+      "PRO Series",
+      "Standard 71\" (180cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 22,
+    "minPrice": 110,
+    "maxPrice": 160,
+    "priceCurrency": "USD",
+    "minGrams": 3402,
+    "maxGrams": 4309,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black Sage (Green)",
+      "Black",
+      "Black Magic (Purple)",
+      "Black Thunder",
+      "Odyssey (Blue)",
+      "Earth",
+      "Midnight",
+      "Verve (Red)",
+      "Birch",
+      "Linen Birch Limited Edition",
+      "Deep Verve",
+      "Harvest",
+      "Rooibos",
+      "Moon",
+      "Midnight Limited Edition",
+      "Indulge Limited Edition",
+      "Elderberry"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black Sage (Green)",
+          "Black",
+          "Black Magic (Purple)",
+          "Black Thunder",
+          "Odyssey (Blue)",
+          "Earth",
+          "Midnight",
+          "Verve (Red)",
+          "Birch",
+          "Linen Birch Limited Edition",
+          "Deep Verve",
+          "Harvest",
+          "Rooibos",
+          "Moon",
+          "Midnight Limited Edition",
+          "Indulge Limited Edition",
+          "Elderberry"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 85\" (215cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011050-Mats-PRO71-BLACK-SAGE-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011749-PRO71-BIRCH-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011749-PRO71-BIRCH-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011749-PRO71-BIRCH-04.jpg?v=1742938628",
+        "width": 867,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011749-PRO71-BIRCH-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110J1794-PRO71-BALANCE-SOLSTICE_01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110J1794-PRO71-BALANCE-SOLSTICE_02_26da92f3-ab16-4ff0-a68b-9965c0a949ec.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110J1794-PRO71-BALANCE-SOLSTICE_04_2d4612b5-4354-463b-a1ce-f81bddbfcea5.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110J1794-PRO71-BALANCE-SOLSTICE_03_ccbbe2fc-9e79-497d-a301-2ee3003e6886.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091672_PRO71-ROOTLE_004.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091672_PRO71-ROOTLE_001.jpg?v=1743026858",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091672_PRO71-ROOTLE_003.jpg?v=1743026858",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091672_PRO71-ROOTLE_002.jpg?v=1743026858",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091671_PRO71-WASABILE_004.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091671_PRO71-WASABILE_001.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091671_PRO71-WASABILE_003.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091671_PRO71-WASABILE_002.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011010-Mats-PRO71-BLACK-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011010-Mats-PRO71-BLACK-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011010-Mats-PRO71-BLACK-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011010-Mats-PRO71-BLACK-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-01_23bfb1cd-0c16-4f94-8ddc-01ab9fbe987d.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-03_6929508a-65e9-478a-9394-47d8e1c86391.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011597-Mats-PRO71-BLACK-THUNDER-01_1_bb5d5a51-a9c1-4286-8b1c-69e5a4a7dda9.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011597-Mats-PRO71-BLACK-THUNDER-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011597-Mats-PRO71-BLACK-THUNDER-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011D20-MATS-PRO71-EARTH-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011D20-MATS-PRO71-EARTH-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011597-Mats-PRO71-BLACK-THUNDER-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011D20-MATS-PRO71-EARTH-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011D20-MATS-PRO71-EARTH-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PRO-71-111011P00-Mats-Odyssey_01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PRO-71-111011P00-Mats-Odyssey_04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PRO-71-111011P00-Mats-Odyssey_03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PRO-71-111011P00-Mats-Odyssey_02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-71-111011153-Mats-Maldive-1.jpg?v=1742938628",
+        "width": 1340,
+        "height": 1560,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-71-111011153-Mats-Maldive-3.jpg?v=1742938628",
+        "width": 1340,
+        "height": 1560,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-71-111011153-Mats-Maldive-4-flipped.jpg?v=1742938628",
+        "width": 1340,
+        "height": 1560,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-71-111011153-Mats-Maldive-2.jpg?v=1742938628",
+        "width": 1340,
+        "height": 1560,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/111011460-Mats-Pro71-Elderberry-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/111011460-Mats-Pro71-Elderberry-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/111011460-Mats-Pro71-Elderberry-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/111011460-Mats-Pro71-Elderberry-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011550-MATS-PRO71-AQUAMARINE-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011550-MATS-PRO71-AQUAMARINE-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011550-MATS-PRO71-AQUAMARINE-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011550-MATS-PRO71-AQUAMARINE-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011Z30-Mats-PRO71-VERVE-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011Z30-Mats-PRO71-VERVE-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011Z30-Mats-PRO71-VERVE-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011Z30-Mats-PRO71-VERVE-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030-Mats-PRO71-MIDNIGHT-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030-Mats-PRO71-MIDNIGHT-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030-Mats-PRO71-MIDNIGHT-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030-Mats-PRO71-MIDNIGHT-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011040-Mats-PRO71-BLACK-MAGIC-01.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011040-Mats-PRO71-BLACK-MAGIC-03.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011040-Mats-PRO71-BLACK-MAGIC-04.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011040-Mats-PRO71-BLACK-MAGIC-02.jpg?v=1742938628",
+        "width": 871,
+        "height": 1014,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_1aba2b58-533d-40d3-b421-8174ef701572.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_e4b3c5e2-d8c7-4f2d-a2f6-1f7826f98829.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_a26646cb-37b9-4ddb-a795-534c25449431.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_634e9eab-2185-4e5b-9eb1-5e1db97e30b0.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_82d6330e-9ed3-4e4e-ba81-5c3eb3602760.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-01_1.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 68
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 69
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-04.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 70
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 71
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-04_359d3e3e-8871-4a25-9d3a-1bfb8a1ba23d.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 72
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011608-Mats-PRO71-MIDNIGHT-GL-02_1db3b147-a46b-4a90-abdb-78bc34c19aca.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 73
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO_e211fe37-d0ab-4ddc-ae82-4dd060c0ca24.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 74
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030_PRO71-MIDNIGHT_001.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 75
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030_PRO71-MIDNIGHT_002.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 76
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030_PRO71-MIDNIGHT_003.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 77
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011030_PRO71-MIDNIGHT_004.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 78
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011670_PRO71-TIGER_004.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 79
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011670_PRO71-TIGER_001.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 80
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011670_PRO71-TIGER_003.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 81
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011670_PRO71-TIGER_002.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 82
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111016_PRO85-BLUE-TOAD_04.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 83
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011669_PRO71-BLUETOAD_grey_01_lrg_1.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 84
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111016_PRO85-BLUE-TOAD_03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 85
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111016_PRO85-BLUE-TOAD_02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 86
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011740-PRO71-BLACK-NIGHT_01.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 87
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011740-PRO71-BLACK-NIGHT_02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 88
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011740-PRO71-BLACK-NIGHT_04.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 89
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011740-PRO71-BLACK-NIGHT_03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 90
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011750-PRO71-BLACK-SAGE-MIST_01.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 91
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011750-PRO71-BLACK-SAGE-MIST_02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 92
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011750-PRO71-BLACK-SAGE-MIST_04_a17b60d8-7a7e-4b5f-afdd-b06f02873c89.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 93
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011750-PRO71-BLACK-SAGE-MIST_03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 94
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011741-PRO71-ROOIBOS-01.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 95
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011741-PRO71-ROOIBOS-03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 96
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011741-PRO71-ROOIBOS-04.jpg?v=1739250331",
+        "width": 871,
+        "height": 1012,
+        "position": 97
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011741-PRO71-ROOIBOS-02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 98
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1743-PRO71-LINEN-BIRCH-LE-01.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 99
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1743-PRO71-LINEN-BIRCH-LE-03.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 100
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1743-PRO71-LINEN-BIRCH-LE-04.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 101
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1743-PRO71-LINEN-BIRCH-LE-02.jpg?v=1739250331",
+        "width": 871,
+        "height": 1014,
+        "position": 102
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1744-PRO71-ROYAL-FLANEUR-LE-01.jpg?v=1738007601",
+        "width": 871,
+        "height": 1014,
+        "position": 103
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1744-PRO71-ROYAL-FLANEUR-LE-03.jpg?v=1738007618",
+        "width": 871,
+        "height": 1014,
+        "position": 104
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1744-PRO71-ROYAL-FLANEUR-LE-04.jpg?v=1738007618",
+        "width": 871,
+        "height": 1014,
+        "position": 105
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1744-PRO71-ROYAL-FLANEUR-LE-02.jpg?v=1738007618",
+        "width": 871,
+        "height": 1014,
+        "position": 106
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011598-Mats-PRO71-BUOY-01_5f88bc71-95d1-4e17-81aa-d2d56dd23e28.jpg?v=1747714435",
+        "width": 871,
+        "height": 1014,
+        "position": 107
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011598-Mats-PRO71-BUOY-02_6e7e356b-af54-4864-8ce8-f7cd0d2efced.jpg?v=1747714442",
+        "width": 871,
+        "height": 1014,
+        "position": 108
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011598-Mats-PRO71-BUOY-03_dc30a528-dc21-4138-b54d-0f68da858fff.jpg?v=1747714451",
+        "width": 871,
+        "height": 1014,
+        "position": 109
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011598-Mats-PRO71-BUOY-04_3cd8365c-2e51-48d8-a07e-36c7f4ec1780.jpg?v=1747714598",
+        "width": 871,
+        "height": 1014,
+        "position": 110
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_04.jpg?v=1748022884",
+        "width": 871,
+        "height": 1014,
+        "position": 111
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_03.jpg?v=1748022884",
+        "width": 871,
+        "height": 1014,
+        "position": 112
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_02.jpg?v=1748022884",
+        "width": 871,
+        "height": 1014,
+        "position": 113
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_01.jpg?v=1748022884",
+        "width": 871,
+        "height": 1014,
+        "position": 114
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091E60-MATS-PRO71-FLOAT-CF_01.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 115
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091E60-MATS-PRO71-FLOAT-CF_03.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 116
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091E60-MATS-PRO71-FLOAT-CF_04.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 117
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111091E60-MATS-PRO71-FLOAT-CF_02.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 118
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011559-MATS-PRO71-INDULGE-CF-01_d082fce7-4cd2-477c-bb3f-c69a82cfa9f2.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 119
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011559-MATS-PRO71-INDULGE-CF-03_8c382273-0b5b-42ef-b2ab-d13df588020b.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 120
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011559-MATS-PRO71-INDULGE-CF-04_9921818a-8543-42d6-ae51-7fbfa5b431fc.jpg?v=1750970188",
+        "width": 871,
+        "height": 1014,
+        "position": 121
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011559-MATS-PRO71-INDULGE-CF-02_9ed138fa-b2b9-4238-bb1b-ef7f00b42d55.jpg?v=1750970175",
+        "width": 871,
+        "height": 1014,
+        "position": 122
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO-111011234-Mats-FW18-BONDIBLUE-01.jpg?v=1750992372",
+        "width": 748,
+        "height": 871,
+        "position": 123
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO-111011234-Mats-FW18-BONDIBLUE-04.jpg?v=1750992580",
+        "width": 748,
+        "height": 871,
+        "position": 124
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO-111011234-Mats-FW18-BONDIBLUE-02.jpg?v=1750992580",
+        "width": 748,
+        "height": 871,
+        "position": 125
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1815_PRO71-INDULGE_LE_01.jpg?v=1764020107",
+        "width": 4381,
+        "height": 5100,
+        "position": 126
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1815_PRO71-INDULGE_LE_03.jpg?v=1764020107",
+        "width": 871,
+        "height": 1014,
+        "position": 127
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1815_PRO71-INDULGE_LE_04.jpg?v=1764020107",
+        "width": 871,
+        "height": 1014,
+        "position": 128
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1815_PRO71-INDULGE_LE_02.jpg?v=1764020107",
+        "width": 4381,
+        "height": 5100,
+        "position": 129
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011567_PRO71-MOON_01.jpg?v=1753391339",
+        "width": 871,
+        "height": 1014,
+        "position": 130
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011567_PRO71-MOON_03.jpg?v=1753391339",
+        "width": 871,
+        "height": 1014,
+        "position": 131
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011567_PRO71-MOON_04.jpg?v=1753391339",
+        "width": 871,
+        "height": 1014,
+        "position": 132
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011567_PRO71-MOON_02.jpg?v=1753391339",
+        "width": 871,
+        "height": 1014,
+        "position": 133
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011813_PRO71-HARVEST_01.jpg?v=1764020023",
+        "width": 871,
+        "height": 1014,
+        "position": 134
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011813_PRO71-HARVEST_03.jpg?v=1764020023",
+        "width": 871,
+        "height": 1014,
+        "position": 135
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011813_PRO71-HARVEST_04.jpg?v=1764020023",
+        "width": 871,
+        "height": 1014,
+        "position": 136
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011813_PRO71-HARVEST_02.jpg?v=1764020023",
+        "width": 871,
+        "height": 1014,
+        "position": 137
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1814_PRO71-MIDNIGHT_LE_01.jpg?v=1753391339",
+        "width": 871,
+        "height": 1014,
+        "position": 138
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1814_PRO71-MIDNIGHT_LE_03.jpg?v=1753391339",
+        "width": 4381,
+        "height": 5100,
+        "position": 139
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1814_PRO71-MIDNIGHT_LE_04.jpg?v=1753391339",
+        "width": 4380,
+        "height": 5100,
+        "position": 140
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1110Z1814_PRO71-MIDNIGHT_LE_02.jpg?v=1753391339",
+        "width": 4381,
+        "height": 5100,
+        "position": 141
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011812_PRO71-DEEP_VERVE_01.jpg?v=1753947915",
+        "width": 871,
+        "height": 1014,
+        "position": 142
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011812_PRO71-DEEP_VERVE_03.jpg?v=1753948095",
+        "width": 871,
+        "height": 1014,
+        "position": 143
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011812_PRO71-DEEP_VERVE_04.jpg?v=1753948182",
+        "width": 871,
+        "height": 1014,
+        "position": 144
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011812_PRO71-DEEP_VERVE_02.jpg?v=1753948182",
+        "width": 871,
+        "height": 1014,
+        "position": 145
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011851_PRO71_MIDNIGHT_MOON_01.jpg?v=1762492164",
+        "width": 871,
+        "height": 1014,
+        "position": 146
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011851_PRO71_MIDNIGHT_MOON_02.jpg?v=1762492164",
+        "width": 871,
+        "height": 1014,
+        "position": 147
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011851_PRO71_MIDNIGHT_MOON_03.jpg?v=1762492164",
+        "width": 871,
+        "height": 1014,
+        "position": 148
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/111011851_PRO71_MIDNIGHT_MOON_04.jpg?v=1762492164",
+        "width": 871,
+        "height": 1014,
+        "position": 149
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "PROlite® Yoga Mat 4.7mm",
+    "slug": "manduka-prolite-yoga-mat",
+    "description": "The #1 teacher recommended mat mindfully made for a lifetime of flow...on the go.\nAll the beauty of our signature PRO mat and lighter for on-the-go flow. The PROlite’s super-dense cushioning and textured top layer adapts to your body for unparalleled support and joint protection. A no-slip dot pattern on the bottom layer keeps the mat in place, while closed-cell construction seals out sweat. OEKO-TEX® certified, our PROlite mat is mindfully made for mindful movers.",
+    "thickness": 4.7,
+    "length": 180.34,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Closed-Cell"
+    ],
+    "shopifyId": 4357742690362,
+    "shopifyHandle": "prolite-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "PRO Mat",
+      "PRO Series",
+      "PROlite",
+      "Standard 71\" (180cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 16,
+    "minPrice": 88,
+    "maxPrice": 120,
+    "priceCurrency": "USD",
+    "minGrams": 1905,
+    "maxGrams": 2268,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black",
+      "Black Sage (Green)",
+      "Purple",
+      "Midnight",
+      "Dark Deep Sea",
+      "Elderberry",
+      "Indulge (Purple)",
+      "Thunder (Grey)",
+      "Algae",
+      "Peat",
+      "Moon",
+      "Rosewood",
+      "Blue Lotus"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Black Sage (Green)",
+          "Purple",
+          "Midnight",
+          "Dark Deep Sea",
+          "Elderberry",
+          "Indulge (Purple)",
+          "Thunder (Grey)",
+          "Algae",
+          "Peat",
+          "Moon",
+          "Rosewood",
+          "Blue Lotus"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011460-PL71-ELDERBERRY-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011460-PL71-ELDERBERRY-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011460-PL71-ELDERBERRY-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011460-PL71-ELDERBERRY-03.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROlite-112011333-MATS-SS20-Sage-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROlite-112011333-MATS-SS20-Sage-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROlite-112011333-MATS-SS20-Sage-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011010-Mats-PL71-BLACK-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011010-Mats-PL71-BLACK-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011010-Mats-PL71-BLACK-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011010-Mats-PL71-BLACK-03.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_27c3915c-631e-4067-a864-0b5e4048f2bf.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProLite71-112011394-Mats-DkDeepSea_1504.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProLite71-112011394-Mats-DkDeepSea_1520.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProLite71-112011394-Mats-DkDeepSea_1436.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProLite71-112011394-Mats-DkDeepSea_1561.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_03a3130d-4c70-4f13-992f-931ba45a6c98.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_0a8f9903-9f87-4af3-9faf-24f19135d302.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProDiagram-GreyBkg-Lo_3a9853c9-41d3-40ed-95c6-f1db21dc6663.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProDiagram-GreyBkg-Lo.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011020-Mats-PL71-THUNDER-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011020-Mats-PL71-THUNDER-03.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011020-Mats-PL71-THUNDER-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011020-Mats-PL71-THUNDER-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_cd8c5ecc-7be0-4346-b6f8-839500e30d51.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011030-Mats-PL71-MIDNIGHT-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011030-Mats-PL71-MIDNIGHT-03.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_37c3f060-947d-4daf-aa07-a43c84b766e0.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011030-Mats-PL71-MIDNIGHT-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011060-Mats-PL71-INDULGE-03.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011060-Mats-PL71-INDULGE-04.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011060-Mats-PL71-INDULGE-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011030-Mats-PL71-MIDNIGHT-02.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011060-Mats-PL71-INDULGE-01.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Pro-Yogitoes-Alt-Image-01_1_1_58103749-99f4-4461-bd3b-0cb8d5aa19b7.jpg?v=1764532235",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112021746-PL71-SEASALT-01.jpg?v=1738020636",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112021746-PL71-SEASALT-03.jpg?v=1738020657",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112021746-PL71-SEASALT-02.jpg?v=1738020657",
+        "width": 869,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112021746-PL71-SEASALT-04.jpg?v=1738020636",
+        "width": 869,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011753-PL71-NIMBU-01.jpg?v=1738020770",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011753-PL71-NIMBU-03.jpg?v=1738020796",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011753-PL71-NIMBU-02.jpg?v=1738020796",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011753-PL71-NIMBU-04.jpg?v=1738020769",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011747-PL71-ALGAE-01.jpg?v=1738020914",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011747-PL71-ALGAE-03.jpg?v=1738020933",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011747-PL71-ALGAE-02.jpg?v=1738020933",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011747-PL71-ALGAE-04.jpg?v=1738020914",
+        "width": 871,
+        "height": 1007,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011567-PL71-MOON-01.jpg?v=1738021055",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011567-PL71-MOON-03.jpg?v=1738021080",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011567-PL71-MOON-02.jpg?v=1738021080",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011567-PL71-MOON-04.jpg?v=1738021055",
+        "width": 866,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_01_8bcf2e82-7c6e-43f4-a2d1-55419bfcb907.jpg?v=1748024439",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_02_8c0a94d9-489a-41ef-9040-bb021733bf7a.jpg?v=1748024449",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_03_86c35efe-0bc7-4fcd-80b8-6cb0ed69370b.jpg?v=1748024455",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PRO71-BLACK-GL_04_cbbbb3c0-cdbb-40e4-a6f7-187a8b424d31.jpg?v=1748024496",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011733_PL71-BLUE_LOTUS_01.jpg?v=1753375327",
+        "width": 4381,
+        "height": 5100,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011733_PL71-BLUE_LOTUS_03.jpg?v=1753390037",
+        "width": 4352,
+        "height": 5066,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011733_PL71-BLUE_LOTUS_02.jpg?v=1753390037",
+        "width": 4382,
+        "height": 5100,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011733_PL71-BLUE_LOTUS_04.jpg?v=1753390037",
+        "width": 4381,
+        "height": 5100,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011816_PL71-ROSEWOOD_01.jpg?v=1753390037",
+        "width": 4381,
+        "height": 5100,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011816_PL71-ROSEWOOD_03.jpg?v=1753390037",
+        "width": 4381,
+        "height": 5100,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011816_PL71-ROSEWOOD_02.jpg?v=1753390037",
+        "width": 4380,
+        "height": 5100,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011816_PL71-ROSEWOOD_04.jpg?v=1753390037",
+        "width": 4381,
+        "height": 5100,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011817_PL71-PEAT_01.jpg?v=1764020545",
+        "width": 4381,
+        "height": 5100,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011817_PL71-PEAT_03.jpg?v=1764020545",
+        "width": 4228,
+        "height": 4922,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011817_PL71-PEAT_02.jpg?v=1764020545",
+        "width": 4381,
+        "height": 5100,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011817_PL71-PEAT_04.jpg?v=1764020545",
+        "width": 2391,
+        "height": 2783,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011605-Mats-PL71-PASSION-BERRY-02_8e07ec20-65e4-46be-a88b-15da531462a2.jpg?v=1762545807",
+        "width": 871,
+        "height": 1014,
+        "position": 68
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011605-Mats-PL71-PASSION-BERRY-04_299f60ea-e4f1-4913-8993-754ae5c2c5e7.jpg?v=1762545842",
+        "width": 871,
+        "height": 1014,
+        "position": 69
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011070-PL71-Purple-2_2_da6e35a3-ae7d-4c28-a56a-2a09b2db8ae4.jpg?v=1764003528",
+        "width": 871,
+        "height": 1014,
+        "position": 70
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011070-PL71-Purple-3_68e859a3-86af-47e2-95ec-68c5868d9515.jpg?v=1764003529",
+        "width": 871,
+        "height": 1014,
+        "position": 71
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011070-PL71-Purple-4_1_545859f6-1507-44c8-a367-5c915709c066.jpg?v=1764003529",
+        "width": 871,
+        "height": 1014,
+        "position": 72
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/112011070-Mats-Core-Purple-1-new.jpg?v=1764003433",
+        "width": 871,
+        "height": 1014,
+        "position": 73
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "eKO® Yoga Mat 5mm",
+    "slug": "manduka-eko-yoga-mat-5mm",
+    "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
+    "thickness": 5,
+    "length": 180.34,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks",
+      "Closed-Cell"
+    ],
+    "shopifyId": 4487155056698,
+    "shopifyHandle": "eko-yoga-mat-5mm",
+    "shopifyTags": [
+      "Discontinued",
+      "eKO 5mm",
+      "eKO Mat",
+      "eKO Series",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 6,
+    "minPrice": 88,
+    "maxPrice": 120,
+    "priceCurrency": "USD",
+    "minGrams": 3792,
+    "maxGrams": 4191,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Algae Charcoal",
+      "Peat Midnight",
+      "Charcoal",
+      "Midnight",
+      "Elderberry Midnight"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Algae Charcoal",
+          "Peat Midnight",
+          "Charcoal",
+          "Midnight",
+          "Elderberry Midnight"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-02_b67cbbbc-3ffc-4fde-9eb4-ee95e65482cf.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-03_9638de0a-bb88-4b7d-8c1b-3f5e2e369d29.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-04_5f067c9e-c453-4a87-a0d4-8a3e8d9ffdd6.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-01_c215b0e3-79fc-4069-acc0-572aee9eea1c.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021818_EKO_5MM-71-ELDERBERRY_MIDNIGHT_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021818_EKO_5MM-71-ELDERBERRY_MIDNIGHT_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021818_EKO_5MM-71-ELDERBERRY_MIDNIGHT_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021818_EKO_5MM-71-ELDERBERRY_MIDNIGHT_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-02_1b2ebe24-d19a-4f25-a93b-0fe0d5f84a02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-03_b66c6148-c9a7-4e82-89dd-671da395abdb.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-04_d6d58875-77fe-4637-b284-afbc0656670a.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-01_95e3703d-0a88-4b43-b178-c200f4dc0be9.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_02.jpg?v=1764439701",
+        "width": 811,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_02.jpg?v=1764439701",
+        "width": 811,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-02-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-03-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-04-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-01-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-02_d7998d9c-b14f-41d8-a475-9841802ac03a.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-03_a8339808-debb-4fd7-990c-2086e50b09be.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-04_1a1b794a-623d-4105-8ae4-b33e1d6b2d1f.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-01_feb05ada-694e-4d4c-8f48-2761e6616e58.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-02_f93b2653-db23-45d1-8dab-561ec85b8367.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-03_02cbd082-380e-45b0-bd0f-ac1ef73fa5c2.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-04_5aa65487-c15f-494f-ab30-c1b5418331d0.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-01_90f35f70-a011-4034-9eaf-ba45ebbc25f4.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-02_49692cbb-3163-439b-9f1b-5539015d5e85.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-03_a977125a-487e-4ef3-a14c-9f56a432c1e8.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-04_4c2e97ef-5871-4270-8c67-9db0d0e69fe1.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-01_58317e17-7f41-4dfa-af3d-232010558b40.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-02_b82cabd9-cd34-4f16-87c3-fb1205802f0d.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-03_5c722f66-595a-414d-a353-fb09a2f7e4f6.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-04_44436c12-feff-4492-b6cf-25fadc725190.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-01_3e77b34f-f1da-47aa-8a51-a24de87b317f.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021819_EKO_5MM-71-PEAT_MIDNIGHT_01.jpg?v=1755707752",
+        "width": 871,
+        "height": 1014,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021819_EKO_5MM-71-PEAT_MIDNIGHT_02.jpg?v=1755707751",
+        "width": 871,
+        "height": 1014,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021819_EKO_5MM-71-PEAT_MIDNIGHT_03.jpg?v=1755707752",
+        "width": 871,
+        "height": 1014,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021819_EKO_5MM-71-PEAT_MIDNIGHT_04.jpg?v=1755707751",
+        "width": 871,
+        "height": 1014,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051820_EKO_5MM-71-CHERRY_BLOSSOM_MARBLE_01.jpg?v=1755707752",
+        "width": 871,
+        "height": 1014,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051820_EKO_5MM-71-CHERRY_BLOSSOM_MARBLE_02.jpg?v=1755707752",
+        "width": 871,
+        "height": 1014,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051820_EKO_5MM-71-CHERRY_BLOSSOM_MARBLE_03.jpg?v=1755707752",
+        "width": 871,
+        "height": 1014,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051820_EKO_5MM-71-CHERRY_BLOSSOM_MARBLE_04.jpg?v=1755707751",
+        "width": 871,
+        "height": 1014,
+        "position": 68
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "GRP® Adapt 2.0 Yoga Mat 5mm",
+    "slug": "manduka-grp-adapt-2-0-yoga-mat-5mm",
+    "thickness": 5,
+    "length": 180.34,
+    "features": [],
+    "shopifyId": 7481303269434,
+    "shopifyHandle": "grp-adapt-2-0-yoga-mat-5mm",
+    "shopifyTags": [],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 5,
+    "minPrice": 128,
+    "maxPrice": 138,
+    "priceCurrency": "USD",
+    "minGrams": 2631,
+    "maxGrams": 2948,
+    "isAvailable": false,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Carbon Marbled",
+      "Carbon Black",
+      "Terracotta",
+      "Midnight"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Carbon Marbled",
+          "Carbon Black",
+          "Terracotta",
+          "Midnight"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-BLACK_02.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-BLACK_01.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-BLACK_03.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-BLACK_04.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-MARBLED_02.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-MARBLED_01.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-MARBLED_03.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-CARBON-MARBLED_04.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-TERRACOTTA_02.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-TERRACOTTA_01.jpg?v=1765456403",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-TERRACOTTA_03.jpg?v=1764829809",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-2-TERRACOTTA_04.jpg?v=1764829816",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "GRP® Adapt Lite 2.0 Yoga Mat 4mm",
+    "slug": "manduka-grp-adapt-lite-2-0-yoga-mat-4mm",
+    "thickness": 4,
+    "length": 180.34,
+    "features": [],
+    "shopifyId": 7481311395898,
+    "shopifyHandle": "grp-adapt-lite-2-0-yoga-mat-4mm",
+    "shopifyTags": [],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 3,
+    "minPrice": 98,
+    "maxPrice": 98,
+    "priceCurrency": "USD",
+    "minGrams": 1678,
+    "maxGrams": 1678,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Carbon Black",
+      "Indulge",
+      "La Rana"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Carbon Black",
+          "Indulge",
+          "La Rana"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-CARBON-BLACK_01.jpg?v=1764829310",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-CARBON-BLACK_02.jpg?v=1764829327",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-CARBON-BLACK_03.jpg?v=1764829335",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-CARBON-BLACK_04.jpg?v=1764829343",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-INDULGE_01.jpg?v=1764829359",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-INDULGE_02.jpg?v=1764829372",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-INDULGE_03.jpg?v=1764829382",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-INDULGE_04.jpg?v=1764829395",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-LA-RANA_01.jpg?v=1764829402",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-LA-RANA_02.jpg?v=1764829409",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-LA-RANA_03.jpg?v=1764829413",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/GRP-ADAPT-LITE-2-LA-RANA_04.jpg?v=1764829419",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "eKO® lite Yoga Mat 4mm",
+    "slug": "manduka-eko-lite-yoga-mat-4mm",
+    "description": "A lighter version of our original eKO mat with the same grippy natural rubber top layer and cushioned ride.\nBuilt sustainably for the mindful yogi, the lightweight eKO lite features a naturally grippy Catch-Grip™ surface texture for superior traction combined with our Responsive Ride™ core for a cushioned, springy ride. Sustainably harvested from non-Amazon rubber trees, the eKO lite is made from the planet for practice anywhere on the planet.",
+    "thickness": 4,
+    "length": 180.34,
+    "material": "Natural Rubber",
+    "features": [
+      "Extra Thick",
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 2519958290490,
+    "shopifyHandle": "eko-lite-yoga-mat-4mm",
+    "shopifyTags": [
+      "3.0",
+      "Discontinued",
+      "eKO Lite 4mm",
+      "eKO Mat",
+      "eKO Series",
+      "Standard (3-4mm)",
+      "Standard 71\" (180cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 9,
+    "minPrice": 74,
+    "maxPrice": 100,
+    "priceCurrency": "USD",
+    "minGrams": 2894,
+    "maxGrams": 3193,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Cherry Blossom Purple",
+      "Acai Midnight",
+      "Deep Sage",
+      "Midnight Moon Marble",
+      "Charcoal",
+      "Blue Toad Midnight",
+      "Ratio"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Cherry Blossom Purple",
+          "Acai Midnight",
+          "Deep Sage",
+          "Midnight Moon Marble",
+          "Charcoal",
+          "Blue Toad Midnight",
+          "Ratio"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021757-EKOLITE-4MM-71-BLUE-TOAD-MIDNIGHT-02.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021757-EKOLITE-4MM-71-BLUE-TOAD-MIDNIGHT-03.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021757-EKOLITE-4MM-71-BLUE-TOAD-MIDNIGHT-04.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021757-EKOLITE-4MM-71-BLUE-TOAD-MIDNIGHT-01.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-WASABIMARBLE_02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-WASABIMARBLE_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-WASABIMARBLE_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-WASABIMARBLE_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1330Z1611-Mats-EKOLITE4MM-71-FULLBLOOM-02.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1330Z1611-Mats-EKOLITE4MM-71-FULLBLOOM-03.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1330Z1611-Mats-EKOLITE4MM-71-FULLBLOOM-04.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1330Z1611-Mats-EKOLITE4MM-71-FULLBLOOM-01.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021030-Mats-Midnight_02.jpg?v=1764515329",
+        "width": 811,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021030-Mats-Midnight_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021030-Mats-Midnight_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021030-Mats-Midnight_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021077-Mats-Charcoal_02.jpg?v=1764515329",
+        "width": 811,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021077-Mats-Charcoal_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021077-Mats-Charcoal_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021077-Mats-Charcoal_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021283-Mats-Acai-Midnight_02.jpg?v=1764515329",
+        "width": 811,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021283-Mats-Acai-Midnight_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021283-Mats-Acai-Midnight_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-Lite-4mm-71-133021283-Mats-Acai-Midnight_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136015030-Mats-EkoSL79-Midnight-02-Grey-Bkgd-Low-Res.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136015030-Mats-EkoSL79-Midnight-03-Grey-Bkgd-Low-Res.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136015030-Mats-EkoSL79-Midnight-04-Grey-Bkgd-Low-Res.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136015030-Mats-EkoSL79-Midnight-01-Grey-Bkgd-Low-Res.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051651-Mats-EKOLITE-4MM-71-MATCHA-MARBLE-02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051651-Mats-EKOLITE-4MM-71-MATCHA-MARBLE-03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051651-Mats-EKOLITE-4MM-71-MATCHA-MARBLE-04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051651-Mats-EKOLITE-4MM-71-MATCHA-MARBLE-01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021601-Mats-EKOLITE-4MM-71-MARINA-02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021601-Mats-EKOLITE-4MM-71-MARINA-03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021601-Mats-EKOLITE-4MM-71-MARINA-04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021601-Mats-EKOLITE-4MM-71-MARINA-01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021605-Mats-EKOLITE-4MM-71-PASSION-BERRY-02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021605-Mats-EKOLITE-4MM-71-PASSION-BERRY-03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021605-Mats-EKOLITE-4MM-71-PASSION-BERRY-04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021605-Mats-EKOLITE-4MM-71-PASSION-BERRY-01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-BLACKCLAYMARBLE_02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-BLACKCLAYMARBLE_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-BLACKCLAYMARBLE_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133051_EKOLITE_4MM-71-BLACKCLAYMARBLE_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-ROBIN_02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-ROBIN_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-ROBIN_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-ROBIN_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-WASABI_02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-WASABI_03.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-WASABI_04.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/133021_EKOLITE_4MM-71-WASABI_01.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1744-EKOLITE-LE-4MM-71-FERTILE-GROUND-LE-02.jpg?v=1764515329",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1744-EKOLITE-LE-4MM-71-FERTILE-GROUND-LE-03.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1744-EKOLITE-LE-4MM-71-FERTILE-GROUND-LE-04.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1744-EKOLITE-LE-4MM-71-FERTILE-GROUND-LE-01.jpg?v=1765887966",
+        "width": 871,
+        "height": 1014,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1759-EKOLITE-LE-4MM-71-ROOIBOS-LE-02.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1759-EKOLITE-LE-4MM-71-ROOIBOS-LE-03.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1759-EKOLITE-LE-4MM-71-ROOIBOS-LE-04.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13K0Z1759-EKOLITE-LE-4MM-71-ROOIBOS-LE-01.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011077-EKOLITE-4MM-71-CHARCOAL-02.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011077-EKOLITE-4MM-71-CHARCOAL-03.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011077-EKOLITE-4MM-71-CHARCOAL-04.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011077-EKOLITE-4MM-71-CHARCOAL-01.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021283-EKOLITE-4MM-71-ACAI-MIDNIGHT-02.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021283-EKOLITE-4MM-71-ACAI-MIDNIGHT-03.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021283-EKOLITE-4MM-71-ACAI-MIDNIGHT-04.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021283-EKOLITE-4MM-71-ACAI-MIDNIGHT-01.jpg?v=1742252886",
+        "width": 871,
+        "height": 1014,
+        "position": 68
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011758-EKOLITE-4MM-71-RATIO-02.jpg?v=1740093435",
+        "width": 871,
+        "height": 1014,
+        "position": 69
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011758-EKOLITE-4MM-71-RATIO-03.jpg?v=1740093435",
+        "width": 871,
+        "height": 1014,
+        "position": 70
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011758-EKOLITE-4MM-71-RATIO-04.jpg?v=1740093435",
+        "width": 871,
+        "height": 1014,
+        "position": 71
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011758-EKOLITE-4MM-71-RATIO-01.jpg?v=1740093435",
+        "width": 871,
+        "height": 1014,
+        "position": 72
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011760_EKOLITE_4MM-71-DEEPSAGE_01_181baf6b-c73f-4e73-af07-6389d83c3543.jpg?v=1755711507",
+        "width": 871,
+        "height": 1014,
+        "position": 73
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011760_EKOLITE_4MM-71-DEEPSAGE_02_05e4c701-e51f-4af9-bc85-fa8c28bbfee7.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 74
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011760_EKOLITE_4MM-71-DEEPSAGE_03_68aa1601-ef7f-4f9e-9898-e139645fed95.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 75
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D011760_EKOLITE_4MM-71-DEEPSAGE_04_a089dd9f-582b-40b8-b374-1aa7f5708795.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 76
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021821_EKOLITE_4MM-71-CHERRY_BLOSSOM_PURPLE_01_f4d5189e-0038-47dd-81d1-a55837a992e1.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 77
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021821_EKOLITE_4MM-71-CHERRY_BLOSSOM_PURPLE_02_30924840-4e2a-44bc-9d7b-174c3902dc47.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 78
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021821_EKOLITE_4MM-71-CHERRY_BLOSSOM_PURPLE_03_ae306846-5796-4672-887f-c0eba5f91c78.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 79
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D021821_EKOLITE_4MM-71-CHERRY_BLOSSOM_PURPLE_04_f8f348f0-5e57-40d7-aceb-49de992c055d.jpg?v=1755711507",
+        "width": 871,
+        "height": 1014,
+        "position": 80
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D051822_EKOLITE_4MM-71-MIDNIGHT_MOON_MARBLE_01_7265fd5d-f6af-4c97-8079-30f5934e8a50.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 81
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D051822_EKOLITE_4MM-71-MIDNIGHT_MOON_MARBLE_02_78299e96-fba0-4b18-bc92-a3009058a286.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 82
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D051822_EKOLITE_4MM-71-MIDNIGHT_MOON_MARBLE_03_b9078439-eb84-4b9f-a809-6a6cbea396fb.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 83
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13D051822_EKOLITE_4MM-71-MIDNIGHT_MOON_MARBLE_04_248399ca-d960-4087-bec7-5d3816eea2c2.jpg?v=1755711506",
+        "width": 871,
+        "height": 1014,
+        "position": 84
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "eKO® Superlite Travel Yoga Mat 1.5mm",
+    "slug": "manduka-eko-superlite-travel-yoga-mat",
+    "description": "Naturally grippy mat made from sustainably harvested tree rubber, in a foldable, travel-ready size.\nDesigned for yogis on-the-go, the eKO SuperLite combines our signature orange peel top surface in natural rubber for the perfect grip. Our lightest mat to date, this foldable travel-ready mat is built to practice on…anywhere.",
+    "thickness": 1.5,
+    "length": 180.34,
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 4357743476794,
+    "shopifyHandle": "eko-superlite-travel-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "eKO Mat",
+      "eKO Series",
+      "eKO Superlite",
+      "Standard 68\" (172cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 16,
+    "minPrice": 45,
+    "maxPrice": 56,
+    "priceCurrency": "USD",
+    "minGrams": 953,
+    "maxGrams": 1043,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Rosewood",
+      "Leaf Green",
+      "Blue Moon Marble",
+      "Acai (Purple)",
+      "Midnight (Blue)",
+      "Charcoal (Grey)",
+      "Harvest",
+      "Deep Sage",
+      "Moon",
+      "Rooibos Marble",
+      "Nimbu",
+      "Gerry Lopez Charcoal",
+      "Cascade",
+      "Yes Please",
+      "Tiger"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Rosewood",
+          "Leaf Green",
+          "Blue Moon Marble",
+          "Acai (Purple)",
+          "Midnight (Blue)",
+          "Charcoal (Grey)",
+          "Harvest",
+          "Deep Sage",
+          "Moon",
+          "Rooibos Marble",
+          "Nimbu",
+          "Gerry Lopez Charcoal",
+          "Cascade",
+          "Yes Please",
+          "Tiger"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011816_EKO-SL-71-ROSEWOOD_01.jpg?v=1763829014",
+        "width": 4381,
+        "height": 5100,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011816_EKO-SL-71-ROSEWOOD_03.jpg?v=1763829014",
+        "width": 4381,
+        "height": 5100,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011816_EKO-SL-71-ROSEWOOD_04.jpg?v=1763829014",
+        "width": 4382,
+        "height": 5100,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011816_EKO-SL-71-ROSEWOOD_02.jpg?v=1763829014",
+        "width": 4381,
+        "height": 5100,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011480-MATS_EKO_SL_LEAF-GREEN_05.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/136011480-Mats-EkoSuperLite-LeafGreen-02.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/136011480-Mats-EkoSuperLite-LeafGreen-04.jpg?v=1763999772",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/136011480-Mats-EkoSuperLite-LeafGreen-03.jpg?v=1763999772",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/136011480-Mats-EkoSuperLite-LeafGreen-01.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051679_EKO-SL-71-BLUETOADMARBLE_05.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051_EKO-SL-71-BLUETOADMARBLE2.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051_EKO-SL-71-BLUETOADMARBLE4.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051_EKO-SL-71-BLUETOADMARBLE3.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051_EKO-SL-71-BLUETOADMARBLE1.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-TIGER_02.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-TIGER_03.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-TIGER_04.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-TIGER_01.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1613-Mats-EKO-SL-71-SPROUTGL-02_2689b14f-71c3-4ec3-ba2d-1261010166f8.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1613-Mats-EKO-SL-71-SPROUTGL-04_fa77f561-4f5a-49bf-9834-cf3528fce5d4.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1613-Mats-EKO-SL-71-SPROUTGL-01_e71d0f4f-0666-4526-9daf-05585500144a.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/SuperliteSprout_dd7d9248-307f-448d-bbcf-7e184c614764.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1613-Mats-EKO-SL-71-SPROUTGL-03_145f4efe-4360-401f-b628-285b23c4c464.jpg?v=1763999693",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136013-eko-superlite-midnight-3_2.jpg?v=1764000254",
+        "width": 870,
+        "height": 1013,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Hnet.com-image.jpg?v=1764000254",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011030-Mats-Midnight_04.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011030-Mats-Midnight_03.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011030-Mats-Midnight_01.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136013-eko-superlite-acai-3_4.jpg?v=1764000358",
+        "width": 870,
+        "height": 1013,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011080-Mats-Acai_02_1_1_3.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011080-Mats-Acai_04.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011080-Mats-Acai_03.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011080-Mats-Acai_01.jpg?v=1764000358",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/ekosuperlite-136013195-mats-fw18-charcoal-03.jpg?v=1764000616",
+        "width": 1186,
+        "height": 1381,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Hnet.com-image_2.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011077-Mats-Charcoal_03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011077-Mats-Charcoal_04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-SuperLite-71-136011077-Mats-Charcoal_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1612-Mats-EKO-SL-71-BEETLEGL-03_81d39151-b09c-4634-bb2a-37afa09f2874.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1612-Mats-EKO-SL-71-BEETLEGL-02_55a0c69b-7070-4821-93d0-2b3058bfc8c2.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1612-Mats-EKO-SL-71-BEETLEGL-04_2f63dfe9-d611-4c48-8c68-a000ce7cd763.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1360F1612-Mats-EKO-SL-71-BEETLEGL-01_5f1fcdd9-e96a-4cdf-9f18-604542f8acac.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/SuperliteBeetle_408544ef-91aa-42d5-8424-27c9763e32a7.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011681_EKO-SL-71-CASCADE_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-CASCADE_02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-CASCADE_03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-CASCADE_04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-CASCADE_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011673-71_EKO-SL-71-YESPLEASE_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-YESPLEASE_02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-YESPLEASE_03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-YESPLEASE_04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011_EKO-SL-71-YESPLEASE_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051762-MATS_EKO-SL-71-ROOIBOS-MARBLE_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051762-EKO-SL-71-ROOIBOS-MARBLE-02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051762-EKO-SL-71-ROOIBOS-MARBLE-04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051762-EKO-SL-71-ROOIBOS-MARBLE-03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051762-EKO-SL-71-ROOIBOS-MARBLE-01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051761-MATS_EKO-SL-71-BLUE-MOON-MARBLE_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051761-EKO-SL-71-BLUE-MOON-MARBLE-02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 60
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051761-EKO-SL-71-BLUE-MOON-MARBLE-04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 61
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051761-EKO-SL-71-BLUE-MOON-MARBLE-03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 62
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136051761-EKO-SL-71-BLUE-MOON-MARBLE-01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 63
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011567-MATS_EKO-SL-71-MOON_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 64
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011567-EKO-SL-71-MOON-02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 65
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011567-EKO-SL-71-MOON-04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 66
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011567-EKO-SL-71-MOON-03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 67
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011567-EKO-SL-71-MOON-01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 68
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011760_EKO-SL-71-DEEP-SAGE_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 69
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011760-EKO-SL-71-DEEP-SAGE-02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 70
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011760-EKO-SL-71-DEEP-SAGE-04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 71
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011760-EKO-SL-71-DEEP-SAGE-03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 72
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011760-EKO-SL-71-DEEP-SAGE-01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 73
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011753_EKO-SL-71-NIMBU_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 74
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011753_EKO-SL-71-NIMBU_02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 75
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011753_EKO-SL-71-NIMBU_03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 76
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011753_EKO-SL-71-NIMBU_04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 77
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011753_EKO-SL-71-NIMBU_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 78
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_EKO_SL_71-CHARCOAL-GL_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 79
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_EKO_SL_71-CHARCOAL-GL_02.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 80
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_EKO_SL_71-CHARCOAL-GL_03.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 81
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_EKO_SL_71-CHARCOAL-GL_05.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 82
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_EKO_SL_71-CHARCOAL-GL_04.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 83
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011813_EKO-SL-71-HARVEST_01.jpg?v=1764000616",
+        "width": 871,
+        "height": 1014,
+        "position": 84
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011813_EKO-SL-71-HARVEST_02.jpg?v=1764000616",
+        "width": 4381,
+        "height": 5100,
+        "position": 85
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011813_EKO-SL-71-HARVEST_03.jpg?v=1764000616",
+        "width": 4380,
+        "height": 5100,
+        "position": 86
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/136011813_EKO-SL-71-HARVEST_04.jpg?v=1764000616",
+        "width": 4382,
+        "height": 5100,
+        "position": 87
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "GRP® Adapt Travel Yoga Mat 1.5mm",
+    "slug": "manduka-grp®-adapt-travel-yoga-mat-1-5mm",
+    "description": "The lightest version of our GRP Adapt mat in a foldable, travel-ready size.\nDesigned with a Satin Grip™ top layer for ultimate grip, the GRP Adapt Travel is the lightest and most versatile option to our GRP Adapt Series, featuring an all grip no slip design in both wet and dry conditions.",
+    "thickness": 1.5,
+    "length": 180.34,
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 7372098895930,
+    "shopifyHandle": "grp®-adapt-travel-yoga-mat-1-5mm",
+    "shopifyTags": [
+      "Discontinued",
+      "GRP Adapt Travel",
+      "GRP Series",
+      "SS25",
+      "Standard 71\" (180cm)",
+      "Thin (1-2mm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 2,
+    "minPrice": 76,
+    "maxPrice": 76,
+    "priceCurrency": "USD",
+    "minGrams": 953,
+    "maxGrams": 953,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Carbon Black",
+      "Dark Lotus"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Carbon Black",
+          "Dark Lotus"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_01.jpg?v=1749059623",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_02.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_03.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_04.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71CARBON-BLACK_05.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71DARK-LOTUS_01.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71DARK-LOTUS_02.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71DARK-LOTUS_03.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71DARK-LOTUS_04.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_GRP_ADAPT_TRAVEL_1_5MM-71DARK-LOTUS_05.jpg?v=1749059827",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "PRO Travel Yoga Mat 2mm",
+    "slug": "manduka-pro-travel-yoga-mat",
+    "description": "The #1 mat recommended by teachers worldwide, built to last a lifetime.\nUltra-dense cushioning provides superior support, stability and joint protection.\nClosed-cell material seals out moisture and bacteria. Easy to disinfect and clean.\nMeticulously crafted in Germany. OEKO-TEX®️ certified.\nPro Tip: Pair with one of our performance towels to increase grip in sweaty sessions.\nStandard Length Mat: 2.0 mm thick; 71” x 24”; 2.4 lb",
+    "thickness": 2,
+    "length": 180.34,
+    "weight": 1.0886229826455354,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide",
+      "Closed-Cell"
+    ],
+    "shopifyId": 2519968645178,
+    "shopifyHandle": "pro-travel-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "PRO Series",
+      "PRO Travel",
+      "Solid",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 7,
+    "minPrice": 64,
+    "maxPrice": 84,
+    "priceCurrency": "USD",
+    "minGrams": 1179,
+    "maxGrams": 1315,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black Sage (Green)",
+      "Black Sage Mist",
+      "Black",
+      "Black Night",
+      "Blue Lotus"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black Sage (Green)",
+          "Black Sage Mist",
+          "Black",
+          "Black Night",
+          "Blue Lotus"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK-SAGE_05_05d1142a-2cf0-4448-b969-d5a4ea873be7.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Sage-02-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Sage-03-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProTravel71-116011L60-Mats-Majesty_999.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProTravel71-116011L60-Mats-Majesty_260.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProTravel71-116011L60-Mats-Majesty_049.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Black-02.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Black-03.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Black-01.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Indulge-02-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Indulge-03-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Fuschia-04.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-NEW-Mats--Midnight-01-Self-Award_1.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PROtravel-71-116011367-Mats-Be-Bold-Blue_03.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Indulge-01-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Sage-01-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Odyssey-02.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Odyssey-04.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Odyssey-01.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Midnight-02-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Midnight-03-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PROTravel-NEW-Mats--Midnight-01-Digital.jpg?v=1749058209",
+        "width": 1340,
+        "height": 1560,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Odyssey-03.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Fuschia-01.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Fuschia-03.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO-Travel-116011050-MATS-SS20-Fuschia-02.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PROtravel-71-116011367-Mats-Be-Bold-Blue_02.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PROtravel-71-116011367-Mats-Be-Bold-Blue_04.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-PROtravel-71-116011367-Mats-Be-Bold-Blue_01.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/ProTravel71-116011L60-Mats-Majesty_070.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/11G013010_PRO-TRAVEL_2.0-71-BLACK_05.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK_01.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK_02.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK_04.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK-SAGE_01.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK-SAGE_02.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLACK-SAGE_04.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLUE-LOTUS_05_f03f0795-a004-404b-9337-a7bb47062d12.jpg?v=1749058209",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLUE-LOTUS_01.jpg?v=1747191244",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLUE-LOTUS_02.jpg?v=1747191244",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MATS_PROTRAVEL2_71-BLUE-LOTUS_04.jpg?v=1747191244",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "PRO® Squared Yoga Mat 6mm",
+    "slug": "manduka-pro-squared-yoga-mat",
+    "description": "All the same benefits of our PRO mat, in an extra large size for your home yoga sanctuary.\nCreate your very own home yoga sanctuary or home gym with our PRO Squared yoga mat. This square mat has all the same benefits of our bestselling PRO mat and is supersized to be the ultimate platform for play. The PRO Squared is big enough for two -- there's plenty of room to practice on your own, or with a partner.",
+    "thickness": 6,
+    "length": 78,
+    "width": 78,
+    "features": [
+      "Extra Thick"
+    ],
+    "shopifyId": 6571125211194,
+    "shopifyHandle": "pro-squared-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "Extra Thick (6mm)",
+      "PRO Series",
+      "PRO Squared",
+      "PRO XL",
+      "Solid",
+      "Squared 78\" x 78\"",
+      "USD",
+      "XL Mats"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 2,
+    "minPrice": 350,
+    "maxPrice": 350,
+    "priceCurrency": "USD",
+    "minGrams": 11793,
+    "maxGrams": 11793,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black Sage",
+      "Black"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black Sage",
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Squared 78x78\" (198x198cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/11106A050_PRO-SQUARED_78x78-BLACK_SAGE_02.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-5a_563b312b-e3f5-49c1-8981-2645cd0e41ff.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-5.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-5a.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-4.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-3_2.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-2_3.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-1a.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-3.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROLong_Wide-001.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-PRO-Squared-Midnight-WithText01.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-8a.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO79Long_Wide-Midnight-003-With-Text.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-PRO-Squared-Midnight-WithText02.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO79Long_Wide-Midnight-002.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/MD-PROXL-PDP-Imagery-3_2d0e78da-073f-4bb7-a608-3dca8f0b93b7.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/PRO79Long_Wide-Midnight-001.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/11A015050-Mats-PRO79Long_Wide-BlackSage_01.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/11A015050-Mats-PRO79Long_Wide-BlackSage_03.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/11A015050-Mats-PRO79Long_Wide-BlackSage_04.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/11A015050-Mats-PRO79Long_Wide-BlackSage_02.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/11106A050_PRO-SQUARED_78x78-BLACK_SAGE_01.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/11106A050_PRO-SQUARED_78x78-BLACK_SAGE_03.jpg?v=1764266278",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-3.jpg?v=1754051121",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "PRO® Long & Wide Yoga Mat 6mm",
+    "slug": "manduka-pro-long-wide-yoga-mat",
+    "description": "All the same benefits of our PRO mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PRO Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
+    "thickness": 6,
+    "length": 79,
+    "width": 52,
+    "features": [
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "shopifyId": 7138656354362,
+    "shopifyHandle": "pro-long-wide-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "Extra Thick (6mm)",
+      "Long & Wide 79x52\" (200x132cm)",
+      "PRO Series",
+      "PRO Wide",
+      "PRO XL",
+      "Solid",
+      "USD",
+      "XL Mats"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 2,
+    "minPrice": 280,
+    "maxPrice": 280,
+    "priceCurrency": "USD",
+    "minGrams": 9979,
+    "maxGrams": 9979,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black",
+      "Midnight"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Midnight"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Long & Wide 79x52\" (200x132cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-4_3.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-2_3_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-1a_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-3_2d0e78da-073f-4bb7-a608-3dca8f0b93b7_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO79Long_Wide-Midnight-003-With-Text_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO79Long_Wide-Midnight-002_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/PRO79Long_Wide-Midnight-001_1.jpg?v=1700012741",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MD-PROXL-PDP-Imagery-3_4.jpg?v=1700012736",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "PROlite® Long & Wide Yoga Mat 4.7mm",
+    "slug": "manduka-prolite-long-wide-yoga-mat",
+    "description": "All the same benefits of our PROlite mat, in a larger size for your home yoga sanctuary or home gym.\nWant more mat, but don't have a dedicated workout room or space for it? The PROlite Long & Wide can transform your living room into a home studio (and back again) with minimal effort.",
+    "thickness": 4.7,
+    "length": 79,
+    "width": 30,
+    "features": [
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "shopifyId": 7138656387130,
+    "shopifyHandle": "prolite-long-wide-yoga-mat",
+    "shopifyTags": [
+      "Discontinued",
+      "Long & Wide 79x30\" (200x76cm)",
+      "PRO Series",
+      "PRO XL",
+      "PROlite Wide",
+      "Solid",
+      "Thick (5mm)",
+      "USD",
+      "XL Mats"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 2,
+    "minPrice": 138,
+    "maxPrice": 138,
+    "priceCurrency": "USD",
+    "minGrams": 3175,
+    "maxGrams": 3175,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black",
+      "Midnight"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Midnight"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Long & Wide 79x30\" (200x76cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-PL79-LONG-_-WIDE-MIDNIGHT-01.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-PL79-LONG-_-WIDE-MIDNIGHT-03.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-PL79-LONG-_-WIDE-MIDNIGHT-04.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-PL79-LONG-_-WIDE-MIDNIGHT-02.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/113015010-Mats-PL79-LONG-_-WIDE-BLACK-01.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/113015010-Mats-PL79-LONG-_-WIDE-BLACK-03.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/113015010-Mats-PL79-LONG-_-WIDE-BLACK-04.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/113015010-Mats-PL79-LONG-_-WIDE-BLACK-02.jpg?v=1706662856",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "Manduka X Yoga Mat 5mm",
+    "slug": "manduka-manduka-x-yoga-mat-5mm",
+    "description": "One of our most durable and supportive mats built for any yoga or fitness session.\nSome of us like to do it all—and that’s who the X mat is built for. Designed with a Double-Weave™ scrim system, this mat provides ultra-durability for any workout routine from yoga to Pilates to cardio. Go barefoot, rock your shoes, take it to the gym…meditate on the beach. With its grippy crosshatch texture, the X mat is the X-factor when it comes to superior fitness support.",
+    "thickness": 5,
+    "length": 180.34,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 4357761073210,
+    "shopifyHandle": "manduka-x-yoga-mat-5mm",
+    "shopifyTags": [
+      "Discontinued",
+      "MANDUKA X",
+      "MANDUKA X 5MM",
+      "Standard 71\" (180cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 7,
+    "minPrice": 58,
+    "maxPrice": 68,
+    "priceCurrency": "USD",
+    "minGrams": 1678,
+    "maxGrams": 1678,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Birch",
+      "Thrive (Green)",
+      "Midnight (Blue)",
+      "Verve (Red)",
+      "Black (Black)",
+      "Magic (Purple)",
+      "Elderberry"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Birch",
+          "Thrive (Green)",
+          "Midnight (Blue)",
+          "Verve (Red)",
+          "Black (Black)",
+          "Magic (Purple)",
+          "Elderberry"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011X50-Mats-MANDUKA-X-5MM-THRIVE-01.jpg?v=1706730257",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011X50-Mats-MANDUKA-X-5MM-THRIVE-02.jpg?v=1706730257",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011X50-Mats-MANDUKA-X-5MM-THRIVE-04.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011X50-Mats-MANDUKA-X-5MM-THRIVE-03.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011Z30-Mats-MANDUKA-X-5MM-VERVE-01.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011Z30-Mats-MANDUKA-X-5MM-VERVE-02.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011Z30-Mats-MANDUKA-X-5MM-VERVE-04.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011Z30-Mats-MANDUKA-X-5MM-VERVE-03.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011010-Mats-MANDUKA-X-5MM-BLACK-01.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011010-Mats-MANDUKA-X-5MM-BLACK-02.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011010-Mats-MANDUKA-X-5MM-BLACK-04.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011010-Mats-MANDUKA-X-5MM-BLACK-03.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011030-Mats-MANDUKA-X-5MM-MIDNIGHT-01.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011030-Mats-MANDUKA-X-5MM-MIDNIGHT-02.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011030-Mats-MANDUKA-X-5MM-MIDNIGHT-04.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011030-Mats-MANDUKA-X-5MM-MIDNIGHT-03.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011040-Mats-MANDUKA-X-5MM-MAGIC-01.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011040-Mats-MANDUKA-X-5MM-MAGIC-02.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011040-Mats-MANDUKA-X-5MM-MAGIC-04.jpg?v=1706730375",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1A1011040-Mats-MANDUKA-X-5MM-MAGIC-03.jpg?v=1706730219",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-BIRCH_03.jpg?v=1753950152",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-BIRCH_02.jpg?v=1753950152",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-BIRCH_04.jpg?v=1753950152",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-BIRCH_01.jpg?v=1753950152",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKA_X_-_5MM_-_ELDERBERRY_03.jpg?v=1753950359",
+        "width": 4380,
+        "height": 5100,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-ELDERBERRY_02.jpg?v=1753950464",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-ELDERBERRY_04.jpg?v=1753950464",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/MANDUKAX-5MM-ELDERBERRY_01.jpg?v=1753950464",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "begin yoga mat 5mm",
+    "slug": "manduka-begin-yoga-mat-5mm",
+    "description": "A thick, cushioned mat with the same high-performance quality at a budget-conscious price.\nLooking for a high-performance mat with the same renowned, earth-friendly Manduka craftsmanship…at a lower price? Our Begin mat offers a cushioned ride for easy transitions and joint support, and also features an alignment stripe to guide poses and encourage your continued practice. Reversible and lightweight, Begin is ideal for anyone looking for a high quality mat that’s easy on the wallet.",
+    "thickness": 5,
+    "length": 172.72,
+    "features": [
+      "Reversible",
+      "Extra Thick",
+      "Lightweight",
+      "Alignment Marks"
+    ],
+    "shopifyId": 2519968153658,
+    "shopifyHandle": "begin-yoga-mat-5mm",
+    "shopifyTags": [
+      "Begin",
+      "Begin 5mm",
+      "Discontinued",
+      "Standard 68\" (172cm)",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 7,
+    "minPrice": 50,
+    "maxPrice": 58,
+    "priceCurrency": "USD",
+    "minGrams": 953,
+    "maxGrams": 953,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Bondi Blue",
+      "Crystal Thunder",
+      "Moon Black",
+      "Black",
+      "Midnight",
+      "Steel Grey",
+      "Elderberry Thunder"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Bondi Blue",
+          "Crystal Thunder",
+          "Moon Black",
+          "Black",
+          "Midnight",
+          "Steel Grey",
+          "Elderberry Thunder"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 68\" (172cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023826_BEGIN_MAT_5MM_ELDERBERRY_THUNDER_04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023826_BEGIN_MAT_5MM_ELDERBERRY_THUNDER_02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023826_BEGIN_MAT_5MM_ELDERBERRY_THUNDER_01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023826_BEGIN_MAT_5MM_ELDERBERRY_THUNDER_03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023673_BEGINMAT_YESPLEASE_grey_003.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023673_BEGINMAT_YESPLEASE_grey_002.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023673_BEGINMAT_YESPLEASE_grey_001.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Begin-Mat-1C1023234-Mats-FW18-STEEL-GREY-01.jpg?v=1763829263",
+        "width": 1340,
+        "height": 1560,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Begin-Mat-1C1023234-Mats-FW18-STEEL-GREY-02.jpg?v=1763829263",
+        "width": 1340,
+        "height": 1560,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/Begin-Mat-1C1023234-Mats-FW18-STEEL-GREY-04.jpg?v=1763829263",
+        "width": 1340,
+        "height": 1560,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/1C1023234-Mats-BONDI-BLUE-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/1C1023234-Mats-BONDI-BLUE-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/1C1023234-Mats-BONDI-BLUE-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013030-Mats-BEGIN-MAT-5MM-MIDNIGHT-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013030-Mats-BEGIN-MAT-5MM-MIDNIGHT-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013030-Mats-BEGIN-MAT-5MM-MIDNIGHT-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023380-Mats-BEGIN-MAT-5MM-LAVENDER-FIG-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023380-Mats-BEGIN-MAT-5MM-LAVENDER-FIG-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023380-Mats-BEGIN-MAT-5MM-LAVENDER-FIG-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013010-BEGIN-MAT-5MM-BLACK-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013010-BEGIN-MAT-5MM-BLACK-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013010-BEGIN-MAT-5MM-BLACK-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1013010-BEGIN-MAT-5MM-BLACK-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023773-BEGIN-MAT-5MM-BLUE-LOTUS-THUNDER-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023773-BEGIN-MAT-5MM-BLUE-LOTUS-THUNDER-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023773-BEGIN-MAT-5MM-BLUE-LOTUS-THUNDER-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023773-BEGIN-MAT-5MM-BLUE-LOTUS-THUNDER-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023774-BEGIN-MAT-5MM-CRYSTAL-THUNDER-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023774-BEGIN-MAT-5MM-CRYSTAL-THUNDER-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023774-BEGIN-MAT-5MM-CRYSTAL-THUNDER-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023774-BEGIN-MAT-5MM-CRYSTAL-THUNDER-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-CLAY-LOTUS-ROOT-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-CLAY-LOTUS-ROOT-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-CLAY-LOTUS-ROOT-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-CLAY-LOTUS-ROOT-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-MOON-BLACK-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-MOON-BLACK-04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-MOON-BLACK-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023775-BEGIN-MAT-5MM-MOON-BLACK-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023350-Mats-BEGIN-MAT-5MM-SPROUT-01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023350-Mats-BEGIN-MAT-5MM-SPROUT-02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023350-Mats-BEGIN-MAT-5MM-SPROUT-03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023825_BEGIN_MAT_5MM_CHERRY_BLOSSOM_ELDERBERRY_03.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023825_BEGIN_MAT_5MM_CHERRY_BLOSSOM_ELDERBERRY_01.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023825_BEGIN_MAT_5MM_CHERRY_BLOSSOM_ELDERBERRY_02.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1C1023825_BEGIN_MAT_5MM_CHERRY_BLOSSOM_ELDERBERRY_04.jpg?v=1763829263",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "Shala Yoga Rug",
+    "slug": "manduka-shala-yoga-rug",
+    "description": "A sustainable yoga rug crafted by hand for your outdoor practices and easy flows.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMindfully made from pre-consumer apparel scraps, the Shala Yoga Rug pays homage to early yogic traditions while also supporting the craftsmanship of artisan weavers. The intricate weave provides support in a machine washable rug for a light flow or meditation at the beach or on an outside surface at your favorite adventure.",
+    "length": 71,
+    "width": 26,
+    "features": [
+      "Eco-Friendly"
+    ],
+    "shopifyId": 7297354825786,
+    "shopifyHandle": "shala-yoga-rug",
+    "shopifyTags": [
+      "Active - NOT On Replen",
+      "Pattern",
+      "Shala Rug",
+      "SS24",
+      "USD",
+      "Woven"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 3,
+    "minPrice": 88,
+    "maxPrice": 88,
+    "priceCurrency": "USD",
+    "minGrams": 1043,
+    "maxGrams": 1043,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Black Heather",
+      "Indulge",
+      "Flaneur"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black Heather",
+          "Indulge",
+          "Flaneur"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "71\" x 26\" (180cm x 66cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-04.jpg?v=1718695543",
+        "width": 871,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-01.jpg?v=1718695712",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-07.jpg?v=1718695712",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-08.jpg?v=1718695736",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-02.jpg?v=1718695736",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-03.jpg?v=1718695736",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-05.jpg?v=1718695736",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/Mats-SHALA-RUG-BLACK-HEATHERED-06.jpg?v=1718695736",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_02.jpg?v=1734494984",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_04.jpg?v=1734494990",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_03.jpg?v=1734494995",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_06.jpg?v=1734494975",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_05.jpg?v=1734495004",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_01.jpg?v=1734494999",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1060-SHALA-YOGA-RUG-71-INDULGE_02_2e6b485c-0d1b-4815-933e-8bd7bd85ecd6.jpg?v=1734494837",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR_02.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR-03.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR_01.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR-04.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR-02.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1F20P1782-SHALA-YOGA-RUG-71-FLANEUR-01.jpg?v=1740005113",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "manduka",
+    "name": "eKO® Yoga Mat 5mm (SALE)",
+    "slug": "manduka-eko®-yoga-mat-5mm-2-0",
+    "description": "All eKO® Series yoga mats have a closed-cell surface, which will never absorb moisture. Because of this, if you are warm/sweaty at all, the mat will feel slippery, so we always recommend pairing it with one of our hand towels to absorb moisture and provide extra traction or to apply our Yoga Grip Gel during your practice. If you're practicing hot yoga, we recommend a mat towel for full mat coverage. For towel guidance read our Guide to Yoga Towels.",
+    "thickness": 5,
+    "length": 180.34,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Alignment Marks",
+      "Closed-Cell"
+    ],
+    "shopifyId": 7476532183098,
+    "shopifyHandle": "eko®-yoga-mat-5mm-2-0",
+    "shopifyTags": [
+      "Discontinued",
+      "eKO 5mm",
+      "eKO Mat",
+      "eKO Series",
+      "USD"
+    ],
+    "shopifyUpdatedAt": "2026-01-06T06:54:21-08:00",
+    "variantsCount": 4,
+    "minPrice": 80,
+    "maxPrice": 90,
+    "priceCurrency": "USD",
+    "minGrams": 2812,
+    "maxGrams": 4191,
+    "isAvailable": true,
+    "hasMultipleColors": true,
+    "availableColors": [
+      "Acai Midnight",
+      "Charcoal (Grey)",
+      "Midnight"
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Acai Midnight",
+          "Charcoal (Grey)",
+          "Midnight"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "Standard 71\" (180cm)",
+          "Long 79\" (200cm)"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_02.jpg?v=1764439701",
+        "width": 811,
+        "height": 1014,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Midnight_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-02_1b2ebe24-d19a-4f25-a93b-0fe0d5f84a02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-03_b66c6148-c9a7-4e82-89dd-671da395abdb.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-04_d6d58875-77fe-4637-b284-afbc0656670a.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E051755-EKO-5MM-71-GLENN-GREEN-MARBLE-01_95e3703d-0a88-4b43-b178-c200f4dc0be9.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-PURPLEHAZEMARBLE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021560-MATS-EKO-2.0-5MM-71-BLACK-CLAY-MARBLE-01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_02.jpg?v=1764439701",
+        "width": 811,
+        "height": 1014,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/2132md-eKO-5mm-71-13A021283-Mats-Acai-Midnight_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-02-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-03-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-04-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/products/135021077-Mats-Eko5mm-Charcoal-01-Grey-Bkgd-Low-Res.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021609-Mats-EKO-2.0-5MM-71-MYECELIUM-01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135021_EKO_2.0_5MM-71-YESPLEASE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_02.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_03.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_04.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051_EKO_2.0_5MM-71-BLUETOADMARBLE_01.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-02_b67cbbbc-3ffc-4fde-9eb4-ee95e65482cf.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-03_9638de0a-bb88-4b7d-8c1b-3f5e2e369d29.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-04_5f067c9e-c453-4a87-a0d4-8a3e8d9ffdd6.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E021754-EKO-5MM-71-ALGAE-CHARCOAL-01_c215b0e3-79fc-4069-acc0-572aee9eea1c.jpg?v=1764439701",
+        "width": 871,
+        "height": 1014,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-02_d7998d9c-b14f-41d8-a475-9841802ac03a.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-03_a8339808-debb-4fd7-990c-2086e50b09be.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 42
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-04_1a1b794a-623d-4105-8ae4-b33e1d6b2d1f.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 43
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011077-EKO-5MM-71-CHARCOAL-01_feb05ada-694e-4d4c-8f48-2761e6616e58.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 44
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-02_f93b2653-db23-45d1-8dab-561ec85b8367.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 45
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-03_02cbd082-380e-45b0-bd0f-ac1ef73fa5c2.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 46
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-04_5aa65487-c15f-494f-ab30-c1b5418331d0.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 47
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13F0Z1756-EKO-LE-5MM-71-ROYAL-FLANEUR-MIDNIGHT-LE-01_90f35f70-a011-4034-9eaf-ba45ebbc25f4.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 48
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-02_49692cbb-3163-439b-9f1b-5539015d5e85.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 49
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-03_a977125a-487e-4ef3-a14c-9f56a432c1e8.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 50
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-04_4c2e97ef-5871-4270-8c67-9db0d0e69fe1.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 51
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/13E011030-EKO-5MM-71-MIDNIGHT-01_58317e17-7f41-4dfa-af3d-232010558b40.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 52
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-02_b82cabd9-cd34-4f16-87c3-fb1205802f0d.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 53
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-03_5c722f66-595a-414d-a353-fb09a2f7e4f6.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 54
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-04_44436c12-feff-4492-b6cf-25fadc725190.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 55
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/1350Z1610-Mats-EKO2.05MM-71-SPRINGBUDS-01_3e77b34f-f1da-47aa-8a51-a24de87b317f.jpg?v=1763828831",
+        "width": 871,
+        "height": 1014,
+        "position": 56
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051679_EKO_5MM-71-BLUE_TOAD_MARBLE_02_site.jpg?v=1764018489",
+        "width": 1000,
+        "height": 1164,
+        "position": 57
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051679_EKO_5MM-71-BLUE_TOAD_MARBLE_site.jpg?v=1764018489",
+        "width": 1000,
+        "height": 1164,
+        "position": 58
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051679_EKO_5MM-71-BLUE_TOAD_MARBLE_04_site.jpg?v=1764018489",
+        "width": 1000,
+        "height": 1164,
+        "position": 59
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0132/3529/0170/files/135051679_EKO_5MM-71-BLUE_TOAD_MARBLE_01.jpg?v=1764018489",
+        "width": 1000,
+        "height": 1164,
+        "position": 60
+      }
+    ]
+  }
+]

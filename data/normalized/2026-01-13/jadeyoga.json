@@ -1,0 +1,2205 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Harmony Yoga Mat - JadeYoga",
+    "slug": "jadeyoga-harmony-mat",
+    "titleOriginal": "Jade Harmony Yoga Mat - JadeYoga",
+    "titleAuto": "JadeYoga Jade Harmony",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Named Best Mat for Grip by Yoga Journal for 2024!\n\nOur most popular mat provides great traction and cushion while still providing stability for standing poses.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, available in two lengths: 68\" and 74”, and weighs about 5 pounds. (For a wider and longer variety, see Harmony XW at 28\" wide)\n\n68\" Mat Colors: Purple, Midnight Blue, Olive Green, Black, Jade Green, Raspberry, Slate Blue, Tibetan Orange, Sky Blue, Saffron, Pink, Teal and Sky Blue/Saffron*\n\n74\" Mat Colors: Jade Green, Black, Midnight Blue, Olive, Sky Blue, and Purple.\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.\n*Although Jade mats are 99% latex free, as they are from rubber trees, there may be trace amounts of latex proteins in the mats so we recommend persons with latex allergies avoid contact with our mats.\n\n\n\nJade's Color Cause Program: 100% of profits from the sale of the Saffron/Sky Blue Ukraine mat will be donated to Ukraine TrustChain and Revived Soldiers Ukraine.  $5 will be donated to ovarian cancer causes for every Teal mat purchased, $5 from each Saffron mat will be donated to Autism causes and $5 will be donated to breast cancer causes for every pink mat purchased!  Saffron is available starting in April for Autism Awareness Month, Teal is available starting in September for Ovarian Cancer Awareness Month and Pink is available starting in October for Breast Cancer Awareness Month.",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 pounds"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 426167656,
+    "shopifyHandle": "harmony-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Harmony",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2015-02-16T15:17:57-05:00",
+    "shopifyPublishedAt": "2015-02-16T15:16:00-05:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 20,
+    "minPrice": 99.95,
+    "maxPrice": 109.95,
+    "variantPriceValues": [
+      99.95,
+      109.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2177,
+    "maxGrams": 2404,
+    "variantGramsValues": [
+      2177,
+      2404
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "68\" Length",
+          "74\" Length"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Purple",
+          "Black",
+          "Tibetan Orange",
+          "Teal",
+          "Midnight Blue",
+          "Olive",
+          "Raspberry",
+          "Pink",
+          "Slate Blue",
+          "Jade Green",
+          "Saffron",
+          "Sky Blue",
+          "Sky Blue/Saffron for Ukraine",
+          "Moe-gi Green"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Cover.jpg?v=1631573421",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/harmony_overview_3.jpg?v=1631573421",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Purple.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Black.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Tibetan-Orange.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Midnight-Blue.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Olive-Green.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Raspberry.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Pink.jpg?v=1631573421",
+        "width": 1200,
+        "height": 1200,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Slate-Blue.jpg?v=1631573477",
+        "width": 1200,
+        "height": 1200,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Jade-Green.jpg?v=1631573477",
+        "width": 1200,
+        "height": 1200,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Saffron.jpg?v=1631573477",
+        "width": 1200,
+        "height": 1200,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Untitled.jpg?v=1696346203",
+        "width": 1080,
+        "height": 1080,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Untitled_2.jpg?v=1696346203",
+        "width": 1080,
+        "height": 1080,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Untitled_7.jpg?v=1696347951",
+        "width": 1080,
+        "height": 1080,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/4Thick2_preview_38c50f73-5030-4056-a6a5-7f6518b44042.jpg?v=1696347951",
+        "width": 1200,
+        "height": 1200,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Myproject.jpg?v=1696347951",
+        "width": 1200,
+        "height": 1200,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2823.jpg?v=1728054807",
+        "width": 4536,
+        "height": 2961,
+        "position": 18
+      }
+    ],
+    "availableColors": [
+      "Purple",
+      "Black",
+      "Tibetan Orange",
+      "Teal",
+      "Midnight Blue",
+      "Olive",
+      "Raspberry",
+      "Pink",
+      "Slate Blue",
+      "Jade Green",
+      "Saffron",
+      "Sky Blue",
+      "Sky Blue/Saffron for Ukraine",
+      "Moe-gi Green"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Best-Selling Travel Yoga Mat  – Lightweight, Portable and Durable",
+    "slug": "jadeyoga-travel-mat",
+    "titleOriginal": "Best-Selling Travel Yoga Mat  – Lightweight, Portable and Durable",
+    "titleAuto": "JadeYoga Best",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Light and Portable:  The Jade Travel Yoga Mat folds up to fit easily into your luggage, allowing you to take your practice with you everywhere!\n\nGreat for yogis on the go, and for those who like closer contact with the ground, along with a little cushion! \n\nIncredible grip from open cell natural rubber\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws.\n\nDimensions: 1/8\" thick, 24\" wide, is available in two lengths: 68\" and 74\", and weighs just over 3 pounds\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 3.175,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1/8\" thick"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 1.3607787283069193,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3 pounds"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 443985608,
+    "shopifyHandle": "travel-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Travel",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2015-03-11T08:46:11-04:00",
+    "shopifyPublishedAt": "2015-03-11T08:43:00-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 5,
+    "minPrice": 79.95,
+    "maxPrice": 93.75,
+    "variantPriceValues": [
+      79.95,
+      93.75
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1542,
+    "maxGrams": 1678,
+    "variantGramsValues": [
+      1542,
+      1678
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 3.175,
+    "thicknessMmMax": 3.175,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      32
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "68\" Length",
+          "74\" Length"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Midnight Blue",
+          "Olive Green",
+          "Purple"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Travel-Mat-Cover.jpg?v=1631574623",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/travel_overview_3.jpg?v=1631574623",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Travel-Midnight-Blue.jpg?v=1631574685",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Travel-Olive-Green.jpg?v=1631574685",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Travel-Purple.jpg?v=1631574685",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/4Thick2_preview_5e064d7c-86c7-4c92-a7d1-2083bbdb4490.jpeg?v=1631574685",
+        "width": 1200,
+        "height": 1200,
+        "position": 6
+      }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Olive Green",
+      "Purple"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Fusion Yoga & Pilates Mat – Extra Thick Natural Rubber Yoga & Pilates Mat - JadeYoga",
+    "slug": "jadeyoga-fusion-mat",
+    "titleOriginal": "Jade Fusion Yoga & Pilates Mat – Extra Thick Natural Rubber Yoga & Pilates Mat - JadeYoga",
+    "titleAuto": "JadeYoga Jade Fusion Yoga & Pilates",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Named Best Thick Mat by Yoga Journal for 2024!\n\nExtra Thick, Extra Comfort: Our thickest mat available, at 5/16\" (8mm) thick, the Fusion mat provides extra cushion for whenever you want, or need, that extra comfort and is great for restorative yoga, pilates, core fitness practices, and cross-fit! \n\nIncredible grip and ultra comfortable: Never worry about slipping again with our grippy, open cell natural rubber mats.\n\nEco-Friendly: Made from natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 5/16\" (8mm) thick, 24\" wide, available in two lengths: 68\" and 74\", and weighs about 8.5 pounds. (For a wider and longer variety, see Fusion XW at 28\" wide and 80\" long)\n\n68\" Mat Colors: Purple, Midnight Blue, Slate Blue, and Jade Green\n\n74\" Mat Colors: Purple, Midnight Blue, and Jade Green\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 3.855539730202938,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "8.5 pounds"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 443967080,
+    "shopifyHandle": "fusion-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Fusion",
+    "shopifyTags": [
+      "2666 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2015-03-11T08:18:40-04:00",
+    "shopifyPublishedAt": "2015-03-11T08:16:00-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 7,
+    "minPrice": 174.95,
+    "maxPrice": 199.95,
+    "variantPriceValues": [
+      174.95,
+      199.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3992,
+    "variantGramsValues": [
+      3629,
+      3992
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "68\" Length",
+          "74\" Length"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Midnight Blue",
+          "Purple",
+          "Slate Blue",
+          "Jade Green"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/568SBRolled.jpg?v=1637350470",
+        "width": 2048,
+        "height": 2048,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/fusion_overview_3.jpg?v=1637350470",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-Midnight-Blue.jpg?v=1637350470",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-Purple.jpg?v=1637350470",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/4Thick2_preview_38c50f73-5030-4056-a6a5-7f6518b44042.jpeg?v=1637350470",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/568SB.jpg?v=1691430679",
+        "width": 1133,
+        "height": 754,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/8291A.jpg?v=1715351592",
+        "width": 4928,
+        "height": 3280,
+        "position": 7
+      }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Purple",
+      "Slate Blue",
+      "Jade Green"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Voyager Mat - Lightweight and Portable - JadeYoga",
+    "slug": "jadeyoga-voyager-mat",
+    "titleOriginal": "Jade Voyager Mat - Lightweight and Portable - JadeYoga",
+    "titleAuto": "JadeYoga Jade Voyager",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Thinnest, Lightest and Most Portable: The Jade Voyager Mat is truly the most portable mat Jade offers, made specifically to go with you everywhere and anywhere.\n\nFolds up to about the size of a yoga block- allowing it to fit perfectly into your suitcase or backpack!\n\nGreat for Traveling:  At 1/16\" thick, and 1.5 pounds, the Voyager mat is ideal for those that have to travel light and/or have limited storage space due to its portability.\n\n\n\n\n\n \n\n\n\nDimensions: 1/16\" thick, 24\" wide, 68\" long, and weighs just over 1.5 pounds\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nStorage: Please note that just like you would expect creases in your clothes when traveling, creases are a natural consequence of folding the Voyager mat. These effects will be minimized by keeping your mat rolled when not traveling\n\nConstruction: The reinforcing scrim (which is hidden inside our other mats) is visible on the bottom of the Voyager mat- a consequence of its being as lightweight as possible!\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 1.5875,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1/16\" thick"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 0.6803893641534596,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.5 pounds"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 3094879877,
+    "shopifyHandle": "voyager-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Voyager",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2015-11-27T15:45:04-05:00",
+    "shopifyPublishedAt": "2015-03-11T08:43:00-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 5,
+    "minPrice": 49.95,
+    "maxPrice": 49.95,
+    "variantPriceValues": [
+      49.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 771,
+    "maxGrams": 771,
+    "variantGramsValues": [
+      771
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 1.5875,
+    "thicknessMmMax": 1.5875,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "thicknessMmx10Values": [
+      16
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "68\" Length"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Midnight Blue",
+          "Purple",
+          "Olive Green",
+          "Black",
+          "Jade Green"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Cover.jpg?v=1630649137",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Voyager-mat_folded_thumb_78dcaf7b-c9e8-44fe-aa09-368f6acb2866.jpg?v=1631574053",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Folded.jpg?v=1631573748",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Folded-Olive.jpg?v=1631574033",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Folded-Purple.jpg?v=1631574032",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Midnight-Blue.jpg?v=1631573748",
+        "width": 1200,
+        "height": 1200,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Purple.jpg?v=1631573747",
+        "width": 1200,
+        "height": 1200,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Olive-Green.jpg?v=1631573748",
+        "width": 1200,
+        "height": 1200,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Voyager-Folded-Block.jpg?v=1631573748",
+        "width": 1200,
+        "height": 1200,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/4Thick2_preview_75597c41-ea58-4f0e-8e83-4b213fa53d61.jpeg?v=1631574053",
+        "width": 1200,
+        "height": 1200,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/668BK.jpg?v=1657737162",
+        "width": 1480,
+        "height": 860,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Voyager_2.jpg?v=1729875172",
+        "width": 4928,
+        "height": 2793,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Voyager_3.jpg?v=1729875192",
+        "width": 3299,
+        "height": 3121,
+        "position": 13
+      }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Purple",
+      "Olive Green",
+      "Black",
+      "Jade Green"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Level One Yoga Mat  For Beginners – JadeYoga",
+    "slug": "jadeyoga-level-1-mat",
+    "titleOriginal": "Jade Level One Yoga Mat  For Beginners – JadeYoga",
+    "titleAuto": "JadeYoga Jade Level One For Beginners",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "The perfect mat for the new yogi\n\nGreat grip and cushion to help you focus on the poses without worrying about slipping or what toxins are in your mat at an entry-level price\n\nAt 4mm thick, the Level One is slightly thinner than the Harmony mat and a bit thicker than the Travel Mat.\n\nDimensions: 4mm thick, 24\" wide and 68\" long\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws.\n\nReview: Click here for a review by Outdoor Prolink\n\n\nPlease note: Level 1 is constructed in a \"single-pass\" with the reinforcing scrim on the bottom of the mat rather than the middle.\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 51826982930,
+    "shopifyHandle": "level-1-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2017-11-22T07:57:28-05:00",
+    "shopifyPublishedAt": "2017-11-22T07:46:17-05:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 2,
+    "minPrice": 49.95,
+    "maxPrice": 49.95,
+    "variantPriceValues": [
+      49.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Classic Blue",
+          "Classic Purple"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Level-One-Mat-Cover.jpg?v=1631819938",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Purple-Flat.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Blue-Flat.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Purple-Rolled.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Blue-Rolled.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Purple-Folded.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-LevelOne-Mat-Classic-Blue-Folded.jpg?v=1631819938",
+        "width": 1200,
+        "height": 1200,
+        "position": 7
+      }
+    ],
+    "availableColors": [
+      "Classic Blue",
+      "Classic Purple"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Elite S Yoga Mat - Durable and Supportive - Eco Friendly - JadeYoga",
+    "slug": "jadeyoga-elite-s",
+    "titleOriginal": "Jade Elite S Yoga Mat - Durable and Supportive - Eco Friendly - JadeYoga",
+    "titleAuto": "JadeYoga Jade Elite S",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Firm and Durable: Jade's ELITE S mat is specifically designed for those with vigorous practice, making it our most durable mat yet! \n\nDesigned for a flowing practice: The ELITE S is ideal for Ashtanga, and those with more flowing practices\n\nExtra dense top layer gives the mat added firmness and durability, while its smooth surface boasts outstanding grip for almost any practice.\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, and 71\" long and weight approximately 5 lbs\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch. \n\n\n\n\n\nSEE WHAT INDEPENDENT YOGIS ARE SAYING ABOUT THE JADE ELITE S YOGA MAT:\n\n\n\n\n“It is AMAZING! Nothing moves. Nothing. The mat never moves…my hands, feet, etc. don’t ever shift or move around in the practice. I am in love!” I LOVE this new mat by Jade specifically designed for Ashtanga Yoga. Practicing on it was a dream, it had great grip, and it's thick enough so it was cushiony but firm as well. The feel and thickness are on point. I would recommend this mat to all Ashtangis for their daily yoga practice.”",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "71\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 8617281682,
+    "shopifyHandle": "elite-s",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Elite S",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2016-12-18T15:02:20-05:00",
+    "shopifyPublishedAt": "2016-12-18T14:54:00-05:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 129.95,
+    "maxPrice": 129.95,
+    "variantPriceValues": [
+      129.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2359,
+    "maxGrams": 2359,
+    "variantGramsValues": [
+      2359
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 180.34,
+    "lengthCmMax": 180.34,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      1803
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Forest Green/Black"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Elite-S-Mat-Cover.jpg?v=1631575460",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Elite-S-Forest-Green-Black.jpg?v=1631575475",
+        "width": 1200,
+        "height": 1200,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Elite-S-Forest-Green-Black-Flat.jpg?v=1631575475",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Forest Green/Black"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Harmony XW Yoga Mat – Eco Friendly and Chemical Free -  JadeYoga",
+    "slug": "jadeyoga-harmony-mat-xw",
+    "titleOriginal": "Harmony XW Yoga Mat – Eco Friendly and Chemical Free -  JadeYoga",
+    "titleAuto": "JadeYoga Harmony XW",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Extra Wide and Extra Long: Our most popular premium 3/16\" thick jade yoga Harmony mat now is available in 28\" width, extra wide (standard mats are 24\" wide), allowing you to broaden your practice.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 28\" wide, and 80\" long\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "80\" Length"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Long",
+      "Extra Wide",
+      "Premium"
+    ],
+    "shopifyId": 444002112,
+    "shopifyHandle": "harmony-mat-xw",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Harmony XW",
+    "shopifyTags": [
+      "2866 Box",
+      "jade yoga harmony mat",
+      "meta-related-collection-fusion-mat",
+      "Retail",
+      "Yoga Harmony Mat",
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2015-03-11T09:07:58-04:00",
+    "shopifyPublishedAt": "2015-03-11T09:06:00-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 149.95,
+    "maxPrice": 149.95,
+    "variantPriceValues": [
+      149.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3039,
+    "maxGrams": 3039,
+    "variantGramsValues": [
+      3039
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "80\" Length"
+        ]
+      },
+      {
+        "name": "Color",
+        "position": 2,
+        "values": [
+          "Midnight Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-Extra-Wide-Cover.jpg?v=1631576030",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Harmony-Mat-XW-Midnight-Blue.jpg?v=1631576030",
+        "width": 1200,
+        "height": 1200,
+        "position": 2
+      }
+    ],
+    "availableColors": [
+      "Midnight Blue"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 203.2,
+          "sourceOptionName": "Size",
+          "rawValue": "80\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "XW Fusion Yoga Mat - Extra Wide and Thick for Grip - JadeYoga",
+    "slug": "jadeyoga-xw-fusion",
+    "titleOriginal": "XW Fusion Yoga Mat - Extra Wide and Thick for Grip - JadeYoga",
+    "titleAuto": "JadeYoga XW Fusion",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Our Thickest, Longest, Widest Mat: At 5/16\" (8mm) thick, the XW Fusion is perfect for the XL yogi, or anyone looking for a mat with enough room to comfortably move and enough cushion for their body.\n\n80\" Long and 28\" Wide: Wider and longer than your average yoga mat\n\nIncredible grip and ultra comfortable: Never worry about slipping again with our grippy, open cell natural rubber mats.\n\nEco-Friendly: Made from natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 5/16\" (8mm) thick, 28\" wide and is available 80\" long, in beautiful two tone Purple/Midnight Blue\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n \n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "80\""
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 3366458053,
+    "shopifyHandle": "xw-fusion",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "XW Fusion",
+    "shopifyTags": [
+      "2866 Box"
+    ],
+    "shopifyCreatedAt": "2015-12-31T11:50:19-05:00",
+    "shopifyPublishedAt": "2015-12-31T11:21:00-05:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 249.95,
+    "maxPrice": 249.95,
+    "variantPriceValues": [
+      249.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 4990,
+    "maxGrams": 4990,
+    "variantGramsValues": [
+      4990
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Size",
+        "position": 1,
+        "values": [
+          "80\""
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Fusion-Extra-Wide-Cover.jpg?v=1631576344",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/EW_and_Extra_Thick.jpg?v=1631576344",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-XW-Purple.jpg?v=1631576347",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/4Thick2_preview_15bc3cb2-83b9-459e-af26-f964f32ea42d.jpeg?v=1631576347",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 203.2,
+          "sourceOptionName": "Size",
+          "rawValue": "80\"",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Fusion Mini Yoga Mat – Eco Friendly and Natural Rubber - JadeYoga",
+    "slug": "jadeyoga-fusion-mini-mats",
+    "titleOriginal": "Fusion Mini Yoga Mat – Eco Friendly and Natural Rubber - JadeYoga",
+    "titleAuto": "JadeYoga Fusion Mini",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "JadeYoga now has Fusion Mini Yoga Mats available! Say goodbye to wrestling with your yoga mat to fold it over to cushion your knees, and hello to the ease and simplicity of extra cushion in the areas you need it most. \n\nThe Fusion Mini Mat is 24” wide, 12” long, and 5/16” (8mm) thick\n\n\nPlace on top of your yoga mat for extra cushion in the areas you need it most\n\nWide as the average yoga mat for use on top of your existing mat\n\nRoom and the cushion to get deep into your poses.\n\nExtra support for Yin yoga and restorative practices, or any time you need it\n\nNatural rubber provides outstanding grip and comfort\nAvailable in two colors, Midnight Blue and Purple, two of our most popular colors. \n\nEco-friendly natural rubber is a rapidly renewable resource",
+    "thickness": {
+      "value": 8,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8mm"
+    },
+    "length": {
+      "value": 30.48,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "12” long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24” wide"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 4380497608776,
+    "shopifyHandle": "fusion-mini-mats",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "yoga mat"
+    ],
+    "shopifyCreatedAt": "2019-11-26T10:37:30-05:00",
+    "shopifyPublishedAt": "2019-11-26T10:45:00-05:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 2,
+    "minPrice": 29.95,
+    "maxPrice": 29.95,
+    "variantPriceValues": [
+      29.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 590,
+    "maxGrams": 590,
+    "variantGramsValues": [
+      590
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 30.48,
+    "lengthCmMax": 30.48,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      305
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Purple",
+          "Midnight Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Fusion-Mini-Mat-Cover.jpg?v=1631576668",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-Mini-Group.jpg?v=1631576681",
+        "width": 1200,
+        "height": 1200,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-Mini-Midnight-Blue.jpg?v=1631576703",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Mat-Fusion-Mini-Purple.jpg?v=1631576703",
+        "width": 1200,
+        "height": 1200,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/IMG_2773-2small.jpg?v=1647877022",
+        "width": 2332,
+        "height": 1797,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/IMG_2664-2small.jpg?v=1647877033",
+        "width": 2471,
+        "height": 1697,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/IMG_2750-8small.jpg?v=1647877045",
+        "width": 2450,
+        "height": 1711,
+        "position": 7
+      }
+    ],
+    "availableColors": [
+      "Purple",
+      "Midnight Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Meditation Mats – Handwoven Darbha Grass Mats -  JadeYoga",
+    "slug": "jadeyoga-dharba-grass-yoga-meditation-mat",
+    "titleOriginal": "Meditation Mats – Handwoven Darbha Grass Mats -  JadeYoga",
+    "titleAuto": "JadeYoga Meditation Mats",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Handwoven Darbha Grass meditation mats will transport you to a natural state of meditation with their earthy grass feel and scent.\n\n\nMeditate in peace with a Darbha grass mat and enjoy the natural scent of the mat\n\nMade from Darbha grass and cotton. Darbha grass is a tropical grass that grows in India and is considered sacred.\n\nClick here for a review from Business Insider.  \n\nDimensions: 26\" wide and 72\" long\n\nPlease use over a Jade mat to prevent slipping on hard floors such as hardwood, laminate, or tile floors.\n\nMade by local artisans in India: Jade's Darbha grass meditation mats are handwoven by rural artisans, preserving a tradition and art form and providing a livelihood for weavers. Weaving is a traditional way of life for many people in this area of India and has seen a massive decline in recent years as it can be very difficult to make a living with weaving and many people have left in search of other jobs. These rugs support the traditional weavers and allow them to use their skills to support their families. For many of them, this is the only job they have ever had and making these rugs allows them to keep this tradition alive. Please click here to hear our weaver talk about his work. \n\nBe The Change: Through our partnership with the Akshaya Patra Foundation, with each Darbha Grass meditation mat purchased, Jade will provide a week of hot lunches for a child in India.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" long"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26\" wide"
+    },
+    "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "features": [
+      "Extra Wide"
+    ],
+    "shopifyId": 4030779555912,
+    "shopifyHandle": "dharba-grass-yoga-meditation-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Darbha Grass Mat",
+    "shopifyTags": [
+      "2866 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2019-09-02T15:38:06-04:00",
+    "shopifyPublishedAt": "2019-09-02T15:38:06-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 64.95,
+    "maxPrice": 64.95,
+    "variantPriceValues": [
+      64.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 907,
+    "maxGrams": 907,
+    "variantGramsValues": [
+      907
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Dharba-Grass-Yoga-Meditation-Mat-Cover.jpg?v=1631575901",
+        "width": 2400,
+        "height": 2400,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Dharba-Grass-Mat.jpg?v=1631575917",
+        "width": 1200,
+        "height": 1200,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/Jade-Yoga-Dharba-Grass-Mat-Side.jpg?v=1631575917",
+        "width": 1200,
+        "height": 1200,
+        "position": 3
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Recycled Sari Yoga Rug - JadeYoga",
+    "slug": "jadeyoga-recycled-sari-yoga-rug",
+    "titleOriginal": "Recycled Sari Yoga Rug - JadeYoga",
+    "titleAuto": "JadeYoga Recycled Sari Yoga Rug",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Perfect for Outdoor Use: Jade's recycled sari yoga rugs are perfect for all kinds of yoga classes, including Ashtanga, outdoor classes, and beach yoga. Please use it on top of your Jade mat to prevent slipping when using it on hard surfaces such as hardwood, laminate, and tile floors.\n\nSustainable: Made with recycled cotton and a mix of Sari Materials which are made of a variety of silk materials. \n\nHandmade: Created by the Local Women's Handicraft (LWH) in Nepal. LWH seeks to empower and educate women, enabling them to write their own destinies.\n\nEmpowering Women: LWH provides a safe space for women who have escaped abusive practices in the textile industry and other injustices in their local communities. Their manufacturing facilities allow these women to learn new skills and crafts as a group to help heal and rehabilitate their spirits.\n\nEthical Fashion: Through raising awareness and making fashion an ethical way, their goal is to end childhood slavery, forced marriage, and other injustices against women.\n\nDimensions: 24\" x 72\"\n\nCare Instructions: Washing: Hand wash or machine wash on gentle cycle, opt for cold water as often as possible. Use lukewarm water when needed. Do not use bleach. Drying: We recommend air-dry only. Do not tumble dry. Our upcycled materials are mainly made from silk fabrics and other materials, silk is very delicate and the high temperatures of the tumble dryer can shrink or damage your silks. Ironing: Iron on low setting if needed.\n\n\n*Please note that every rug is handmade and colors will vary.",
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" x 72\"\n\n"
+    },
+    "width": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" x 72\"\n\n"
+    },
+    "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "features": [
+      "Eco-Friendly"
+    ],
+    "shopifyId": 5609212379287,
+    "shopifyHandle": "recycled-sari-yoga-rug",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "lwh",
+      "recycled sari rugs",
+      "Sari Yoga Rug"
+    ],
+    "shopifyCreatedAt": "2020-09-03T17:32:03-04:00",
+    "shopifyPublishedAt": "2020-09-03T17:36:40-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 79.95,
+    "maxPrice": 79.95,
+    "variantPriceValues": [
+      79.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 907,
+    "maxGrams": 907,
+    "variantGramsValues": [
+      907
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "lengthCMx10Values": [
+      610
+    ],
+    "widthCMx10Values": [
+      1829
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 610,
+        "widthCMx10": 1829
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/9159.jpg?v=1599168863",
+        "width": 5349,
+        "height": 2962,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/products/9160.jpg?v=1599168881",
+        "width": 4818,
+        "height": 3592,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Extra Yoga Mat - JadeYoga",
+    "slug": "jadeyoga-jade-extra-yoga-mat",
+    "titleOriginal": "Jade Extra Yoga Mat - JadeYoga",
+    "titleAuto": "JadeYoga Jade Extra",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Extra of everything you want in a yoga mat!\n\n\nExtra Grip - Textured Polyurethane (PU) surface for superior grip\n\nExtra Durable - PU surface for longer life\n\nExtra Absorbent - PU surface absorbs sweat and is moisture wicking\n\nExtra Safe - Antimicrobial (silver nitrate) surface\n\nExtra Clean - Easy to clean surface\n\nDimensions: 4.5mm thick, 26\" wide, 71” long, and weighs about 5 pounds\n\nMat Colors: Kiwi Green, Sapphire Blue, Safety Orange, Red Hot\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS TWO TREES FOR EVERY EXTRA MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Latex Warning: Persons with rubber or latex allergies should avoid contact with this mat as it contains dry natural rubber and may contain latex.",
+    "thickness": {
+      "value": 4.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.5mm"
+    },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "71” long"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 pounds"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 8521067036823,
+    "shopifyHandle": "jade-extra-yoga-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "EXTRA",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2024-08-27T14:18:17-04:00",
+    "shopifyPublishedAt": "2024-08-27T15:02:31-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 4,
+    "minPrice": 79.95,
+    "maxPrice": 79.95,
+    "variantPriceValues": [
+      79.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2177,
+    "maxGrams": 2177,
+    "variantGramsValues": [
+      2177
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 180.34,
+    "lengthCmMax": 180.34,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1803
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Kiwi Green",
+          "Sapphire Blue",
+          "Safety Orange",
+          "Red Hot"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/group_0d5eb761-1c1e-456a-bc94-de4ceef55a14.jpg?v=1725894520",
+        "width": 3637,
+        "height": 4726,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2801.jpg?v=1725894508",
+        "width": 4899,
+        "height": 3407,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2804.jpg?v=1725894508",
+        "width": 5568,
+        "height": 3712,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2805.jpg?v=1725894508",
+        "width": 5568,
+        "height": 3712,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2806.jpg?v=1725894508",
+        "width": 5568,
+        "height": 3712,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2813.jpg?v=1725894536",
+        "width": 5568,
+        "height": 3712,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2814.jpg?v=1725894537",
+        "width": 5568,
+        "height": 3712,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2815.jpg?v=1725894537",
+        "width": 5568,
+        "height": 3712,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2816.jpg?v=1725894537",
+        "width": 5568,
+        "height": 3712,
+        "position": 9
+      }
+    ],
+    "availableColors": [
+      "Kiwi Green",
+      "Sapphire Blue",
+      "Safety Orange",
+      "Red Hot"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Cork Yoga Mat - Hot Yoga - Eco Friendly - JadeYoga",
+    "slug": "jadeyoga-jade-cork-yoga-mat",
+    "titleOriginal": "Jade Cork Yoga Mat - Hot Yoga - Eco Friendly - JadeYoga",
+    "titleAuto": "JadeYoga Jade Cork",
+    "titleAutoConfidence": 0.75,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "The Perfect Mat For Hot Yoga!\n\nEco-Friendly: Made with sustainably harvested cork and natural rubber, rapidly renewable resources and contains no PVC*\n\nGreat Grip: Cork provides outstanding grip for hot yoga or other sweaty practices\n\nComfortable: Natural rubber base provides more comfort and resilience \n\n\nDimensions:  4.5mm thick, 24\" wide, and 72\" long and weight approximately 5 lbs\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n*Made in Spain, the surface of the Jade Cork mat is harvested sustainably from cork trees in Portugal. Trees are not cut down, but after the tree is 25 years old, the bark of the tree is removed. This is repeated every 9 years, with the bark regenerating in the interim - absorbing additional CO2 during this process.\n*To Clean: Cork mats can be washed with soap and water then rinsed with water. Hang inside to dry.  Store rolled with cork side out.\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.",
+    "thickness": {
+      "value": 4.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4.5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72\" long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24\" wide"
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 8521108488343,
+    "shopifyHandle": "jade-cork-yoga-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "Cork",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2024-08-27T15:25:07-04:00",
+    "shopifyPublishedAt": "2024-08-27T15:34:00-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 1,
+    "minPrice": 99.95,
+    "maxPrice": 99.95,
+    "variantPriceValues": [
+      99.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2359,
+    "maxGrams": 2359,
+    "variantGramsValues": [
+      2359
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Natural"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2818.jpg?v=1724787182",
+        "width": 4475,
+        "height": 3106,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2819.jpg?v=1724787182",
+        "width": 4536,
+        "height": 2961,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2820.jpg?v=1724787182",
+        "width": 4751,
+        "height": 3204,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2825.jpg?v=1724787182",
+        "width": 1724,
+        "height": 4758,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/2826.jpg?v=1724787182",
+        "width": 3673,
+        "height": 3246,
+        "position": 5
+      }
+    ],
+    "availableColors": [
+      "Natural"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "jadeyoga",
+    "name": "Jade Mushroom Mat",
+    "slug": "jadeyoga-jade-mushroom-mat",
+    "titleOriginal": "Jade Mushroom Mat",
+    "titleAuto": "JadeYoga Jade Mushroom",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Jade Mushroom Mat diverts organic waste from landfills, reducing harmful methane emissions, a significant contributor to global warming, and provides an additional income stream for farmers in developing countries.\n\nEco-Friendly - Made in Spain with natural rubber, a rapidly renewable resource, tapped from rubber trees and USDA Organic certified oyster mushroom waste and contains no PVC or synthetic plastics.\n\nNon-Slip - Natural Rubber surface guarantees optimum grip.\n\nComfortable - Better cushion and more resilience than any other yoga mat.\n\nThe Jade Mushroom Mat is 5mm thick and is available in 68\" or 74\" lengths, and weighs about 4.5lbs.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Latex Warning: Persons with rubber or latex allergies should avoid contact with this mat as it contains dry natural rubber and may contain latex.\n*Jade Mats have a rubber scent – your assurance that Jade mats are made sustainably with natural rubber. This natural scent is normal and will dissipate over time.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "68\" Length"
+    },
+    "weight": {
+      "value": 2.041168092460379,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "4.5lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "shopifyId": 9094656196759,
+    "shopifyHandle": "jade-mushroom-mat",
+    "shopifyVendor": "JadeYoga",
+    "shopifyProductType": "MUSHROOM",
+    "shopifyTags": [
+      "2655 Box",
+      "Retail"
+    ],
+    "shopifyCreatedAt": "2025-06-19T13:44:46-04:00",
+    "shopifyPublishedAt": "2025-09-22T11:37:54-04:00",
+    "shopifyUpdatedAt": "2026-01-13T09:20:23-05:00",
+    "variantsCount": 6,
+    "minPrice": 99.95,
+    "maxPrice": 109.95,
+    "variantPriceValues": [
+      99.95,
+      109.95
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2177,
+    "maxGrams": 2177,
+    "variantGramsValues": [
+      2177
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Midnight Blue",
+          "Jade Green",
+          "Purple",
+          "Raspberry"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "68\" Length",
+          "74\" Length"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/MushroomGroup_10.jpg?v=1750356091",
+        "width": 4928,
+        "height": 3280,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Blue_4.jpg?v=1750356139",
+        "width": 4928,
+        "height": 3280,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Green_4.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Purple_4.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Red_4.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Purple_3.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Purple_8.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Purple_7.jpg?v=1750356323",
+        "width": 4928,
+        "height": 3280,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0763/3069/files/Mushroom_Blue_1.jpg?v=1750356323",
+        "width": 1425,
+        "height": 4928,
+        "position": 9
+      }
+    ],
+    "availableColors": [
+      "Midnight Blue",
+      "Jade Green",
+      "Purple",
+      "Raspberry"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Ascend Mat 4mm",
+    "slug": "woloyoga-ascend-yoga-mat",
+    "description": "Professional-grade yoga mat built for serious flow and focused strength, made with SGS-certified natural rubber\n✓ 100% natural rubber on both sides✓ Dual-sided reversible grip✓ Built to last, day after day",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Reversible",
+      "Non-Slip"
+    ],
+    "shopifyId": 8333492650180,
+    "shopifyHandle": "ascend-yoga-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-08-06T15:46:31+08:00",
+    "shopifyPublishedAt": "2025-08-17T19:56:58+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 6,
+    "minPrice": 579,
+    "maxPrice": 778,
+    "priceCurrency": "USD",
+    "minGrams": 2700,
+    "maxGrams": 3500,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Limestone Grey",
+          "Unakite Pink"
+        ]
+      },
+      {
+        "name": "Limited Bundle",
+        "position": 2,
+        "values": [
+          "Mat Only",
+          "Carry Strap",
+          "Yoga Mat Bag"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-1.png?v=1756254213",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-2.png?v=1756254213",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-5.png?v=1763610226",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-04.png?v=1763610226",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-3.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend-lg-6.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_1.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_2.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_3.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_4.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_5.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/ascend_unakite_pink_6.png?v=1763610206",
+        "width": 1080,
+        "height": 1080,
+        "position": 12
+      }
+    ],
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Mastery Mat 4mm",
+    "slug": "woloyoga-mastery-yoga-mat",
+    "description": "Everyday yoga mat designed with unshakeable grip and lasting durability, made with SGS-certified natural rubber\n✓ Grippy with even sweat palms✓ High-density support for stability✓ Move freely on this large mat",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 8210934399172,
+    "shopifyHandle": "mastery-yoga-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-03-17T15:48:46+08:00",
+    "shopifyPublishedAt": "2025-03-17T15:56:43+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 18,
+    "minPrice": 389,
+    "maxPrice": 598,
+    "priceCurrency": "USD",
+    "minGrams": 3200,
+    "maxGrams": 4000,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pebble Khaki",
+          "Sakura Pink",
+          "Sage Green",
+          "Lilac Purple",
+          "Obsidian Black",
+          "Sapphire Blue"
+        ]
+      },
+      {
+        "name": "Limited Bundle",
+        "position": 2,
+        "values": [
+          "Mat Only",
+          "Carry Strap",
+          "Yoga Mat Bag"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-2.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-3.png?v=1756218024",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-4.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-5.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-6.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-2.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-3.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-mat-4.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-5.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-6.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-2.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-3.png?v=1756218024",
+        "width": 1080,
+        "height": 1080,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-6.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-5.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-4.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-2.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-4.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-3.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-5.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-6.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-2.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-3.png?v=1745813521",
+        "width": 1080,
+        "height": 1080,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-6.jpg?v=1756218024",
+        "width": 1080,
+        "height": 1080,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-5.png?v=1753085422",
+        "width": 1080,
+        "height": 1080,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-5.jpg?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 30
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-1.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 31
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-2.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 32
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-3.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 33
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-4.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 34
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-5.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 35
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-mastery-yoga-mat-6.png?v=1753085626",
+        "width": 1080,
+        "height": 1080,
+        "position": 36
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1200,
+        "height": 1200,
+        "position": 37
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-2.jpg?v=1753085626",
+        "width": 1200,
+        "height": 1200,
+        "position": 38
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-6.jpg?v=1756218024",
+        "width": 1200,
+        "height": 1200,
+        "position": 39
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-8.png?v=1763611575",
+        "width": 1080,
+        "height": 1080,
+        "position": 40
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-04.png?v=1763611575",
+        "width": 1080,
+        "height": 1080,
+        "position": 41
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-7.jpg?v=1763611575",
+        "width": 1200,
+        "height": 1200,
+        "position": 42
+      }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Away Travel Mat 1.5mm",
+    "slug": "woloyoga-away-travel-mat",
+    "description": "Lightweight, foldable yoga mat designed to let you bring your practice on the go, made with SGS-certified natural rubber\n✓ Fit in your carry-on suitcase✓ Grippy with even sweat palms✓ Move freely on this large mat",
+    "thickness": {
+      "value": 1.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1.5mm"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Non-Slip",
+      "Lightweight"
+    ],
+    "shopifyId": 8247536746692,
+    "shopifyHandle": "away-travel-mat",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "Yoga & Pilates Mats",
+    "shopifyTags": [
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-04-28T13:47:44+08:00",
+    "shopifyPublishedAt": "2025-04-28T13:47:44+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 15,
+    "minPrice": 329,
+    "maxPrice": 538,
+    "priceCurrency": "USD",
+    "minGrams": 1300,
+    "maxGrams": 1300,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Sunset Pink",
+          "Earth Beige",
+          "Rainforest Green",
+          "Galaxy Purple",
+          "Ocean Blue"
+        ]
+      },
+      {
+        "name": "Limited Bundle",
+        "position": 2,
+        "values": [
+          "Mat Only",
+          "Carry Strap",
+          "Yoga Mat Bag"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-2.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-3.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-4.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-5.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-6.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-2.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-3.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-4.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-5.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-6.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-travel-mat-2.png?v=1757496586",
+        "width": 1080,
+        "height": 1080,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-4.png?v=1763612399",
+        "width": 1080,
+        "height": 1080,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-travel-mat-4.png?v=1763612399",
+        "width": 1080,
+        "height": 1080,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/rainforest-green-7.png?v=1763612399",
+        "width": 1080,
+        "height": 1080,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-travel-mat-6.png?v=1763612399",
+        "width": 1080,
+        "height": 1080,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-1.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-2.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 20
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-3.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 21
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-4.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 22
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-5.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 23
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-6.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 24
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-1.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 25
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-2.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 26
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-3.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 27
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-4.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 28
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-5.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 29
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-6.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 30
+      }
+    ],
+    "availableColors": [
+      "Sunset Pink",
+      "Earth Beige",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Dual Flow Bundle",
+    "slug": "woloyoga-dual-flow-bundle",
+    "description": "Two Mastery Mats so you and a partner can practice together with comfort and grip.",
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 8210944131268,
+    "shopifyHandle": "dual-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "bundle"
+    ],
+    "shopifyCreatedAt": "2025-03-17T16:10:36+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:37:05+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 36,
+    "minPrice": 758,
+    "maxPrice": 758,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "1st Mat Colour",
+        "position": 1,
+        "values": [
+          "Pebble Khaki",
+          "Sakura Pink",
+          "Sage Green",
+          "Lilac Purple",
+          "Obsidian Black",
+          "Sapphire Blue"
+        ]
+      },
+      {
+        "name": "2nd Mat Colour",
+        "position": 2,
+        "values": [
+          "Pebble Khaki",
+          "Sakura Pink",
+          "Sage Green",
+          "Lilac Purple",
+          "Obsidian Black",
+          "Sapphire Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual_-flow-01.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual-flow-06.png?v=1763541062",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual-flow-05.png?v=1763541062",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual-flow-4.png?v=1763541062",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/dual-7.jpg?v=1763541062",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1200,
+        "height": 1200,
+        "position": 11
+      }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Travel Flow Bundle",
+    "slug": "woloyoga-travel-flow-bundle",
+    "description": "Two Away Mats that are lightweight, foldable, and easy to pack for practice anywhere.",
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8347884716228,
+    "shopifyHandle": "travel-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-08-27T07:49:54+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:49:12+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 25,
+    "minPrice": 638,
+    "maxPrice": 638,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "1st Mat Colour",
+        "position": 1,
+        "values": [
+          "Earth Beige",
+          "Sunset Pink",
+          "Rainforest Green",
+          "Galaxy Purple",
+          "Ocean Blue"
+        ]
+      },
+      {
+        "name": "2nd Mat Colour",
+        "position": 2,
+        "values": [
+          "Earth Beige",
+          "Sunset Pink",
+          "Rainforest Green",
+          "Galaxy Purple",
+          "Ocean Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-6.png?v=1767431038",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-02.png?v=1767431038",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/beige-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-travel-mat-1.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-travel-mat-1.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/blue-travel-mat-1.png?v=1763612359",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-3.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/travel-flow-4.png?v=1762935270",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      }
+    ],
+    "availableColors": [
+      "Earth Beige",
+      "Sunset Pink",
+      "Rainforest Green",
+      "Galaxy Purple",
+      "Ocean Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Complete Flow Bundle",
+    "slug": "woloyoga-complete-flow-bundle",
+    "description": "One Mastery Mat and one Away Travel Mat, giving you the perfect balance of home stability and travel-ready freedom.",
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8347909095620,
+    "shopifyHandle": "complete-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-08-27T08:26:21+08:00",
+    "shopifyPublishedAt": "2025-10-27T21:49:22+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 30,
+    "minPrice": 698,
+    "maxPrice": 698,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Mastery Mat Colour",
+        "position": 1,
+        "values": [
+          "Pebble Khaki",
+          "Sakura Pink",
+          "Sage Green",
+          "Lilac Purple",
+          "Obsidian Black",
+          "Sapphire Blue"
+        ]
+      },
+      {
+        "name": "Away Travel Mat Colour",
+        "position": 2,
+        "values": [
+          "Sunset Pink",
+          "Earth Beige",
+          "Rainforest Green",
+          "Galaxy Purple",
+          "Ocean Blue"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-2.png?v=1762936722",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-1.png?v=1762936722",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-4.png?v=1763612399",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-bundle-3.png?v=1762937636",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/hybrid-5.png?v=1762937636",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/complete-flow-5.png?v=1762937636",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/khaki-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/green-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/purple-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/black-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/pink-mastery-yoga-mat-1.png?v=1763540961",
+        "width": 1080,
+        "height": 1080,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/sapphire-blue-01.jpg?v=1762937547",
+        "width": 1280,
+        "height": 1280,
+        "position": 12
+      }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "Elevate Flow Bundle",
+    "slug": "woloyoga-elevate-flow-bundle",
+    "description": "Two Ascend Mats built for performance and balance. Ideal for couples or advanced practitioners who want to rise higher together.",
+    "features": [],
+    "shopifyId": 8394648355012,
+    "shopifyHandle": "elevate-flow-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-10-28T11:21:57+08:00",
+    "shopifyPublishedAt": "2025-10-28T11:40:59+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 4,
+    "minPrice": 1138,
+    "maxPrice": 1138,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "1st Mat Colour",
+        "position": 1,
+        "values": [
+          "Limestone Grey",
+          "Unakite Pink"
+        ]
+      },
+      {
+        "name": "2n Mat Colour",
+        "position": 2,
+        "values": [
+          "Limestone Grey",
+          "Unakite Pink"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-01.png?v=1762934375",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-03.png?v=1762935407",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-4.png?v=1762935407",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-2.png?v=1762935407",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-6.png?v=1762934375",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/elevate-flow-05.png?v=1762934375",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      }
+    ],
+    "availableColors": [
+      "Limestone Grey",
+      "Unakite Pink"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "woloyoga",
+    "name": "The Ritual Bundle",
+    "slug": "woloyoga-the-ritual-bundle",
+    "description": "A complete setup with a Mastery Mat, Linea Yoga Towel, and two Cork Yoga Blocks. Everything you need to ground, support, and deepen your daily practice.",
+    "material": "Cork",
+    "features": [],
+    "shopifyId": 8394821664964,
+    "shopifyHandle": "the-ritual-bundle",
+    "shopifyVendor": "Wolo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "bundle",
+      "normal price"
+    ],
+    "shopifyCreatedAt": "2025-10-28T12:14:06+08:00",
+    "shopifyPublishedAt": "2025-10-28T12:27:32+08:00",
+    "shopifyUpdatedAt": "2026-01-09T21:03:28+08:00",
+    "variantsCount": 18,
+    "minPrice": 896,
+    "maxPrice": 896,
+    "priceCurrency": "USD",
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Mastery Mat Colour",
+        "position": 1,
+        "values": [
+          "Pebble Khaki",
+          "Sakura Pink",
+          "Sage Green",
+          "Lilac Purple",
+          "Obsidian Black",
+          "Sapphire Blue"
+        ]
+      },
+      {
+        "name": "Linea Yoga Towel Colour",
+        "position": 2,
+        "values": [
+          "Verdant Flow",
+          "Solar Blaze",
+          "Lunar Radiance"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-02.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-01.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-4.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-6.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-3.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0552/8341/7284/files/the-ritual-05.png?v=1767431090",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      }
+    ],
+    "availableColors": [
+      "Pebble Khaki",
+      "Sakura Pink",
+      "Sage Green",
+      "Lilac Purple",
+      "Obsidian Black",
+      "Sapphire Blue"
+    ]
+  }
+]

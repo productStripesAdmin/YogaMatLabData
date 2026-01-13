@@ -1,0 +1,276 @@
+{
+  "date": "2026-01-13",
+  "totalBrands": 23,
+  "totalProducts": 507,
+  "validProducts": 474,
+  "invalidProducts": 0,
+  "discardedProducts": 33,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "aloyoga",
+      "totalProducts": 30,
+      "validProducts": 4,
+      "invalidProducts": 0,
+      "discardedProducts": 26,
+      "discardedProductTypes": [
+        {
+          "productType": "Women:Bottoms:Leggings",
+          "count": 10
+        },
+        {
+          "productType": "Women:Bras",
+          "count": 6
+        },
+        {
+          "productType": "Accessories:Equipment:Straps",
+          "count": 2
+        },
+        {
+          "productType": "Accessories:Equipment:Blocks",
+          "count": 1
+        },
+        {
+          "productType": "Accessories:Equipment:Bottle",
+          "count": 1
+        },
+        {
+          "productType": "Accessories:Equipment:Towels",
+          "count": 1
+        },
+        {
+          "productType": "Women:Accessories:Socks",
+          "count": 1
+        },
+        {
+          "productType": "Women:Bottoms:Shorts",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Long Sleeves",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Short Sleeves",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Tanks",
+          "count": 1
+        }
+      ],
+      "errors": []
+    },
+    {
+      "brandSlug": "ananday",
+      "totalProducts": 4,
+      "validProducts": 4,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "bala",
+      "totalProducts": 20,
+      "validProducts": 20,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "gaiam",
+      "totalProducts": 35,
+      "validProducts": 35,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "gayo",
+      "totalProducts": 4,
+      "validProducts": 4,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "heathyoga",
+      "totalProducts": 6,
+      "validProducts": 6,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "houseofmats",
+      "totalProducts": 21,
+      "validProducts": 21,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "totalProducts": 16,
+      "validProducts": 14,
+      "invalidProducts": 0,
+      "discardedProducts": 2,
+      "discardedProductTypes": [
+        {
+          "productType": "Cotton Yoga Rug",
+          "count": 1
+        },
+        {
+          "productType": "MUSHROOM",
+          "count": 1
+        }
+      ],
+      "errors": []
+    },
+    {
+      "brandSlug": "keep",
+      "totalProducts": 7,
+      "validProducts": 7,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "liforme",
+      "totalProducts": 41,
+      "validProducts": 41,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "manduka",
+      "totalProducts": 16,
+      "validProducts": 16,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "okoliving",
+      "totalProducts": 18,
+      "validProducts": 18,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "scoria",
+      "totalProducts": 44,
+      "validProducts": 44,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "sensu",
+      "totalProducts": 3,
+      "validProducts": 3,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "totalProducts": 32,
+      "validProducts": 32,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "stakt",
+      "totalProducts": 8,
+      "validProducts": 3,
+      "invalidProducts": 0,
+      "discardedProducts": 5,
+      "discardedProductTypes": [
+        {
+          "productType": "bundle",
+          "count": 5
+        }
+      ],
+      "errors": []
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "totalProducts": 12,
+      "validProducts": 12,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "woloyoga",
+      "totalProducts": 8,
+      "validProducts": 8,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "totalProducts": 49,
+      "validProducts": 49,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogamatters",
+      "totalProducts": 53,
+      "validProducts": 53,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogibare",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "totalProducts": 60,
+      "validProducts": 60,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
+      "errors": []
+    }
+  ]
+}

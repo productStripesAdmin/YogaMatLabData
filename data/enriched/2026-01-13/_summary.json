@@ -1,0 +1,129 @@
+{
+  "date": "2026-01-13",
+  "totalBrandsConsidered": 23,
+  "brandsEnriched": 0,
+  "productsFetched": 0,
+  "productsWithCoreFeatures": 0,
+  "productsWithAppendText": 0,
+  "productsWithSections": 0,
+  "errors": 0,
+  "brands": [
+    {
+      "brandSlug": "aloyoga",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "gayo",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "houseofmats",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "liforme",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "manduka",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "stakt",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "woloyoga",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogamatters",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogibare",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "products": 0,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    }
+  ]
+}

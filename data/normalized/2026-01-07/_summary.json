@@ -1,0 +1,149 @@
+{
+  "date": "2026-01-07",
+  "totalBrands": 20,
+  "totalProducts": 460,
+  "validProducts": 460,
+  "invalidProducts": 0,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "ananday",
+      "totalProducts": 4,
+      "validProducts": 4,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "bala",
+      "totalProducts": 20,
+      "validProducts": 20,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "gaiam",
+      "totalProducts": 35,
+      "validProducts": 35,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "heathyoga",
+      "totalProducts": 6,
+      "validProducts": 6,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "houseofmats",
+      "totalProducts": 21,
+      "validProducts": 21,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "totalProducts": 16,
+      "validProducts": 16,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "keep",
+      "totalProducts": 7,
+      "validProducts": 7,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "liforme",
+      "totalProducts": 41,
+      "validProducts": 41,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "manduka",
+      "totalProducts": 16,
+      "validProducts": 16,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "okoliving",
+      "totalProducts": 18,
+      "validProducts": 18,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "scoria",
+      "totalProducts": 44,
+      "validProducts": 44,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "sensu",
+      "totalProducts": 3,
+      "validProducts": 3,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "totalProducts": 32,
+      "validProducts": 32,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "stakt",
+      "totalProducts": 7,
+      "validProducts": 7,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "woloyoga",
+      "totalProducts": 8,
+      "validProducts": 8,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "totalProducts": 49,
+      "validProducts": 49,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "yogamatters",
+      "totalProducts": 53,
+      "validProducts": 53,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "yogi-bare",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "totalProducts": 60,
+      "validProducts": 60,
+      "invalidProducts": 0,
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "brandSlug": "yogamatters",
+  "extractedAt": "2026-01-13T03:28:26.901Z",
+  "products": [
+    {
+      "shopifyId": 4515213901891,
+      "handle": "yogamatters-sticky-yoga-mat",
+      "slug": "yogamatters-yogamatters-sticky-yoga-mat",
+      "productUrl": "https://www.yogamatters.com/products/yogamatters-sticky-yoga-mat",
+      "extractedAt": "2026-01-13T03:28:28.150Z",
+      "appendText": {
+        "text": "Size: <div class=\"content\"> <table class=\"border-none\"> <tbody> Code: MASTIC Brand: Yogamatters Product Weight: 1.4kg Mat Thickness: 4.5mm Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number TP025 122612 TESTEX Made In: Taiwan Made From: High grade PVC (AZO, DOP, phthalate and latex free) Suitable For: All styles of yoga Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight. 183cm x 61cm </tbody> </table>",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Details"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "<div class=\"content\">",
+            "<table class=\"border-none\">",
+            "<tbody>",
+            "Code: MASTIC",
+            "Brand: Yogamatters",
+            "Product Weight: 1.4kg",
+            "Mat Thickness: 4.5mm",
+            "Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number TP025 122612 TESTEX",
+            "Made In: Taiwan",
+            "Made From: High grade PVC (AZO, DOP, phthalate and latex free)",
+            "Suitable For: All styles of yoga",
+            "Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight.",
+            "183cm x 61cm",
+            "</tbody>",
+            "</table>"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 6720198607023,
+      "handle": "yogamatters-eco-flow-yoga-mat",
+      "slug": "yogamatters-yogamatters-eco-flow-yoga-mat",
+      "productUrl": "https://www.yogamatters.com/products/yogamatters-eco-flow-yoga-mat",
+      "extractedAt": "2026-01-13T03:28:30.393Z",
+      "appendText": {
+        "text": "Size: <div class=\"content\"> <table class=\"border-none\"> <tbody> Code: MAECOFLOW Brand: Yogamatters Product Weight: 2.5kg Mat Thickness: 4mm Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number 20120K0503 AITEX Made In: Spain Made From: 100% Sustainably harvested natural tree rubber Suitable For: All styles of yoga Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight. 183cm x 61cm </tbody> </table>",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Details"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "<div class=\"content\">",
+            "<table class=\"border-none\">",
+            "<tbody>",
+            "Code: MAECOFLOW",
+            "Brand: Yogamatters",
+            "Product Weight: 2.5kg",
+            "Mat Thickness: 4mm",
+            "Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number 20120K0503 AITEX",
+            "Made In: Spain",
+            "Made From: 100% Sustainably harvested natural tree rubber",
+            "Suitable For: All styles of yoga",
+            "Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight.",
+            "183cm x 61cm",
+            "</tbody>",
+            "</table>"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 4515268362307,
+      "handle": "yogamatters-eco-everyday-yoga-mat",
+      "slug": "yogamatters-yogamatters-eco-everyday-yoga-mat",
+      "productUrl": "https://www.yogamatters.com/products/yogamatters-eco-everyday-yoga-mat",
+      "extractedAt": "2026-01-13T03:28:32.406Z",
+      "appendText": {
+        "text": "Size: <div class=\"content\"> <table class=\"border-none\"> <tbody> Code: MAEVER Brand: Yogamatters Product Weight: 2.5kg Mat Thickness: 4mm Sustainability: Bottom layer contains recycled materials certified by the Recycled Claim Standard (RCS) Made In: Taiwan Made From: Sustainably harvested natural tree rubber, recycled material in the bottom layer Suitable For: All styles of yoga Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight. 183cm x 61cm </tbody> </table>",
+        "confidence": 0.8500000000000001,
+        "headings": [
+          "Details"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "<div class=\"content\">",
+            "<table class=\"border-none\">",
+            "<tbody>",
+            "Code: MAEVER",
+            "Brand: Yogamatters",
+            "Product Weight: 2.5kg",
+            "Mat Thickness: 4mm",
+            "Sustainability: Bottom layer contains recycled materials certified by the Recycled Claim Standard (RCS)",
+            "Made In: Taiwan",
+            "Made From: Sustainably harvested natural tree rubber, recycled material in the bottom layer",
+            "Suitable For: All styles of yoga",
+            "Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight.",
+            "183cm x 61cm",
+            "</tbody>",
+            "</table>"
+          ],
+          "confidence": 0.8500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 5981154214063,
+      "handle": "yogamatters-aqua-evolve-yoga-mat",
+      "slug": "yogamatters-yogamatters-aqua-evolve-yoga-mat",
+      "productUrl": "https://www.yogamatters.com/products/yogamatters-aqua-evolve-yoga-mat",
+      "extractedAt": "2026-01-13T03:28:34.396Z",
+      "appendText": {
+        "text": "Size: <div class=\"content\"> <table class=\"border-none\"> <tbody> Code: MAYMEVOLVE-AQ Brand: Yogamatters Product Weight: 0.8kg Mat Thickness: 5mm Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number 20190K0067 ATTEX Made In: Spain Made From: Foam and Algae Suitable For: Yoga Care Instructions: Wipe clean using Yogamatters Yoga Mat Cleaner 60cm x 190cm </tbody> </table>",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Details"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "<div class=\"content\">",
+            "<table class=\"border-none\">",
+            "<tbody>",
+            "Code: MAYMEVOLVE-AQ",
+            "Brand: Yogamatters",
+            "Product Weight: 0.8kg",
+            "Mat Thickness: 5mm",
+            "Sustainability: STANDARD 100 by OEKO-TEX&reg; Certificate Number 20190K0067 ATTEX",
+            "Made In: Spain",
+            "Made From: Foam and Algae",
+            "Suitable For: Yoga",
+            "Care Instructions: Wipe clean using Yogamatters Yoga Mat Cleaner",
+            "60cm x 190cm",
+            "</tbody>",
+            "</table>"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 4515304046659,
+      "handle": "yogamatters-eco-everyday-rise-yoga-mat",
+      "slug": "yogamatters-yogamatters-eco-everyday-rise-yoga-mat",
+      "productUrl": "https://www.yogamatters.com/products/yogamatters-eco-everyday-rise-yoga-mat",
+      "extractedAt": "2026-01-13T03:28:36.811Z",
+      "appendText": {
+        "text": "Size: <div class=\"content\"> <table class=\"border-none\"> <tbody> Code: MAECOEVERRI Brand: Yogamatters Product Weight: 2.3kg Mat Thickness: 3mm Made In: Taiwan Made From: Sustainably harvested natural tree rubber Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight. 183cm length x 61cm width </tbody> </table>",
+        "confidence": 0.8500000000000001,
+        "headings": [
+          "Details"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "<div class=\"content\">",
+            "<table class=\"border-none\">",
+            "<tbody>",
+            "Code: MAECOEVERRI",
+            "Brand: Yogamatters",
+            "Product Weight: 2.3kg",
+            "Mat Thickness: 3mm",
+            "Made In: Taiwan",
+            "Made From: Sustainably harvested natural tree rubber",
+            "Care Instructions: Spray mat with Yogamatters Yoga Mat Cleaner and wipe down with a damp cloth. Roll mat once dry and store away from direct sunlight.",
+            "183cm length x 61cm width",
+            "</tbody>",
+            "</table>"
+          ],
+          "confidence": 0.8500000000000001
+        }
+      ]
+    }
+  ]
+}

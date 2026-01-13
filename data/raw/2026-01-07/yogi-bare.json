@@ -1,0 +1,1337 @@
+{
+  "products": [
+    {
+      "id": 15258628718971,
+      "title": "Performance Pilates Arch Mat FSC® Certified Natural Rubber - Chocolate",
+      "handle": "pilates-mat",
+      "body_html": "<p class=\"p1\"><b><strong>Your order also comes with a free gift with purchase travel size premium botanical skincare \"<meta charset=\"utf-8\">oil la la\" from our friends at lelive. </strong></b></p>\n<p class=\"p1\">Sculpted. Supported. Sustainably.</p>\n<p class=\"p1\">Get ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.</p>\n<p class=\"p1\">Sustainability meets studio grade support.</p>\n<p class=\"p1\">Crafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.</p>\n<p class=\"p2\"> </p>\n<p class=\"p3\"><b>Why You’ll Love It</b></p>\n<p class=\"p1\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p1\"><strong>Aesthetic + Spacious Double Arch Design</strong></p>\n<p class=\"p1\"><b>Superior Grip:</b> Our infamous ultra grip top layer supports your every move.<br></p>\n<p class=\"p1\"><b>Cushioned Comfort:</b> Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. <br></p>\n<p class=\"p1\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p1\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p1\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p3\"> </p>\n<p class=\"p3\"><b>The Feel</b></p>\n<p class=\"p3\">Anything is possible with the right support.</p>\n<p class=\"p1\">Held under hand, stable under foot. Delicious colour ways you can taste.</p>\n<p class=\"p1\">The perfect balance of comfort and contro<b>l</b> so the focus stays on your practice.</p>\n<p class=\"p2\"><br></p>\n<p class=\"p3\"><b>The Detail</b></p>\n<p class=\"p3\">660mm x 1800mm</p>\n<p class=\"p1\">Choose from either 5mm or 8mm thickness</p>\n<p class=\"p1\"><meta charset=\"utf-8\">Aesthetic + Spacious Double Arch Design</p>\n<p class=\"p1\">FSC® Certified Natural Rubber</p>\n<p class=\"p1\">Non Toxic. PVC free.</p>\n<p class=\"p1\"> </p>",
+      "published_at": "2025-11-07T07:40:59+00:00",
+      "created_at": "2025-10-06T19:18:06+01:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Pilates Mat",
+      "tags": [
+        "Boxing Day"
+      ],
+      "variants": [
+        {
+          "id": 55817085124987,
+          "title": "5MM",
+          "option1": "5MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA-CH",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81240036442491,
+            "product_id": 15258628718971,
+            "position": 1,
+            "created_at": "2025-12-23T23:39:39+00:00",
+            "updated_at": "2025-12-23T23:39:56+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533196",
+            "variant_ids": [
+              55817085124987
+            ]
+          },
+          "available": true,
+          "price": "81.00",
+          "grams": 2400,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15258628718971,
+          "created_at": "2025-10-06T19:18:06+01:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        },
+        {
+          "id": 55817085157755,
+          "title": "8MM",
+          "option1": "8MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA8-CH",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 80683992088955,
+            "product_id": 15258628718971,
+            "position": 2,
+            "created_at": "2025-12-05T17:31:25+00:00",
+            "updated_at": "2025-12-23T23:39:56+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_3.jpg?v=1766533196",
+            "variant_ids": [
+              55817085157755
+            ]
+          },
+          "available": true,
+          "price": "104.00",
+          "grams": 3200,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15258628718971,
+          "created_at": "2025-10-06T19:18:06+01:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81240036442491,
+          "created_at": "2025-12-23T23:39:39+00:00",
+          "position": 1,
+          "updated_at": "2025-12-23T23:39:56+00:00",
+          "product_id": 15258628718971,
+          "variant_ids": [
+            55817085124987
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533196",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 80683992088955,
+          "created_at": "2025-12-05T17:31:25+00:00",
+          "position": 2,
+          "updated_at": "2025-12-23T23:39:56+00:00",
+          "product_id": 15258628718971,
+          "variant_ids": [
+            55817085157755
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_3.jpg?v=1766533196",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 80683992121723,
+          "created_at": "2025-12-05T17:31:25+00:00",
+          "position": 3,
+          "updated_at": "2025-12-23T23:39:56+00:00",
+          "product_id": 15258628718971,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Chocolate_Pilates_Mat_Ecom_1.jpg?v=1766533196",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 79950067630459,
+          "created_at": "2025-10-31T21:52:22+00:00",
+          "position": 4,
+          "updated_at": "2025-12-23T23:39:56+00:00",
+          "product_id": 15258628718971,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign6245_Product_Page.jpg?v=1766533196",
+          "width": 2000,
+          "height": 1999
+        }
+      ],
+      "options": [
+        {
+          "name": "Thickness",
+          "position": 1,
+          "values": [
+            "5MM",
+            "8MM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15280332734843,
+      "title": "Performance Pilates Arch Mat FSC® Certified Natural Rubber - Milk",
+      "handle": "pilates-mat-black-copy",
+      "body_html": "<p class=\"p1\"><b><strong>Your order also comes with a free gift with purchase travel size premium botanical skincare \"<meta charset=\"utf-8\">oil la la\" from our friends at lelive. </strong></b></p>\n<p class=\"p1\"><strong>Sculpted. Supported. Sustainably. </strong></p>\n<p class=\"p1\">Get ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.</p>\n<p class=\"p1\">Sustainability meets studio grade support.</p>\n<p class=\"p1\">Crafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.</p>\n<p class=\"p2\"><br></p>\n<p class=\"p2\"><br></p>\n<p class=\"p3\"><b>Why You’ll Love It</b></p>\n<p class=\"p1\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p1\"><strong>Aesthetic + Spacious Double Arch Design </strong></p>\n<p class=\"p1\"><b>Superior Grip:</b> Our infamous ultra grip top layer supports your every move.<br></p>\n<p class=\"p1\"><b>Cushioned Comfort:</b> Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. <br></p>\n<p class=\"p1\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p1\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p1\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p1\"> </p>\n<p class=\"p3\"><b>The Feel</b></p>\n<p class=\"p1\">Anything is possible with the right support.</p>\n<p class=\"p1\">Held under hand, stable under foot. Delicious colour ways you can taste.</p>\n<p class=\"p1\">The perfect balance of comfort and control so the focus stays on your practice.</p>\n<p class=\"p2\"><br></p>\n<p class=\"p3\"><b>The Detail</b></p>\n<p class=\"p1\">660mm x 1800mm</p>\n<p class=\"p1\"><meta charset=\"utf-8\">Aesthetic + Spacious Double Arch Design </p>\n<p class=\"p1\">Choose from either 5mm or 8mm thickness</p>\n<p class=\"p1\">FSC® Certified Natural Rubber</p>\n<p class=\"p4\"><b></b><br></p>\n<p class=\"p1\"><b>PVC free.</b></p>",
+      "published_at": "2025-11-07T07:40:34+00:00",
+      "created_at": "2025-10-31T22:04:57+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Pilates Mat",
+      "tags": [
+        "Boxing Day",
+        "Pilates Mat"
+      ],
+      "variants": [
+        {
+          "id": 55883183620475,
+          "title": "5MM",
+          "option1": "5MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA-MK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81239982866811,
+            "product_id": 15280332734843,
+            "position": 1,
+            "created_at": "2025-12-23T23:34:05+00:00",
+            "updated_at": "2025-12-23T23:34:55+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_Boxing_Sale.jpg?v=1766532895",
+            "variant_ids": [
+              55883183620475
+            ]
+          },
+          "available": true,
+          "price": "81.00",
+          "grams": 2800,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15280332734843,
+          "created_at": "2025-10-31T22:04:57+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        },
+        {
+          "id": 55883183653243,
+          "title": "8MM",
+          "option1": "8MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA8-MK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 80683894833531,
+            "product_id": 15280332734843,
+            "position": 4,
+            "created_at": "2025-12-05T17:14:48+00:00",
+            "updated_at": "2025-12-23T23:34:55+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_2.jpg?v=1766532895",
+            "variant_ids": [
+              55883183653243
+            ]
+          },
+          "available": true,
+          "price": "104.00",
+          "grams": 3200,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15280332734843,
+          "created_at": "2025-10-31T22:04:57+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81239982866811,
+          "created_at": "2025-12-23T23:34:05+00:00",
+          "position": 1,
+          "updated_at": "2025-12-23T23:34:55+00:00",
+          "product_id": 15280332734843,
+          "variant_ids": [
+            55883183620475
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_Boxing_Sale.jpg?v=1766532895",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 79950114849147,
+          "created_at": "2025-10-31T22:05:58+00:00",
+          "position": 2,
+          "updated_at": "2025-12-23T23:34:55+00:00",
+          "product_id": 15280332734843,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign5749_1_Product_Page_23647f01-066c-44c8-a8af-9b1ae522da99.jpg?v=1766532895",
+          "width": 2000,
+          "height": 1999
+        },
+        {
+          "id": 80683906367867,
+          "created_at": "2025-12-05T17:16:42+00:00",
+          "position": 3,
+          "updated_at": "2025-12-23T23:34:55+00:00",
+          "product_id": 15280332734843,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_Mat_Ecom_1.jpg?v=1766532895",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 80683894833531,
+          "created_at": "2025-12-05T17:14:48+00:00",
+          "position": 4,
+          "updated_at": "2025-12-23T23:34:55+00:00",
+          "product_id": 15280332734843,
+          "variant_ids": [
+            55883183653243
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Milk_Pilates_mat_Ecom_2.jpg?v=1766532895",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Thickness",
+          "position": 1,
+          "values": [
+            "5MM",
+            "8MM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15280332538235,
+      "title": "Performance Pilates Arch Mat.  FSC® Certified Natural Rubber - Black",
+      "handle": "pilates-mat-black",
+      "body_html": "<p class=\"p1\"><b><strong>Your order also comes with a free gift with purchase travel size premium botanical skincare \"<meta charset=\"utf-8\">oil la la\" from our friends at lelive. </strong></b></p>\n<p class=\"p1\">Sculpted. Supported. Sustainably.</p>\n<p class=\"p1\">Get ready to elevate your Pilates experience with our ethically made FSC® Certified Natural Rubber Performance Pilates Mat.</p>\n<p class=\"p1\">Sustainability meets studio grade support.</p>\n<p class=\"p1\">Crafted from responsibly sourced FSC natural rubber, this mat delivers superior grip, cushioning, and stability, empowering every movement with purpose and intention.</p>\n<p class=\"p1\">Each mat comes with a free special gift of premium botanical skincare<strong> Oil La La</strong> from our friends at<strong> lelive</strong>.</p>\n<p class=\"p3\"><b>Why You’ll Love It</b></p>\n<p class=\"p1\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p1\"><strong>Aesthetic + Spacious Double Arch Design </strong></p>\n<p class=\"p1\"><b>Superior Grip:</b> Our infamous ultra grip top layer supports your every move.<br></p>\n<p class=\"p1\"><b>Cushioned Comfort:</b> Choose 5mm or 8mm thickness for the ultimate comfort and support. Our cushioned technology minimises impact and protects your joints, knees and spine without detracting from your movement. <br></p>\n<p class=\"p1\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p1\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p1\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p1\"> </p>\n<p class=\"p3\"><b>The Feel</b></p>\n<p class=\"p1\">Anything is possible with the right support.</p>\n<p class=\"p1\">Held under hand, stable under foot. Delicious colour ways you can taste.</p>\n<p class=\"p1\">The perfect balance of comfort and control so the focus stays on your practice.</p>\n<p class=\"p2\"><br></p>\n<p class=\"p3\"><b>The Detail</b></p>\n<p class=\"p1\">660mm x 1800mm</p>\n<p class=\"p4\"><meta charset=\"utf-8\">Aesthetic + Spacious Double Arch Design <br></p>\n<p class=\"p1\">Choose from either 5mm or 8mm thickness</p>\n<p class=\"p1\">FSC® Certified Natural Rubber</p>\n<p class=\"p1\">Non toxic. PVC free.</p>",
+      "published_at": "2025-11-07T07:40:47+00:00",
+      "created_at": "2025-10-31T22:01:23+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Pilates Mat",
+      "tags": [
+        "Boxing Day"
+      ],
+      "variants": [
+        {
+          "id": 55883181326715,
+          "title": "5MM",
+          "option1": "5MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA-BLK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 81240021565819,
+            "product_id": 15280332538235,
+            "position": 1,
+            "created_at": "2025-12-23T23:38:12+00:00",
+            "updated_at": "2025-12-23T23:38:30+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Back_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533110",
+            "variant_ids": [
+              55883181326715
+            ]
+          },
+          "available": true,
+          "price": "81.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15280332538235,
+          "created_at": "2025-10-31T22:01:23+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        },
+        {
+          "id": 55883181359483,
+          "title": "8MM",
+          "option1": "8MM",
+          "option2": null,
+          "option3": null,
+          "sku": "PR-DA8-BLK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 80683923243387,
+            "product_id": 15280332538235,
+            "position": 2,
+            "created_at": "2025-12-05T17:20:24+00:00",
+            "updated_at": "2025-12-23T23:38:30+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Black_Pilates_Mat_Ecom_3.jpg?v=1766533110",
+            "variant_ids": [
+              55883181359483
+            ]
+          },
+          "available": true,
+          "price": "104.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15280332538235,
+          "created_at": "2025-10-31T22:01:23+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81240021565819,
+          "created_at": "2025-12-23T23:38:12+00:00",
+          "position": 1,
+          "updated_at": "2025-12-23T23:38:30+00:00",
+          "product_id": 15280332538235,
+          "variant_ids": [
+            55883181326715
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Back_Pilates_Mat_Ecom_Boxing_Sale.jpg?v=1766533110",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 80683923243387,
+          "created_at": "2025-12-05T17:20:24+00:00",
+          "position": 2,
+          "updated_at": "2025-12-23T23:38:30+00:00",
+          "product_id": 15280332538235,
+          "variant_ids": [
+            55883181359483
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Black_Pilates_Mat_Ecom_3.jpg?v=1766533110",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "id": 79950106067323,
+          "created_at": "2025-10-31T22:02:39+00:00",
+          "position": 3,
+          "updated_at": "2025-12-23T23:38:30+00:00",
+          "product_id": 15280332538235,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YogiBare_Pilates_Campaign_HR_YogiBare_Pilates_Campaign5412_Product_Page_b4831aff-5108-4ffb-968b-eac6012a4c11.jpg?v=1766533110",
+          "width": 2000,
+          "height": 2002
+        },
+        {
+          "id": 80683923276155,
+          "created_at": "2025-12-05T17:20:24+00:00",
+          "position": 4,
+          "updated_at": "2025-12-23T23:38:30+00:00",
+          "product_id": 15280332538235,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Back_Pilates_Mat_Ecom_1.jpg?v=1766533110",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Thickness",
+          "position": 1,
+          "values": [
+            "5MM",
+            "8MM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7911520108682,
+      "title": "The Original Paws Sticky Grip Yoga Mat. FSC® Certified Natural Rubber -  Wild Forest",
+      "handle": "yogi-bare-paws-yoga-pilates-mat-wild-forest",
+      "body_html": "<div class=\"x_elementToProof\">\n<div class=\"x_elementToProof\">\n<p class=\"p1\">Grip that sticks. Support that shows up.</p>\n<p class=\"p1\">The mat that made us famous.</p>\n<p class=\"p3\">Our classic sticky grip built for high-performance grip and grounded stability, Vogue named us every Yoga Teacher’s favourite mat for a reason.</p>\n<p class=\"p3\">Because when you can trust your mat to hold and support you the rest just clicks.</p>\n<p> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span></p>\n<p class=\"p3\"><b>Unbeatable grip</b>,<span class=\"Apple-converted-space\">  </span>even in hot, sweaty flows. <br></p>\n<p class=\"p3\"><b>Engineered for performance</b> with an ultra sticky grip top layer and stable, supportive base.</p>\n<p class=\"p3\"><b>FSC™ certified Rubber </b>meaning our rubber is traceable and from a renewable protected source and biodegradable in correct landfill conditions. <br></p>\n<p class=\"p3\"><b>Built to last</b>. <b>Durable by design:</b> tear-resistant, high-tensile rubber that won’t flake, stretch, or roll mid-flow</p>\n<p class=\"p3\"><b>Subtle alignment guides</b> for intuitive precision without distraction</p>\n<p class=\"p2\"><i>For the yogi who wants their mat to work as hard as they do.</i></p>\n</div>\n<p> </p>\n<p> </p>\n<p> </p>\n</div>",
+      "published_at": "2025-08-14T19:07:34+01:00",
+      "created_at": "2024-02-27T10:56:20+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 44329382281354,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "OP-WF",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7911520108682,
+          "created_at": "2024-02-27T10:56:20+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 76452824809851,
+          "created_at": "2025-06-21T15:54:26+01:00",
+          "position": 1,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_2_5b1fae48-3ce7-406a-a313-455b8ffc0657.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76406737699195,
+          "created_at": "2025-06-19T23:20:35+01:00",
+          "position": 2,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_5.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33984747798666,
+          "created_at": "2024-03-05T22:43:24+00:00",
+          "position": 3,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-WildForest_cef99fdc-1ec9-4c23-8aa6-b2bad20d9e39.jpg?v=1755183182",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 76406737764731,
+          "created_at": "2025-06-19T23:20:35+01:00",
+          "position": 4,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_7.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76406737240443,
+          "created_at": "2025-06-19T23:20:34+01:00",
+          "position": 5,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_3.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76406737895803,
+          "created_at": "2025-06-19T23:20:35+01:00",
+          "position": 6,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_6.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76406737207675,
+          "created_at": "2025-06-19T23:20:34+01:00",
+          "position": 7,
+          "updated_at": "2025-08-14T15:53:02+01:00",
+          "product_id": 7911520108682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Wild_Forest_Website_4.png?v=1755183182",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7911519649930,
+      "title": "The Original Paws Sticky Grip Yoga Mat. FSC® Certified Natural Rubber - Midnight Black",
+      "handle": "yogi-bare-paws-yoga-mat-midnight",
+      "body_html": "<div class=\"x_elementToProof\">\n<p> </p>\n<p class=\"p1\">Grip that sticks. Support that shows up.</p>\n<p class=\"p1\">The mat that made us famous.</p>\n<p class=\"p3\">Our classic sticky grip built for high-performance grip and grounded stability, Vogue named us every Yoga Teacher’s favourite mat for a reason.</p>\n<p class=\"p3\">Because when you can trust your mat to hold and support you the rest just clicks.</p>\n<p> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span></p>\n<p class=\"p3\"><b>Unbeatable grip</b>,<span class=\"Apple-converted-space\">  </span>even in hot, sweaty flows. <br></p>\n<p class=\"p3\"><b>Engineered for performance</b> with an ultra sticky grip top layer and stable, supportive base.</p>\n<p class=\"p3\"><b>FSC™ certified Rubber </b>meaning our rubber is traceable and from a renewable protected source and biodegradable in correct landfill conditions. <br></p>\n<p class=\"p3\"><b>Built to last</b>. <b>Durable by design:</b> tear-resistant, high-tensile rubber that won’t flake, stretch, or roll mid-flow</p>\n<p class=\"p3\"><b>Subtle alignment guides</b> for intuitive precision without distraction</p>\n<p class=\"p2\"><i>For the yogi who wants their mat to work as hard as they do.</i></p>\n</div>\n<p> </p>\n<p> </p>\n<p><br></p>",
+      "published_at": "2025-08-14T19:07:55+01:00",
+      "created_at": "2024-02-27T10:55:58+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 44329376874634,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "OP-BLK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7911519649930,
+          "created_at": "2024-02-27T10:55:58+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 76488485175675,
+          "created_at": "2025-06-23T22:49:53+01:00",
+          "position": 1,
+          "updated_at": "2025-08-14T15:55:21+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_1_a5ebe7a7-7f61-43c4-ac8a-88d616e5b000.jpg?v=1755183321",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76488590557563,
+          "created_at": "2025-06-23T23:06:11+01:00",
+          "position": 2,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_13.jpg?v=1755195662",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33984755499146,
+          "created_at": "2024-03-05T22:45:46+00:00",
+          "position": 3,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-Midnight.jpg?v=1755195662",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 76488590393723,
+          "created_at": "2025-06-23T23:06:11+01:00",
+          "position": 4,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_12.jpg?v=1755195662",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76488456798587,
+          "created_at": "2025-06-23T22:45:37+01:00",
+          "position": 5,
+          "updated_at": "2025-08-14T15:55:21+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_3.jpg?v=1755183321",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76488590524795,
+          "created_at": "2025-06-23T23:06:11+01:00",
+          "position": 6,
+          "updated_at": "2025-08-14T15:55:21+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_11.jpg?v=1755183321",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 78567227195771,
+          "created_at": "2025-08-14T16:04:07+01:00",
+          "position": 7,
+          "updated_at": "2025-08-14T16:04:11+01:00",
+          "product_id": 7911519649930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_6_copy.jpg?v=1755183851",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5402465271946,
+      "title": "Flow Paws - Natural rubber extreme grip yoga mat",
+      "handle": "flow-paws-natural-rubber-extreme-grip-yoga-mat",
+      "body_html": "<p class=\"p2\"><b>The mat that holds you - so you can surf all of life's big waves.</b></p>\n<p class=\"p2\"> </p>\n<ul class=\"ul1\">\n<li class=\"li2\">\n<strong><span class=\"s1\">World First Innovation: </span></strong><span class=\"s1\">Vivid photographic print on sustainable rubber.</span>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Ultra grip, zero slip:</b> Stays put—even in your sweatiest downward dog<br>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Sweat-friendly surface:</b> Gets grippier the more you move<br>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Cushioned comfort:</b> 4mm of joint-loving support<br>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Subtle alignment guides:</b> For hitting your marks without overthinking it<br>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Planet-kind materials:</b> Sustainably sourced, biodegradable rubber<br>\n</li>\n<li class=\"li2\">\n<span class=\"s1\"></span><b>Tough love:</b> No flaking, peeling, or giving up mid-flow<br>\n</li>\n<li class=\"li2\">\n</li>\n</ul>\n<p class=\"p2\"><i>Your journey is yours. But we’re right here beside you.</i></p>",
+      "published_at": "2024-12-05T13:48:17+00:00",
+      "created_at": "2021-01-21T10:43:24+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare®",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "Best for_Extra Support",
+        "Best for_Ultra Grip",
+        "Boxing Day",
+        "LIVE",
+        "Paws"
+      ],
+      "variants": [
+        {
+          "id": 34978573287562,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "YBPAWSFLOW",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "103.00",
+          "grams": 2500,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 5402465271946,
+          "created_at": "2021-01-21T10:43:24+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81240159125883,
+          "created_at": "2025-12-23T23:50:20+00:00",
+          "position": 1,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_Ecom_Boxing_Sale.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 76477818798459,
+          "created_at": "2025-06-23T13:06:23+01:00",
+          "position": 2,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_Website.jpg?v=1766533845",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 36020603682954,
+          "created_at": "2024-10-17T12:32:02+01:00",
+          "position": 3,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-04_3e5c6037-cd1f-4451-a5d7-f13fdcb5b7c0.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 76453696471419,
+          "created_at": "2025-06-21T17:45:28+01:00",
+          "position": 4,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow_4.jpg?v=1766533845",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 36020603584650,
+          "created_at": "2024-10-17T12:32:02+01:00",
+          "position": 5,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-05.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 36020603650186,
+          "created_at": "2024-10-17T12:32:02+01:00",
+          "position": 6,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-03_3d9809b8-fa45-45b5-b12a-cd89dbe6cb47.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 76453666488699,
+          "created_at": "2025-06-21T17:42:07+01:00",
+          "position": 7,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Flow2.jpg?v=1766533845",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 36020603715722,
+          "created_at": "2024-10-17T12:32:02+01:00",
+          "position": 8,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-06.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 36020600668298,
+          "created_at": "2024-10-17T12:31:18+01:00",
+          "position": 9,
+          "updated_at": "2025-12-23T23:50:45+00:00",
+          "product_id": 5402465271946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-01_1c362339-a3d1-46a0-9053-a6e98fa8fa45.png?v=1766533845",
+          "width": 3334,
+          "height": 3334
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7911519846538,
+      "title": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Warm Sand",
+      "handle": "ever-grip-paws-warm-sand",
+      "body_html": "<p class=\"p1\">Grip that never quits.</p>\n<p class=\"p3\">Easy clean. Built to last. Matte feel. Ultra Grip. </p>\n<p class=\"p3\"><span style=\"text-decoration: underline;\"><strong>Why we made this</strong></span></p>\n<p class=\"p3\">Introducing our latest innovation “Ever Grip”.</p>\n<p class=\"p3\">After a decade of creating Yoga mats for you, your home &amp; your favourite studios we created Ever Grip.</p>\n<p class=\"p3\">Our unique innovation created to be more durable, long lasting and be non marking.</p>\n<p class=\"p3\">The feel is a “matte grip”.<span class=\"Apple-converted-space\">  </span>Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.</p>\n<p class=\"p4\"> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span><b></b></p>\n<p class=\"p3\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p3\"><b>Superior Grip:</b> Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.<br></p>\n<p class=\"p3\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p3\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p3\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p3\"><b>Tough and durable:</b> Made to handle daily practice without wearing down<br></p>\n<p class=\"p3\"><b>Wipe clean finish:</b> Sweat, spills, and smudges wipe right off<br></p>\n<p class=\"p3\"><b>Supportive:</b> 4mm cushioning for joint support, stability and comfort<br></p>\n<p class=\"p3\"><b>Non-toxic materials:</b> Free from PVC, TPE and harsh chemicals glues or dyes.<br></p>\n<p class=\"p3\"><b>Innovated for life:</b> Our favourite Paws mat. Reimagined. Anti sweat stain surface.</p>",
+      "published_at": "2025-12-10T13:20:31+00:00",
+      "created_at": "2024-02-27T10:56:10+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "Black Friday",
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 44329379430538,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "EG-WS",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": "92.00",
+          "position": 1,
+          "product_id": 7911519846538,
+          "created_at": "2024-02-27T10:56:10+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 76544655393147,
+          "created_at": "2025-06-25T16:46:15+01:00",
+          "position": 1,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_1.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76545366327675,
+          "created_at": "2025-06-25T18:16:41+01:00",
+          "position": 2,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_13.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33984751075466,
+          "created_at": "2024-03-05T22:44:47+00:00",
+          "position": 3,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-WarmSand.jpg?v=1762794519",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 76545366360443,
+          "created_at": "2025-06-25T18:16:41+01:00",
+          "position": 4,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_website_11.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76544655524219,
+          "created_at": "2025-06-25T16:46:16+01:00",
+          "position": 5,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_2.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76545366393211,
+          "created_at": "2025-06-25T18:16:41+01:00",
+          "position": 6,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_12.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76545384612219,
+          "created_at": "2025-06-25T18:20:23+01:00",
+          "position": 7,
+          "updated_at": "2025-11-10T17:08:39+00:00",
+          "product_id": 7911519846538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Warm_Sand_Website_3.jpg?v=1762794519",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8262034292874,
+      "title": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Midnight Black",
+      "handle": "midnight-black-ever-grip-paws-with-eyelets",
+      "body_html": "<p class=\"p1\">Grip that never quits.</p>\n<p class=\"p3\">Easy clean. Built to last. Matte feel. Ultra Grip. </p>\n<p class=\"p3\"><span style=\"text-decoration: underline;\"><strong>Why we made this</strong></span></p>\n<p class=\"p3\">Introducing our latest innovation “Ever Grip”.</p>\n<p class=\"p3\">After a decade of creating Yoga mats for you, your home &amp; your favourite studios we created Ever Grip.</p>\n<p class=\"p3\">Our unique innovation created to be more durable, long lasting and be non marking.</p>\n<p class=\"p3\">The feel is a “matte grip”.<span class=\"Apple-converted-space\">  </span>Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.</p>\n<p class=\"p4\"> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span><b></b></p>\n<p class=\"p3\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p3\"><b>Superior Grip:</b> Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.<br></p>\n<p class=\"p3\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p3\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p3\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p3\"><b>Tough and durable:</b> Made to handle daily practice without wearing down<br></p>\n<p class=\"p3\"><b>Wipe clean finish:</b> Sweat, spills, and smudges wipe right off<br></p>\n<p class=\"p3\"><b>Supportive:</b> 4mm cushioning for joint support, stability and comfort<br></p>\n<p class=\"p3\"><b>Non-toxic materials:</b> Free from PVC, TPE and harsh chemicals glues or dyes.<br></p>\n<p class=\"p3\"><b>Innovated for life:</b> Our favourite Paws mat. Reimagined. Anti sweat stain surface.<br></p>\n<p> </p>\n<p> </p>",
+      "published_at": "2025-12-15T12:27:57+00:00",
+      "created_at": "2024-08-14T11:19:12+01:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 45355855708298,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "EG-BLK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8262034292874,
+          "created_at": "2024-08-14T11:19:12+01:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 78566820020603,
+          "created_at": "2025-08-14T15:58:50+01:00",
+          "position": 1,
+          "updated_at": "2025-08-14T19:20:09+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Minimalist_Website_1.png?v=1755195609",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76488590557563,
+          "created_at": "2025-06-23T23:06:11+01:00",
+          "position": 2,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_13.jpg?v=1755195662",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33984755499146,
+          "created_at": "2024-03-05T22:45:46+00:00",
+          "position": 3,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/YB-Midnight.jpg?v=1755195662",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 76488590393723,
+          "created_at": "2025-06-23T23:06:11+01:00",
+          "position": 4,
+          "updated_at": "2025-08-14T19:21:02+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_12.jpg?v=1755195662",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 78567227195771,
+          "created_at": "2025-08-14T16:04:07+01:00",
+          "position": 5,
+          "updated_at": "2025-08-14T16:04:11+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_6_copy.jpg?v=1755183851",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76488456798587,
+          "created_at": "2025-06-23T22:45:37+01:00",
+          "position": 6,
+          "updated_at": "2025-08-14T15:55:21+01:00",
+          "product_id": 8262034292874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Website_3.jpg?v=1755183321",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7911519322250,
+      "title": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
+      "handle": "ever-grip-paws-desert-rose",
+      "body_html": "<p><meta charset=\"UTF-8\"> <meta charset=\"UTF-8\"> <meta charset=\"UTF-8\"> <meta charset=\"UTF-8\"></p>\n<p class=\"p1\">Grip that never quits.</p>\n<p class=\"p3\">Easy clean. Built to last. Matte feel. Ultra Grip. </p>\n<p class=\"p3\"><span style=\"text-decoration: underline;\"><strong>Why we made this</strong></span></p>\n<p class=\"p3\">Introducing our latest innovation “Ever Grip”.</p>\n<p class=\"p3\">After a decade of creating Yoga mats for you, your home &amp; your favourite studios we created Ever Grip.</p>\n<p class=\"p3\">Our unique innovation created to be more durable, long lasting and be non marking.</p>\n<p class=\"p3\">The feel is a “matte grip”.<span class=\"Apple-converted-space\">  </span>Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.</p>\n<p class=\"p4\"> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span><b></b></p>\n<p class=\"p3\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p3\"><b>Superior Grip:</b> Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.<br></p>\n<p class=\"p3\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p3\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p3\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p3\"><b>Tough and durable:</b> Made to handle daily practice without wearing down<br></p>\n<p class=\"p3\"><b>Wipe clean finish:</b> Sweat, spills, and smudges wipe right off<br></p>\n<p class=\"p3\"><b>Supportive:</b> 4mm cushioning for joint support, stability and comfort<br></p>\n<p class=\"p3\"><b>Non-toxic materials:</b> Free from PVC, TPE and harsh chemicals glues or dyes.<br></p>\n<p class=\"p3\"><b>Innovated for life:</b> Our favourite Paws mat. Reimagined. Anti sweat stain surface.</p>",
+      "published_at": "2024-12-05T13:39:25+00:00",
+      "created_at": "2024-02-27T10:55:45+00:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "_Bestseller",
+        "Boxing Day",
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 44329374351498,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "EG-DR",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7911519322250,
+          "created_at": "2024-02-27T10:55:45+00:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 81240123408763,
+          "created_at": "2025-12-23T23:46:53+00:00",
+          "position": 1,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_Boxing_Sale.jpg?v=1766533633",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33976310005898,
+          "created_at": "2024-03-04T11:41:00+00:00",
+          "position": 2,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0764copy.jpg?v=1766533633",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "id": 76545482490235,
+          "created_at": "2025-06-25T18:58:27+01:00",
+          "position": 3,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_2.jpg?v=1766533633",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33976309350538,
+          "created_at": "2024-03-04T11:41:00+00:00",
+          "position": 4,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0964copy.jpg?v=1766533633",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "id": 76555485839739,
+          "created_at": "2025-06-26T12:46:12+01:00",
+          "position": 5,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_3.jpg?v=1766533633",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 33976309776522,
+          "created_at": "2024-03-04T11:41:00+00:00",
+          "position": 6,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0869copy.jpg?v=1766533633",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "id": 33976309481610,
+          "created_at": "2024-03-04T11:41:00+00:00",
+          "position": 7,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0804copy.jpg?v=1766533633",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "id": 76555486593403,
+          "created_at": "2025-06-26T12:46:12+01:00",
+          "position": 8,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_4.jpg?v=1766533633",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 76545482457467,
+          "created_at": "2025-06-25T18:58:27+01:00",
+          "position": 9,
+          "updated_at": "2025-12-23T23:47:13+00:00",
+          "product_id": 7911519322250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_1.jpg?v=1766533633",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8288671498378,
+      "title": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - The Minimalist",
+      "handle": "minimalist-black-ever-grip-yoga-mat",
+      "body_html": "<p class=\"p1\">Minimalist Alignment Design. </p>\n<p class=\"p3\">Easy clean. Built to last. Matte feel. Ultra Grip. </p>\n<p class=\"p3\"><span style=\"text-decoration: underline;\"><strong>Why we made this</strong></span></p>\n<p class=\"p3\">Introducing our latest innovation <meta charset=\"utf-8\"><em>Ever Grip</em></p>\n<p class=\"p3\">After a decade of creating Yoga mats for you, your home &amp; your favourite studios we created <meta charset=\"utf-8\"><em>Ever Grip</em></p>\n<p class=\"p3\">Our unique innovation created to be more durable, long lasting and be non marking.</p>\n<p class=\"p3\">The feel is a “matte grip”.<span class=\"Apple-converted-space\">  </span>Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.</p>\n<p class=\"p4\"> </p>\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><b>Why You’ll Love It</b></span><b></b></p>\n<p class=\"p3\"><b>FSC® Certified Natural Rubber:</b> Responsibly sourced from sustainably managed forests.<br></p>\n<p class=\"p3\"><b>Superior Grip:</b> Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.<br></p>\n<p class=\"p3\"><b>Non toxic, Glue + PVC Free:</b> Made with you and the environment in mind.<br></p>\n<p class=\"p3\"><b>Minimalist Design:</b> Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.<br></p>\n<p class=\"p3\"><b>Durable Density:</b> Made to last. No flaking or tearing. Built to support daily practice without compression or wear.<br></p>\n<p class=\"p3\"><b>Tough and durable:</b> Made to handle daily practice without wearing down<br></p>\n<p class=\"p3\"><b>Wipe clean finish:</b> Sweat, spills, and smudges wipe right off<br></p>\n<p class=\"p3\"><b>Supportive:</b> 4mm cushioning for joint support, stability and comfort<br></p>\n<p class=\"p3\"><b>Non-toxic materials:</b> Free from PVC, TPE and harsh chemicals glues or dyes.<br></p>\n<p class=\"p3\"><b>Innovated for life:</b> Our favourite Paws mat. Reimagined. Anti sweat stain surface.</p>",
+      "published_at": "2025-10-06T18:50:22+01:00",
+      "created_at": "2024-09-10T11:29:38+01:00",
+      "updated_at": "2026-01-07T15:07:29+00:00",
+      "vendor": "Yogi Bare",
+      "product_type": "Yoga Mat",
+      "tags": [
+        "LIVE",
+        "wholesale"
+      ],
+      "variants": [
+        {
+          "id": 45454827880586,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "EG-MIN-BLK",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "92.00",
+          "grams": 2300,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8288671498378,
+          "created_at": "2024-09-10T11:29:38+01:00",
+          "updated_at": "2026-01-07T15:07:29+00:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35780998299786,
+          "created_at": "2024-09-17T09:19:40+01:00",
+          "position": 1,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-01.png?v=1762794559",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 33976367153290,
+          "created_at": "2024-03-04T11:49:20+00:00",
+          "position": 2,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign1405copy.jpg?v=1762794559",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 35780998234250,
+          "created_at": "2024-09-17T09:19:40+01:00",
+          "position": 3,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-02.png?v=1762794559",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 35727813509258,
+          "created_at": "2024-09-10T11:37:11+01:00",
+          "position": 4,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Selects_YogiBare_LoganHouse_Campaign1389_87595ee3-3cd2-49cb-9140-5e12e5664bcb.jpg?v=1762794559",
+          "width": 2000,
+          "height": 1500
+        },
+        {
+          "id": 35780998332554,
+          "created_at": "2024-09-17T09:19:40+01:00",
+          "position": 5,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/websitebackground-04.png?v=1762794559",
+          "width": 3334,
+          "height": 3334
+        },
+        {
+          "id": 78567433929083,
+          "created_at": "2025-08-14T16:05:46+01:00",
+          "position": 6,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Midnight_Black_Web_11_73c80a59-b273-4ac4-8963-13ef0d89a1d7.jpg?v=1762794559",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "id": 78567247315323,
+          "created_at": "2025-08-14T16:05:00+01:00",
+          "position": 7,
+          "updated_at": "2025-11-10T17:09:19+00:00",
+          "product_id": 8288671498378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Minimal_Website_3_copy.png?v=1762794559",
+          "width": 1920,
+          "height": 1920
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

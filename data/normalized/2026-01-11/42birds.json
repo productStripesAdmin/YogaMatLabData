@@ -1,0 +1,1695 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Lightweight Yoga Mat “The Robin”",
+    "slug": "42birds-cork-yoga-mat",
+    "description": "description\nbenefits\n\n\n\nThis is our most popular and signature mat -- it is ultra light and beautifully smooth. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.\nAt 5 mm thick, there is a comfortable dense foam base that is free of PVC’s. Complimentary cotton yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\n\n\n\nSuitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.\nTop side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nBottom side: Comfortable, 5mm thick slip-resistant foam, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.\nLightweight which makes for a perfect travel mat.\nAttractive design will look good no matter where it is stored.\nAvailable in one of our bundles\n\nSpecifications: 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled\nPro Tip: For extra grip, spray water on your mat in the area your hands and feet go before practice",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5 mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 0.8618265279277155,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.9 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 876111003695,
+    "shopifyHandle": "cork-yoga-mat",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "Best Sellers"
+    ],
+    "shopifyCreatedAt": "2018-06-21T17:03:16-04:00",
+    "shopifyPublishedAt": "2019-09-10T16:36:08-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 80,
+    "maxPrice": 80,
+    "variantPriceValues": [
+      80
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1497,
+    "maxGrams": 1497,
+    "variantGramsValues": [
+      1497
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin.jpg?v=1645586809",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_2.jpg?v=1686077023",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-005.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-009.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-007.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Cork_Yoga_Mat.jpg?v=1686077023",
+        "width": 1800,
+        "height": 1800,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_3_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_40_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_4_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_33_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_11_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_8_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_24_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_1_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1000,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42Birds_22of24.jpg?v=1686077023",
+        "width": 3600,
+        "height": 2700,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_61_of_82.JPG?v=1686077023",
+        "width": 1500,
+        "height": 1500,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1_2000x_e3ad417b-0202-4f59-8932-e2865b583790.jpg?v=1686077023",
+        "width": 704,
+        "height": 704,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_01.jpg?v=1686087933",
+        "width": 2000,
+        "height": 2000,
+        "position": 18
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_02.jpg?v=1686087933",
+        "width": 2000,
+        "height": 2000,
+        "position": 19
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_03.jpg?v=1686088060",
+        "width": 2000,
+        "height": 2000,
+        "position": 20
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Yoga Industrial Mat “The Imperial Eagle”",
+    "slug": "42birds-industrial-mat-the-imperial-eagle",
+    "description": "description\nbenefits\n\n\n\nThe 42 Birds Industrial \"Imperial Eagle\" natural cork yoga mat is sturdy and beautifully smooth. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew, and bad smells.\nAt 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\n\n\n\nSuitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.\nTop side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nBottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.\nAttractive design will look good no matter where it is stored.\nSave and pair this in one of our yoga bundles.\n\nSpecifications: 72″ x 26” | 6mm thick | 5.5 lbs. | 4 in. diameter rolled\n\n\n \nPro Tip: For extra grip, spray water on your mat in the area your hands and feet go before practice",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 2.4947610018960185,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5.5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 1127858012207,
+    "shopifyHandle": "industrial-mat-the-imperial-eagle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-03-16T12:03:04-04:00",
+    "shopifyPublishedAt": "2019-09-07T13:01:30-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 98,
+    "maxPrice": 98,
+    "variantPriceValues": [
+      98
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2495,
+    "maxGrams": 2495,
+    "variantGramsValues": [
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle.jpg?v=1645587013",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_2.jpg?v=1686079332",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7365_R2.jpg?v=1686079332",
+        "width": 3000,
+        "height": 3000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7340_R2.jpg?v=1686079332",
+        "width": 3000,
+        "height": 3000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7345_R2.jpg?v=1686079332",
+        "width": 3000,
+        "height": 3000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_01.jpg?v=1686085210",
+        "width": 2000,
+        "height": 2000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_02.jpg?v=1686085210",
+        "width": 2000,
+        "height": 2000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_03.jpg?v=1686085210",
+        "width": 2000,
+        "height": 2000,
+        "position": 8
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Extra Long Cork Lightweight Yoga Mat \"The Robin\"",
+    "slug": "42birds-extra-long-mat",
+    "description": "description\nbenefits\n\n\n\nThis is our most popular and signature mat -- it is ultra light and beautifully smooth and now available in an extralong size. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.\nOur extra-long mat is 85” long with the same comfortable 5mm dense foam that is free of harmful PVC’s. Complimentary cotton carrying and yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\n\n\n\nSuitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.\nTop side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nBottom side: Comfortable, 5mm thick slip-resistant foam, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.\nLightweight which makes for a perfect travel mat.\nAttractive design will look good no matter where it is stored.\n\nSpecifications: 85″ x 26” | 5mm thick | 2.5 lbs. | 4 in. diameter rolled\nPro Tip: For extra grip, spray water on your mat in the area your hands and feet go before practice",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 215.9,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 1.1339822735890994,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Long",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 1373998383151,
+    "shopifyHandle": "extra-long-mat",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-09-03T10:33:42-04:00",
+    "shopifyPublishedAt": "2019-09-07T13:01:28-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 92,
+    "maxPrice": 92,
+    "variantPriceValues": [
+      92
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1978,
+    "maxGrams": 1978,
+    "variantGramsValues": [
+      1978
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 215.9,
+    "lengthCmMax": 215.9,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      2159
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2159,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_XL.jpg?v=1645587071",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_XL_2.jpg?v=1686079143",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_01.jpg?v=1686084290",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_02.jpg?v=1686084290",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_03.jpg?v=1686084290",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Extra_Long_Angle.jpg?v=1686084290",
+        "width": 2000,
+        "height": 2000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Extra_Long_Front.jpg?v=1686084290",
+        "width": 2000,
+        "height": 2000,
+        "position": 7
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Extra Long Cork Yoga Industrial Mat “The Imperial Eagle”",
+    "slug": "42birds-extra-long-cork-yoga-industrial-mat-the-imperial-eagle",
+    "description": "description\nbenefits\n\n\n\nThe 42 Birds Industrial \"Imperial Eagle\" natural cork yoga mat is sturdy and beautifully smooth and now available in an extra long size. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew, and bad smells.\nAt 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\n\n\n\nSuitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.\nTop side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nBottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.\nAttractive design will look good no matter where it is stored.\n\nSpecifications: 85″ x 26” | 6mm thick | 5.7 lbs. \n\n\n\n \nPro Tip: For extra grip, spray water on your mat in the area your hands and feet go before practice",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 215.9,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "weight": {
+      "value": 2.5854795837831466,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5.7 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Long",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 7263667257527,
+    "shopifyHandle": "extra-long-cork-yoga-industrial-mat-the-imperial-eagle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2023-01-10T16:21:21-05:00",
+    "shopifyPublishedAt": "2023-01-27T09:14:39-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 112,
+    "maxPrice": 112,
+    "variantPriceValues": [
+      112
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2585,
+    "maxGrams": 2585,
+    "variantGramsValues": [
+      2585
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 215.9,
+    "lengthCmMax": 215.9,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2159
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2159,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL.png?v=1675101883",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_A.png?v=1675177459",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_01.png?v=1675177485",
+        "width": 2100,
+        "height": 2100,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_FlatStrap.png?v=1675287656",
+        "width": 2000,
+        "height": 1999,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_WStrap.png?v=1675287670",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Lightweight Yoga Mat, Massage Balls and Yoga Block Bundle - \"The Flock\"",
+    "slug": "42birds-cork-yoga-mat-massage-balls-and-yoga-block-bundle-the-flock",
+    "description": "description\nbenefits\n\n\n\nThe cork lightweight yoga mat, massage balls, and yoga block by 42 Birds will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew, and bad smells. \nWith cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.\nIncludes: 1 Cork Lightweight Yoga Mat \"The Robin,\" 1 Cork Therapy Massage Ball Set \"The Little Owls,\" and 2 Cork Blocks \"The Nuthatch.\"\n\nSpecifications: Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs | Massage Balls = (2) 60mm diameter 140g balls and (1) 20mm diameter 20g ball\n\n\nThe cork lightweight yoga mat offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip increases!\nThe cork massage balls are perfect for relieving tension and improving muscle function. Decrease soreness, increase flexibility, and improve your energy with myofascial release. \n\nThe cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 0.8618265279277155,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.9 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 1056970407983,
+    "shopifyHandle": "cork-yoga-mat-massage-balls-and-yoga-block-bundle-the-flock",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-01-24T17:19:11-05:00",
+    "shopifyPublishedAt": "2024-03-05T17:34:00-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 148,
+    "maxPrice": 148,
+    "variantPriceValues": [
+      148
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2812,
+    "maxGrams": 2812,
+    "variantGramsValues": [
+      2812
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_01.jpg?v=1645588227",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_aa76548e-d578-41b3-b697-350010635a5e.jpg?v=1645593540",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_22_4b8c25f3-fbc6-4c91-958a-192cd23fa5d4.jpg?v=1645641805",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_1.jpg?v=1645641805",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_B_22_c619281d-7cb7-4d50-a949-7983d340a1a3.jpg?v=1762203859",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/25.jpg?v=1645641860",
+        "width": 704,
+        "height": 704,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24.JPG?v=1645641860",
+        "width": 704,
+        "height": 704,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/13.jpg?v=1645641860",
+        "width": 704,
+        "height": 704,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/20.jpg?v=1645641860",
+        "width": 704,
+        "height": 704,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_46_of_82.jpg?v=1645641860",
+        "width": 2732,
+        "height": 2732,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Group_3_new_R2.jpg?v=1645641898",
+        "width": 3000,
+        "height": 3000,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/zzz.jpg?v=1645641898",
+        "width": 704,
+        "height": 704,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1.jpg?v=1645641841",
+        "width": 704,
+        "height": 704,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/121.png?v=1645641841",
+        "width": 704,
+        "height": 704,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/10.jpg?v=1645641841",
+        "width": 703,
+        "height": 704,
+        "position": 15
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Lightweight Yoga Mat and Two-Block Bundle",
+    "slug": "42birds-cork-yoga-mat-and-two-block-bundle",
+    "description": "description\nbenefits\n\n\n\nthe 42 Birds cork lightweight yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.\nWith cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.\nIncludes: 1 Cork Lightweight Yoga Mat \"The Robin\" and 2 Cork Blocks \"The Nuthatch.\"\n\nSpecifications: Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs\n\n\nThe cork yoga mat is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip increases!\nThe cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures. \nSave with the bundle set, instead of purchasing each individually!",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 0.8618265279277155,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.9 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 1067263787055,
+    "shopifyHandle": "cork-yoga-mat-and-two-block-bundle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-02-06T03:39:38-05:00",
+    "shopifyPublishedAt": "2024-03-05T17:33:46-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 119,
+    "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2767,
+    "maxGrams": 2767,
+    "variantGramsValues": [
+      2767
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_02.jpg?v=1645588128",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_a0d99d0d-f28d-4d6c-bf1f-e72195c6f949.jpg?v=1645594814",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_1_bf4ecfbe-1bed-4795-a129-870a9d186f98.jpg?v=1645594814",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_a4a45fc0-36ae-4641-a586-673e860720fe.jpg?v=1645641703",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/18.jpg?v=1645641703",
+        "width": 703,
+        "height": 469,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24_c709562a-72cf-495b-9556-6a182b77d36f.JPG?v=1645641703",
+        "width": 704,
+        "height": 704,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_10_of_82.jpg?v=1645641703",
+        "width": 2302,
+        "height": 2302,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Group_4_new_R2_1.jpg?v=1645641703",
+        "width": 3000,
+        "height": 3000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-005_ca7138ed-23fa-4f05-abf8-e76e8257124c.jpg?v=1645641703",
+        "width": 2000,
+        "height": 2000,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/v5_6ff3ad6c-ed27-40ab-89ff-465970d51393.jpg?v=1645641703",
+        "width": 1000,
+        "height": 1000,
+        "position": 10
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Lightweight Yoga Mat and Massage Balls Bundle",
+    "slug": "42birds-cork-yoga-mat-and-massage-balls-bundle",
+    "description": "description\nbenefits\n\n\n\nThe cork lightweight yoga mat and massage balls by 42 Birds will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew, and bad smells.\nWith cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.\nIncludes: 1 Cork Lightweight Yoga Mat \"The Robin\" and 1 Cork Therapy Massage Ball Set \"The Little Owls.\" \n\nSpecifications: Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Massage Balls = (2) 60mm diameter 140g balls and (1) 20mm diameter 20g ball\n\n\nThe cork lightweight yoga mat is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip increases!\nThe cork massage balls are perfect for relieving tension and improving muscle function. Decrease soreness, increase flexibility, and improve your energy with myofascial release.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 0.8618265279277155,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.9 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 1067263819823,
+    "shopifyHandle": "cork-yoga-mat-and-massage-balls-bundle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-02-06T03:39:39-05:00",
+    "shopifyPublishedAt": "2023-01-22T13:12:37-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 108,
+    "maxPrice": 108,
+    "variantPriceValues": [
+      108
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1769,
+    "maxGrams": 1769,
+    "variantGramsValues": [
+      1769
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_03.jpg?v=1645587777",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_5661b7a7-a70c-4195-9e86-615e1bfa7565.jpg?v=1645594385",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_22_4ba29ce3-6cf6-47b7-83f6-ada3b5b80771.jpg?v=1645594385",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24_22f127ef-be52-4aa5-beb1-f1e8c355e566.JPG?v=1645641619",
+        "width": 704,
+        "height": 704,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_B_22_b02023dd-1a1d-461c-b3e7-b25453ea00c3.jpg?v=1645641619",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/15.jpg?v=1645641619",
+        "width": 704,
+        "height": 704,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/13_30df8fd5-4fdc-41e5-8933-a97f2b5f4c62.jpg?v=1645641619",
+        "width": 704,
+        "height": 704,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7354_R2.jpg?v=1645641619",
+        "width": 3000,
+        "height": 3000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1_ff3fcd5f-b9be-495d-8f0b-2aceef3d2191.jpg?v=1645641619",
+        "width": 704,
+        "height": 704,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_10_of_82_e160540f-508b-4865-b82e-0b1ee6e93a5b.jpg?v=1645641619",
+        "width": 2302,
+        "height": 2302,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/zzz_f775fa34-b6f6-4e58-9bda-6c1b084bd085.jpg?v=1645641619",
+        "width": 704,
+        "height": 704,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/10_deec2fdc-f5ca-4dcb-9210-895f32cddfa8.jpg?v=1645641592",
+        "width": 703,
+        "height": 704,
+        "position": 12
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Industrial Yoga Mat and Two-Block Bundle",
+    "slug": "42birds-cork-industrial-yoga-mat-and-two-block-bundle",
+    "description": "description\nbenefits\n\n\n\nthe 42 Birds cork industrial yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.\nAt 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\nIncludes: 1 Cork Industrial Yoga Mat \"The Imperial Eagle\" and 2 Cork Blocks \"The Nuthatch.\"\n\nSpecifications: Cork Industrial Mat = 72″ x 26” | 6mm thick | 5.5 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs\n\n\n\nThe industrial cork yoga mat is suitable for all yoga practices. For hot yoga, you can go towel-free and will not need to deal with a smelly mat. In fact, when moisture is added, the grip increases!\nTop side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nBottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.\nAttractive design will look good no matter where it is stored.\nThe cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures. \nSave with the bundle set, instead of purchasing each individually!",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 2.4947610018960185,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5.5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Extra Wide",
+      "Antimicrobial"
+    ],
+    "shopifyId": 7168914358455,
+    "shopifyHandle": "cork-industrial-yoga-mat-and-two-block-bundle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "Home & Garden",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2022-08-04T14:00:59-04:00",
+    "shopifyPublishedAt": "2024-03-05T17:33:20-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 139,
+    "maxPrice": 139,
+    "variantPriceValues": [
+      139
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 5897,
+    "maxGrams": 5897,
+    "variantGramsValues": [
+      5897
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_IE_IND_02.jpg?v=1659636216",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_0a46a542-2cf7-4927-b520-2b43513950cb.jpg?v=1659636266",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_227523ca-f36f-4ed8-b89a-8f730b849699.jpg?v=1659636290",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "Cork Extra Long Yoga Mat and Two-Block Bundle",
+    "slug": "42birds-cork-extra-long-yoga-mat-and-two-block-bundle",
+    "description": "description\nbenefits\n\n\n\nthe 42 Birds cork extra long yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.\nWith cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.\nIncludes: 1 Cork Extra Long Yoga Mat \"The Robin\" and 2 Cork Blocks \"The Nuthatch.\"\n\nSpecifications: Cork Extra Long Mat = 85″ x 26” | 5mm thick | 2.5 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs\n\n\n\nThe extra long cork yoga mat is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip increases!\nThe cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip and safe for all postures. \nSave with the bundle set, instead of purchasing each individually!",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 215.9,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "85″ x 26” "
+    },
+    "rolledDiameter": {
+      "value": 10.16,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "4 in. diameter rolled"
+    },
+    "weight": {
+      "value": 1.1339822735890994,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Extra Long",
+      "Extra Wide"
+    ],
+    "shopifyId": 7168916127927,
+    "shopifyHandle": "cork-extra-long-yoga-mat-and-two-block-bundle",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "Home & Garden",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2022-08-04T14:23:44-04:00",
+    "shopifyPublishedAt": "2024-03-05T17:34:35-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 128,
+    "maxPrice": 128,
+    "variantPriceValues": [
+      128
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 4082,
+    "maxGrams": 4082,
+    "variantGramsValues": [
+      4082
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 215.9,
+    "lengthCmMax": 215.9,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "rolledDiameterCmMin": 10.16,
+    "rolledDiameterCmMax": 10.16,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      2159
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "rolledDiameterCMx10Values": [
+      102
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2159,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_XL_02.jpg?v=1659637445",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_XL_937884b3-df35-4f52-abb5-137579cdce02.jpg?v=1659637461",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_36230204-c35a-4ab7-9ea3-d6be6cd435c6.jpg?v=1659637475",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "42birds",
+    "name": "100% Cork Yoga Mat \"The Woodpecker\"",
+    "slug": "42birds-all-natural-cork-yoga-mat",
+    "description": "description\nbenefits\n\n\n\nFor the purists out there, the 100% cork mat by 42 Birds contains only cork and nothing else. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.\nWith 5mm thickness of pure cork, this mat offers a more firm than soft cushioning. Complimentary cotton carrying and yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.\n\n\n\nSuitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.\nTop/bottom side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.\nAttractive design will look good no matter where it is stored.\n\nSpecifications: 72″ x 24” | 5mm thick | 2.5 lbs. | 6 in. diameter rolled\nPro Tip: For extra grip, spray water on your mat in the area your hands and feet go before practice",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 24” "
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72″ x 24” "
+    },
+    "rolledDiameter": {
+      "value": 15.24,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6 in. diameter rolled"
+    },
+    "weight": {
+      "value": 1.1339822735890994,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5 lbs"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Antimicrobial"
+    ],
+    "shopifyId": 1373992189999,
+    "shopifyHandle": "all-natural-cork-yoga-mat",
+    "shopifyVendor": "42 Birds",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2019-09-03T10:30:49-04:00",
+    "shopifyPublishedAt": "2019-09-07T13:01:24-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:06-05:00",
+    "variantsCount": 1,
+    "minPrice": 84,
+    "maxPrice": 84,
+    "variantPriceValues": [
+      84
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2059,
+    "maxGrams": 2059,
+    "variantGramsValues": [
+      2059
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "rolledDiameterCmMin": 15.24,
+    "rolledDiameterCmMax": 15.24,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "rolledDiameterCMx10Values": [
+      152
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/100Cork.jpg?v=1645587150",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Front.jpg?v=1645587150",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Angle.jpg?v=1645587150",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Unfold.jpg?v=1645587150",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      }
+    ]
+  }
+]

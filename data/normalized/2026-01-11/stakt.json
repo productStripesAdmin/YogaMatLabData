@@ -1,0 +1,939 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat Pro",
+    "slug": "stakt-the-stakt-mat-pro",
+    "description": "Everything you love about the Stakt Mat, plus a premium textured layer for enhanced performance.\nWhat makes the Stakt Mat Pro different?\n\n\n \nPremium Durability: The premium textured layer provides added strength, ensuring your mat stands up to even the most rigorous workouts.\n\n\nSuperior Grip: Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support.\n\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W Folded\nPatent #US-D1050762-S",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip",
+      "Premium"
+    ],
+    "shopifyId": 8037178015926,
+    "shopifyHandle": "the-stakt-mat-pro",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
+    "shopifyTags": [
+      "20% at Checkout",
+      "honeycomb-supplier-product",
+      "Logicbroker",
+      "staktmatpro"
+    ],
+    "shopifyCreatedAt": "2024-07-29T11:20:09-04:00",
+    "shopifyPublishedAt": "2024-08-01T07:45:57-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 6,
+    "minPrice": 128,
+    "maxPrice": 128,
+    "variantPriceValues": [
+      128
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1361,
+    "maxGrams": 1361,
+    "variantGramsValues": [
+      1361
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "lengthCmMin": 175.26,
+    "lengthCmMax": 175.26,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      120
+    ],
+    "lengthCMx10Values": [
+      1753
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1753,
+        "widthCMx10": 610
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Midnight",
+          "Dune",
+          "Lilac",
+          "Forest",
+          "Fig"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_C_42abc1c3-938e-47ba-9237-80c8c7e6b7c1.png?v=1761671139",
+        "width": 1768,
+        "height": 1667,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/pro_mat_Instagram_Post_1_d9ae9478-9cb7-4750-b4de-4ce2508af7ef.png?v=1761671139",
+        "width": 927,
+        "height": 927,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_D.png?v=1761671139",
+        "width": 2048,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_007.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2051,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_568.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2048,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/33.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/35.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_724.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2051,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_058.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2049,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_067.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2042,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_711.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2047,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_784.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2049,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Mat_2-_fixed.png?v=1764687116",
+        "width": 811,
+        "height": 859,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/96.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Mat_3.png?v=1764687116",
+        "width": 856,
+        "height": 857,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Plum-_mat.png?v=1764687116",
+        "width": 1146,
+        "height": 1080,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot_2025-11-26_at_9.36.11_AM.png?v=1764687116",
+        "width": 996,
+        "height": 997,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251017SS_Stakt0724.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2052,
+        "position": 18
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight",
+      "Dune",
+      "Lilac",
+      "Forest",
+      "Fig"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat",
+    "slug": "stakt-the-mat",
+    "description": "Stakt is the only 2 in 1 fitness mat that doubles as a block for added versatility in your workouts and extra support for whichever way you move. This reimagined yoga mat is twice as thick and super lightweight.\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W FoldedPatent #US-D1050762-S",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 6599577534646,
+    "shopifyHandle": "the-mat",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
+    "shopifyTags": [
+      "20% at Checkout",
+      "Cortina",
+      "everything_bundle",
+      "honeycomb-supplier-product"
+    ],
+    "shopifyCreatedAt": "2021-03-23T18:56:27-04:00",
+    "shopifyPublishedAt": "2021-08-20T18:56:15-04:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 6,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1361,
+    "maxGrams": 1361,
+    "variantGramsValues": [
+      1361
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "lengthCmMin": 175.26,
+    "lengthCmMax": 175.26,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      120
+    ],
+    "lengthCMx10Values": [
+      1753
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1753,
+        "widthCMx10": 610
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Dune",
+          "Midnight",
+          "Iron",
+          "Tide",
+          "Rosewater",
+          "Seafoam"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/mat_pink_block_C_039.png?v=1765470544",
+        "width": 3783,
+        "height": 3788,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/2_dcb7a7f7-c65f-4a88-85be-1694b6a9722f.png?v=1765470544",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/1_57be36cc-f703-4fde-889c-5f4976a96bdd.png?v=1765470544",
+        "width": 600,
+        "height": 600,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_navy_block_C.png?v=1765470544",
+        "width": 2048,
+        "height": 2049,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/022124_SS_Stakt_0530.jpg?v=1765470544",
+        "width": 2048,
+        "height": 2038,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/022124_SS_Stakt_0236.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Grey.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/StaktGreenandPinkRoughEdits-1226539_1.jpg?v=1763479683",
+        "width": 2642,
+        "height": 2642,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/BlockB-Grey.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot_2024-05-22_at_8.50.58_PM.png?v=1763479683",
+        "width": 990,
+        "height": 934,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2024-05-22at8.51.18PM.png?v=1763479683",
+        "width": 992,
+        "height": 904,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/IMG_5849_87693416-b0f6-4a32-a0a9-7ee3cbf831d7.png?v=1763479683",
+        "width": 3487,
+        "height": 3487,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2024-05-22at8.53.53PM.png?v=1763479683",
+        "width": 986,
+        "height": 1216,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Rosewater.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Seafoam.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/StaktGreenandPinkRoughEdits-1226246.jpg?v=1763479683",
+        "width": 1984,
+        "height": 1984,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/StaktGreenandPinkRoughEdits-1226440.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 17
+      }
+    ],
+    "availableColors": [
+      "Dune",
+      "Midnight",
+      "Iron",
+      "Tide",
+      "Rosewater",
+      "Seafoam"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat Pro XL",
+    "slug": "stakt-stakt-mat-pro-xl",
+    "description": "Meet the Stakt Mat Pro XL -  the same premium, ultra-supportive mat you love, now with even more room to move. At 80\" x 28\", it’s longer and wider than the original Stakt Mat Pro (69\" x 24\"), giving you extra comfort, stability, and space for every flow, sculpt, or stretch. Perfect for taller users or anyone who wants a little more wiggle room on the mat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnfolded: 80\" W x 28\" LFolded: 28\" x 10\" x 4\"",
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" x 28\""
+    },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" x 28\""
+    },
+    "features": [
+      "Extra Wide",
+      "Premium"
+    ],
+    "shopifyId": 8384218300598,
+    "shopifyHandle": "stakt-mat-pro-xl",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2026-01-01T17:48:50-05:00",
+    "shopifyPublishedAt": "2026-01-08T20:36:56-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 1,
+    "minPrice": 158,
+    "maxPrice": 158,
+    "variantPriceValues": [
+      158
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 711
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0135.jpg?v=1767307572",
+        "width": 2048,
+        "height": 2125,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0606.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2051,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0151.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0240.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2053,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0103.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2047,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0514.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      }
+    ],
+    "availableColors": [
+      "Black"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Strength Set",
+    "slug": "stakt-the-strength-set",
+    "description": "Meet your power couple: The Stakt Mat Pro and The Stakt Weights. The Mat Pro keeps you grounded with superior support and comfort during any workout, while the adjustable weights let you customize your workout on the fly.The Strength Set Includes:The Stakt Mat ProThe Stakt Weights",
+    "features": [],
+    "shopifyId": 8106896621750,
+    "shopifyHandle": "the-strength-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
+    "shopifyTags": [
+      "set"
+    ],
+    "shopifyCreatedAt": "2024-11-11T22:05:41-05:00",
+    "shopifyPublishedAt": "2025-12-31T20:14:58-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 36,
+    "minPrice": 188.8,
+    "maxPrice": 188.8,
+    "variantPriceValues": [
+      188.8
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 6804,
+    "maxGrams": 6804,
+    "variantGramsValues": [
+      6804
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Choose The Stakt Mat Pro Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Midnight",
+          "Lilac",
+          "Dune",
+          "Forest",
+          "Fig"
+        ]
+      },
+      {
+        "name": "Choose The Stakt Weight Color",
+        "position": 2,
+        "values": [
+          "Iron",
+          "Rosewater",
+          "Dune",
+          "Seafoam",
+          "Midnight",
+          "Fig"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2025-11-08at10.26.45AM.png?v=1762615632",
+        "width": 1500,
+        "height": 1478,
+        "position": 1
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight",
+      "Lilac",
+      "Dune",
+      "Forest",
+      "Fig"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Starter Set",
+    "slug": "stakt-the-stakt-starter-set",
+    "description": "Your go-to essentials for a full body workout.\n\n\nThe Stakt Mat: 2-in-1 foldable fitness mat that doubles as a block to enhance or modify your workouts. 2X thicker than your average yoga mat.\n\nThe Stakt Weights: 2-4-6 Adjustable Hand Weights\n\nThe Cleanser Spray: Keep your mat smelling fresh and free from surface dirt, stains and odors \n\n\nThe Carrier Bag:  Our ultra-convenient bag makes taking your lightweight Stakt mat to any yoga class, workout studio, gym, park and more super easy",
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8099435675830,
+    "shopifyHandle": "the-stakt-starter-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
+    "shopifyTags": [
+      "set"
+    ],
+    "shopifyCreatedAt": "2024-10-27T18:25:49-04:00",
+    "shopifyPublishedAt": "2024-11-13T20:15:50-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 36,
+    "minPrice": 217.6,
+    "maxPrice": 217.6,
+    "variantPriceValues": [
+      217.6
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 7711,
+    "maxGrams": 7711,
+    "variantGramsValues": [
+      7711
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Choose The Stakt Mat Color",
+        "position": 1,
+        "values": [
+          "Iron",
+          "Midnight",
+          "Rosewater",
+          "Dune",
+          "Seafoam",
+          "Tide"
+        ]
+      },
+      {
+        "name": "Choose The Stakt Weight Color",
+        "position": 2,
+        "values": [
+          "Iron",
+          "Rosewater",
+          "Dune",
+          "Seafoam",
+          "Midnight",
+          "Fig"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2025-11-07at3.23.50PM.png?v=1762547049",
+        "width": 1487,
+        "height": 1486,
+        "position": 1
+      }
+    ],
+    "availableColors": [
+      "Iron",
+      "Midnight",
+      "Rosewater",
+      "Dune",
+      "Seafoam",
+      "Tide"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Bring Stakt Anywhere Set",
+    "slug": "stakt-the-bring-stakt-anywhere-set",
+    "description": "Take your fitness routine anywhere with The Bring Stakt Anywhere Set. This complete on-the-go bundle features a lightweight stakt mat for stable support, a sweat-wicking towel to keep you dry, a cleanser spray to keep your equipment clean and a convenient carry bag that makes transport effortless. Whether you're hitting the park, traveling, or working out at home, everything you need is packed and ready to go.The Bring Stakt Anywhere Set Includes:\nThe Stakt Mat\nThe Bag\nThe Mat Towel\nThe Cleanser Spray",
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 8354102050998,
+    "shopifyHandle": "the-bring-stakt-anywhere-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
+    "shopifyTags": [
+      "set"
+    ],
+    "shopifyCreatedAt": "2025-11-07T15:09:40-05:00",
+    "shopifyPublishedAt": "2025-11-07T15:20:14-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 30,
+    "minPrice": 161.6,
+    "maxPrice": 161.6,
+    "variantPriceValues": [
+      161.6
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2722,
+    "maxGrams": 2722,
+    "variantGramsValues": [
+      2722
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Mat Color",
+        "position": 1,
+        "values": [
+          "Iron",
+          "Rosewater",
+          "Dune",
+          "Tide",
+          "Seafoam",
+          "Midnight"
+        ]
+      },
+      {
+        "name": "Towel Color",
+        "position": 2,
+        "values": [
+          "Iron",
+          "Dune",
+          "Rosewater",
+          "Lilac",
+          "Seafoam"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/OFT_weights.png?v=1765238102",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      }
+    ],
+    "availableColors": [
+      "Iron",
+      "Rosewater",
+      "Dune",
+      "Tide",
+      "Seafoam",
+      "Midnight"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The New Year Set",
+    "slug": "stakt-the-holiday-gift-set",
+    "description": "Start the year strong with The New Year Set. Designed for every stage of your movement journey, it’s the perfect way to build momentum and set your goals in motion.\nThe New Year Set includes:\n\nBest-selling Stakt Mat Pro\n\nOprah's favorite adjustable Stakt Weights\n\nStakt's extra cozy Grip Socks",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 8354083143862,
+    "shopifyHandle": "the-holiday-gift-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
+    "shopifyTags": [
+      "set"
+    ],
+    "shopifyCreatedAt": "2025-11-07T13:34:10-05:00",
+    "shopifyPublishedAt": "2025-12-31T20:19:45-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 108,
+    "minPrice": 201.6,
+    "maxPrice": 214.4,
+    "variantPriceValues": [
+      201.6,
+      214.4
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 7257,
+    "maxGrams": 7711,
+    "variantGramsValues": [
+      7257,
+      7711
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Pro Mat Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Dune",
+          "Lilac",
+          "Midnight",
+          "Forest",
+          "Fig"
+        ]
+      },
+      {
+        "name": "Weights Colors",
+        "position": 2,
+        "values": [
+          "Iron",
+          "Dune",
+          "Seafoam",
+          "Rosewater",
+          "Midnight",
+          "Fig"
+        ]
+      },
+      {
+        "name": "Socks Colors",
+        "position": 3,
+        "values": [
+          "Ecru",
+          "Black",
+          "Cocoa"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2025-11-07at1.57.45PM.png?v=1762541871",
+        "width": 1464,
+        "height": 1458,
+        "position": 1
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Dune",
+      "Lilac",
+      "Midnight",
+      "Forest",
+      "Fig"
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Pilates Set",
+    "slug": "stakt-the-pilates-set",
+    "features": [],
+    "shopifyId": 8100530258102,
+    "shopifyHandle": "the-pilates-set",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "bundle",
+    "shopifyTags": [
+      "set"
+    ],
+    "shopifyCreatedAt": "2024-10-29T08:17:52-04:00",
+    "shopifyPublishedAt": "2025-11-07T14:51:08-05:00",
+    "shopifyUpdatedAt": "2026-01-11T10:11:51-05:00",
+    "variantsCount": 54,
+    "minPrice": 164.8,
+    "maxPrice": 164.8,
+    "variantPriceValues": [
+      164.8
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2155,
+    "maxGrams": 2155,
+    "variantGramsValues": [
+      2155
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Midnight",
+          "Dune",
+          "Forest",
+          "Lilac",
+          "Black",
+          "Fig"
+        ]
+      },
+      {
+        "name": "Ball Color",
+        "position": 2,
+        "values": [
+          "Tide",
+          "Pearl",
+          "Iron"
+        ]
+      },
+      {
+        "name": "Sock Color",
+        "position": 3,
+        "values": [
+          "Ecru",
+          "Black",
+          "Cocoa"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2025-11-07at2.40.31PM.png?v=1762544455",
+        "width": 1464,
+        "height": 1464,
+        "position": 1
+      }
+    ],
+    "availableColors": [
+      "Midnight",
+      "Dune",
+      "Forest",
+      "Lilac",
+      "Black",
+      "Fig"
+    ]
+  }
+]

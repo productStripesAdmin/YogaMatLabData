@@ -1,0 +1,109 @@
+{
+  "brandSlug": "aloyoga",
+  "extractedAt": "2026-01-13T03:43:08.325Z",
+  "products": [
+    {
+      "shopifyId": 7902722162868,
+      "handle": "a0779u-lightweight-warrior-mat-black",
+      "slug": "aloyoga-a0779u-lightweight-warrior-mat-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0779u-lightweight-warrior-mat-smoky-quartz",
+      "extractedAt": "2026-01-13T03:43:08.325Z",
+      "sections": [
+        {
+          "heading": "Description",
+          "items": [
+            "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class."
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fit",
+          "items": [
+            "Dimensions: 6.2ft x 2.2ft x 3mm",
+            "Weight: Approximately 5 lbs"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fabrication",
+          "items": [
+            "Base: Natural Rubber",
+            "Coating: Polyurethane"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz"
+          ],
+          "confidence": 1
+        }
+      ],
+      "appendText": {
+        "headings": [
+          "Description",
+          "Fit",
+          "Fabrication",
+          "Colors"
+        ],
+        "text": "Description: ... Fit: Dimensions: ... Weight: ... Fabrication: Base: ...",
+        "confidence": 1
+      }
+    },
+    {
+      "shopifyId": 4520937521270,
+      "handle": "w7092r-warrior-mat-black",
+      "slug": "aloyoga-w7092r-warrior-mat-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w7092r-warrior-mat-black",
+      "extractedAt": "2026-01-13T03:43:08.325Z",
+      "sections": [
+        {
+          "heading": "Description",
+          "items": [
+            "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session."
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fit",
+          "items": [
+            "Dimensions: 6.2ft x 2.2ft x 5mm",
+            "Weight: Approximately 8 lbs"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fabrication",
+          "items": [
+            "Base: 100% Natural Rubber",
+            "Coating: 100% Polyurethane"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Colors",
+          "items": [
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Black",
+            "Espresso"
+          ],
+          "confidence": 1
+        }
+      ],
+      "appendText": {
+        "headings": [
+          "Description",
+          "Fit",
+          "Fabrication",
+          "Colors"
+        ],
+        "text": "Description: ... Fit: Dimensions: ... Weight: ... Fabrication: Base: ...",
+        "confidence": 1
+      }
+    }
+  ]
+}

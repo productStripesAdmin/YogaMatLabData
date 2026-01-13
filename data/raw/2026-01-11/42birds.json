@@ -1,0 +1,1403 @@
+{
+  "products": [
+    {
+      "id": 876111003695,
+      "title": "Cork Lightweight Yoga Mat “The Robin”",
+      "handle": "cork-yoga-mat",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>This is our most popular and signature mat -- it is ultra light and beautifully smooth. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.</p>\n<p>At 5 mm thick, there is a comfortable dense foam base that is free of PVC’s. Complimentary cotton yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Top side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Bottom side: Comfortable, 5mm thick slip-resistant foam, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Lightweight which makes for a perfect travel mat.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Attractive design will look good no matter where it is stored.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Available in one of our <a href=\"https://42birds.com/collections/yoga-bundles\" title=\"Yoga Bundles\">bundles</a></span></li>\n</ul>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled</span></p>\n<p><b>Pro Tip</b><span style=\"font-weight: 400;\">: For extra grip, spray water on your mat in the area your hands and feet go before practice</span></p>\n</li>\n</ul>",
+      "published_at": "2019-09-10T16:36:08-04:00",
+      "created_at": "2018-06-21T17:03:16-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [
+        "Best Sellers"
+      ],
+      "variants": [
+        {
+          "id": 41223810744503,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-TPE-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "80.00",
+          "grams": 1497,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 876111003695,
+          "created_at": "2022-05-19T14:33:34-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403662278839,
+          "created_at": "2022-02-22T22:25:38-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:26:49-05:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin.jpg?v=1645586809",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821112307895,
+          "created_at": "2023-06-06T14:42:58-04:00",
+          "position": 2,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_2.jpg?v=1686077023",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3161092161583,
+          "created_at": "2018-07-09T16:37:11-04:00",
+          "position": 3,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-005.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161092325423,
+          "created_at": "2018-07-09T16:37:15-04:00",
+          "position": 4,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-009.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161092259887,
+          "created_at": "2018-07-09T16:37:13-04:00",
+          "position": 5,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-007.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3543866409007,
+          "created_at": "2018-10-27T15:37:11-04:00",
+          "position": 6,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Cork_Yoga_Mat.jpg?v=1686077023",
+          "width": 1800,
+          "height": 1800
+        },
+        {
+          "id": 3161100681263,
+          "created_at": "2018-07-09T16:45:24-04:00",
+          "position": 7,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_3_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100910639,
+          "created_at": "2018-07-09T16:45:32-04:00",
+          "position": 8,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_40_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100714031,
+          "created_at": "2018-07-09T16:45:25-04:00",
+          "position": 9,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_4_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100877871,
+          "created_at": "2018-07-09T16:45:30-04:00",
+          "position": 10,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_33_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100812335,
+          "created_at": "2018-07-09T16:45:28-04:00",
+          "position": 11,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_11_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100746799,
+          "created_at": "2018-07-09T16:45:26-04:00",
+          "position": 12,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_8_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100845103,
+          "created_at": "2018-07-09T16:45:29-04:00",
+          "position": 13,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_24_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 3161100648495,
+          "created_at": "2018-07-09T16:45:23-04:00",
+          "position": 14,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_1_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1000
+        },
+        {
+          "id": 3543779311663,
+          "created_at": "2018-10-27T14:12:39-04:00",
+          "position": 15,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42Birds_22of24.jpg?v=1686077023",
+          "width": 3600,
+          "height": 2700
+        },
+        {
+          "id": 3161100943407,
+          "created_at": "2018-07-09T16:45:33-04:00",
+          "position": 16,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_61_of_82.JPG?v=1686077023",
+          "width": 1500,
+          "height": 1500
+        },
+        {
+          "id": 31404369969335,
+          "created_at": "2022-02-23T00:11:02-05:00",
+          "position": 17,
+          "updated_at": "2023-06-06T14:43:43-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1_2000x_e3ad417b-0202-4f59-8932-e2865b583790.jpg?v=1686077023",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 32821348597943,
+          "created_at": "2023-06-06T17:45:30-04:00",
+          "position": 18,
+          "updated_at": "2023-06-06T17:45:33-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_01.jpg?v=1686087933",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821347811511,
+          "created_at": "2023-06-06T17:44:43-04:00",
+          "position": 19,
+          "updated_at": "2023-06-06T17:45:33-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_02.jpg?v=1686087933",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821350105271,
+          "created_at": "2023-06-06T17:47:39-04:00",
+          "position": 20,
+          "updated_at": "2023-06-06T17:47:40-04:00",
+          "product_id": 876111003695,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_03.jpg?v=1686088060",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1127858012207,
+      "title": "Cork Yoga Industrial Mat “The Imperial Eagle”",
+      "handle": "industrial-mat-the-imperial-eagle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>The <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> Industrial \"Imperial Eagle\" natural <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Yoga Mats\">cork yoga mat</a> is sturdy and beautifully smooth. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew, and bad smells.</p>\n<p>At 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li><span>Top side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li><span>Bottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.</span></li>\n<li><span>Attractive design will look good no matter where it is stored.</span></li>\n<li>Save and pair this in one of our <a href=\"https://42birds.com/collections/yoga-bundles\" title=\"Yoga Bundles\">yoga bundles</a>.</li>\n</ul>\n<p><b>Specifications:</b><span> 72″ x 26” | 6mm thick | 5.5 lbs. | 4 in. diameter rolled</span></p>\n</li>\n<li>\n<p> </p>\n<p><b>Pro Tip</b><span>: For extra grip, spray water on your mat in the area your hands and feet go before practice</span></p>\n</li>\n</ul>\n<div class=\"th_pb_section th_pb_specific_bundles\" data-bundleid=\"90536\"></div>",
+      "published_at": "2019-09-07T13:01:30-04:00",
+      "created_at": "2019-03-16T12:03:04-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 10895536783407,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-RUB-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "98.00",
+          "grams": 2495,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1127858012207,
+          "created_at": "2019-03-16T12:03:04-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403690557623,
+          "created_at": "2022-02-22T22:30:09-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:30:13-05:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle.jpg?v=1645587013",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821181513911,
+          "created_at": "2023-06-06T15:22:09-04:00",
+          "position": 2,
+          "updated_at": "2023-06-06T15:22:12-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_2.jpg?v=1686079332",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 4245410349103,
+          "created_at": "2019-03-26T15:56:18-04:00",
+          "position": 3,
+          "updated_at": "2023-06-06T15:22:12-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7365_R2.jpg?v=1686079332",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 4245409595439,
+          "created_at": "2019-03-26T15:56:06-04:00",
+          "position": 4,
+          "updated_at": "2023-06-06T15:22:12-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7340_R2.jpg?v=1686079332",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 4245409398831,
+          "created_at": "2019-03-26T15:56:03-04:00",
+          "position": 5,
+          "updated_at": "2023-06-06T15:22:12-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7345_R2.jpg?v=1686079332",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 32821280080055,
+          "created_at": "2023-06-06T17:00:08-04:00",
+          "position": 6,
+          "updated_at": "2023-06-06T17:00:10-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_01.jpg?v=1686085210",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821279719607,
+          "created_at": "2023-06-06T16:59:27-04:00",
+          "position": 7,
+          "updated_at": "2023-06-06T17:00:10-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_02.jpg?v=1686085210",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821279785143,
+          "created_at": "2023-06-06T16:59:35-04:00",
+          "position": 8,
+          "updated_at": "2023-06-06T17:00:10-04:00",
+          "product_id": 1127858012207,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/ImpEagle_03.jpg?v=1686085210",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1373998383151,
+      "title": "Extra Long Cork Lightweight Yoga Mat \"The Robin\"",
+      "handle": "extra-long-mat",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p><span>This is our most popular and signature mat -- it is ultra light and beautifully smooth and now available in an extralong size. </span>The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.</p>\n<p>Our <a href=\"/collections/cork-yoga-mats\" title=\"Cork Yoga Mats\">extra-long mat</a> is 85” long with the same comfortable 5mm dense foam that is free of harmful PVC’s. Complimentary cotton carrying and yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Top side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Bottom side: Comfortable, 5mm thick slip-resistant foam, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Lightweight which makes for a perfect travel mat.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Attractive design will look good no matter where it is stored.</span></li>\n</ul>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> 85″ x 26” | 5mm thick | 2.5 lbs. | 4 in. diameter rolled</span></p>\n<p><b>Pro Tip</b><span style=\"font-weight: 400;\">: For extra grip, spray water on your mat in the area your hands and feet go before practice</span></p>\n</li>\n</ul>\n<div class=\"th_pb_section th_pb_specific_bundles\" data-bundleid=\"90536\"></div>",
+      "published_at": "2019-09-07T13:01:28-04:00",
+      "created_at": "2019-09-03T10:33:42-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 12540715663407,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-TPE-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "92.00",
+          "grams": 1978,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1373998383151,
+          "created_at": "2019-09-03T10:33:42-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403696750775,
+          "created_at": "2022-02-22T22:31:07-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:31:11-05:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_XL.jpg?v=1645587071",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821179809975,
+          "created_at": "2023-06-06T15:19:01-04:00",
+          "position": 2,
+          "updated_at": "2023-06-06T15:19:03-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/Robin_XL_2.jpg?v=1686079143",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821263466679,
+          "created_at": "2023-06-06T16:44:18-04:00",
+          "position": 3,
+          "updated_at": "2023-06-06T16:44:50-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_01.jpg?v=1686084290",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821263958199,
+          "created_at": "2023-06-06T16:44:30-04:00",
+          "position": 4,
+          "updated_at": "2023-06-06T16:44:50-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_02.jpg?v=1686084290",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32821264023735,
+          "created_at": "2023-06-06T16:44:39-04:00",
+          "position": 5,
+          "updated_at": "2023-06-06T16:44:50-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/files/XLRobin_03.jpg?v=1686084290",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 11863955800111,
+          "created_at": "2019-09-03T10:34:57-04:00",
+          "position": 6,
+          "updated_at": "2023-06-06T16:44:50-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Extra_Long_Angle.jpg?v=1686084290",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 11863951638575,
+          "created_at": "2019-09-03T10:34:15-04:00",
+          "position": 7,
+          "updated_at": "2023-06-06T16:44:50-04:00",
+          "product_id": 1373998383151,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Extra_Long_Front.jpg?v=1686084290",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7263667257527,
+      "title": "Extra Long Cork Yoga Industrial Mat “The Imperial Eagle”",
+      "handle": "extra-long-cork-yoga-industrial-mat-the-imperial-eagle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>The <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> Industrial \"Imperial Eagle\" natural <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Yoga Mats\">cork yoga mat</a> is sturdy and beautifully smooth and now available in an extra long size. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew, and bad smells.</p>\n<p>At 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li><span>Top side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li><span>Bottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.</span></li>\n<li><span>Attractive design will look good no matter where it is stored.</span></li>\n\n<p><b>Specifications:</b><span> 85″ x 26” | 6mm thick | 5.7 lbs. </span></p>\n</ul>\n</li>\n<li>\n<p> </p>\n<p><b>Pro Tip</b><span>: For extra grip, spray water on your mat in the area your hands and feet go before practice</span></p>\n</li>\n</ul>\n<div class=\"th_pb_section th_pb_specific_bundles\" data-bundleid=\"90536\"></div>",
+      "published_at": "2023-01-27T09:14:39-05:00",
+      "created_at": "2023-01-10T16:21:21-05:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41641010167991,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-RUB-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "112.00",
+          "grams": 2585,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7263667257527,
+          "created_at": "2023-01-10T16:21:21-05:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32396949422263,
+          "created_at": "2023-01-30T13:04:38-05:00",
+          "position": 1,
+          "updated_at": "2023-01-30T13:04:43-05:00",
+          "product_id": 7263667257527,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL.png?v=1675101883",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32399725723831,
+          "created_at": "2023-01-31T10:04:17-05:00",
+          "position": 2,
+          "updated_at": "2023-01-31T10:04:19-05:00",
+          "product_id": 7263667257527,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_A.png?v=1675177459",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 32399727296695,
+          "created_at": "2023-01-31T10:04:44-05:00",
+          "position": 3,
+          "updated_at": "2023-01-31T10:04:45-05:00",
+          "product_id": 7263667257527,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_01.png?v=1675177485",
+          "width": 2100,
+          "height": 2100
+        },
+        {
+          "id": 32405609644215,
+          "created_at": "2023-02-01T16:40:54-05:00",
+          "position": 4,
+          "updated_at": "2023-02-01T16:40:56-05:00",
+          "product_id": 7263667257527,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_FlatStrap.png?v=1675287656",
+          "width": 2000,
+          "height": 1999
+        },
+        {
+          "id": 32405610004663,
+          "created_at": "2023-02-01T16:41:08-05:00",
+          "position": 5,
+          "updated_at": "2023-02-01T16:41:10-05:00",
+          "product_id": 7263667257527,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_XL_WStrap.png?v=1675287670",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1056970407983,
+      "title": "Cork Lightweight Yoga Mat, Massage Balls and Yoga Block Bundle - \"The Flock\"",
+      "handle": "cork-yoga-mat-massage-balls-and-yoga-block-bundle-the-flock",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>The cork l<span data-mce-fragment=\"1\">ightweight</span> yoga mat, massage balls, and <a href=\"https://42birds.com/collections/cork-yoga-blocks\" title=\"Yoga Blocks\">yoga block</a> by <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the<span> cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew, and bad smells. </span></p>\n<p><span>With cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.</span></p>\n<p><span><strong>Includes</strong>: 1 Cork Lightweight Yoga Mat \"The Robin,\" 1 Cork Therapy Massage Ball Set \"The Little Owls,\" and 2 Cork Blocks \"The Nuthatch.\"</span></p>\n</li>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs | Massage Balls = (2) 60mm diameter 140g balls and (1) 20mm diameter 20g ball</span></p>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>The cork lightweight yoga mat offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip <em>increases</em>!</span></li>\n<li>The cork <a href=\"https://42birds.com/products/cork-massage-therapy-balls\" title=\"Cork Yoga Balls\">massage balls</a> are perfect for relieving tension and improving muscle function. Decrease <span>soreness, increase flexibility, and improve your energy with myofascial release. </span>\n</li>\n<li><span>The cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures. </span></li>\n</ul>\n</li>\n</ul>",
+      "published_at": "2024-03-05T17:34:00-05:00",
+      "created_at": "2019-01-24T17:19:11-05:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 9926525354031,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "BUN-COR-4",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "148.00",
+          "grams": 2812,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1056970407983,
+          "created_at": "2019-01-24T17:19:11-05:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403832082615,
+          "created_at": "2022-02-22T22:50:13-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:50:27-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_01.jpg?v=1645588227",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404390547639,
+          "created_at": "2022-02-23T00:16:00-05:00",
+          "position": 2,
+          "updated_at": "2022-02-23T00:19:00-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_aa76548e-d578-41b3-b697-350010635a5e.jpg?v=1645593540",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404403327159,
+          "created_at": "2022-02-23T00:18:54-05:00",
+          "position": 3,
+          "updated_at": "2022-02-23T13:43:25-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_22_4b8c25f3-fbc6-4c91-958a-192cd23fa5d4.jpg?v=1645641805",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404461457591,
+          "created_at": "2022-02-23T00:30:07-05:00",
+          "position": 4,
+          "updated_at": "2022-02-23T13:43:25-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_1.jpg?v=1645641805",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31405928153271,
+          "created_at": "2022-02-23T13:43:47-05:00",
+          "position": 5,
+          "updated_at": "2025-11-03T16:04:19-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_B_22_c619281d-7cb7-4d50-a949-7983d340a1a3.jpg?v=1762203859",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3792006610991,
+          "created_at": "2019-01-24T17:19:25-05:00",
+          "position": 6,
+          "updated_at": "2022-02-23T13:44:20-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/25.jpg?v=1645641860",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792006676527,
+          "created_at": "2019-01-24T17:19:26-05:00",
+          "position": 7,
+          "updated_at": "2022-02-23T13:44:20-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24.JPG?v=1645641860",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792006709295,
+          "created_at": "2019-01-24T17:19:27-05:00",
+          "position": 8,
+          "updated_at": "2022-02-23T13:44:20-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/13.jpg?v=1645641860",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792006742063,
+          "created_at": "2019-01-24T17:19:28-05:00",
+          "position": 9,
+          "updated_at": "2022-02-23T13:44:20-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/20.jpg?v=1645641860",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792006873135,
+          "created_at": "2019-01-24T17:19:32-05:00",
+          "position": 10,
+          "updated_at": "2022-02-23T13:44:20-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_46_of_82.jpg?v=1645641860",
+          "width": 2732,
+          "height": 2732
+        },
+        {
+          "id": 4245400223791,
+          "created_at": "2019-03-26T15:52:39-04:00",
+          "position": 11,
+          "updated_at": "2022-02-23T13:44:58-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Group_3_new_R2.jpg?v=1645641898",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 3792006479919,
+          "created_at": "2019-01-24T17:19:22-05:00",
+          "position": 12,
+          "updated_at": "2022-02-23T13:44:58-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/zzz.jpg?v=1645641898",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792005955631,
+          "created_at": "2019-01-24T17:19:17-05:00",
+          "position": 13,
+          "updated_at": "2022-02-23T13:44:01-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1.jpg?v=1645641841",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792005988399,
+          "created_at": "2019-01-24T17:19:18-05:00",
+          "position": 14,
+          "updated_at": "2022-02-23T13:44:01-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/121.png?v=1645641841",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3792006381615,
+          "created_at": "2019-01-24T17:19:20-05:00",
+          "position": 15,
+          "updated_at": "2022-02-23T13:44:01-05:00",
+          "product_id": 1056970407983,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/10.jpg?v=1645641841",
+          "width": 703,
+          "height": 704
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1067263787055,
+      "title": "Cork Lightweight Yoga Mat and Two-Block Bundle",
+      "handle": "cork-yoga-mat-and-two-block-bundle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>the <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> cork lightweight yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the<span> cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.</span></p>\n<p><span>With cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.</span></p>\n<p><span><strong>Includes</strong>: 1 Cork Lightweight Yoga Mat \"The Robin\" and 2 Cork Blocks \"The Nuthatch.\"</span></p>\n</li>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs</span></p>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li>The <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Cork Yoga Mats\">cork yoga mat</a> is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip <em>increases</em>!</li>\n<li><span>The cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures. </span></li>\n<li>Save with the <a href=\"https://42birds.com/collections/yoga-bundles\" title=\"https://42birds.com/collections/yoga-bundles\">bundle set</a>, instead of purchasing each individually!</li>\n</ul>\n</li>\n</ul>",
+      "published_at": "2024-03-05T17:33:46-05:00",
+      "created_at": "2019-02-06T03:39:38-05:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 9999280701487,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "BUN-COR-3",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "119.00",
+          "grams": 2767,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1067263787055,
+          "created_at": "2019-02-06T03:39:38-05:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403819925687,
+          "created_at": "2022-02-22T22:48:35-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:48:48-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_02.jpg?v=1645588128",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404491735223,
+          "created_at": "2022-02-23T00:39:54-05:00",
+          "position": 2,
+          "updated_at": "2022-02-23T00:40:14-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_a0d99d0d-f28d-4d6c-bf1f-e72195c6f949.jpg?v=1645594814",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404492619959,
+          "created_at": "2022-02-23T00:40:10-05:00",
+          "position": 3,
+          "updated_at": "2022-02-23T00:40:14-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_1_bf4ecfbe-1bed-4795-a129-870a9d186f98.jpg?v=1645594814",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31405927694519,
+          "created_at": "2022-02-23T13:41:38-05:00",
+          "position": 4,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_a4a45fc0-36ae-4641-a586-673e860720fe.jpg?v=1645641703",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3838901125167,
+          "created_at": "2019-02-06T03:39:55-05:00",
+          "position": 5,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/18.jpg?v=1645641703",
+          "width": 703,
+          "height": 469
+        },
+        {
+          "id": 3838901190703,
+          "created_at": "2019-02-06T03:39:56-05:00",
+          "position": 6,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24_c709562a-72cf-495b-9556-6a182b77d36f.JPG?v=1645641703",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3838901223471,
+          "created_at": "2019-02-06T03:39:59-05:00",
+          "position": 7,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_10_of_82.jpg?v=1645641703",
+          "width": 2302,
+          "height": 2302
+        },
+        {
+          "id": 4245405335599,
+          "created_at": "2019-03-26T15:54:40-04:00",
+          "position": 8,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Group_4_new_R2_1.jpg?v=1645641703",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 3838900994095,
+          "created_at": "2019-02-06T03:39:53-05:00",
+          "position": 9,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/CPROJ-100923-S1SD-005_ca7138ed-23fa-4f05-abf8-e76e8257124c.jpg?v=1645641703",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3838900535343,
+          "created_at": "2019-02-06T03:39:43-05:00",
+          "position": 10,
+          "updated_at": "2022-02-23T13:41:43-05:00",
+          "product_id": 1067263787055,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/v5_6ff3ad6c-ed27-40ab-89ff-465970d51393.jpg?v=1645641703",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1067263819823,
+      "title": "Cork Lightweight Yoga Mat and Massage Balls Bundle",
+      "handle": "cork-yoga-mat-and-massage-balls-bundle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>The cork l<span data-mce-fragment=\"1\">ightweight</span> <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Yoga Mats\">yoga mat</a> and massage balls by <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the<span> cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew, and bad smells.</span></p>\n<p><span>With cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.</span></p>\n<p><span><strong>Includes</strong>: 1 Cork <meta charset=\"utf-8\">Lightweight Yoga Mat \"The Robin\" and 1 Cork Therapy Massage Ball Set \"The Little Owls.\" <br></span></p>\n</li>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> Cork Lightweight Mat = 72″ x 26” | 5mm thick | 1.9 lbs. | 4 in. diameter rolled | Massage Balls = (2) 60mm diameter 140g balls and (1) 20mm diameter 20g ball</span></p>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>The cork lightweight yoga mat is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip <em>increases</em>!</span></li>\n<li>The cork massage balls are perfect for relieving tension and improving muscle function. Decrease <span>soreness, increase flexibility, and improve your energy with myofascial release. </span>\n</li>\n</ul>\n</li>\n</ul>",
+      "published_at": "2023-01-22T13:12:37-05:00",
+      "created_at": "2019-02-06T03:39:39-05:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 9999280734255,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "BUN-COR-5",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "108.00",
+          "grams": 1769,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1067263819823,
+          "created_at": "2019-02-06T03:39:40-05:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403778965687,
+          "created_at": "2022-02-22T22:42:46-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:42:57-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_03.jpg?v=1645587777",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404467290295,
+          "created_at": "2022-02-23T00:32:24-05:00",
+          "position": 2,
+          "updated_at": "2022-02-23T00:33:05-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_5661b7a7-a70c-4195-9e86-615e1bfa7565.jpg?v=1645594385",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31404469059767,
+          "created_at": "2022-02-23T00:32:57-05:00",
+          "position": 3,
+          "updated_at": "2022-02-23T00:33:05-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_22_4ba29ce3-6cf6-47b7-83f6-ada3b5b80771.jpg?v=1645594385",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3838900895791,
+          "created_at": "2019-02-06T03:39:51-05:00",
+          "position": 4,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/24_22f127ef-be52-4aa5-beb1-f1e8c355e566.JPG?v=1645641619",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 31405926940855,
+          "created_at": "2022-02-23T13:39:40-05:00",
+          "position": 5,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/LittleOwls_B_22_b02023dd-1a1d-461c-b3e7-b25453ea00c3.jpg?v=1645641619",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 3838900928559,
+          "created_at": "2019-02-06T03:39:52-05:00",
+          "position": 6,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/15.jpg?v=1645641619",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3838901026863,
+          "created_at": "2019-02-06T03:39:53-05:00",
+          "position": 7,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/13_30df8fd5-4fdc-41e5-8933-a97f2b5f4c62.jpg?v=1645641619",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 4245403697199,
+          "created_at": "2019-03-26T15:53:51-04:00",
+          "position": 8,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/05A7354_R2.jpg?v=1645641619",
+          "width": 3000,
+          "height": 3000
+        },
+        {
+          "id": 3838900568111,
+          "created_at": "2019-02-06T03:39:43-05:00",
+          "position": 9,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/z1_ff3fcd5f-b9be-495d-8f0b-2aceef3d2191.jpg?v=1645641619",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3838901321775,
+          "created_at": "2019-02-06T03:40:04-05:00",
+          "position": 10,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/42_Birds_Shoot_10_of_82_e160540f-508b-4865-b82e-0b1ee6e93a5b.jpg?v=1645641619",
+          "width": 2302,
+          "height": 2302
+        },
+        {
+          "id": 3838900830255,
+          "created_at": "2019-02-06T03:39:50-05:00",
+          "position": 11,
+          "updated_at": "2022-02-23T13:40:19-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/zzz_f775fa34-b6f6-4e58-9bda-6c1b084bd085.jpg?v=1645641619",
+          "width": 704,
+          "height": 704
+        },
+        {
+          "id": 3838900666415,
+          "created_at": "2019-02-06T03:39:47-05:00",
+          "position": 12,
+          "updated_at": "2022-02-23T13:39:52-05:00",
+          "product_id": 1067263819823,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/10_deec2fdc-f5ca-4dcb-9210-895f32cddfa8.jpg?v=1645641592",
+          "width": 703,
+          "height": 704
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7168914358455,
+      "title": "Cork Industrial Yoga Mat and Two-Block Bundle",
+      "handle": "cork-industrial-yoga-mat-and-two-block-bundle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>the <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> cork industrial yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the<span> cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.</span></p>\n<p>At 6mm thick, there is a comfortable natural rubber base. This mat is ideal for someone who likes extra padding and who enjoys the extra weight that rubber provides. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n<p><span><strong>Includes</strong>: 1 Cork Industrial Yoga Mat \"The Imperial Eagle\" and 2 Cork Blocks \"The Nuthatch.\"</span></p>\n</li>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> Cork Industrial Mat = 72″ x 26” | 6mm thick | 5.5 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs</span>\n</p>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\" data-mce-style=\"padding-left: 0;\">\n<li>The industrial <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Cork Yoga Mats\">cork yoga mat</a> is suitable for all yoga practices. For hot yoga, you can go towel-free and will not need to deal with a smelly mat. In fact, when moisture is added, the grip <em>increases</em>!</li>\n<li><span>Top side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li><span>Bottom side: Comfortable, 6mm natural rubber, which upholds our eco-conscious values – 100% recyclable, and free of PVC, plasticizers, and latex.</span></li>\n<li><span>Attractive design will look good no matter where it is stored.</span></li>\n<li><span>The cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip, and safe for all postures. </span></li>\n<li>Save with the <a href=\"https://42birds.com/collections/yoga-bundles\" title=\"https://42birds.com/collections/yoga-bundles\">bundle set</a>, instead of purchasing each individually!</li>\n</ul>\n</li>\n</ul>",
+      "published_at": "2024-03-05T17:33:20-05:00",
+      "created_at": "2022-08-04T14:00:59-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "Home & Garden",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41313860681911,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "BUN-RUB1-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "139.00",
+          "grams": 5897,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7168914358455,
+          "created_at": "2022-08-04T14:00:59-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31745645183159,
+          "created_at": "2022-08-04T14:03:35-04:00",
+          "position": 1,
+          "updated_at": "2022-08-04T14:03:36-04:00",
+          "product_id": 7168914358455,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_IE_IND_02.jpg?v=1659636216",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31745645969591,
+          "created_at": "2022-08-04T14:04:25-04:00",
+          "position": 2,
+          "updated_at": "2022-08-04T14:04:26-04:00",
+          "product_id": 7168914358455,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/ImpEagle_0a46a542-2cf7-4927-b520-2b43513950cb.jpg?v=1659636266",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31745646035127,
+          "created_at": "2022-08-04T14:04:49-04:00",
+          "position": 3,
+          "updated_at": "2022-08-04T14:04:50-04:00",
+          "product_id": 7168914358455,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_227523ca-f36f-4ed8-b89a-8f730b849699.jpg?v=1659636290",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7168916127927,
+      "title": "Cork Extra Long Yoga Mat and Two-Block Bundle",
+      "handle": "cork-extra-long-yoga-mat-and-two-block-bundle",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>the <a href=\"https://42birds.com\" title=\"42 Birds\">42 Birds</a> cork extra long yoga mat and yoga block bundle will complete your yoga and fitness routine. Fully sustainable and eco-friendly, the<span> cork material is non-slip with anti-microbial and self-cleaning properties that resist mold, mildew and bad smells.</span></p>\n<p><span>With cork, you can finally avoid toxins and chemicals via rubber/plastic, which are used in most yoga and fitness products. The beauty and elegance of cork will look great in your home and yoga studio.</span></p>\n<p><span><strong>Includes</strong>: 1 Cork Extra Long Yoga Mat \"The Robin\" and 2 Cork Blocks \"The Nuthatch.\"</span></p>\n</li>\n<p><b>Specifications:</b><span style=\"font-weight: 400;\"> Cork Extra Long Mat = 85″ x 26” | 5mm thick | 2.5 lbs. | 4 in. diameter rolled | Cork Block = 9” x 6” x 4”, 2.2 lbs</span>\n</p>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li>The <a href=\"https://42birds.com/collections/cork-yoga-mats\" title=\"Cork Yoga Mats\">extra long cork yoga mat</a> is super light and offers perfect grip, even in the sweatiest yoga practices. In fact, when moisture is added, the grip <em>increases</em>!</li>\n<li><span>The cork yoga block provides a comfortable yet firm grip, not found in foam blocks. Built to be sturdy, grounding, non-slip and safe for all postures. </span></li>\n<li>Save with the <a href=\"https://42birds.com/collections/yoga-bundles\" title=\"https://42birds.com/collections/yoga-bundles\">bundle set</a>, instead of purchasing each individually!</li>\n</ul>\n</li>\n</ul>",
+      "published_at": "2024-03-05T17:34:35-05:00",
+      "created_at": "2022-08-04T14:23:44-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "Home & Garden",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41313865597111,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "BUN-TPE2-XL-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "128.00",
+          "grams": 4082,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7168916127927,
+          "created_at": "2022-08-04T14:23:44-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31745662976183,
+          "created_at": "2022-08-04T14:24:03-04:00",
+          "position": 1,
+          "updated_at": "2022-08-04T14:24:05-04:00",
+          "product_id": 7168916127927,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Flock_XL_02.jpg?v=1659637445",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31745663336631,
+          "created_at": "2022-08-04T14:24:20-04:00",
+          "position": 2,
+          "updated_at": "2022-08-04T14:24:21-04:00",
+          "product_id": 7168916127927,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Robin_XL_937884b3-df35-4f52-abb5-137579cdce02.jpg?v=1659637461",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31745663467703,
+          "created_at": "2022-08-04T14:24:34-04:00",
+          "position": 3,
+          "updated_at": "2022-08-04T14:24:35-04:00",
+          "product_id": 7168916127927,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/Blocks_02_36230204-c35a-4ab7-9ea3-d6be6cd435c6.jpg?v=1659637475",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1373992189999,
+      "title": "100% Cork Yoga Mat \"The Woodpecker\"",
+      "handle": "all-natural-cork-yoga-mat",
+      "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>For the purists out there, the 100% cork mat by <a href=\"/\" title=\"Cork Yoga Mat\">42 Birds</a> contains only cork and nothing else. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.</p>\n<p>With 5mm thickness of pure cork, this mat offers a more firm than soft cushioning. Complimentary cotton carrying and yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li><span>Top/bottom side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li><span>Attractive design will look good no matter where it is stored.</span></li>\n</ul>\n<p><b>Specifications:</b><span> 72″ x 24” | 5mm thick | 2.5 lbs. | 6 in. diameter rolled</span></p>\n<b>Pro Tip: </b><span>For extra grip, spray water on your <a href=\"/colllections/cork-yoga-mat\" title=\"Cork Yoga Mat\">mat</a> in the area your hands and feet go before practice</span>\n</li>\n</ul>\n",
+      "published_at": "2019-09-07T13:01:24-04:00",
+      "created_at": "2019-09-03T10:30:49-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00",
+      "vendor": "42 Birds",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 12540699017263,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-COR-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "84.00",
+          "grams": 2059,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 1373992189999,
+          "created_at": "2019-09-03T10:30:49-04:00",
+          "updated_at": "2026-01-11T10:11:06-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31403706613943,
+          "created_at": "2022-02-22T22:32:28-05:00",
+          "position": 1,
+          "updated_at": "2022-02-22T22:32:30-05:00",
+          "product_id": 1373992189999,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/100Cork.jpg?v=1645587150",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 11863925096495,
+          "created_at": "2019-09-03T10:31:15-04:00",
+          "position": 2,
+          "updated_at": "2022-02-22T22:32:30-05:00",
+          "product_id": 1373992189999,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Front.jpg?v=1645587150",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 11863929323567,
+          "created_at": "2019-09-03T10:31:42-04:00",
+          "position": 3,
+          "updated_at": "2022-02-22T22:32:30-05:00",
+          "product_id": 1373992189999,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Angle.jpg?v=1645587150",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 11863933780015,
+          "created_at": "2019-09-03T10:32:12-04:00",
+          "position": 4,
+          "updated_at": "2022-02-22T22:32:30-05:00",
+          "product_id": 1373992189999,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Unfold.jpg?v=1645587150",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

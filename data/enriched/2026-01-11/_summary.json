@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-11",
+  "totalBrandsConsidered": 1,
+  "brandsEnriched": 1,
+  "productsFetched": 5,
+  "productsWithCoreFeatures": 0,
+  "productsWithAppendText": 5,
+  "productsWithSections": 5,
+  "errors": 0,
+  "brands": [
+    {
+      "brandSlug": "yogadesignlab",
+      "products": 5,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 5,
+      "productsWithSections": 5,
+      "sectionsExtracted": [
+        "Product Specs"
+      ],
+      "errors": 0
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "sensu",
+    "name": "9-in-1 Foam Roller Set",
+    "slug": "sensu-foam-roller-set",
+    "description": "SAY “SEE YA” TO SORENESS – Suffering from post-workout soreness leaves muscles stiff and painful for days. Get rapid relief from head to toe when you use the 9-in-1 foam roller kit. With Sensu, you can massage, stretch, and roll the pain away!\nTOTAL-BODY RELIEF – No matter where you hurt, this 9-in-1 foam rollers set can help. Release deep-tissue pain with the foam roller, massage stick, lacrosse ball, or spikey ball. Tight muscles don’t stand a chance when you use the 3 resistance bands for stretching. And for your back pain, the peanut ball has got your back.\nTHE TRAVEL-FRIENDLY MASSAGER – Your sore muscles travel with you, so your massage roller set should, too. Bring your favorite natural pain reliever to the gym, on the road, and everywhere in between—the muscle rollers set comes with its own carrying bag!\nMORE THAN A MASSAGE – Your massage foam-roller kit doesn’t stop at pain relief. Recover faster, perform better, and prevent injuries with Sensu, so you can crush your next workout! Plus, massage rollers are known to help break up scar tissue, increase flexibility, improve mobility, and even aid rehabilitation.\n\nWhy Stay Sore when You Can Roll with Sensu?\nAfter an intense gym session, simple tasks like walking or getting dressed become difficult. Don’t just tough it out! Roll it out with the massage foam roller set by Sensu. With 9 pieces this Muscle Roller Set is designed to target deep-tissue pain, trigger points, fascia, and more, you grow stronger and more relaxed with every massage.\nLet’s Get Rolling\nYour foam roller can break up scar tissue and accelerates the healing process for larger muscle groups, foam rolling can be an effective tool to add to your warm-up or cooldown, before and after exercise.\nBand Together to Resist Post-Workout Tightness\nDon’t overlook a resistance-band workout or stretch. Personalize each exercise with 3 different bands:\n\nBlue: Light 10–15 lbs. band\nYellow: Medium 15–20 lbs. band\nRed: Heavy 25–30 lbs. band\n\nHave a Ball\nUp your ball game with the 3 massage balls! The peanut ball stabilizes the spine as you roll out your back and neck. Improve the myofascial system and increase blood flow with the PVC spikey ball. Rid muscle fatigue and soreness with the durable and dense rubber lacrosse ball.\nEco-Friendly Foam\nFoam that’s lightweight, durable, and environmentally friendly? That’s what the foam roller and peanut ball are made of. Recyclable and free from nasty chemicals, EPP foam gives you the sturdiness you need in massagers without harming the environment.\nWhen the suffering stops, real workouts can happen. Massage the pain away with the Sensu 9-in-1 Foam Roller Set when you add one to your cart TODAY!",
+    "weight": {
+      "value": 6.8038936415345965,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "15 lbs"
+    },
+    "material": "Natural Rubber",
+    "features": [
+      "Eco-Friendly",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 4541386293387,
+    "shopifyHandle": "foam-roller-set",
+    "shopifyVendor": "Sensu Co",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "MCF",
+      "simple-product",
+      "title_Foam Roller_Set"
+    ],
+    "shopifyCreatedAt": "2020-02-12T21:06:47+09:30",
+    "shopifyPublishedAt": "2020-02-12T21:05:27+09:30",
+    "shopifyUpdatedAt": "2026-01-08T00:37:17+09:30",
+    "variantsCount": 1,
+    "minPrice": 39.99,
+    "maxPrice": 39.99,
+    "variantPriceValues": [
+      39.99
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/Foam-roller-set.jpg?v=1622096642",
+        "width": 1500,
+        "height": 1484,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/04_1.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/0003.jpg?v=1622096642",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/05_1.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/06.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/08.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/02_1.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/03_1.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/07.jpg?v=1622096642",
+        "width": 1000,
+        "height": 1000,
+        "position": 9
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sensu",
+    "name": "Large Exercise Mat",
+    "slug": "sensu-large-exercise-mat-6-x-4-x-8-5mm",
+    "description": "THE SUPERIOR SURFACE – Chisel up or stretch out with Sensu’s gym mat! At 8.5mm thickness, your high-density workout mats for home gyms cushion bones and stabilize balance so you can crush it!\n\nSTEP UP WITH NO SLIP – Stay steady through each sweat sesh with your workout mats! Your 6x4 ft. fitness mat features a nonslip, non-skid bottom and top, enabling maximum muscle control and focus.\n\nNO FOUL, ALL FITNESS – Pump up on a pure surface! Unlike PVC gym mats, your 16P-ECO large exercise mat is odorless and kid-safe, free of problem-causing materials such as rubber, latex, phthalates, and heavy metals!\n\nBUILT-IN BENEFITS – Advance your exercise with these extra features! Your jump rope mat includes a soft, 72\"x 26\" towel for mopping up and a zippered case with a shoulder strap for easy carrying!\n\nEquip Your Exercise with This Superior Set\nDon’t let a slippery, unforgiving gym floor wreck your workout. Set up and step up with professional supplies from Sensu! Your thick workout mat provides a comfortable, durable, and stable surface for each set and rep, while a towel and carrying case make muscling up extra rewarding. Upgrade your home gym and discover the difference!\nReap the Perks of Professional Design\nBump up your workout with these benefits!\n\nExtra-Large: Jump, lunge, and stretch on your 183cm x 122cm (6 x 4 foot) deadlift mat!\nUltra-Thick: Crush it in comfort with a high-density, 8.5mm extra thick exercise mat.\nNonslip: Forget mats that slip and slide. Your gym floor mats feature nonskid bottoms AND tops!\nPure: Muscle up on kid-safe materials free of rubber, latex, phthalates, dioxins, furans, or heavy metals.\nOdorless: Goodbye smelly, unhealthy PVC. And hello odorless, non-toxic 16P-ECO!\n\nBeef Up, Towel Down\nStop slips by soaking up sweat in your included towel! Soft, ultra-absorbent microfiber mops your brow and your mat, saving you from slip-ups and stinging eyes. 72\" x 26\" in size ensures your towel is up to any drying task, while machine-washable material makes keeping fresh effortless!\nAthletics To-Go\nNo need to clutter your gym bag. Carry your gym floor mat in your set’s case! Your case features game-changing conveniences such as:\n\nSturdy, waterproof material\nAdjustable shoulder strap\nSecure zippered closure\nAccessible, large opening\n\nGive the Gift of Fitness\nPursuing the perfect gift for the gym guru or fitness fanatic in your life? Delight him or her with gym mats for home workouts from Sensu! With its professional quality and extra essentials, your gift is sure to be a hit!\nUpgrade your equipment to dominate your exercise TODAY. Add Sensu’s exercise mat set to your cart!",
+    "thickness": {
+      "value": 8.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "8.5mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6x4 ft"
+    },
+    "width": {
+      "value": 122,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6x4 ft"
+    },
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "shopifyId": 6178684993685,
+    "shopifyHandle": "large-exercise-mat-6-x-4-x-8-5mm",
+    "shopifyVendor": "Sensu Co",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "MCF",
+      "title_Large Exercise_Mat"
+    ],
+    "shopifyCreatedAt": "2020-11-27T18:20:46+09:30",
+    "shopifyPublishedAt": "2020-11-27T18:20:54+09:30",
+    "shopifyUpdatedAt": "2026-01-08T00:37:17+09:30",
+    "variantsCount": 2,
+    "minPrice": 129.99,
+    "maxPrice": 209.99,
+    "variantPriceValues": [
+      129.99,
+      209.99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 8000,
+    "maxGrams": 12000,
+    "variantGramsValues": [
+      8000,
+      12000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 8.5,
+    "thicknessMmMax": 8.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "widthCmMin": 121.92,
+    "widthCmMax": 152.4,
+    "thicknessMmx10Values": [
+      85
+    ],
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "widthCMx10Values": [
+      1219,
+      1524
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 1219
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 1524
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Select Mat Size",
+        "position": 1,
+        "values": [
+          "Size 6' x 4'",
+          "Size 7' x 5'"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/Centre.png?v=1650787230",
+        "width": 2000,
+        "height": 2000,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/2differentiator_ef95784b-d702-46fb-bf46-fed45353a346.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/7x5_correct.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/2.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/3_6808b0e5-1b7c-45c7-a946-e8e6f92f343e.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/4.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/5_62ca56cf-2c2d-47fc-a360-4bd582d990b0.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/6Carry-Bag.jpg?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/8_9c326d00-f641-49cd-88c9-9acfb039a31f.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/6_4f5e4ea8-b9f2-4e73-9be3-5ea16ca3299d.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/9_fa010052-74ce-4cd1-9ad4-cce0e192d869.png?v=1652192068",
+        "width": 2000,
+        "height": 2000,
+        "position": 11
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 121.92
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 6' x 4'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 152.4
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 7' x 5'",
+          "confidence": 1
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sensu",
+    "name": "Large Yoga Mat",
+    "slug": "sensu-large-yoga-mat-6-x-4-x-9mm",
+    "description": "TURN ANY UNFORGIVING SURFACE INTO A SACRED WORKOUT SPACE – Move freely without restriction, and without the pain of hard floors from thin tiny yoga mats with this 6’x4’ portable workout space by Sensu! Its extra thick, comes with Carry Bag, Large Yoga Towel and Mat Grips which allows you to go anywhere and always move with freedom!\n\n30% MORE CUSHION – Most yoga mats like this are 7mm thick, but ours is 9mm! While it may not sound like much, your joints, elbows and knees will feel better for it when doing your exercises, and will enjoy the extra comfort from hard floors. That extra 2mm thickness ensures the best combo of comfort and stability. Need more softness? We include a soft large microfiber yoga towel for you to use on top!\n\nA SAFER TRAINING MAT – Goodbye smelly, unhealthy PVC. And hello odorless, non-toxic 16P-ECO! Not only is it a non-slip mat for all exercise, but it’s free from the 16 types of Harmful Phthalates, Biodegradable and is also kid safe! We also include 4x Sticky Grips for extra stability if you decide you need it.\n\nTRAVELS WITH YOU – While other brands make you wrestle with transporting your wide yoga mat, Sensu helps you take this one anywhere! Roll it up and secure it with the Velcro straps, then, slide it easily in the large opening of your waterproof carry bag. Zip it, adjust the comfy straps and carry it anywhere. The non-absorbent surface is also easy to clean. Simply wipe sweat or water with a cloth.\n\nWITH A LIFETIME WARRANTY – This large, thick yoga mat, is made for barefoot or ballet slippers only (no shoes) and perfect for Pilates, yoga and other low impact / low intensity activity like stretching, meditating or a little Savasana recharge. And when you do that, it’ll last a lifetime without damage! So, forget about mats that don’t let you fully move, or interlocking foam tiles and try the Sensu Mat now.\n\nTurn Any Unforgiving Surface into a Sacred Workout Space!\nFor those who don’t want the fuss of interlocking tiles, and for anyone who needs room to spread their wings (and limbs) you’ve probably seen the latest in large yoga and workout mats. But for anyone who suffers with knee or joint pain, those exercise mats are still a bit hard. So, we created a large workout/yoga/ Pilates mat with 30% Extra Cushion! And while that 2mm extra padding seems small, you’ll be surprised to know it makes a BIG difference in comfort, without sacrificing stability.\n\nLarge Yoga Mat Comes with Carry Bag, Towel and Floor Grips 9mm Thick Padding\n30% More Cushion than Other Workout Mats for Home The Perfect Balance Between Cushion and Stability Made from 16P-ECO!\nComes with 4 Big Yoga Mat Grips for Carpet, Marble, Tiles, Hardwood and Concrete if Needed!\nAdjustable Straps and Double Zippered Carry Bag Make Your Mat Easily Portable!\nDesigned for Barefoot Exercise, Ballet Shoes or other Soft Foot Coverings Eco-Friendly and Easy To Clean. Just Wipe with a Cloth!\n\nWhether it’s for bodyweight exercise or barefoot exercise like yoga, strength or rehab, on slippery carpet or unforgiving tile floors, in a park or your garage, anyone can turn any unforgiving surface into a sacred workout space. So, why not try it now from Sensu., and move freely!",
+    "thickness": {
+      "value": 7,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "7mm"
+    },
+    "material": "PVC",
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Non-Slip",
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "shopifyId": 6177838923925,
+    "shopifyHandle": "large-yoga-mat-6-x-4-x-9mm",
+    "shopifyVendor": "Sensu Co",
+    "shopifyProductType": "",
+    "shopifyTags": [
+      "MCF",
+      "title_Large Yoga_Mat"
+    ],
+    "shopifyCreatedAt": "2020-11-27T15:28:57+09:30",
+    "shopifyPublishedAt": "2020-11-28T17:57:27+09:30",
+    "shopifyUpdatedAt": "2026-01-08T00:37:17+09:30",
+    "variantsCount": 3,
+    "minPrice": 99.99,
+    "maxPrice": 219.99,
+    "variantPriceValues": [
+      99.99,
+      149.99,
+      219.99
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 4000,
+    "maxGrams": 6000,
+    "variantGramsValues": [
+      4000,
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 274.32,
+    "widthCmMin": 121.92,
+    "widthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1829,
+      2134,
+      2743
+    ],
+    "widthCMx10Values": [
+      1219,
+      1524,
+      1829
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 1219
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 1524
+      },
+      {
+        "lengthCMx10": 2743,
+        "widthCMx10": 1829
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Select Mat Size",
+        "position": 1,
+        "values": [
+          "Size 6' x 4'",
+          "Size 7' x 5'",
+          "Size 9' x 6'"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/Hero.jpg?v=1650787055",
+        "width": 1476,
+        "height": 1500,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/2Differentiator.png?v=1650787055",
+        "width": 2000,
+        "height": 2000,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/1.png?v=1652192539",
+        "width": 2000,
+        "height": 1791,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/2_1.png?v=1652192539",
+        "width": 2000,
+        "height": 2000,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/3.png?v=1652192539",
+        "width": 2000,
+        "height": 2000,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/4_1e5b4bd3-e2b3-48ef-8e14-80bec4289028.png?v=1652192539",
+        "width": 2000,
+        "height": 2000,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/7.png?v=1652192539",
+        "width": 1536,
+        "height": 1536,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/5.png?v=1652192539",
+        "width": 2000,
+        "height": 2000,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/8.png?v=1652192539",
+        "width": 1536,
+        "height": 1536,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/6.png?v=1652192539",
+        "width": 1536,
+        "height": 1536,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/products/9.png?v=1652192539",
+        "width": 2000,
+        "height": 2000,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0331/9034/6891/files/Photo_1_4.jpg?v=1744157100",
+        "width": 2000,
+        "height": 2000,
+        "position": 12
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 121.92
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 6' x 4'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 152.4
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 7' x 5'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 274.32,
+            "widthCm": 182.88
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 9' x 6'",
+          "confidence": 1
+        }
+      ]
+    }
+  }
+]

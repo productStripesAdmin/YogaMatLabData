@@ -1,0 +1,220 @@
+{
+  "date": "2026-01-07",
+  "comparedWith": "2026-01-06",
+  "summary": {
+    "totalChanges": 23,
+    "newProducts": 0,
+    "removedProducts": 0,
+    "priceChanges": 23,
+    "specChanges": 0
+  },
+  "changes": [
+    {
+      "slug": "houseofmats-familia",
+      "name": "Africa by Jess Guzman Yoga mat - Art Collection - 4mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 155.29,
+      "newValue": 154.99,
+      "details": "$155.29 → $154.99"
+    },
+    {
+      "slug": "houseofmats-airy-blue",
+      "name": "Airy Blue Yoga mat - Laboratory Limited Edition - 3.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 151.71,
+      "newValue": 151.41,
+      "details": "$151.71 → $151.41"
+    },
+    {
+      "slug": "houseofmats-clay",
+      "name": "Clay Yoga mat - Laboratory Limited Edition - 3.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 151.71,
+      "newValue": 151.41,
+      "details": "$151.71 → $151.41"
+    },
+    {
+      "slug": "houseofmats-daylight-moth-by-ula-basinska-11",
+      "name": "Daylight moth Yoga mat by Ula Basinska - Art Collection - 4mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 155.29,
+      "newValue": 154.99,
+      "details": "$155.29 → $154.99"
+    },
+    {
+      "slug": "houseofmats-forest-green",
+      "name": "Forest Green Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-golden-hour",
+      "name": "Golden House Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-oat-signature",
+      "name": "Granito Milk Yoga mat - Travel Collection - Foldable - 2mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 143.35,
+      "newValue": 143.07,
+      "details": "$143.35 → $143.07"
+    },
+    {
+      "slug": "houseofmats-magnetic-purple",
+      "name": "Magnetic Purple Yoga mat - Travel Collection - Foldable - 2mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 127.82,
+      "newValue": 127.57,
+      "details": "$127.82 → $127.57"
+    },
+    {
+      "slug": "houseofmats-misty-grey",
+      "name": "Misty Grey Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-moonlight",
+      "name": "Moonlight shadow - Art Collection - 4mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 179.18,
+      "newValue": 178.84,
+      "details": "$179.18 → $178.84"
+    },
+    {
+      "slug": "houseofmats-nautica-yoga-mat-studio-collection-4-5mm",
+      "name": "Nautica Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-midnight-tribe-by-ula-basinska",
+      "name": "Nightlight tribe by Ula Basinska - Art Collection - 4mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 179.18,
+      "newValue": 178.84,
+      "details": "$179.18 → $178.84"
+    },
+    {
+      "slug": "houseofmats-peony-bloom",
+      "name": "Peony blossom Yoga mat - Art Collection - 4mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 155.29,
+      "newValue": 154.99,
+      "details": "$155.29 → $154.99"
+    },
+    {
+      "slug": "houseofmats-purple-yoga-mat-classic-collection-4-5mm",
+      "name": "Purple Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-rooted-brown",
+      "name": "Rooted Brown Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-royal-plum-signature-yoga-mat-classic-collection-4-5mm",
+      "name": "Royal Plum Signature Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 179.18,
+      "newValue": 178.84,
+      "details": "$179.18 → $178.84"
+    },
+    {
+      "slug": "houseofmats-royal-plum",
+      "name": "Royal Plum Yoga mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "houseofmats-sage-green",
+      "name": "Sage Green Yoga mat - Laboratory Limited Edition - 3.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 151.71,
+      "newValue": 151.41,
+      "details": "$151.71 → $151.41"
+    },
+    {
+      "slug": "houseofmats-suiyobi",
+      "name": "Suiyobi Yoga Mat - Laboratory Limited Edition - 3.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 151.71,
+      "newValue": 151.41,
+      "details": "$151.71 → $151.41"
+    },
+    {
+      "slug": "houseofmats-the-black-mat-1",
+      "name": "The Black Mat - Colección de viaje. Plegable 2mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 127.82,
+      "newValue": 127.57,
+      "details": "$127.82 → $127.57"
+    },
+    {
+      "slug": "houseofmats-the-black-mat",
+      "name": "The Black Mat - Studio Collection - 4.5mm",
+      "brandSlug": "houseofmats",
+      "changeType": "price_changed",
+      "oldValue": 163.66,
+      "newValue": 163.34,
+      "details": "$163.66 → $163.34"
+    },
+    {
+      "slug": "yogamatters-manduka-pro-mat-long",
+      "name": "Manduka PRO Yoga Mat - Long",
+      "brandSlug": "yogamatters",
+      "changeType": "price_changed",
+      "oldValue": 245,
+      "newValue": 240,
+      "details": "$245 → $240"
+    },
+    {
+      "slug": "yogamatters-yogamatters-signature-studio-yoga-mat-long-box-of-6-copy",
+      "name": "Yogamatters Signature Studio Yoga Mat - Long - Box of 7",
+      "brandSlug": "yogamatters",
+      "changeType": "price_changed",
+      "oldValue": 730,
+      "newValue": 725,
+      "details": "$730 → $725"
+    }
+  ]
+}
