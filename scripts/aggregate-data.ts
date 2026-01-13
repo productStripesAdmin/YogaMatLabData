@@ -3,6 +3,11 @@ import path from 'path';
 import { logger } from './lib/logger.js';
 import type { NormalizedYogaMat } from './lib/field-mapper.js';
 
+type BrandsMetadata = Array<{
+  slug: string;
+  scrapingEnabled?: boolean;
+}>;
+
 interface AggregationSummary {
   date: string;
   totalBrands: number;
@@ -41,8 +46,44 @@ async function getNormalizedFiles(date: string): Promise<string[]> {
   }
 }
 
+async function loadEnabledBrandSlugs(date: string): Promise<{ enabled: Set<string>; sourcePath: string } | null> {
+  const sourcePath = path.join(process.cwd(), 'data', 'raw', date, '_brands.json');
+  try {
+    const raw = await fs.readFile(sourcePath, 'utf-8');
+    const parsed = JSON.parse(raw) as unknown;
+    const brands = Array.isArray(parsed) ? (parsed as BrandsMetadata) : null;
+    if (!brands) return null;
+
+    const enabled = new Set(
+      brands
+        .filter(b => typeof b?.slug === 'string' && b.slug.trim().length > 0)
+        // Treat missing scrapingEnabled as enabled for backwards compatibility.
+        .filter(b => b.scrapingEnabled !== false)
+        .map(b => b.slug)
+    );
+
+    return { enabled, sourcePath };
+  } catch {
+    return null;
+  }
+}
+
 async function loadNormalizedData(date: string): Promise<NormalizedYogaMat[]> {
-  const files = await getNormalizedFiles(date);
+  const enabledBrandsMeta = await loadEnabledBrandSlugs(date);
+  const filesAll = await getNormalizedFiles(date);
+  const files = enabledBrandsMeta
+    ? filesAll.filter((file) => enabledBrandsMeta.enabled.has(file.replace('.json', '')))
+    : filesAll;
+
+  if (enabledBrandsMeta) {
+    const ignored = filesAll.length - files.length;
+    if (ignored > 0) {
+      logger.warn(
+        `Ignoring ${ignored} normalized brand file(s) because scrapingEnabled=false (${path.relative(process.cwd(), enabledBrandsMeta.sourcePath)})`
+      );
+    }
+  }
+
   const allProducts: NormalizedYogaMat[] = [];
 
   for (const file of files) {

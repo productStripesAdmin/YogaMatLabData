@@ -111,12 +111,55 @@ async function ensureDataDirectories(date: string) {
 }
 
 async function removeExistingRawBrandFile(date: string, brandSlug: string): Promise<void> {
-  const filepath = path.join(process.cwd(), 'data', 'raw', date, `${brandSlug}.json`);
+  const slug = (brandSlug ?? '').toLowerCase().trim();
+  if (!slug) return;
+
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const candidates = Array.from(
+    new Set([
+      path.join(rawDir, `${slug}.json`),
+      path.join(rawDir, `${slug.replace(/-/g, '')}.json`),
+      path.join(rawDir, `${slug.replace(/-/g, '_')}.json`),
+    ])
+  );
+
+  for (const filepath of candidates) {
+    try {
+      await fs.unlink(filepath);
+      logger.warn(`  Removed existing raw file for disabled brand: ${path.relative(process.cwd(), filepath)}`);
+    } catch {
+      // File doesn't exist, nothing to do.
+    }
+  }
+}
+
+async function cleanupRawDir(date: string, brands: Brand[]): Promise<void> {
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const allowed = new Set(
+    brands
+      .filter(b => b.scrapingEnabled !== false)
+      .map(b => (b.slug ?? '').toLowerCase().trim())
+      .filter(Boolean)
+  );
+
+  let files: string[];
   try {
-    await fs.unlink(filepath);
-    logger.warn(`  Removed existing raw file for disabled brand: data/raw/${date}/${brandSlug}.json`);
+    files = await fs.readdir(rawDir);
   } catch {
-    // File doesn't exist, nothing to do.
+    return;
+  }
+
+  const brandFiles = files.filter((f) => f.endsWith('.json') && !f.startsWith('_'));
+  for (const filename of brandFiles) {
+    const slug = filename.replace(/\.json$/i, '').toLowerCase();
+    if (!allowed.has(slug)) {
+      try {
+        await fs.unlink(path.join(rawDir, filename));
+        logger.warn(`Removed stale raw file (brand not enabled): data/raw/${date}/${filename}`);
+      } catch {
+        // ignore
+      }
+    }
   }
 }
 
@@ -490,6 +533,7 @@ async function main() {
   // Ensure data directories exist
   await ensureDataDirectories(date);
   await saveBrandsMetadata(date, brands);
+  await cleanupRawDir(date, brands);
 
   // Fetch products from each brand sequentially
   const results: ExtractionResult[] = [];

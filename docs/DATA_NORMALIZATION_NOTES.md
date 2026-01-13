@@ -14,6 +14,8 @@ This is primarily to prevent non-mat catalog items (e.g. apparel like leggings) 
 
 Fetch writes `data/raw/{date}/_brands.json` (including each brand’s `scrapingEnabled` flag). During normalization, if that metadata file exists, we only process raw brand files whose `scrapingEnabled !== false`. This prevents stale raw files (e.g. pulled from CI) from accidentally leaking disabled brands into `data/normalized/**` and downstream outputs.
 
+Fetch also removes any existing `data/raw/{date}/{brand}.json` files for brands that are not enabled (either `scrapingEnabled=false` or not present in the Convex brand list) so today’s raw folder reflects the current source of truth.
+
 ## SHADOW TITLES
 
 Normalization also generates a consistent “shadow title” set for YogaMatLabApp:
