@@ -3,6 +3,7 @@ import path from 'path';
 import { logger } from './lib/logger.js';
 import type { ShopifyProductsResponse } from './lib/fetch-products-json.js';
 import { mapShopifyToYogaMat, validateNormalizedMat, type NormalizedYogaMat } from './lib/field-mapper.js';
+import { indexCoreFeatures, type BrandEnrichmentOutput } from './lib/product-page-enricher.js';
 
 interface NormalizationSummary {
   date: string;
@@ -59,6 +60,30 @@ async function normalizeBrand(
 
   logger.info(`  Found ${shopifyData.products.length} products`);
 
+  // Optional: load per-brand product-page enrichment (e.g. Core Features from accordion content)
+  let coreFeaturesIndex: ReturnType<typeof indexCoreFeatures> | undefined;
+  let appendTextIndex: Map<string, string> | undefined;
+  let sectionsIndex: Map<string, Array<{ heading: string; items: string[]; confidence: number }>> | undefined;
+  const enrichPath = path.join(process.cwd(), 'data', 'enriched', date, `${brandSlug}.json`);
+  try {
+    const enrichedRaw = await fs.readFile(enrichPath, 'utf-8');
+    const enriched: BrandEnrichmentOutput = JSON.parse(enrichedRaw);
+    coreFeaturesIndex = indexCoreFeatures(enriched);
+    appendTextIndex = new Map(
+      enriched.products
+        .filter(p => typeof p.appendText?.text === 'string' && p.appendText.text.trim().length > 0)
+        .map(p => [p.handle, p.appendText!.text])
+    );
+    sectionsIndex = new Map(
+      enriched.products
+        .filter(p => Array.isArray(p.sections) && p.sections.length > 0)
+        .map(p => [p.handle, p.sections as Array<{ heading: string; items: string[]; confidence: number }>])
+    );
+    logger.info(`  Loaded enrichment: ${coreFeaturesIndex.size} product(s)`);
+  } catch {
+    // No enrichment file for this brand/date. This is expected unless npm run enrich has been run.
+  }
+
   const normalizedProducts: NormalizedYogaMat[] = [];
   const errors: Array<{ productName: string; errors: string[] }> = [];
   let validCount = 0;
@@ -67,7 +92,16 @@ async function normalizeBrand(
   for (const shopifyProduct of shopifyData.products) {
     try {
       // Map to normalized format
-      const normalized = mapShopifyToYogaMat(shopifyProduct, brandSlug);
+      const enrichment = coreFeaturesIndex?.get(shopifyProduct.handle);
+      const appendText = appendTextIndex?.get(shopifyProduct.handle);
+      const sections = sectionsIndex?.get(shopifyProduct.handle);
+      const normalized = mapShopifyToYogaMat(
+        shopifyProduct,
+        brandSlug,
+        (enrichment || appendText)
+          ? { coreFeatures: enrichment, appendText, productPageSections: sections }
+          : undefined
+      );
 
       // Validate
       const validation = validateNormalizedMat(normalized);

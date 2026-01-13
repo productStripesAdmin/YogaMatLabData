@@ -11,6 +11,18 @@
       "source": "description",
       "originalText": "5mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "weight": {
       "value": 1.927769865101469,
       "unit": "kg",
@@ -18,6 +30,18 @@
       "originalText": "4.25lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -41,10 +65,40 @@
     "variantsCount": 3,
     "minPrice": 69.98,
     "maxPrice": 69.98,
+    "variantPriceValues": [
+      69.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -166,7 +220,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -191,10 +269,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -268,16 +376,16 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 25.4,
+      "value": 198.12,
       "unit": "cm",
       "source": "description",
-      "originalText": "10\" long"
+      "originalText": "78\"L x 26\"W"
     },
     "width": {
-      "value": 5.08,
+      "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "2\" wide"
+      "originalText": "78\"L x 26\"W"
     },
     "weight": {
       "value": 2.267964547178199,
@@ -286,6 +394,18 @@
       "originalText": "5lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -310,10 +430,40 @@
     "variantsCount": 1,
     "minPrice": 74.98,
     "maxPrice": 74.98,
+    "variantPriceValues": [
+      74.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 198.12,
+    "lengthCmMax": 198.12,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1981
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1981,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -363,16 +513,16 @@
       "originalText": "2mm"
     },
     "length": {
-      "value": 25.4,
+      "value": 172.72,
       "unit": "cm",
       "source": "description",
-      "originalText": "10\" x 12\""
+      "originalText": "68\"L x 24\"W"
     },
     "width": {
-      "value": 30.48,
+      "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "10\" x 12\""
+      "originalText": "68\"L x 24\"W"
     },
     "weight": {
       "value": 1.3607787283069193,
@@ -381,6 +531,18 @@
       "originalText": "3 lbs"
     },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight"
@@ -403,10 +565,40 @@
     "variantsCount": 4,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 1361,
     "maxGrams": 1361,
+    "variantGramsValues": [
+      1361
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      20
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -566,7 +758,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -591,10 +807,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -667,7 +913,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -693,10 +963,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -763,7 +1063,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -789,10 +1113,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -841,7 +1195,32 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -866,10 +1245,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -924,7 +1333,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -948,10 +1381,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1006,7 +1469,30 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 152.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1030,10 +1516,40 @@
     "variantsCount": 1,
     "minPrice": 19.98,
     "maxPrice": 19.98,
+    "variantPriceValues": [
+      19.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1082,7 +1598,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1107,10 +1647,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1177,7 +1747,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1201,10 +1795,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1277,7 +1901,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1302,10 +1950,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1366,7 +2044,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1390,10 +2092,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1442,7 +2174,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1463,10 +2219,40 @@
     "variantsCount": 1,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1515,7 +2301,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1542,10 +2352,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1630,7 +2470,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1657,10 +2521,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1733,7 +2627,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1760,10 +2678,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3674,
     "maxGrams": 3674,
+    "variantGramsValues": [
+      3674
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1842,7 +2790,31 @@
       "source": "description",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 152.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1867,10 +2839,40 @@
     "variantsCount": 1,
     "minPrice": 19.98,
     "maxPrice": 19.98,
+    "variantPriceValues": [
+      19.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1919,7 +2921,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -1946,10 +2972,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2028,7 +3084,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -2055,10 +3135,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2137,7 +3247,31 @@
       "source": "description",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 152.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight"
@@ -2161,10 +3295,40 @@
     "variantsCount": 1,
     "minPrice": 19.98,
     "maxPrice": 19.98,
+    "variantPriceValues": [
+      19.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2213,7 +3377,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2235,10 +3423,40 @@
     "variantsCount": 1,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2293,7 +3511,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2318,10 +3560,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3674,
     "maxGrams": 3674,
+    "variantGramsValues": [
+      3674
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2382,7 +3654,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2407,10 +3703,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2459,7 +3785,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2482,10 +3832,40 @@
     "variantsCount": 1,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3674,
     "maxGrams": 3674,
+    "variantGramsValues": [
+      3674
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2546,7 +3926,31 @@
       "source": "description",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 152.4,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "60\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2571,10 +3975,40 @@
     "variantsCount": 1,
     "minPrice": 19.98,
     "maxPrice": 19.98,
+    "variantPriceValues": [
+      19.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2623,7 +4057,30 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2648,10 +4105,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2700,7 +4187,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2723,10 +4234,40 @@
     "variantsCount": 1,
     "minPrice": 21.98,
     "maxPrice": 21.98,
+    "variantPriceValues": [
+      21.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3674,
     "maxGrams": 3674,
+    "variantGramsValues": [
+      3674
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2775,7 +4316,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2799,10 +4364,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2851,7 +4446,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -2879,10 +4498,40 @@
     "variantsCount": 1,
     "minPrice": 39.98,
     "maxPrice": 39.98,
+    "variantPriceValues": [
+      39.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2949,7 +4598,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2974,10 +4647,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3026,7 +4729,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3049,10 +4776,40 @@
     "variantsCount": 1,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3101,7 +4858,31 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3126,10 +4907,40 @@
     "variantsCount": 1,
     "minPrice": 34.98,
     "maxPrice": 34.98,
+    "variantPriceValues": [
+      34.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3178,7 +4989,31 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 172.72,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "68\"L x 24\"W"
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3201,10 +5036,40 @@
     "variantsCount": 1,
     "minPrice": 24.98,
     "maxPrice": 24.98,
+    "variantPriceValues": [
+      24.98
+    ],
     "priceCurrency": "USD",
     "minGrams": 3688,
     "maxGrams": 3688,
+    "variantGramsValues": [
+      3688
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1727,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",

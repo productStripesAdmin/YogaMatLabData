@@ -15,13 +15,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "weight": {
       "value": 2.4494017109524546,
@@ -29,7 +29,19 @@
       "source": "description",
       "originalText": "5.4 lbs"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -52,10 +64,40 @@
     "variantsCount": 1,
     "minPrice": 108,
     "maxPrice": 108,
+    "variantPriceValues": [
+      108
+    ],
     "priceCurrency": "USD",
     "minGrams": 2631,
     "maxGrams": 2631,
+    "variantGramsValues": [
+      2631
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -126,13 +168,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "weight": {
       "value": 2.4494017109524546,
@@ -141,6 +183,19 @@
       "originalText": "5.4 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "Cotton",
+      "Cork"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -165,10 +220,40 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2722,
     "maxGrams": 2722,
+    "variantGramsValues": [
+      2722
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -227,13 +312,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "weight": {
       "value": 2.4494017109524546,
@@ -242,6 +327,19 @@
       "originalText": "5.4 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "Cotton",
+      "Cork"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -266,10 +364,40 @@
     "variantsCount": 1,
     "minPrice": 150,
     "maxPrice": 150,
+    "variantPriceValues": [
+      150
+    ],
     "priceCurrency": "USD",
     "minGrams": 4536,
     "maxGrams": 4536,
+    "variantGramsValues": [
+      4536
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -328,13 +456,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "weight": {
       "value": 2.4494017109524546,
@@ -343,6 +471,18 @@
       "originalText": "5.4 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "Cork"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -364,10 +504,40 @@
     "variantsCount": 1,
     "minPrice": 115,
     "maxPrice": 115,
+    "variantPriceValues": [
+      115
+    ],
     "priceCurrency": "USD",
     "minGrams": 2909,
     "maxGrams": 2909,
+    "variantGramsValues": [
+      2909
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",

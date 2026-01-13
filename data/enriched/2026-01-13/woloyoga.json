@@ -1,0 +1,278 @@
+{
+  "brandSlug": "woloyoga",
+  "extractedAt": "2026-01-13T03:48:36.169Z",
+  "products": [
+    {
+      "shopifyId": 8333492650180,
+      "handle": "ascend-yoga-mat",
+      "slug": "woloyoga-ascend-yoga-mat",
+      "productUrl": "https://woloyoga.com/products/ascend-yoga-mat",
+      "extractedAt": "2026-01-13T03:48:36.702Z",
+      "appendText": {
+        "text": "Dimension & Materials: 183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber. Dimension & Material: 183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber.",
+        "confidence": 0.75,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimension & Materials",
+          "items": [
+            "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+          ],
+          "confidence": 0.75
+        },
+        {
+          "heading": "Dimension & Material",
+          "items": [
+            "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8210934399172,
+      "handle": "mastery-yoga-mat",
+      "slug": "woloyoga-mastery-yoga-mat",
+      "productUrl": "https://woloyoga.com/products/mastery-yoga-mat",
+      "extractedAt": "2026-01-13T03:48:38.140Z",
+      "appendText": {
+        "text": "Specs & Care: <strong>Dimension:</strong> 183cm long x 68cm width x 4mm thick (2.7kg) <strong>Materials:</strong> SGS-certified natural rubber, non-toxic vegan leather <strong>Care:</strong> Gently wipe the mat with a damp cloth after each use Do not use oil-based cleaning products Air dry the mat before rolling Store out of direct sunlight and heat source Roll with top of mat side facing out, rolling in opposite direction can damage mat surface",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Specs & Care",
+          "items": [
+            "<strong>Dimension:</strong> 183cm long x 68cm width x 4mm thick (2.7kg)",
+            "<strong>Materials:</strong> SGS-certified natural rubber, non-toxic vegan leather",
+            "<strong>Care:</strong>",
+            "Gently wipe the mat with a damp cloth after each use",
+            "Do not use oil-based cleaning products",
+            "Air dry the mat before rolling",
+            "Store out of direct sunlight and heat source",
+            "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 8247536746692,
+      "handle": "away-travel-mat",
+      "slug": "woloyoga-away-travel-mat",
+      "productUrl": "https://woloyoga.com/products/away-travel-mat",
+      "extractedAt": "2026-01-13T03:48:39.286Z",
+      "appendText": {
+        "text": "Specs & Care: <strong>Dimension:</strong> 183cm long x 68cm width x 1.5mm thick (1.3kg) <strong>Materials:</strong> SGS-certified natural rubber, non-toxic coconut fiber leather <strong>Care:</strong> Gently wipe the mat with a damp cloth after each use Do not use oil-based cleaning products Air dry the mat before rolling Store out of direct sunlight and heat source Roll with top of mat side facing out, rolling in opposite direction can damage mat surface",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Specs & Care",
+          "items": [
+            "<strong>Dimension:</strong> 183cm long x 68cm width x 1.5mm thick (1.3kg)",
+            "<strong>Materials:</strong> SGS-certified natural rubber, non-toxic coconut fiber leather",
+            "<strong>Care:</strong>",
+            "Gently wipe the mat with a damp cloth after each use",
+            "Do not use oil-based cleaning products",
+            "Air dry the mat before rolling",
+            "Store out of direct sunlight and heat source",
+            "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 8210944131268,
+      "handle": "dual-flow-bundle",
+      "slug": "woloyoga-dual-flow-bundle",
+      "productUrl": "https://woloyoga.com/products/dual-flow-bundle",
+      "extractedAt": "2026-01-13T03:48:40.467Z",
+      "appendText": {
+        "text": "Specs & Care: <strong>Dimension:</strong> 183cm long x 68cm width x 4mm thick (2.7kg) <strong>Materials:</strong> SGS-certified natural rubber, non-toxic vegan leather <strong>Care:</strong> Gently wipe the mat with a damp cloth after each use Do not use oil-based cleaning products Air dry the mat before rolling Store out of direct sunlight and heat source Roll with top of mat side facing out, rolling in opposite direction can damage mat surface",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Specs & Care",
+          "items": [
+            "<strong>Dimension:</strong> 183cm long x 68cm width x 4mm thick (2.7kg)",
+            "<strong>Materials:</strong> SGS-certified natural rubber, non-toxic vegan leather",
+            "<strong>Care:</strong>",
+            "Gently wipe the mat with a damp cloth after each use",
+            "Do not use oil-based cleaning products",
+            "Air dry the mat before rolling",
+            "Store out of direct sunlight and heat source",
+            "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 8347884716228,
+      "handle": "travel-flow-bundle",
+      "slug": "woloyoga-travel-flow-bundle",
+      "productUrl": "https://woloyoga.com/products/travel-flow-bundle",
+      "extractedAt": "2026-01-13T03:48:41.874Z",
+      "appendText": {
+        "text": "Specs & Care: <strong>Dimension:</strong> 183cm long x 68cm width x 1.5mm thick (1.3kg) <strong>Materials:</strong> SGS-certified natural rubber, non-toxic coconut fiber leather <strong>Care:</strong> Gently wipe the mat with a damp cloth after each use Do not use oil-based cleaning products Air dry the mat before rolling Store out of direct sunlight and heat source Roll with top of mat side facing out, rolling in opposite direction can damage mat surface",
+        "confidence": 0.9500000000000001,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Specs & Care",
+          "items": [
+            "<strong>Dimension:</strong> 183cm long x 68cm width x 1.5mm thick (1.3kg)",
+            "<strong>Materials:</strong> SGS-certified natural rubber, non-toxic coconut fiber leather",
+            "<strong>Care:</strong>",
+            "Gently wipe the mat with a damp cloth after each use",
+            "Do not use oil-based cleaning products",
+            "Air dry the mat before rolling",
+            "Store out of direct sunlight and heat source",
+            "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+          ],
+          "confidence": 0.9500000000000001
+        }
+      ]
+    },
+    {
+      "shopifyId": 8347909095620,
+      "handle": "complete-flow-bundle",
+      "slug": "woloyoga-complete-flow-bundle",
+      "productUrl": "https://woloyoga.com/products/complete-flow-bundle",
+      "extractedAt": "2026-01-13T03:48:43.204Z",
+      "appendText": {
+        "text": "Dimension & Materials: 183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather. Dimension & Material: 183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather.",
+        "confidence": 0.75,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimension & Materials",
+          "items": [
+            "183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather."
+          ],
+          "confidence": 0.75
+        },
+        {
+          "heading": "Dimension & Material",
+          "items": [
+            "183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather."
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8394648355012,
+      "handle": "elevate-flow-bundle",
+      "slug": "woloyoga-elevate-flow-bundle",
+      "productUrl": "https://woloyoga.com/products/elevate-flow-bundle",
+      "extractedAt": "2026-01-13T03:48:44.476Z",
+      "appendText": {
+        "text": "Dimension & Materials: 183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber. Dimension & Material: 183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber.",
+        "confidence": 0.75,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimension & Materials",
+          "items": [
+            "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+          ],
+          "confidence": 0.75
+        },
+        {
+          "heading": "Dimension & Material",
+          "items": [
+            "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8394821664964,
+      "handle": "the-ritual-bundle",
+      "slug": "woloyoga-the-ritual-bundle",
+      "productUrl": "https://woloyoga.com/products/the-ritual-bundle",
+      "extractedAt": "2026-01-13T03:48:46.057Z",
+      "appendText": {
+        "text": "Dimension & Materials: 183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather. Dimension & Material: 183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather.",
+        "confidence": 0.75,
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimension & Materials",
+          "items": [
+            "183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather."
+          ],
+          "confidence": 0.75
+        },
+        {
+          "heading": "Dimension & Material",
+          "items": [
+            "183cm long x 68cm wide. Made with SGS-certified natural rubber and non-toxic vegan leather."
+          ],
+          "confidence": 0.75
+        }
+      ]
+    }
+  ]
+}

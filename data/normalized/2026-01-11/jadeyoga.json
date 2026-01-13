@@ -5,6 +5,12 @@
     "name": "Jade Harmony Yoga Mat - JadeYoga",
     "slug": "jadeyoga-harmony-mat",
     "description": "Named Best Mat for Grip by Yoga Journal for 2024!\n\nOur most popular mat provides great traction and cushion while still providing stability for standing poses.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, available in two lengths: 68\" and 74”, and weighs about 5 pounds. (For a wider and longer variety, see Harmony XW at 28\" wide)\n\n68\" Mat Colors: Purple, Midnight Blue, Olive Green, Black, Jade Green, Raspberry, Slate Blue, Tibetan Orange, Sky Blue, Saffron, Pink, Teal and Sky Blue/Saffron*\n\n74\" Mat Colors: Jade Green, Black, Midnight Blue, Olive, Sky Blue, and Purple.\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.\n*Although Jade mats are 99% latex free, as they are from rubber trees, there may be trace amounts of latex proteins in the mats so we recommend persons with latex allergies avoid contact with our mats.\n\n\n\nJade's Color Cause Program: 100% of profits from the sale of the Saffron/Sky Blue Ukraine mat will be donated to Ukraine TrustChain and Revived Soldiers Ukraine.  $5 will be donated to ovarian cancer causes for every Teal mat purchased, $5 from each Saffron mat will be donated to Autism causes and $5 will be donated to breast cancer causes for every pink mat purchased!  Saffron is available starting in April for Autism Awareness Month, Teal is available starting in September for Ovarian Cancer Awareness Month and Pink is available starting in October for Breast Cancer Awareness Month.",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
     "length": {
       "value": 172.72,
       "unit": "cm",
@@ -18,6 +24,17 @@
       "originalText": "5 pounds"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -37,10 +54,32 @@
     "variantsCount": 20,
     "minPrice": 99.95,
     "maxPrice": 109.95,
+    "variantPriceValues": [
+      99.95,
+      109.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2177,
     "maxGrams": 2404,
+    "variantGramsValues": [
+      2177,
+      2404
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -196,7 +235,31 @@
       "Sky Blue",
       "Sky Blue/Saffron for Ukraine",
       "Moe-gi Green"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -204,6 +267,12 @@
     "name": "Best-Selling Travel Yoga Mat  – Lightweight, Portable and Durable",
     "slug": "jadeyoga-travel-mat",
     "description": "Light and Portable:  The Jade Travel Yoga Mat folds up to fit easily into your luggage, allowing you to take your practice with you everywhere!\n\nGreat for yogis on the go, and for those who like closer contact with the ground, along with a little cushion! \n\nIncredible grip from open cell natural rubber\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws.\n\nDimensions: 1/8\" thick, 24\" wide, is available in two lengths: 68\" and 74\", and weighs just over 3 pounds\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 3.175,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1/8\" thick"
+    },
     "length": {
       "value": 172.72,
       "unit": "cm",
@@ -217,6 +286,17 @@
       "originalText": "3 pounds"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -237,10 +317,32 @@
     "variantsCount": 5,
     "minPrice": 79.95,
     "maxPrice": 93.75,
+    "variantPriceValues": [
+      79.95,
+      93.75
+    ],
     "priceCurrency": "USD",
     "minGrams": 1542,
     "maxGrams": 1678,
+    "variantGramsValues": [
+      1542,
+      1678
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.175,
+    "thicknessMmMax": 3.175,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      32
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -302,7 +404,31 @@
       "Midnight Blue",
       "Olive Green",
       "Purple"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -329,6 +455,17 @@
       "originalText": "8.5 pounds"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -349,10 +486,32 @@
     "variantsCount": 7,
     "minPrice": 174.95,
     "maxPrice": 199.95,
+    "variantPriceValues": [
+      174.95,
+      199.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3992,
+    "variantGramsValues": [
+      3629,
+      3992
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -422,7 +581,31 @@
       "Purple",
       "Slate Blue",
       "Jade Green"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -430,6 +613,12 @@
     "name": "Jade Voyager Mat - Lightweight and Portable - JadeYoga",
     "slug": "jadeyoga-voyager-mat",
     "description": "Thinnest, Lightest and Most Portable: The Jade Voyager Mat is truly the most portable mat Jade offers, made specifically to go with you everywhere and anywhere.\n\nFolds up to about the size of a yoga block- allowing it to fit perfectly into your suitcase or backpack!\n\nGreat for Traveling:  At 1/16\" thick, and 1.5 pounds, the Voyager mat is ideal for those that have to travel light and/or have limited storage space due to its portability.\n\n\n\n\n\n \n\n\n\nDimensions: 1/16\" thick, 24\" wide, 68\" long, and weighs just over 1.5 pounds\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nStorage: Please note that just like you would expect creases in your clothes when traveling, creases are a natural consequence of folding the Voyager mat. These effects will be minimized by keeping your mat rolled when not traveling\n\nConstruction: The reinforcing scrim (which is hidden inside our other mats) is visible on the bottom of the Voyager mat- a consequence of its being as lightweight as possible!\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n\n\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch.\n*Please also note that our natural rubber mats are not intended for use outdoors and should not be exposed to sunlight.",
+    "thickness": {
+      "value": 1.5875,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1/16\" thick"
+    },
     "length": {
       "value": 172.72,
       "unit": "cm",
@@ -443,6 +632,11 @@
       "originalText": "1.5 pounds"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight",
@@ -462,10 +656,29 @@
     "variantsCount": 5,
     "minPrice": 49.95,
     "maxPrice": 49.95,
+    "variantPriceValues": [
+      49.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 771,
     "maxGrams": 771,
+    "variantGramsValues": [
+      771
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5875,
+    "thicknessMmMax": 1.5875,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "thicknessMmx10Values": [
+      16
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -572,7 +785,25 @@
       "Olive Green",
       "Black",
       "Jade Green"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -599,6 +830,17 @@
       "originalText": "24\" wide"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -619,10 +861,34 @@
     "variantsCount": 2,
     "minPrice": 49.95,
     "maxPrice": 49.95,
+    "variantPriceValues": [
+      49.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 172.72,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1727
+    ],
+    "widthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -688,6 +954,12 @@
     "name": "Jade Elite S Yoga Mat - Durable and Supportive - Eco Friendly - JadeYoga",
     "slug": "jadeyoga-elite-s",
     "description": "Firm and Durable: Jade's ELITE S mat is specifically designed for those with vigorous practice, making it our most durable mat yet! \n\nDesigned for a flowing practice: The ELITE S is ideal for Ashtanga, and those with more flowing practices\n\nExtra dense top layer gives the mat added firmness and durability, while its smooth surface boasts outstanding grip for almost any practice.\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 24\" wide, and 71\" long and weight approximately 5 lbs\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.\n\n*Please note that colors on the screen are approximations and do not match the mats exactly; if you would like to know the exact color of our mats, please visit one of our retailers or email us to request a free sample swatch. \n\n\n\n\n\nSEE WHAT INDEPENDENT YOGIS ARE SAYING ABOUT THE JADE ELITE S YOGA MAT:\n\n\n\n\n“It is AMAZING! Nothing moves. Nothing. The mat never moves…my hands, feet, etc. don’t ever shift or move around in the practice. I am in love!” I LOVE this new mat by Jade specifically designed for Ashtanga Yoga. Practicing on it was a dream, it had great grip, and it's thick enough so it was cushiony but firm as well. The feel and thickness are on point. I would recommend this mat to all Ashtangis for their daily yoga practice.”",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
     "length": {
       "value": 180.34,
       "unit": "cm",
@@ -707,6 +979,18 @@
       "originalText": "5 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -726,10 +1010,34 @@
     "variantsCount": 1,
     "minPrice": 129.95,
     "maxPrice": 129.95,
+    "variantPriceValues": [
+      129.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2359,
     "maxGrams": 2359,
+    "variantGramsValues": [
+      2359
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 180.34,
+    "lengthCmMax": 180.34,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      1803
+    ],
+    "widthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -769,6 +1077,12 @@
     "name": "Harmony XW Yoga Mat – Eco Friendly and Chemical Free -  JadeYoga",
     "slug": "jadeyoga-harmony-mat-xw",
     "description": "Extra Wide and Extra Long: Our most popular premium 3/16\" thick jade yoga Harmony mat now is available in 28\" width, extra wide (standard mats are 24\" wide), allowing you to broaden your practice.\nIncredible grip, great comfort and eco-friendly\n\nEco-friendly: Made with natural rubber tapped from rubber trees, a renewable resource.\n\nNon-toxic: Jade mats contain no PVC, EVA or other synthetic rubber, and are made in the United States in compliance with all US environmental, labor and consumer protection laws. \n\nDimensions: 3/16\" thick, 28\" wide, and 80\" long\n\nBe The Change: Through our partnership with Trees for the Future, JADE PLANTS A TREE FOR EVERY MAT SOLD – with over TWO MILLION trees planted so far.",
+    "thickness": {
+      "value": 4.762499999999999,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3/16\" thick"
+    },
     "length": {
       "value": 203.2,
       "unit": "cm",
@@ -776,6 +1090,17 @@
       "originalText": "80\" Length"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -801,10 +1126,29 @@
     "variantsCount": 1,
     "minPrice": 149.95,
     "maxPrice": 149.95,
+    "variantPriceValues": [
+      149.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 3039,
     "maxGrams": 3039,
+    "variantGramsValues": [
+      3039
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.762499999999999,
+    "thicknessMmMax": 4.762499999999999,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "thicknessMmx10Values": [
+      48
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -837,7 +1181,25 @@
     ],
     "availableColors": [
       "Midnight Blue"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 203.2,
+          "sourceOptionName": "Size",
+          "rawValue": "80\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -858,6 +1220,17 @@
       "originalText": "80\""
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -877,10 +1250,29 @@
     "variantsCount": 1,
     "minPrice": 249.95,
     "maxPrice": 249.95,
+    "variantPriceValues": [
+      249.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 4990,
     "maxGrams": 4990,
+    "variantGramsValues": [
+      4990
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -915,7 +1307,25 @@
         "height": 1200,
         "position": 4
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 203.2,
+          "sourceOptionName": "Size",
+          "rawValue": "80\"",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -929,7 +1339,30 @@
       "source": "description",
       "originalText": "8mm"
     },
+    "length": {
+      "value": 30.48,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "12” long"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "24” wide"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -949,10 +1382,34 @@
     "variantsCount": 2,
     "minPrice": 29.95,
     "maxPrice": 29.95,
+    "variantPriceValues": [
+      29.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 590,
     "maxGrams": 590,
+    "variantGramsValues": [
+      590
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "lengthCmMin": 30.48,
+    "lengthCmMax": 30.48,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      80
+    ],
+    "lengthCMx10Values": [
+      305
+    ],
+    "widthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1018,6 +1475,18 @@
     "name": "Organic Cotton Mysore Yoga Rug – JadeYoga",
     "slug": "jadeyoga-organic-cotton-mysore-yoga-rugs-1",
     "description": "Perfect for Outdoor Use: Jade's organic cotton Mysore yoga rugs are perfect for all kinds of yoga classes, including Ashtanga, outdoor classes, and beach yoga. Please use it on top of your Jade mat to prevent slipping when using it on hard surfaces such as hardwood, laminate, and tile floors.\n\nOrganic cotton and all-natural vegetable dyes made from herbs such as indigo, cumin, and turmeric. The herbal dyes are specially made in small batches in order to get the most color and benefits from the herbs.  To see the process of dying our yarns, click here.\n\n\nConnect to the traditional roots of yoga with the Mysore yoga rug\nDimensions: 26” wide and 72” long, and lightweight at only 2.5 lbs\n\nHandwoven by local artisans in India: These rugs are handwoven by rural artisans in India, preserving a tradition and art form and providing a livelihood for weavers. Weaving is a traditional way of life for many people in this area of India and has seen a huge decline in recent years as it can be very difficult to make a living with weaving and many people have left in search of other jobs. These yoga rugs support the traditional weavers and allow them to use their skills to support their families. For many of them, this is the only job they have ever had and making these rugs allows them to keep this tradition alive.  To see a video with one of our weavers, please click here.  \nCare Instructions: Machine washable. Wash colors separately in cold water and hang to dry as rugs may shrink in the wash.\n\nBe The Change: Through our partnership with the Akshaya Patra Foundation, with each Mysore yoga rug purchased, Jade will provide a week of hot lunches for a child in need in India.\n\n\n*Please note that colors on the screen are approximations and do not match the rugs exactly; if you would like to know the exact color of our rugs, please visit one of our retailers or email us to request a free sample swatch.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "72” long"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26” wide"
+    },
     "weight": {
       "value": 1.1339822735890994,
       "unit": "kg",
@@ -1025,6 +1494,11 @@
       "originalText": "2.5 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
     "features": [
       "Lightweight",
       "Extra Wide"
@@ -1045,10 +1519,29 @@
     "variantsCount": 5,
     "minPrice": 79.95,
     "maxPrice": 79.95,
+    "variantPriceValues": [
+      79.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 1134,
     "maxGrams": 1134,
+    "variantGramsValues": [
+      1134
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1145,6 +1638,11 @@
       "originalText": "26\" wide"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Extra Wide"
     ],
@@ -1162,10 +1660,29 @@
     "variantsCount": 1,
     "minPrice": 64.95,
     "maxPrice": 64.95,
+    "variantPriceValues": [
+      64.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 907,
     "maxGrams": 907,
+    "variantGramsValues": [
+      907
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1206,15 +1723,20 @@
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "24\" x 72\""
+      "originalText": "24\" x 72\"\n\n"
     },
     "width": {
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "24\" x 72\""
+      "originalText": "24\" x 72\"\n\n"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly"
     ],
@@ -1233,10 +1755,35 @@
     "variantsCount": 1,
     "minPrice": 79.95,
     "maxPrice": 79.95,
+    "variantPriceValues": [
+      79.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 907,
     "maxGrams": 907,
+    "variantGramsValues": [
+      907
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
+    "widthCmMin": 182.88,
+    "widthCmMax": 182.88,
+    "lengthCMx10Values": [
+      610
+    ],
+    "widthCMx10Values": [
+      1829
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 610,
+        "widthCMx10": 1829
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1273,6 +1820,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "length": {
+      "value": 180.34,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "71” long"
+    },
     "width": {
       "value": 66.04,
       "unit": "cm",
@@ -1286,6 +1839,19 @@
       "originalText": "5 pounds"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1305,10 +1871,34 @@
     "variantsCount": 4,
     "minPrice": 79.95,
     "maxPrice": 79.95,
+    "variantPriceValues": [
+      79.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2177,
     "maxGrams": 2177,
+    "variantGramsValues": [
+      2177
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 180.34,
+    "lengthCmMax": 180.34,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1803
+    ],
+    "widthCMx10Values": [
+      660
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1414,7 +2004,19 @@
       "source": "description",
       "originalText": "5 lbs"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1434,10 +2036,34 @@
     "variantsCount": 1,
     "minPrice": 99.95,
     "maxPrice": 99.95,
+    "variantPriceValues": [
+      99.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2359,
     "maxGrams": 2359,
+    "variantGramsValues": [
+      2359
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1508,6 +2134,17 @@
       "originalText": "4.5lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1527,10 +2164,31 @@
     "variantsCount": 6,
     "minPrice": 99.95,
     "maxPrice": 109.95,
+    "variantPriceValues": [
+      99.95,
+      109.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2177,
     "maxGrams": 2177,
+    "variantGramsValues": [
+      2177
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1612,7 +2270,31 @@
       "Jade Green",
       "Purple",
       "Raspberry"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1627,6 +2309,17 @@
       "originalText": "68\" Length"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1646,10 +2339,26 @@
     "variantsCount": 7,
     "minPrice": 99.95,
     "maxPrice": 109.95,
+    "variantPriceValues": [
+      99.95,
+      109.95
+    ],
     "priceCurrency": "USD",
     "minGrams": 2177,
     "maxGrams": 2177,
+    "variantGramsValues": [
+      2177
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 172.72,
+    "lengthCmMax": 187.96,
+    "lengthCMx10Values": [
+      1727,
+      1880
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1757,6 +2466,30 @@
       "Purple",
       "Black",
       "Olive"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172.72,
+          "sourceOptionName": "Size",
+          "rawValue": "68\" Length",
+          "confidence": 0.9500000000000001
+        },
+        {
+          "value": 187.96,
+          "sourceOptionName": "Size",
+          "rawValue": "74\" Length",
+          "confidence": 0.9500000000000001
+        }
+      ]
+    }
   }
 ]

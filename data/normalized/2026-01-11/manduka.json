@@ -12,7 +12,7 @@
       "originalText": "6mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
@@ -41,10 +41,39 @@
     "variantsCount": 27,
     "minPrice": 110,
     "maxPrice": 164,
+    "variantPriceValues": [
+      110,
+      120,
+      138,
+      144,
+      156,
+      164
+    ],
     "priceCurrency": "USD",
     "minGrams": 3266,
     "maxGrams": 4309,
+    "variantGramsValues": [
+      3266,
+      3402,
+      3629,
+      4309
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 173,
+    "lengthCmMax": 215,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1730,
+      1800,
+      2150
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -996,23 +1025,36 @@
       "Deep Verve",
       "Sand"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 68,
-        "unit": "cm",
-        "originalString": "Short 68\" (173cm)"
-      },
-      {
-        "value": 85,
-        "unit": "cm",
-        "originalString": "Long 85\" (215cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 173,
+          "sourceOptionName": "Size",
+          "rawValue": "Short 68\" (173cm)",
+          "confidence": 1
+        },
+        {
+          "value": 215,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 85\" (215cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1027,11 +1069,17 @@
       "originalText": "4.7mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1055,10 +1103,34 @@
     "variantsCount": 16,
     "minPrice": 88,
     "maxPrice": 124,
+    "variantPriceValues": [
+      88,
+      112,
+      124
+    ],
     "priceCurrency": "USD",
     "minGrams": 1905,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      1905,
+      2100,
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.7,
+    "thicknessMmMax": 4.7,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      47
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1543,18 +1615,30 @@
       "Rosewood",
       "Blue Lotus"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1569,11 +1653,17 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1597,10 +1687,33 @@
     "variantsCount": 6,
     "minPrice": 88,
     "maxPrice": 124,
+    "variantPriceValues": [
+      88,
+      114,
+      124
+    ],
     "priceCurrency": "USD",
     "minGrams": 3792,
     "maxGrams": 4191,
+    "variantGramsValues": [
+      3792,
+      4191
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2039,18 +2152,30 @@
       "Midnight",
       "Elderberry Midnight"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2064,7 +2189,7 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
@@ -2081,10 +2206,32 @@
     "variantsCount": 5,
     "minPrice": 128,
     "maxPrice": 138,
+    "variantPriceValues": [
+      128,
+      138
+    ],
     "priceCurrency": "USD",
     "minGrams": 2631,
     "maxGrams": 2948,
+    "variantGramsValues": [
+      2631,
+      2948
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2185,18 +2332,30 @@
       "Terracotta",
       "Midnight"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2211,11 +2370,17 @@
       "originalText": "4mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -2230,10 +2395,29 @@
     "variantsCount": 3,
     "minPrice": 104,
     "maxPrice": 104,
+    "variantPriceValues": [
+      104
+    ],
     "priceCurrency": "USD",
     "minGrams": 1678,
     "maxGrams": 1678,
+    "variantGramsValues": [
+      1678
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1800
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2331,13 +2515,24 @@
       "Indulge",
       "La Rana"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2352,12 +2547,24 @@
       "originalText": "4mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -2383,10 +2590,33 @@
     "variantsCount": 9,
     "minPrice": 74,
     "maxPrice": 104,
+    "variantPriceValues": [
+      74,
+      96,
+      104
+    ],
     "priceCurrency": "USD",
     "minGrams": 2894,
     "maxGrams": 3193,
+    "variantGramsValues": [
+      2894,
+      3193
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2925,18 +3155,30 @@
       "Blue Toad Midnight",
       "Ratio"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2951,12 +3193,23 @@
       "originalText": "1.5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight"
@@ -2979,10 +3232,33 @@
     "variantsCount": 16,
     "minPrice": 45,
     "maxPrice": 58,
+    "variantPriceValues": [
+      45,
+      54,
+      58
+    ],
     "priceCurrency": "USD",
     "minGrams": 953,
     "maxGrams": 1043,
+    "variantGramsValues": [
+      953,
+      1043
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      15
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3555,18 +3831,30 @@
       "Yes Please",
       "Tiger"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3581,11 +3869,17 @@
       "originalText": "1.5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight"
@@ -3609,10 +3903,29 @@
     "variantsCount": 2,
     "minPrice": 78,
     "maxPrice": 78,
+    "variantPriceValues": [
+      78
+    ],
     "priceCurrency": "USD",
     "minGrams": 953,
     "maxGrams": 953,
+    "variantGramsValues": [
+      953
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "thicknessMmx10Values": [
+      15
+    ],
+    "lengthCMx10Values": [
+      1800
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3696,13 +4009,24 @@
       "Carbon Black",
       "Dark Lotus"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3717,7 +4041,7 @@
       "originalText": "2mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
@@ -3728,6 +4052,12 @@
       "source": "description",
       "originalText": "2.4 lb"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3752,10 +4082,34 @@
     "variantsCount": 7,
     "minPrice": 64,
     "maxPrice": 84,
+    "variantPriceValues": [
+      64,
+      74,
+      84
+    ],
     "priceCurrency": "USD",
     "minGrams": 1179,
     "maxGrams": 1315,
+    "variantGramsValues": [
+      1179,
+      1197,
+      1315
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      20
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4032,18 +4386,30 @@
       "Black Night",
       "Blue Lotus"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4058,13 +4424,13 @@
       "originalText": "6mm"
     },
     "length": {
-      "value": 78,
+      "value": 198,
       "unit": "cm",
       "source": "options",
       "originalText": "Squared 78x78\" (198x198cm)"
     },
     "width": {
-      "value": 78,
+      "value": 198,
       "unit": "cm",
       "source": "options",
       "originalText": "Squared 78x78\" (198x198cm)"
@@ -4093,10 +4459,40 @@
     "variantsCount": 2,
     "minPrice": 350,
     "maxPrice": 350,
+    "variantPriceValues": [
+      350
+    ],
     "priceCurrency": "USD",
     "minGrams": 11793,
     "maxGrams": 11793,
+    "variantGramsValues": [
+      11793
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 198,
+    "lengthCmMax": 198,
+    "widthCmMin": 198,
+    "widthCmMax": 198,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1980
+    ],
+    "widthCMx10Values": [
+      1980
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1980,
+        "widthCMx10": 1980
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4264,14 +4660,27 @@
       "Black Sage",
       "Black"
     ],
-    "availableSizes": [
-      {
-        "length": 78,
-        "width": 78,
-        "unit": "cm",
-        "originalString": "Squared 78x78\" (198x198cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 198,
+            "widthCm": 198
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Squared 78x78\" (198x198cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4286,13 +4695,13 @@
       "originalText": "6mm"
     },
     "length": {
-      "value": 79,
+      "value": 200,
       "unit": "cm",
       "source": "options",
       "originalText": "Long & Wide 79x52\" (200x132cm)"
     },
     "width": {
-      "value": 52,
+      "value": 132,
       "unit": "cm",
       "source": "options",
       "originalText": "Long & Wide 79x52\" (200x132cm)"
@@ -4322,10 +4731,40 @@
     "variantsCount": 2,
     "minPrice": 288,
     "maxPrice": 288,
+    "variantPriceValues": [
+      288
+    ],
     "priceCurrency": "USD",
     "minGrams": 9979,
     "maxGrams": 9979,
+    "variantGramsValues": [
+      9979
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 200,
+    "lengthCmMax": 200,
+    "widthCmMin": 132,
+    "widthCmMax": 132,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2000
+    ],
+    "widthCMx10Values": [
+      1320
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2000,
+        "widthCMx10": 1320
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4397,14 +4836,27 @@
       "Black",
       "Midnight"
     ],
-    "availableSizes": [
-      {
-        "length": 79,
-        "width": 52,
-        "unit": "cm",
-        "originalString": "Long & Wide 79x52\" (200x132cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 200,
+            "widthCm": 132
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Long & Wide 79x52\" (200x132cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4419,13 +4871,13 @@
       "originalText": "4.7mm"
     },
     "length": {
-      "value": 79,
+      "value": 200,
       "unit": "cm",
       "source": "options",
       "originalText": "Long & Wide 79x30\" (200x76cm)"
     },
     "width": {
-      "value": 30,
+      "value": 76,
       "unit": "cm",
       "source": "options",
       "originalText": "Long & Wide 79x30\" (200x76cm)"
@@ -4455,10 +4907,40 @@
     "variantsCount": 2,
     "minPrice": 144,
     "maxPrice": 144,
+    "variantPriceValues": [
+      144
+    ],
     "priceCurrency": "USD",
     "minGrams": 3175,
     "maxGrams": 3175,
+    "variantGramsValues": [
+      3175
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.7,
+    "thicknessMmMax": 4.7,
+    "lengthCmMin": 200,
+    "lengthCmMax": 200,
+    "widthCmMin": 76,
+    "widthCmMax": 76,
+    "thicknessMmx10Values": [
+      47
+    ],
+    "lengthCMx10Values": [
+      2000
+    ],
+    "widthCMx10Values": [
+      760
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2000,
+        "widthCMx10": 760
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4530,14 +5012,27 @@
       "Black",
       "Midnight"
     ],
-    "availableSizes": [
-      {
-        "length": 79,
-        "width": 30,
-        "unit": "cm",
-        "originalString": "Long & Wide 79x30\" (200x76cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 200,
+            "widthCm": 76
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Long & Wide 79x30\" (200x76cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4552,11 +5047,18 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -4577,10 +5079,31 @@
     "variantsCount": 7,
     "minPrice": 58,
     "maxPrice": 72,
+    "variantPriceValues": [
+      58,
+      61,
+      72
+    ],
     "priceCurrency": "USD",
     "minGrams": 1678,
     "maxGrams": 1678,
+    "variantGramsValues": [
+      1678
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1800
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4782,13 +5305,24 @@
       "Magic (Purple)",
       "Elderberry"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4803,7 +5337,7 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 172.72,
+      "value": 172,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 68\" (172cm)"
@@ -4831,10 +5365,30 @@
     "variantsCount": 7,
     "minPrice": 50,
     "maxPrice": 62,
+    "variantPriceValues": [
+      50,
+      62
+    ],
     "priceCurrency": "USD",
     "minGrams": 953,
     "maxGrams": 953,
+    "variantGramsValues": [
+      953
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 172,
+    "lengthCmMax": 172,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1720
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -5144,13 +5698,24 @@
       "Steel Grey",
       "Elderberry Thunder"
     ],
-    "availableLengths": [
-      {
-        "value": 68,
-        "unit": "cm",
-        "originalString": "Standard 68\" (172cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 172,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 68\" (172cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -5159,13 +5724,13 @@
     "slug": "manduka-shala-yoga-rug",
     "description": "A sustainable yoga rug crafted by hand for your outdoor practices and easy flows.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMindfully made from pre-consumer apparel scraps, the Shala Yoga Rug pays homage to early yogic traditions while also supporting the craftsmanship of artisan weavers. The intricate weave provides support in a machine washable rug for a light flow or meditation at the beach or on an outside surface at your favorite adventure.",
     "length": {
-      "value": 71,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "71\" x 26\" (180cm x 66cm)"
     },
     "width": {
-      "value": 26,
+      "value": 66,
       "unit": "cm",
       "source": "options",
       "originalText": "71\" x 26\" (180cm x 66cm)"
@@ -5191,10 +5756,35 @@
     "variantsCount": 3,
     "minPrice": 98,
     "maxPrice": 98,
+    "variantPriceValues": [
+      98
+    ],
     "priceCurrency": "USD",
     "minGrams": 1043,
     "maxGrams": 1043,
+    "variantGramsValues": [
+      1043
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "widthCmMin": 66,
+    "widthCmMax": 66,
+    "lengthCMx10Values": [
+      1800
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1800,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -5346,14 +5936,27 @@
       "Indulge",
       "Flaneur"
     ],
-    "availableSizes": [
-      {
-        "length": 71,
-        "width": 26,
-        "unit": "cm",
-        "originalString": "71\" x 26\" (180cm x 66cm)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 180,
+            "widthCm": 66
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "71\" x 26\" (180cm x 66cm)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -5368,11 +5971,17 @@
       "originalText": "5mm"
     },
     "length": {
-      "value": 180.34,
+      "value": 180,
       "unit": "cm",
       "source": "options",
       "originalText": "Standard 71\" (180cm)"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5396,10 +6005,33 @@
     "variantsCount": 4,
     "minPrice": 80,
     "maxPrice": 90,
+    "variantPriceValues": [
+      80,
+      90
+    ],
     "priceCurrency": "USD",
     "minGrams": 2812,
     "maxGrams": 4191,
+    "variantGramsValues": [
+      2812,
+      3792,
+      4191
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 200,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1800,
+      2000
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -5786,17 +6418,29 @@
       "Charcoal (Grey)",
       "Midnight"
     ],
-    "availableLengths": [
-      {
-        "value": 71,
-        "unit": "cm",
-        "originalString": "Standard 71\" (180cm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 79,
-        "unit": "cm",
-        "originalString": "Long 79\" (200cm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 180,
+          "sourceOptionName": "Size",
+          "rawValue": "Standard 71\" (180cm)",
+          "confidence": 1
+        },
+        {
+          "value": 200,
+          "sourceOptionName": "Size",
+          "rawValue": "Long 79\" (200cm)",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]

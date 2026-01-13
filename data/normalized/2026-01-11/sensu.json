@@ -12,6 +12,12 @@
       "originalText": "15 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight",
@@ -32,7 +38,13 @@
     "variantsCount": 1,
     "minPrice": 39.99,
     "maxPrice": 39.99,
+    "variantPriceValues": [
+      39.99
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -113,18 +125,30 @@
       "originalText": "8.5mm"
     },
     "length": {
-      "value": 6,
+      "value": 183,
       "unit": "cm",
       "source": "description",
-      "originalText": "6x4 "
+      "originalText": "183cm x 122cm "
     },
     "width": {
-      "value": 4,
+      "value": 122,
       "unit": "cm",
       "source": "description",
-      "originalText": "6x4 "
+      "originalText": "183cm x 122cm "
     },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -144,10 +168,48 @@
     "variantsCount": 2,
     "minPrice": 129.99,
     "maxPrice": 209.99,
+    "variantPriceValues": [
+      129.99,
+      209.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 8000,
     "maxGrams": 12000,
+    "variantGramsValues": [
+      8000,
+      12000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8.5,
+    "thicknessMmMax": 8.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "widthCmMin": 121.92,
+    "widthCmMax": 152.4,
+    "thicknessMmx10Values": [
+      85
+    ],
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "widthCMx10Values": [
+      1219,
+      1524
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 1219
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 1524
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Select Mat Size",
@@ -225,7 +287,37 @@
         "height": 2000,
         "position": 11
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 121.92
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 6' x 4'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 152.4
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 7' x 5'",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -239,7 +331,31 @@
       "source": "description",
       "originalText": "7mm"
     },
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6’x4’ "
+    },
+    "width": {
+      "value": 121.92,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6’x4’ "
+    },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -261,10 +377,55 @@
     "variantsCount": 3,
     "minPrice": 99.99,
     "maxPrice": 219.99,
+    "variantPriceValues": [
+      99.99,
+      149.99,
+      219.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 4000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      4000,
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 274.32,
+    "widthCmMin": 121.92,
+    "widthCmMax": 182.88,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1829,
+      2134,
+      2743
+    ],
+    "widthCMx10Values": [
+      1219,
+      1524,
+      1829
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 1219
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 1524
+      },
+      {
+        "lengthCMx10": 2743,
+        "widthCMx10": 1829
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Select Mat Size",
@@ -349,6 +510,45 @@
         "height": 2000,
         "position": 12
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 121.92
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 6' x 4'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 152.4
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 7' x 5'",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 274.32,
+            "widthCm": 182.88
+          },
+          "sourceOptionName": "Select Mat Size",
+          "rawValue": "Size 9' x 6'",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]

@@ -1,0 +1,131 @@
+{
+  "brandSlug": "houseofmats",
+  "extractedAt": "2026-01-12T15:38:58.783Z",
+  "products": [
+    {
+      "shopifyId": 7167222743191,
+      "handle": "familia",
+      "slug": "houseofmats-familia",
+      "productUrl": "https://www.houseofmats.com/products/familia",
+      "extractedAt": "2026-01-12T15:39:01.382Z",
+      "appendText": {
+        "text": "Size: 183cm x 63cm 4mm 3kg",
+        "confidence": 0.75,
+        "headings": [
+          "Size"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "183cm x 63cm",
+            "4mm",
+            "3kg"
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8885758329166,
+      "handle": "airy-blue",
+      "slug": "houseofmats-airy-blue",
+      "productUrl": "https://www.houseofmats.com/products/airy-blue",
+      "extractedAt": "2026-01-12T15:39:03.671Z",
+      "appendText": {
+        "text": "Size: 185cm x68cm 3.5mm 2.6 kg",
+        "confidence": 0.75,
+        "headings": [
+          "Size"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "185cm x68cm",
+            "3.5mm",
+            "2.6 kg"
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8885759115598,
+      "handle": "clay",
+      "slug": "houseofmats-clay",
+      "productUrl": "https://www.houseofmats.com/products/clay",
+      "extractedAt": "2026-01-12T15:39:05.980Z",
+      "appendText": {
+        "text": "Size: 185cm x68cm 3.5mm 2.6 kg",
+        "confidence": 0.75,
+        "headings": [
+          "Size"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "185cm x68cm",
+            "3.5mm",
+            "2.6 kg"
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 7545952862359,
+      "handle": "daylight-moth-by-ula-basinska-11",
+      "slug": "houseofmats-daylight-moth-by-ula-basinska-11",
+      "productUrl": "https://www.houseofmats.com/products/daylight-moth-by-ula-basinska-11",
+      "extractedAt": "2026-01-12T15:39:08.616Z",
+      "appendText": {
+        "text": "Size: 183cm x 63cm 4mm 3.5kg",
+        "confidence": 0.75,
+        "headings": [
+          "Size"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "183cm x 63cm",
+            "4mm",
+            "3.5kg"
+          ],
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "shopifyId": 8885754790222,
+      "handle": "forest-green",
+      "slug": "houseofmats-forest-green",
+      "productUrl": "https://www.houseofmats.com/products/forest-green",
+      "extractedAt": "2026-01-12T15:39:11.064Z",
+      "appendText": {
+        "text": "Size: 185cm x 68cm 3.5mm 3.4 kg",
+        "confidence": 0.75,
+        "headings": [
+          "Size"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Size",
+          "items": [
+            "185cm x 68cm",
+            "3.5mm",
+            "3.4 kg"
+          ],
+          "confidence": 0.75
+        }
+      ]
+    }
+  ]
+}

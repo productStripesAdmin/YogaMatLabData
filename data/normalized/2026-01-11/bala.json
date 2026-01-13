@@ -11,6 +11,12 @@
       "source": "description",
       "originalText": "12MM"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight"
@@ -31,10 +37,24 @@
     "variantsCount": 6,
     "minPrice": 89,
     "maxPrice": 89,
+    "variantPriceValues": [
+      89
+    ],
     "priceCurrency": "USD",
     "minGrams": 2676,
     "maxGrams": 2676,
+    "variantGramsValues": [
+      2676
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "thicknessMmx10Values": [
+      120
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -300,6 +320,18 @@
       "source": "options",
       "originalText": "5 MM"
     },
+    "width": {
+      "value": 0.5,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "5 MM"
+    },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -345,10 +377,31 @@
     "variantsCount": 9,
     "minPrice": 99,
     "maxPrice": 129,
+    "variantPriceValues": [
+      99,
+      129
+    ],
     "priceCurrency": "USD",
     "minGrams": 4400,
     "maxGrams": 4400,
+    "variantGramsValues": [
+      4400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 8,
+    "widthCmMin": 0.5,
+    "widthCmMax": 0.5,
+    "thicknessMmx10Values": [
+      50,
+      80
+    ],
+    "widthCMx10Values": [
+      5
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -795,18 +848,30 @@
       "Sage",
       "Charcoal RL"
     ],
-    "availableThicknesses": [
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5 MM"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 8,
-        "unit": "mm",
-        "originalString": "8 MM"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "Size",
+          "rawValue": "5 MM",
+          "confidence": 1
+        },
+        {
+          "value": 8,
+          "sourceOptionName": "Size",
+          "rawValue": "8 MM",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -820,6 +885,12 @@
       "source": "description",
       "originalText": "5MM"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Antimicrobial"
     ],
@@ -839,10 +910,25 @@
     "variantsCount": 5,
     "minPrice": 120,
     "maxPrice": 129,
+    "variantPriceValues": [
+      120,
+      129
+    ],
     "priceCurrency": "USD",
     "minGrams": 2821,
     "maxGrams": 2821,
+    "variantGramsValues": [
+      2821
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1136,6 +1222,12 @@
       "source": "description",
       "originalText": "5MM"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -1156,10 +1248,24 @@
     "variantsCount": 5,
     "minPrice": 99,
     "maxPrice": 99,
+    "variantPriceValues": [
+      99
+    ],
     "priceCurrency": "USD",
     "minGrams": 3538,
     "maxGrams": 3538,
+    "variantGramsValues": [
+      3538
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1445,9 +1551,18 @@
     "variantsCount": 5,
     "minPrice": 25,
     "maxPrice": 25,
+    "variantPriceValues": [
+      25
+    ],
     "priceCurrency": "USD",
     "minGrams": 118,
     "maxGrams": 118,
+    "variantGramsValues": [
+      118
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1749,9 +1864,18 @@
     "variantsCount": 5,
     "minPrice": 65,
     "maxPrice": 65,
+    "variantPriceValues": [
+      65
+    ],
     "priceCurrency": "USD",
     "minGrams": 454,
     "maxGrams": 454,
+    "variantGramsValues": [
+      454
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2044,9 +2168,18 @@
     "variantsCount": 6,
     "minPrice": 65,
     "maxPrice": 65,
+    "variantPriceValues": [
+      65
+    ],
     "priceCurrency": "USD",
     "minGrams": 454,
     "maxGrams": 454,
+    "variantGramsValues": [
+      454
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2360,7 +2493,13 @@
     "variantsCount": 1,
     "minPrice": 111.6,
     "maxPrice": 111.6,
+    "variantPriceValues": [
+      111.6
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2403,7 +2542,13 @@
     "variantsCount": 1,
     "minPrice": 138.6,
     "maxPrice": 138.6,
+    "variantPriceValues": [
+      138.6
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2429,6 +2574,12 @@
     "name": "The Perfect (Mat)ch Kit",
     "slug": "bala-the-perfect-match-kit",
     "description": "They really were made for each other. Use them together in your sweatiest practice for the ultimate comfort and grip.\n\nChoose your colors:\n\n1x Play Mat\n1x Play Mat Towel",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -2449,7 +2600,13 @@
     "variantsCount": 1,
     "minPrice": 147.6,
     "maxPrice": 147.6,
+    "variantPriceValues": [
+      147.6
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2504,7 +2661,13 @@
     "variantsCount": 1,
     "minPrice": 179.1,
     "maxPrice": 179.1,
+    "variantPriceValues": [
+      179.1
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2548,7 +2711,13 @@
     "variantsCount": 1,
     "minPrice": 209.7,
     "maxPrice": 209.7,
+    "variantPriceValues": [
+      209.7
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2592,7 +2761,13 @@
     "variantsCount": 1,
     "minPrice": 209.7,
     "maxPrice": 209.7,
+    "variantPriceValues": [
+      209.7
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2636,7 +2811,13 @@
     "variantsCount": 1,
     "minPrice": 210.6,
     "maxPrice": 210.6,
+    "variantPriceValues": [
+      210.6
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2680,7 +2861,13 @@
     "variantsCount": 1,
     "minPrice": 376.2,
     "maxPrice": 376.2,
+    "variantPriceValues": [
+      376.2
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2724,7 +2911,13 @@
     "variantsCount": 1,
     "minPrice": 250.2,
     "maxPrice": 250.2,
+    "variantPriceValues": [
+      250.2
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2768,7 +2961,13 @@
     "variantsCount": 1,
     "minPrice": 196.2,
     "maxPrice": 196.2,
+    "variantPriceValues": [
+      196.2
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2818,7 +3017,13 @@
     "variantsCount": 1,
     "minPrice": 169.2,
     "maxPrice": 169.2,
+    "variantPriceValues": [
+      169.2
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2862,7 +3067,13 @@
     "variantsCount": 1,
     "minPrice": 276.3,
     "maxPrice": 276.3,
+    "variantPriceValues": [
+      276.3
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2906,7 +3117,13 @@
     "variantsCount": 1,
     "minPrice": 206.1,
     "maxPrice": 206.1,
+    "variantPriceValues": [
+      206.1
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {

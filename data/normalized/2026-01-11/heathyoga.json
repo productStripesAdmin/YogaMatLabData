@@ -15,15 +15,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -46,10 +58,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -111,15 +153,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -143,10 +197,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -208,15 +292,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -240,10 +336,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -305,15 +431,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -337,10 +475,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -402,15 +570,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -434,10 +614,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -475,15 +685,27 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\"\n"
     },
-    "material": "PVC",
+    "material": "TPE",
+    "materials": [
+      "TPE",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -507,10 +729,40 @@
     "variantsCount": 1,
     "minPrice": 64.9,
     "maxPrice": 64.9,
+    "variantPriceValues": [
+      64.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 1089,
     "maxGrams": 1089,
+    "variantGramsValues": [
+      1089
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",

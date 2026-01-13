@@ -1,0 +1,86 @@
+{
+  "brandSlug": "stakt",
+  "extractedAt": "2026-01-13T03:47:23.635Z",
+  "products": [
+    {
+      "shopifyId": 8037178015926,
+      "handle": "the-stakt-mat-pro",
+      "slug": "stakt-the-stakt-mat-pro",
+      "productUrl": "https://shopstakt.com/products/the-stakt-mat-pro",
+      "extractedAt": "2026-01-13T03:47:33.638Z",
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "shopifyId": 6599577534646,
+      "handle": "the-mat",
+      "slug": "stakt-the-mat",
+      "productUrl": "https://shopstakt.com/products/the-mat",
+      "extractedAt": "2026-01-13T03:47:44.645Z",
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "shopifyId": 8384218300598,
+      "handle": "stakt-mat-pro-xl",
+      "slug": "stakt-stakt-mat-pro-xl",
+      "productUrl": "https://shopstakt.com/products/stakt-mat-pro-xl",
+      "extractedAt": "2026-01-13T03:47:55.659Z",
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "shopifyId": 8106896621750,
+      "handle": "the-strength-set",
+      "slug": "stakt-the-strength-set",
+      "productUrl": "https://shopstakt.com/products/the-strength-set",
+      "extractedAt": "2026-01-13T03:48:06.665Z",
+      "errors": [
+        "fetch failed"
+      ]
+    },
+    {
+      "shopifyId": 8099435675830,
+      "handle": "the-stakt-starter-set",
+      "slug": "stakt-the-stakt-starter-set",
+      "productUrl": "https://shopstakt.com/products/the-stakt-starter-set",
+      "extractedAt": "2026-01-13T03:48:10.757Z",
+      "errors": [
+        "Append text headings not found: Product details, Product Details"
+      ]
+    },
+    {
+      "shopifyId": 8354102050998,
+      "handle": "the-bring-stakt-anywhere-set",
+      "slug": "stakt-the-bring-stakt-anywhere-set",
+      "productUrl": "https://shopstakt.com/products/the-bring-stakt-anywhere-set",
+      "extractedAt": "2026-01-13T03:48:12.404Z",
+      "errors": [
+        "Append text headings not found: Product details, Product Details"
+      ]
+    },
+    {
+      "shopifyId": 8354083143862,
+      "handle": "the-holiday-gift-set",
+      "slug": "stakt-the-holiday-gift-set",
+      "productUrl": "https://shopstakt.com/products/the-holiday-gift-set",
+      "extractedAt": "2026-01-13T03:48:14.238Z",
+      "errors": [
+        "Append text headings not found: Product details, Product Details"
+      ]
+    },
+    {
+      "shopifyId": 8100530258102,
+      "handle": "the-pilates-set",
+      "slug": "stakt-the-pilates-set",
+      "productUrl": "https://shopstakt.com/products/the-pilates-set",
+      "extractedAt": "2026-01-13T03:48:15.718Z",
+      "errors": [
+        "Append text headings not found: Product details, Product Details"
+      ]
+    }
+  ]
+}

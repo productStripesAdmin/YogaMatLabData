@@ -16,6 +16,7 @@ These fields are useful for basic display/sorting when a product clearly has a s
 - `length?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }`
 - `width?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }`
 - `diameter?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }` (round/circular mats)
+- `rolledDiameter?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }` (diameter when rolled, e.g. `6 in. diameter rolled`)
 
 ## Option-derived extractions
 
@@ -53,6 +54,7 @@ dimensionOptions?: {
   lengthCm?: Array<{ value: number; sourceOptionName: string; rawValue: string; confidence: number }>;
   widthCm?: Array<{ value: number; sourceOptionName: string; rawValue: string; confidence: number }>;
   diameterCm?: Array<{ value: number; sourceOptionName: string; rawValue: string; confidence: number }>;
+  rolledDiameterCm?: Array<{ value: number; sourceOptionName: string; rawValue: string; confidence: number }>;
   sizePairsCm?: Array<{
     value: { lengthCm: number; widthCm: number };
     sourceOptionName: string;
@@ -75,11 +77,12 @@ To make Convex queries simpler (and index-friendly), the pipeline also emits sum
 - `lengthCmMin` / `lengthCmMax` (includes L×W pairs)
 - `widthCmMin` / `widthCmMax` (includes L×W pairs)
 - `diameterCmMin` / `diameterCmMax`
+- `rolledDiameterCmMin` / `rolledDiameterCmMax`
 
 And integer-coded arrays for exact-match filters without float equality issues:
 
 - `thicknessMmx10Values`: unique thicknesses encoded as `mm * 10` (e.g., `4.5mm -> 45`)
-- `lengthCMx10Values` / `widthCMx10Values` / `diameterCMx10Values`: unique values encoded as `cm * 10`
+- `lengthCMx10Values` / `widthCMx10Values` / `diameterCMx10Values` / `rolledDiameterCMx10Values`: unique values encoded as `cm * 10`
 - `sizePairsCMx10Values`: unique pairs as `{ lengthCMx10, widthCMx10 }`
 
 ## Weight (variants)
@@ -90,3 +93,17 @@ This pipeline also captures per-variant weight signals without persisting full v
 - `variantGramsZeroOrMissingCount?: number`: variants with missing/invalid/0 grams (<= 0 or not finite)
 - `variantGramsCoverage?: number`: share of variants with positive grams
 - `variantGramsAllZeroOrMissing?: boolean`: true if no variant has positive grams
+
+## Price (variants)
+
+- `minPrice` / `maxPrice`: range across variant prices
+- `variantPriceValues?: number[]`: unique variant prices (sorted asc)
+
+## Material & Texture
+
+- `material`: primary material (title → tags → description)
+- `materials?: MaterialType[]`: all detected material components (e.g., cork + natural rubber blends)
+- `materialSource?: 'title' | 'tags' | 'description'` and `materialConfidence?: number` (0..1) for QA
+- `texture`: primary texture (if detected)
+- `textures?: TextureType[]`: all detected texture signals
+- `textureSource?: 'title' | 'tags' | 'description'` and `textureConfidence?: number` (0..1) for QA

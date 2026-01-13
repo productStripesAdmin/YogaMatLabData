@@ -11,17 +11,11 @@
       "source": "options",
       "originalText": "Thicknes: 3.5MM (Commute)"
     },
-    "length": {
-      "value": 182.88,
-      "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 26\""
-    },
     "width": {
-      "value": 66.04,
+      "value": 0.35,
       "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 26\""
+      "source": "options",
+      "originalText": "Thicknes: 3.5MM (Commute)"
     },
     "weight": {
       "value": 2.8,
@@ -29,7 +23,22 @@
       "source": "description",
       "originalText": "2.8 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -57,10 +66,31 @@
     "variantsCount": 2,
     "minPrice": 97,
     "maxPrice": 107,
+    "variantPriceValues": [
+      97,
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 4.5,
+    "widthCmMin": 0.35,
+    "widthCmMax": 0.35,
+    "thicknessMmx10Values": [
+      35,
+      45
+    ],
+    "widthCMx10Values": [
+      4
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -133,18 +163,30 @@
         "position": 10
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "Thicknes: 3.5MM (Commute)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 4.5,
-        "unit": "mm",
-        "originalString": "Thickness: 4.5MM (Standard Thick)"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Size",
+          "rawValue": "Thicknes: 3.5MM (Commute)",
+          "confidence": 0.7000000000000001
+        },
+        {
+          "value": 4.5,
+          "sourceOptionName": "Size",
+          "rawValue": "Thickness: 4.5MM (Standard Thick)",
+          "confidence": 0.8500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -162,13 +204,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -176,7 +218,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -202,10 +259,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -306,13 +393,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -320,7 +407,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -349,10 +451,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -435,13 +567,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -449,7 +581,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -475,10 +622,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -557,17 +734,11 @@
       "source": "options",
       "originalText": "3.5MM (COMMUTE)"
     },
-    "length": {
-      "value": 182.88,
-      "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 26\""
-    },
     "width": {
-      "value": 66.04,
+      "value": 0.35,
       "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 26\""
+      "source": "options",
+      "originalText": "3.5MM (COMMUTE)"
     },
     "weight": {
       "value": 2.9,
@@ -575,7 +746,22 @@
       "source": "description",
       "originalText": "2.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -607,10 +793,31 @@
     "variantsCount": 2,
     "minPrice": 92,
     "maxPrice": 99,
+    "variantPriceValues": [
+      92,
+      99
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 4.5,
+    "widthCmMin": 0.35,
+    "widthCmMax": 0.35,
+    "thicknessMmx10Values": [
+      35,
+      45
+    ],
+    "widthCMx10Values": [
+      4
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -677,18 +884,30 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5MM (COMMUTE)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 4.5,
-        "unit": "mm",
-        "originalString": "4.5MM (THICK)"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Size",
+          "rawValue": "3.5MM (COMMUTE)",
+          "confidence": 0.7000000000000001
+        },
+        {
+          "value": 4.5,
+          "sourceOptionName": "Size",
+          "rawValue": "4.5MM (THICK)",
+          "confidence": 0.8500000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -706,13 +925,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -720,7 +939,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -746,10 +980,40 @@
     "variantsCount": 1,
     "minPrice": 105,
     "maxPrice": 105,
+    "variantPriceValues": [
+      105
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -796,13 +1060,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -810,7 +1074,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -836,10 +1115,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -934,13 +1243,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -948,7 +1257,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -974,10 +1298,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1018,13 +1372,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1032,7 +1386,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1057,10 +1426,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1125,13 +1524,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 2.9,
@@ -1139,7 +1538,22 @@
       "source": "description",
       "originalText": "2.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1163,10 +1577,40 @@
     "variantsCount": 1,
     "minPrice": 97,
     "maxPrice": 97,
+    "variantPriceValues": [
+      97
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      35
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1243,13 +1687,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1257,7 +1701,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1283,10 +1742,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1375,13 +1864,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1389,7 +1878,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1416,10 +1920,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1472,13 +2006,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1486,7 +2020,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1513,10 +2062,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1593,13 +2172,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1607,7 +2186,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1635,10 +2229,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1715,13 +2339,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1729,7 +2353,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1758,10 +2397,40 @@
     "variantsCount": 1,
     "minPrice": 107,
     "maxPrice": 107,
+    "variantPriceValues": [
+      107
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1832,13 +2501,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 3.1,
@@ -1846,7 +2515,22 @@
       "source": "description",
       "originalText": "3.1 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1872,10 +2556,40 @@
     "variantsCount": 1,
     "minPrice": 104,
     "maxPrice": 104,
+    "variantPriceValues": [
+      104
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1946,13 +2660,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 2.9,
@@ -1960,7 +2674,22 @@
       "source": "description",
       "originalText": "2.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -1984,10 +2713,40 @@
     "variantsCount": 1,
     "minPrice": 99,
     "maxPrice": 99,
+    "variantPriceValues": [
+      99
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2017,13 +2776,24 @@
         "position": 3
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 4.5,
-        "unit": "mm",
-        "originalString": "4.5MM (Thick)"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 4.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "4.5MM (Thick)",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2041,13 +2811,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 2.9,
@@ -2055,7 +2825,22 @@
       "source": "description",
       "originalText": "2.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -2081,10 +2866,40 @@
     "variantsCount": 1,
     "minPrice": 97,
     "maxPrice": 97,
+    "variantPriceValues": [
+      97
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      35
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2191,13 +3006,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 2.9,
@@ -2205,7 +3020,22 @@
       "source": "description",
       "originalText": "2.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide",
@@ -2229,10 +3059,40 @@
     "variantsCount": 1,
     "minPrice": 97,
     "maxPrice": 97,
+    "variantPriceValues": [
+      97
+    ],
     "priceCurrency": "USD",
     "minGrams": 3600,
     "maxGrams": 3600,
+    "variantGramsValues": [
+      3600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      35
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2345,13 +3205,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 24\""
+      "originalText": "72\" x 24\" "
     },
     "weight": {
       "value": 1.9,
@@ -2359,7 +3219,22 @@
       "source": "description",
       "originalText": "1.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -2388,10 +3263,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3500,
     "maxGrams": 3500,
+    "variantGramsValues": [
+      3500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      20
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2452,17 +3357,11 @@
       "source": "options",
       "originalText": "Chakras (2mm)"
     },
-    "length": {
-      "value": 182.88,
-      "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 24\""
-    },
     "width": {
-      "value": 60.96,
+      "value": 0.2,
       "unit": "cm",
-      "source": "description",
-      "originalText": "72\" x 24\""
+      "source": "options",
+      "originalText": "Chakras (2mm)"
     },
     "weight": {
       "value": 1.9,
@@ -2470,7 +3369,22 @@
       "source": "description",
       "originalText": "1.9 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -2494,10 +3408,29 @@
     "variantsCount": 4,
     "minPrice": 69,
     "maxPrice": 69,
+    "variantPriceValues": [
+      69
+    ],
     "priceCurrency": "USD",
     "minGrams": 3500,
     "maxGrams": 3500,
+    "variantGramsValues": [
+      3500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "widthCmMin": 0.2,
+    "widthCmMax": 0.2,
+    "thicknessMmx10Values": [
+      20
+    ],
+    "widthCMx10Values": [
+      2
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2584,28 +3517,42 @@
         "position": 12
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 2,
-        "unit": "mm",
-        "originalString": "Chakras (2mm)"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 4,
+        "parsedCount": 4,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 2,
-        "unit": "mm",
-        "originalString": "Moon Phases (2mm)"
-      },
-      {
-        "value": 2,
-        "unit": "mm",
-        "originalString": "Tree of Life (2mm)"
-      },
-      {
-        "value": 2,
-        "unit": "mm",
-        "originalString": "Blossom (2mm)"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 2,
+          "sourceOptionName": "Size",
+          "rawValue": "Chakras (2mm)",
+          "confidence": 0.7000000000000001
+        },
+        {
+          "value": 2,
+          "sourceOptionName": "Size",
+          "rawValue": "Moon Phases (2mm)",
+          "confidence": 0.7000000000000001
+        },
+        {
+          "value": 2,
+          "sourceOptionName": "Size",
+          "rawValue": "Tree of Life (2mm)",
+          "confidence": 0.7000000000000001
+        },
+        {
+          "value": 2,
+          "sourceOptionName": "Size",
+          "rawValue": "Blossom (2mm)",
+          "confidence": 0.7000000000000001
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2623,13 +3570,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 30\""
+      "originalText": "72\" x 30\" "
     },
     "width": {
       "value": 76.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 30\""
+      "originalText": "72\" x 30\" "
     },
     "weight": {
       "value": 4,
@@ -2637,7 +3584,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Extra Wide"
@@ -2668,10 +3630,40 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 76.2,
+    "widthCmMax": 76.2,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      762
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 762
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2724,13 +3716,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "width": {
       "value": 71.12,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "weight": {
       "value": 4.4,
@@ -2738,7 +3730,22 @@
       "source": "description",
       "originalText": "4.4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -2769,10 +3776,40 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 4100,
     "maxGrams": 4100,
+    "variantGramsValues": [
+      4100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2843,13 +3880,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "width": {
       "value": 71.12,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "weight": {
       "value": 4.4,
@@ -2857,7 +3894,22 @@
       "source": "description",
       "originalText": "4.4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -2886,10 +3938,40 @@
     "variantsCount": 1,
     "minPrice": 119,
     "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
     "priceCurrency": "USD",
     "minGrams": 4100,
     "maxGrams": 4100,
+    "variantGramsValues": [
+      4100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2984,13 +4066,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "width": {
       "value": 71.12,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 28\""
+      "originalText": "80\" x 28\" "
     },
     "weight": {
       "value": 4.4,
@@ -2998,7 +4080,22 @@
       "source": "description",
       "originalText": "4.4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -3026,10 +4123,40 @@
     "variantsCount": 1,
     "minPrice": 119,
     "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
     "priceCurrency": "USD",
     "minGrams": 4100,
     "maxGrams": 4100,
+    "variantGramsValues": [
+      4100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3100,13 +4227,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4.5,
@@ -3114,7 +4241,22 @@
       "source": "description",
       "originalText": "4.5 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3146,10 +4288,40 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3208,13 +4380,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4,
@@ -3222,7 +4394,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3250,10 +4437,40 @@
     "variantsCount": 1,
     "minPrice": 119,
     "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3336,13 +4553,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4,
@@ -3350,7 +4567,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3380,10 +4612,40 @@
     "variantsCount": 1,
     "minPrice": 119,
     "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3448,13 +4710,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4,
@@ -3462,7 +4724,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3491,10 +4768,40 @@
     "variantsCount": 1,
     "minPrice": 119,
     "maxPrice": 119,
+    "variantPriceValues": [
+      119
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3607,13 +4914,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4,
@@ -3621,7 +4928,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3651,10 +4973,40 @@
     "variantsCount": 1,
     "minPrice": 117,
     "maxPrice": 117,
+    "variantPriceValues": [
+      117
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3707,13 +5059,13 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72\" x 26\""
+      "originalText": "72\" x 26\" "
     },
     "weight": {
       "value": 4,
@@ -3721,7 +5073,22 @@
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3751,10 +5118,40 @@
     "variantsCount": 1,
     "minPrice": 117,
     "maxPrice": 117,
+    "variantPriceValues": [
+      117
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3825,13 +5222,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "width": {
       "value": 76.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "weight": {
       "value": 5.5,
@@ -3839,7 +5236,22 @@
       "source": "description",
       "originalText": "5.5 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3874,10 +5286,40 @@
     "variantsCount": 1,
     "minPrice": 127,
     "maxPrice": 127,
+    "variantPriceValues": [
+      127
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 76.2,
+    "widthCmMax": 76.2,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      762
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 762
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3930,13 +5372,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "width": {
       "value": 76.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "weight": {
       "value": 5,
@@ -3944,7 +5386,22 @@
       "source": "description",
       "originalText": "5 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -3975,10 +5432,40 @@
     "variantsCount": 1,
     "minPrice": 135,
     "maxPrice": 135,
+    "variantPriceValues": [
+      135
+    ],
     "priceCurrency": "USD",
     "minGrams": 4300,
     "maxGrams": 4300,
+    "variantGramsValues": [
+      4300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 76.2,
+    "widthCmMax": 76.2,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      762
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 762
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4025,13 +5512,13 @@
       "value": 203.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "width": {
       "value": 76.2,
       "unit": "cm",
       "source": "description",
-      "originalText": "80\" x 30\""
+      "originalText": "80\" x 30\" "
     },
     "weight": {
       "value": 5,
@@ -4039,7 +5526,22 @@
       "source": "description",
       "originalText": "5 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -4071,10 +5573,40 @@
     "variantsCount": 1,
     "minPrice": 135,
     "maxPrice": 135,
+    "variantPriceValues": [
+      135
+    ],
     "priceCurrency": "USD",
     "minGrams": 4500,
     "maxGrams": 4500,
+    "variantGramsValues": [
+      4500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 76.2,
+    "widthCmMax": 76.2,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      762
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 762
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4151,13 +5683,13 @@
       "value": 149.86,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "width": {
       "value": 58.42,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "weight": {
       "value": 2,
@@ -4165,7 +5697,22 @@
       "source": "description",
       "originalText": "2 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -4187,10 +5734,40 @@
     "variantsCount": 1,
     "minPrice": 70,
     "maxPrice": 70,
+    "variantPriceValues": [
+      70
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 149.86,
+    "lengthCmMax": 149.86,
+    "widthCmMin": 58.42,
+    "widthCmMax": 58.42,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1499
+    ],
+    "widthCMx10Values": [
+      584
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1499,
+        "widthCMx10": 584
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4273,13 +5850,13 @@
       "value": 149.86,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "width": {
       "value": 58.42,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "weight": {
       "value": 2,
@@ -4287,7 +5864,22 @@
       "source": "description",
       "originalText": "2 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -4312,10 +5904,40 @@
     "variantsCount": 1,
     "minPrice": 64,
     "maxPrice": 64,
+    "variantPriceValues": [
+      64
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 149.86,
+    "lengthCmMax": 149.86,
+    "widthCmMin": 58.42,
+    "widthCmMax": 58.42,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1499
+    ],
+    "widthCMx10Values": [
+      584
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1499,
+        "widthCMx10": 584
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4350,13 +5972,13 @@
       "value": 149.86,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "width": {
       "value": 58.42,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "weight": {
       "value": 2,
@@ -4364,7 +5986,22 @@
       "source": "description",
       "originalText": "2 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -4387,10 +6024,40 @@
     "variantsCount": 1,
     "minPrice": 70,
     "maxPrice": 70,
+    "variantPriceValues": [
+      70
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 149.86,
+    "lengthCmMax": 149.86,
+    "widthCmMin": 58.42,
+    "widthCmMax": 58.42,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1499
+    ],
+    "widthCMx10Values": [
+      584
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1499,
+        "widthCMx10": 584
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4431,13 +6098,13 @@
       "value": 149.86,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "width": {
       "value": 58.42,
       "unit": "cm",
       "source": "description",
-      "originalText": "59\" x 23\""
+      "originalText": "59\" x 23\" "
     },
     "weight": {
       "value": 2,
@@ -4445,7 +6112,22 @@
       "source": "description",
       "originalText": "2 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Antimicrobial"
@@ -4469,10 +6151,40 @@
     "variantsCount": 1,
     "minPrice": 70,
     "maxPrice": 70,
+    "variantPriceValues": [
+      70
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 149.86,
+    "lengthCmMax": 149.86,
+    "widthCmMin": 58.42,
+    "widthCmMax": 58.42,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1499
+    ],
+    "widthCMx10Values": [
+      584
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1499,
+        "widthCMx10": 584
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4539,13 +6251,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 134.62,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "53\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -4570,10 +6303,29 @@
     "variantsCount": 1,
     "minPrice": 125,
     "maxPrice": 125,
+    "variantPriceValues": [
+      125
+    ],
     "priceCurrency": "USD",
     "minGrams": 7000,
     "maxGrams": 7000,
+    "variantGramsValues": [
+      7000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 134.62,
+    "diameterCmMax": 134.62,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1346
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4616,13 +6368,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 134.62,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "53\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -4646,10 +6419,29 @@
     "variantsCount": 1,
     "minPrice": 134,
     "maxPrice": 134,
+    "variantPriceValues": [
+      134
+    ],
     "priceCurrency": "USD",
     "minGrams": 6000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 134.62,
+    "diameterCmMax": 134.62,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1346
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4728,13 +6520,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 134.62,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "53\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -4759,10 +6572,29 @@
     "variantsCount": 1,
     "minPrice": 129,
     "maxPrice": 129,
+    "variantPriceValues": [
+      129
+    ],
     "priceCurrency": "USD",
     "minGrams": 6000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 134.62,
+    "diameterCmMax": 134.62,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1346
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4859,13 +6691,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 134.62,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "53\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -4889,10 +6742,29 @@
     "variantsCount": 1,
     "minPrice": 134,
     "maxPrice": 134,
+    "variantPriceValues": [
+      134
+    ],
     "priceCurrency": "USD",
     "minGrams": 6000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 134.62,
+    "diameterCmMax": 134.62,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1346
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4965,13 +6837,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 119.38,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "47\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -4997,10 +6890,29 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 6000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 119.38,
+    "diameterCmMax": 119.38,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1194
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5073,13 +6985,34 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "diameter": {
+      "value": 119.38,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "47\" dia"
+    },
     "weight": {
       "value": 4,
       "unit": "kg",
       "source": "description",
       "originalText": "4 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "Cotton",
+      "PVC",
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -5104,10 +7037,29 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 6000,
     "maxGrams": 6000,
+    "variantGramsValues": [
+      6000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "diameterCmMin": 119.38,
+    "diameterCmMax": 119.38,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "diameterCMx10Values": [
+      1194
+    ],
     "shopifyOptions": [
       {
         "name": "Title",

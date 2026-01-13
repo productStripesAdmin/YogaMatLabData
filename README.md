@@ -36,6 +36,7 @@ npm install
 ```bash
 # Run each step individually
 npm run fetch          # Phase 1: Fetch products.json from brands
+npm run enrich         # Phase 1.5: Optional product-page enrichment (e.g. "Core Features")
 npm run normalize      # Phase 2: Transform to unified schema (coming soon)
 npm run aggregate      # Phase 3: Combine all brands (coming soon)
 npm run detect-changes # Phase 4: Detect changes (coming soon)
@@ -52,11 +53,15 @@ See [CLAUDE.md](./CLAUDE.md) for detailed architecture and implementation notes.
 
 Dimension parsing (including round mat `diameter` and canonical `dimensionOptions`) is documented in `docs/DIMENSIONS.md`.
 
+### Product Page Enrichment
+
+Some brands render important fields on the product page (accordion/metafields) that do not appear in `products.json`. Optional enrichment is documented in `docs/ENRICHMENT.md`.
+
 ### Data Flow
 ```
-Convex brands → Extract → Normalize → Aggregate → Detect Changes
-                   ↓          ↓           ↓              ↓
-              data/raw/  data/normalized/ data/aggregated/ data/changes/
+Convex brands → Extract → Enrich → Normalize → Aggregate → Detect Changes
+                   ↓         ↓         ↓          ↓              ↓
+              data/raw/ data/enriched/ data/normalized/ data/aggregated/ data/changes/
 ```
 
 ### Directory Structure
@@ -64,13 +69,15 @@ Convex brands → Extract → Normalize → Aggregate → Detect Changes
 YogaMatLabData/
 ├── config/              # Configuration files
 ├── scripts/             # Pipeline scripts
-│   ├── extract-all-brands.ts
+│   ├── get-brands-from-convex.ts
+│   ├── enrich-data.ts
 │   └── lib/            # Shared utilities
 │       ├── shopify-scraper.ts
 │       ├── image-downloader.ts
 │       └── logger.ts
 ├── data/               # Extracted and processed data
 │   ├── raw/{date}/     # Daily raw extractions
+│   ├── enriched/{date}/ # Optional product-page enrichment
 │   ├── normalized/{date}/
 │   ├── aggregated/{date}/
 │   └── changes/

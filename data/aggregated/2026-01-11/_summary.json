@@ -105,24 +105,25 @@
     "median": 110
   },
   "materialBreakdown": {
-    "Cotton": 27,
-    "Natural Rubber": 245,
-    "PVC": 43,
-    "TPE": 7,
-    "Cork": 58,
+    "Cork": 143,
+    "Cotton": 25,
+    "PVC": 39,
+    "Natural Rubber": 160,
+    "TPE": 13,
+    "Jute": 3,
     "NBR": 2
   },
   "featureBreakdown": {
-    "Eco-Friendly": 346,
+    "Eco-Friendly": 358,
     "Non-Slip": 372,
-    "Lightweight": 142,
-    "Extra Wide": 116,
+    "Lightweight": 169,
+    "Extra Wide": 126,
     "Antimicrobial": 95,
-    "Extra Thick": 126,
-    "Extra Long": 8,
+    "Extra Thick": 127,
+    "Extra Long": 19,
+    "Alignment Marks": 115,
     "Reversible": 19,
     "Premium": 78,
-    "Alignment Marks": 107,
     "Closed-Cell": 19
   }
 }

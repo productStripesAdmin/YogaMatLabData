@@ -11,7 +11,36 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm x 63cm "
+    },
+    "width": {
+      "value": 63,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm x 63cm "
+    },
+    "weight": {
+      "value": 3,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3kg"
+    },
     "features": [],
+    "productPageSections": [
+      {
+        "heading": "Size",
+        "items": [
+          "183cm x 63cm",
+          "4mm",
+          "3kg"
+        ],
+        "confidence": 0.75
+      }
+    ],
     "shopifyId": 7167222743191,
     "shopifyHandle": "familia",
     "shopifyVendor": "HOUSE OF MATS",
@@ -26,10 +55,40 @@
     "variantsCount": 1,
     "minPrice": 154.28,
     "maxPrice": 154.28,
+    "variantPriceValues": [
+      154.28
+    ],
     "priceCurrency": "USD",
     "minGrams": 3300,
     "maxGrams": 3300,
+    "variantGramsValues": [
+      3300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 63,
+    "widthCmMax": 63,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      630
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 630
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -84,7 +143,38 @@
       "source": "description",
       "originalText": "3.5mm"
     },
-    "features": [],
+    "length": {
+      "value": 185,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x68cm "
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x68cm "
+    },
+    "weight": {
+      "value": 2.6,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.6 kg"
+    },
+    "features": [
+      "Extra Long"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Size",
+        "items": [
+          "185cm x68cm",
+          "3.5mm",
+          "2.6 kg"
+        ],
+        "confidence": 0.75
+      }
+    ],
     "shopifyId": 8885758329166,
     "shopifyHandle": "airy-blue",
     "shopifyVendor": "HOUSE OF MATS",
@@ -99,10 +189,40 @@
     "variantsCount": 1,
     "minPrice": 150.72,
     "maxPrice": 150.72,
+    "variantPriceValues": [
+      150.72
+    ],
     "priceCurrency": "USD",
     "minGrams": 2600,
     "maxGrams": 2600,
+    "variantGramsValues": [
+      2600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "lengthCmMin": 185,
+    "lengthCmMax": 185,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
+    "thicknessMmx10Values": [
+      35
+    ],
+    "lengthCMx10Values": [
+      1850
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1850,
+        "widthCMx10": 680
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -151,7 +271,38 @@
       "source": "description",
       "originalText": "3.5mm"
     },
-    "features": [],
+    "length": {
+      "value": 185,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x68cm "
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x68cm "
+    },
+    "weight": {
+      "value": 2.6,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.6 kg"
+    },
+    "features": [
+      "Extra Long"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Size",
+        "items": [
+          "185cm x68cm",
+          "3.5mm",
+          "2.6 kg"
+        ],
+        "confidence": 0.75
+      }
+    ],
     "shopifyId": 8885759115598,
     "shopifyHandle": "clay",
     "shopifyVendor": "HOUSE OF MATS",
@@ -166,10 +317,40 @@
     "variantsCount": 1,
     "minPrice": 150.72,
     "maxPrice": 150.72,
+    "variantPriceValues": [
+      150.72
+    ],
     "priceCurrency": "USD",
     "minGrams": 2600,
     "maxGrams": 2600,
+    "variantGramsValues": [
+      2600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "lengthCmMin": 185,
+    "lengthCmMax": 185,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
+    "thicknessMmx10Values": [
+      35
+    ],
+    "lengthCMx10Values": [
+      1850
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1850,
+        "widthCMx10": 680
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -212,7 +393,36 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm x 63cm "
+    },
+    "width": {
+      "value": 63,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm x 63cm "
+    },
+    "weight": {
+      "value": 3.5,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.5kg"
+    },
     "features": [],
+    "productPageSections": [
+      {
+        "heading": "Size",
+        "items": [
+          "183cm x 63cm",
+          "4mm",
+          "3.5kg"
+        ],
+        "confidence": 0.75
+      }
+    ],
     "shopifyId": 7545952862359,
     "shopifyHandle": "daylight-moth-by-ula-basinska-11",
     "shopifyVendor": "HOUSE OF MATS",
@@ -227,10 +437,40 @@
     "variantsCount": 1,
     "minPrice": 154.28,
     "maxPrice": 154.28,
+    "variantPriceValues": [
+      154.28
+    ],
     "priceCurrency": "USD",
     "minGrams": 3300,
     "maxGrams": 3300,
+    "variantGramsValues": [
+      3300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 63,
+    "widthCmMax": 63,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      630
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 630
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -285,9 +525,45 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "length": {
+      "value": 185,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x 68cm "
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "185cm x 68cm "
+    },
+    "weight": {
+      "value": 3.4,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.4 kg"
+    },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
-      "Non-Slip"
+      "Non-Slip",
+      "Extra Long"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Size",
+        "items": [
+          "185cm x 68cm",
+          "3.5mm",
+          "3.4 kg"
+        ],
+        "confidence": 0.75
+      }
     ],
     "shopifyId": 8885754790222,
     "shopifyHandle": "forest-green",
@@ -303,10 +579,40 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "lengthCmMin": 185,
+    "lengthCmMax": 185,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
+    "thicknessMmx10Values": [
+      45
+    ],
+    "lengthCMx10Values": [
+      1850
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1850,
+        "widthCMx10": 680
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -349,6 +655,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -367,10 +679,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -430,10 +756,24 @@
     "variantsCount": 1,
     "minPrice": 142.42,
     "maxPrice": 142.42,
+    "variantPriceValues": [
+      142.42
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -494,10 +834,24 @@
     "variantsCount": 1,
     "minPrice": 126.99,
     "maxPrice": 126.99,
+    "variantPriceValues": [
+      126.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -540,6 +894,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -558,10 +918,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -619,10 +993,24 @@
     "variantsCount": 1,
     "minPrice": 178.02,
     "maxPrice": 178.02,
+    "variantPriceValues": [
+      178.02
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -671,6 +1059,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -689,10 +1083,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -730,10 +1138,24 @@
     "variantsCount": 1,
     "minPrice": 178.02,
     "maxPrice": 178.02,
+    "variantPriceValues": [
+      178.02
+    ],
     "priceCurrency": "USD",
     "minGrams": 4000,
     "maxGrams": 4000,
+    "variantGramsValues": [
+      4000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -803,10 +1225,24 @@
     "variantsCount": 1,
     "minPrice": 154.28,
     "maxPrice": 154.28,
+    "variantPriceValues": [
+      154.28
+    ],
     "priceCurrency": "USD",
     "minGrams": 3300,
     "maxGrams": 3300,
+    "variantGramsValues": [
+      3300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -855,6 +1291,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -874,10 +1316,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -920,6 +1376,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -938,10 +1400,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -984,6 +1460,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1002,10 +1484,24 @@
     "variantsCount": 1,
     "minPrice": 178.02,
     "maxPrice": 178.02,
+    "variantPriceValues": [
+      178.02
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1042,6 +1538,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1060,10 +1562,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1121,10 +1637,24 @@
     "variantsCount": 1,
     "minPrice": 150.72,
     "maxPrice": 150.72,
+    "variantPriceValues": [
+      150.72
+    ],
     "priceCurrency": "USD",
     "minGrams": 2600,
     "maxGrams": 2600,
+    "variantGramsValues": [
+      2600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1182,10 +1712,24 @@
     "variantsCount": 1,
     "minPrice": 150.72,
     "maxPrice": 150.72,
+    "variantPriceValues": [
+      150.72
+    ],
     "priceCurrency": "USD",
     "minGrams": 2600,
     "maxGrams": 2600,
+    "variantGramsValues": [
+      2600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1245,10 +1789,24 @@
     "variantsCount": 1,
     "minPrice": 126.99,
     "maxPrice": 126.99,
+    "variantPriceValues": [
+      126.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1291,6 +1849,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1309,10 +1873,24 @@
     "variantsCount": 1,
     "minPrice": 162.59,
     "maxPrice": 162.59,
+    "variantPriceValues": [
+      162.59
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Title",

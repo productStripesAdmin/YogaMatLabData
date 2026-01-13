@@ -71,6 +71,23 @@ async function ensureDataDirectories(date: string) {
   logger.info(`Created data directory: ${rawDir}`);
 }
 
+async function saveBrandsMetadata(date: string, brands: Brand[]): Promise<void> {
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const filepath = path.join(rawDir, '_brands.json');
+
+  const minimal = brands.map(b => ({
+    slug: b.slug,
+    name: b.name,
+    website: b.website,
+    platform: b.platform || 'shopify',
+    productsJsonUrl: b.productsJsonUrl,
+    scrapingEnabled: b.scrapingEnabled,
+  }));
+
+  await fs.writeFile(filepath, JSON.stringify(minimal, null, 2), 'utf-8');
+  logger.info(`Saved brands metadata to: ${filepath}`);
+}
+
 async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
   try {
     logger.brandStart(brand.name);
@@ -383,6 +400,7 @@ async function main() {
 
   // Ensure data directories exist
   await ensureDataDirectories(date);
+  await saveBrandsMetadata(date, brands);
 
   // Fetch products from each brand sequentially
   const results: ExtractionResult[] = [];

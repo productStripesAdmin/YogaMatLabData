@@ -77,6 +77,10 @@
       "computed": true,
       "description": "Maximum price across all variants (USD)"
     },
+    "variantPriceValues": {
+      "computed": true,
+      "description": "Unique variant price values (sorted asc). Useful for understanding price tiers without storing full variant data."
+    },
     "minGrams": {
       "computed": true,
       "description": "Minimum weight in grams from variants"
@@ -109,9 +113,41 @@
       "computed": true,
       "description": "Normalized color options extracted from Color/Colour options only (e.g., ['Blue', 'Green', 'Purple'])"
     },
+    "materials": {
+      "computed": true,
+      "description": "All detected material components (e.g., ['Cork', 'Natural Rubber']) derived from title/tags/description; `material` remains the primary material."
+    },
+    "materialSource": {
+      "computed": true,
+      "description": "Where the primary `material` was detected: title, tags, or description"
+    },
+    "materialConfidence": {
+      "computed": true,
+      "description": "Heuristic confidence (0..1) for `material` detection"
+    },
+    "texture": {
+      "computed": true,
+      "description": "Primary detected texture (e.g., 'Grippy', 'Textured', 'Smooth', 'Suede-like')"
+    },
+    "textures": {
+      "computed": true,
+      "description": "All detected texture signals (multi-value), derived from title/tags/description"
+    },
+    "textureSource": {
+      "computed": true,
+      "description": "Where the primary `texture` was detected: title, tags, or description"
+    },
+    "textureConfidence": {
+      "computed": true,
+      "description": "Heuristic confidence (0..1) for `texture` detection"
+    },
     "diameter": {
       "computed": true,
       "description": "Extracted diameter for circular/round mats in cm with unit and original text (options first, then description fallback)"
+    },
+    "rolledDiameter": {
+      "computed": true,
+      "description": "Extracted diameter when rolled (portability) in cm with unit and original text (e.g., '6 in. diameter rolled')"
     },
     "availableDiameters": {
       "computed": true,
@@ -153,6 +189,14 @@
       "computed": true,
       "description": "Maximum diameter across parsed dimension options (cm), falling back to single extracted diameter when options are missing"
     },
+    "rolledDiameterCmMin": {
+      "computed": true,
+      "description": "Minimum rolled diameter across parsed dimension options (cm), falling back to single extracted rolledDiameter when options are missing"
+    },
+    "rolledDiameterCmMax": {
+      "computed": true,
+      "description": "Maximum rolled diameter across parsed dimension options (cm), falling back to single extracted rolledDiameter when options are missing"
+    },
     "thicknessMmx10Values": {
       "computed": true,
       "description": "Unique thickness option values encoded as integer tenths of a mm (mm * 10), derived from dimensionOptions (fallback to single extracted thickness)"
@@ -168,6 +212,10 @@
     "diameterCMx10Values": {
       "computed": true,
       "description": "Unique diameter option values encoded as integer tenths of a cm (cm * 10), derived from dimensionOptions (fallback to single extracted diameter)"
+    },
+    "rolledDiameterCMx10Values": {
+      "computed": true,
+      "description": "Unique rolled diameter values encoded as integer tenths of a cm (cm * 10), derived from dimensionOptions (fallback to single extracted rolledDiameter)"
     },
     "sizePairsCMx10Values": {
       "computed": true,
@@ -328,6 +376,21 @@
         "Closed-Cell": ["closed-cell", "closed cell", "moisture resistant"]
       },
       "description": "Extract features from description and tags"
+    },
+    "coreFeatures": {
+      "source": "product page HTML (enrichment step)",
+      "type": "array",
+      "description": "Raw product-page 'Core Features' bullets/lines (often rendered from metafields/theme blocks and missing from products.json)"
+    },
+    "coreFeaturesSource": {
+      "computed": true,
+      "type": "string",
+      "description": "Provenance for coreFeatures (currently 'productPage' when present)"
+    },
+    "coreFeaturesConfidence": {
+      "computed": true,
+      "type": "number",
+      "description": "0..1 parse confidence for coreFeatures extraction"
     }
   },
   "defaults": {

@@ -1,0 +1,116 @@
+{
+  "brandSlug": "thesatoriconcept",
+  "extractedAt": "2026-01-13T02:43:15.344Z",
+  "products": [
+    {
+      "shopifyId": 6629890588857,
+      "handle": "the-peaceful-mountain-cork-yoga-mat",
+      "slug": "thesatoriconcept-the-peaceful-mountain-cork-yoga-mat",
+      "productUrl": "https://www.thesatoriconcept.com/products/the-peaceful-mountain-cork-yoga-mat",
+      "extractedAt": "2026-01-13T02:43:16.066Z",
+      "appendText": {
+        "text": "Dimensions & Material: Materials: natural cork and rubber Size: 26inch x 72inch (66cm x 182cm) Thickness: 4mm | 2.5kg",
+        "confidence": 0.8,
+        "headings": [
+          "Dimensions & Material"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimensions & Material",
+          "items": [
+            "Materials: natural cork and rubber",
+            "Size: 26inch x 72inch (66cm x 182cm)",
+            "Thickness: 4mm | 2.5kg"
+          ],
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "shopifyId": 6782422679737,
+      "handle": "garden-of-flower-cork-yoga-mat",
+      "slug": "thesatoriconcept-garden-of-flower-cork-yoga-mat",
+      "productUrl": "https://www.thesatoriconcept.com/products/garden-of-flower-cork-yoga-mat",
+      "extractedAt": "2026-01-13T02:43:18.195Z",
+      "appendText": {
+        "text": "Dimensions & Material: Materials: natural cork and rubber Size: 26inch x 72inch (66cm x 182cm) Thickness: 4mm | 2.5kg",
+        "confidence": 0.8,
+        "headings": [
+          "Dimensions & Material"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimensions & Material",
+          "items": [
+            "Materials: natural cork and rubber",
+            "Size: 26inch x 72inch (66cm x 182cm)",
+            "Thickness: 4mm | 2.5kg"
+          ],
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "shopifyId": 6235203731641,
+      "handle": "satoriconcept-original-cork-yoga-mat",
+      "slug": "thesatoriconcept-satoriconcept-original-cork-yoga-mat",
+      "productUrl": "https://www.thesatoriconcept.com/products/satoriconcept-original-cork-yoga-mat",
+      "extractedAt": "2026-01-13T02:43:19.577Z",
+      "appendText": {
+        "text": "Dimensions & Material: Materials: natural cork and rubber Size: 26inch x 72inch (66cm x 182cm) Thickness: 4mm | 2.5kg",
+        "confidence": 0.8,
+        "headings": [
+          "Dimensions & Material"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimensions & Material",
+          "items": [
+            "Materials: natural cork and rubber",
+            "Size: 26inch x 72inch (66cm x 182cm)",
+            "Thickness: 4mm | 2.5kg"
+          ],
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "shopifyId": 6235261796537,
+      "handle": "7-chakras-cork-yoga-mat",
+      "slug": "thesatoriconcept-7-chakras-cork-yoga-mat",
+      "productUrl": "https://www.thesatoriconcept.com/products/7-chakras-cork-yoga-mat",
+      "extractedAt": "2026-01-13T02:43:21.923Z",
+      "appendText": {
+        "text": "Dimensions & Material: Materials: natural cork and rubber Size: 24inch x 72inch (61cm x 182cm) Thickness: 4mm | 2.5kg",
+        "confidence": 0.8,
+        "headings": [
+          "Dimensions & Material"
+        ]
+      },
+      "sections": [
+        {
+          "heading": "Dimensions & Material",
+          "items": [
+            "Materials: natural cork and rubber",
+            "Size: 24inch x 72inch (61cm x 182cm)",
+            "Thickness: 4mm | 2.5kg"
+          ],
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "shopifyId": 7912633827513,
+      "handle": "koi-fish-cork-yoga-mat",
+      "slug": "thesatoriconcept-koi-fish-cork-yoga-mat",
+      "productUrl": "https://www.thesatoriconcept.com/products/koi-fish-cork-yoga-mat",
+      "extractedAt": "2026-01-13T02:43:23.541Z",
+      "errors": [
+        "Append text headings not found: Dimensions & Material"
+      ]
+    }
+  ]
+}

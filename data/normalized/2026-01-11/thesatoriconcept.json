@@ -9,15 +9,20 @@
       "value": 182.88,
       "unit": "cm",
       "source": "description",
-      "originalText": "72 x 26 inch"
+      "originalText": "72 x 26 inches"
     },
     "width": {
       "value": 66.04,
       "unit": "cm",
       "source": "description",
-      "originalText": "72 x 26 inch"
+      "originalText": "72 x 26 inches"
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Extra Wide"
     ],
@@ -35,10 +40,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -118,6 +148,11 @@
     "slug": "thesatoriconcept-garden-of-flower-cork-yoga-mat",
     "description": "Step onto the Garden of Flower Yoga Mat, where the delicate beauty of Magnolia flowers blooms in abundance. Crafted with earth-tone colors that mirror the soothing hues of the soil and the elevated pinks of Magnolia blossoms, this mat evokes a sense of calm while symbolizing the purity and resilience of Magnolias. As you unroll this mat, you are transported on to a magical garden, leaving behind the chaos of the outside world and reconnecting with your inner self.\nFree gift : Carry strap is included",
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Eco-Friendly"
     ],
@@ -135,9 +170,18 @@
     "variantsCount": 1,
     "minPrice": 75,
     "maxPrice": 75,
+    "variantPriceValues": [
+      75
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
     "shopifyOptions": [
       {
@@ -206,6 +250,11 @@
     "slug": "thesatoriconcept-satoriconcept-original-cork-yoga-mat",
     "description": "Our classic mat puts the beauty of cork center stage. The eco-friendly quality of the mat not only provides a gentle and accommodating feeling to the body but also helps you enjoy the maximum effect of yoga exercise.\nOne beautiful thing about Cork Yoga Mat is its ability to withstand sweat, unlike some yoga mats which begin to peel and scratch under constant sweat. \nFree gift : Carry strap is included",
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Eco-Friendly"
     ],
@@ -222,9 +271,18 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -275,6 +333,17 @@
     "slug": "thesatoriconcept-7-chakras-cork-yoga-mat",
     "description": "Awaken your energy centers with our 7 Chakras Cork Yoga Mat, featuring vibrant colors that represent each chakra. This design promotes balance and harmony in your practice, aligning your physical and spiritual self. The mat’s vivid hues not only enhance your focus but also inspire a deeper connection to your inner energy. Crafted for yogis of all levels, this mat provides a non-slip surface and optimal cushioning. Let the 7 Chakras design inspire your journey towards equilibrium and well-being, infusing your practice with vibrant energy and holistic balance.\nFree gift : Carry strap is included",
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -292,7 +361,13 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -349,6 +424,11 @@
     "slug": "thesatoriconcept-koi-fish-cork-yoga-mat",
     "description": "From our designer: \"This concept captures the essence of zen, featuring a calm and peaceful pond adorned with waterlilies and gracefully swimming koi. I chose the elegant butterfly Koi, known for their long, flowing fins and tails, adding a touch of beauty and movement to the design. Complementing the koi, water lettuce has been included for its decorative appeal, enhancing the overall aesthetic and staying true to the initial concept. In Japanese culture, Koi fish symbolize luck and prosperity, while the waterlilies, akin to lotuses, represent rebirth and resurrection.\" \nThis artwork is brought to you by Yohanes Ragil, an Illustrator/Graphic Designer based in Bali, Indonesia. His works are usually inspired by nature and cultures (especially Southeast Asian) with a style inspired by lino-cut technique in a monochromatic palette. \nFree gift : Carry strap is included",
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Eco-Friendly"
     ],
@@ -365,7 +445,13 @@
     "variantsCount": 1,
     "minPrice": 89,
     "maxPrice": 89,
+    "variantPriceValues": [
+      89
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": false,
     "shopifyOptions": [
       {
@@ -428,6 +514,11 @@
       "originalText": "80\"x26\""
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -446,10 +537,40 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -533,10 +654,40 @@
     "variantsCount": 1,
     "minPrice": 89,
     "maxPrice": 89,
+    "variantPriceValues": [
+      89
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -634,6 +785,11 @@
       "originalText": "80\"x26\""
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -652,10 +808,40 @@
     "variantsCount": 1,
     "minPrice": 85,
     "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -717,6 +903,11 @@
       "originalText": "80\"x26\""
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Extra Thick",
       "Extra Wide"
@@ -734,8 +925,35 @@
     "variantsCount": 1,
     "minPrice": 85,
     "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -809,6 +1027,11 @@
       "originalText": "80\"x26\""
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Extra Thick",
       "Extra Wide",
@@ -827,8 +1050,35 @@
     "variantsCount": 1,
     "minPrice": 85,
     "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -902,6 +1152,11 @@
       "originalText": "80\"x26\""
     },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -921,8 +1176,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -989,6 +1271,12 @@
     "name": "Yoga Mat Forest Design",
     "slug": "thesatoriconcept-vegan-suede-yoga-mat-forest",
     "description": "This artwork is created by Emma Hall : \"I was really inspired by retro floral patterns from the 60s and 70s that use this clearly hand-drawn element to create a more fun and organic pattern. My aim was to infuse these patterns with modern colors and details to give them a more modern edge. To create the design I use purely hand-drawings which are then scanned and vectorised to allow resizing and colouring.\"Emma is a British designer from Cambridge. Her biggest joy in her work is colour. The process involved usually centres around mixing analogue and digital methods. Subjects are generally drawn from nature, such as, imagined or real African landscapes, wildflowers and animals. Her travels growing up and Mozambican heritage may have also contributed to these interests. This design is featured on a premium vegan suede yoga mat, combining Emma's vibrant artistry with eco-conscious functionality.\nFree gift : Carry strap is included\nFeatured on The Yoga Nomads",
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like"
+    ],
+    "textureSource": "tags",
+    "textureConfidence": 0.75,
     "features": [
       "Eco-Friendly",
       "Lightweight",
@@ -1009,7 +1297,13 @@
     "variantsCount": 1,
     "minPrice": 39,
     "maxPrice": 39,
+    "variantPriceValues": [
+      39
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {

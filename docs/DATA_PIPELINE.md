@@ -69,8 +69,10 @@ Architecture
 YogaMatLabData/
 ├── config/
 │   └── field-mappings.json      # Shopify → YogaMat field transformations
+│   └── enrichment.json          # Optional product-page enrichment rules
 ├── scripts/
-│   ├── extract-all-brands.ts    # Main orchestrator (queries Convex for brands)
+│   ├── get-brands-from-convex.ts # Main orchestrator (queries Convex for brands)
+│   ├── enrich-data.ts           # Optional product-page enrichment (HTML → structured fields)
 │   ├── normalize-data.ts        # Shopify → YogaMat schema
 │   ├── aggregate-data.ts        # Combine all brands
 │   ├── detect-changes.ts        # Diff against previous day
@@ -100,7 +102,7 @@ Phase 1: Core Extraction (Priority 1)
 
 Files to create:
 
-1. scripts/extract-all-brands.ts
+1. scripts/get-brands-from-convex.ts
   - Purpose: Main orchestrator that extracts from all brands sequentially
   - Key logic:
       - Query Convex for brands: `await client.query(api.brands.getScrapableBrands)`
@@ -127,7 +129,8 @@ Files to create:
   - Dependencies: playwright, typescript, tsx, zod, convex
   - Scripts:
   {
-  "extract-all": "tsx scripts/extract-all-brands.ts",
+  "fetch": "tsx scripts/get-brands-from-convex.ts",
+  "enrich": "tsx scripts/enrich-data.ts",
   "normalize": "tsx scripts/normalize-data.ts",
   "aggregate": "tsx scripts/aggregate-data.ts",
   "detect-changes": "tsx scripts/detect-changes.ts"
@@ -139,7 +142,7 @@ Notes on Convex integration:
 - For type safety, can optionally link/copy convex/_generated/ from YogaMatLabApp
 - Alternative: Use dynamic imports without types (simpler for initial implementation)
 
-Test manually: npm run extract-all should extract 2-3 test brands successfully
+Test manually: npm run fetch should extract 2-3 test brands successfully
 
 Phase 2: Data Processing (Priority 2)
 
@@ -206,7 +209,7 @@ Files to create:
     - Save changeset to data/changes/{date}-changeset.json
   - Output: Changeset with new/removed/changed products
 
-Test manually: Run full pipeline npm run extract-all && npm run normalize && npm run aggregate && npm run detect-changes
+Test manually: Run full pipeline npm run fetch && npm run enrich && npm run normalize && npm run aggregate && npm run detect-changes
 
 Phase 3: Automation (Priority 3)
 
@@ -221,7 +224,7 @@ Files to create:
     - Checkout YogaMatLabApp repo (for image storage)
     - Setup Node.js 20
     - Install dependencies + Playwright browsers
-    - Run extraction pipeline (extract → normalize → aggregate → detect-changes)
+    - Run extraction pipeline (fetch → enrich → normalize → aggregate → detect-changes)
     - Download images to YogaMatLabApp
     - Update latest/ symlinks
     - Commit results to both repos
@@ -348,7 +351,7 @@ Testing Strategy
 
 Manual Testing (Phase 1-2)
 
-1. Run extraction on 2-3 test brands: npm run extract-all
+1. Run extraction on 2-3 test brands: npm run fetch
 2. Verify raw JSON output in data/raw/{date}/
 3. Run normalization: npm run normalize
 4. Verify normalized output matches YogaMat schema
@@ -372,7 +375,7 @@ Integration Testing (Phase 4)
 Critical Files Summary
 
 YogaMatLabData (new repo):
-- scripts/extract-all-brands.ts - Main orchestrator (queries Convex brands)
+- scripts/get-brands-from-convex.ts - Main orchestrator (queries Convex brands)
 - scripts/normalize-data.ts - Data transformation
 - scripts/aggregate-data.ts - Data combination
 - scripts/detect-changes.ts - Change detection

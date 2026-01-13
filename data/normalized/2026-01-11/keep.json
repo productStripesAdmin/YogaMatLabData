@@ -20,10 +20,29 @@
     "variantsCount": 8,
     "minPrice": 89.99,
     "maxPrice": 109.99,
+    "variantPriceValues": [
+      89.99,
+      99.99,
+      109.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 4536,
     "maxGrams": 4990,
+    "variantGramsValues": [
+      4536,
+      4990
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 12,
+    "thicknessMmx10Values": [
+      70,
+      90,
+      120
+    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -75,23 +94,36 @@
       "Light Water Blue",
       "Light Grass Green"
     ],
-    "availableThicknesses": [
-      {
-        "value": 7,
-        "unit": "mm",
-        "originalString": "7mm/0.3in"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 9,
-        "unit": "mm",
-        "originalString": "9mm/0.4in"
-      },
-      {
-        "value": 12,
-        "unit": "mm",
-        "originalString": "12mm/0.5in"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        },
+        {
+          "value": 9,
+          "sourceOptionName": "Thick",
+          "rawValue": "9mm/0.4in",
+          "confidence": 1
+        },
+        {
+          "value": 12,
+          "sourceOptionName": "Thick",
+          "rawValue": "12mm/0.5in",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -112,9 +144,18 @@
     "variantsCount": 3,
     "minPrice": 89.99,
     "maxPrice": 89.99,
+    "variantPriceValues": [
+      89.99
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -214,10 +255,26 @@
     "variantsCount": 8,
     "minPrice": 79.9,
     "maxPrice": 86.9,
+    "variantPriceValues": [
+      79.9,
+      86.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8.889999999999999,
+    "thicknessMmMax": 12.7,
+    "thicknessMmx10Values": [
+      89,
+      127
+    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -275,7 +332,31 @@
       "Green",
       "Purple",
       "Gray"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 8.889999999999999,
+          "sourceOptionName": "Thick",
+          "rawValue": "0.35in",
+          "confidence": 1
+        },
+        {
+          "value": 12.7,
+          "sourceOptionName": "Thick",
+          "rawValue": "0.5in",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -283,6 +364,11 @@
     "name": "High Elasticity TPE Pro Training Mat",
     "slug": "keep-10010278",
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
     "features": [],
     "shopifyId": 7703088955576,
     "shopifyHandle": "10010278",
@@ -297,9 +383,18 @@
     "variantsCount": 2,
     "minPrice": 109.9,
     "maxPrice": 109.9,
+    "variantPriceValues": [
+      109.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -379,8 +474,21 @@
     "variantsCount": 4,
     "minPrice": 86.9,
     "maxPrice": 99.9,
+    "variantPriceValues": [
+      86.9,
+      99.9
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 9,
+    "thicknessMmx10Values": [
+      70,
+      90
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -423,18 +531,30 @@
       "Gray Pink",
       "Hibiscus Purple"
     ],
-    "availableThicknesses": [
-      {
-        "value": 7,
-        "unit": "mm",
-        "originalString": "7mm/0.3in"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 9,
-        "unit": "mm",
-        "originalString": "9mm/0.4in"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        },
+        {
+          "value": 9,
+          "sourceOptionName": "Thick",
+          "rawValue": "9mm/0.4in",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -455,9 +575,18 @@
     "variantsCount": 4,
     "minPrice": 89.19,
     "maxPrice": 89.19,
+    "variantPriceValues": [
+      89.19
+    ],
     "priceCurrency": "USD",
     "minGrams": 3402,
     "maxGrams": 3402,
+    "variantGramsValues": [
+      3402
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -529,10 +658,26 @@
     "variantsCount": 10,
     "minPrice": 79.9,
     "maxPrice": 85.9,
+    "variantPriceValues": [
+      79.9,
+      85.9
+    ],
     "priceCurrency": "USD",
     "minGrams": 3629,
     "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 7,
+    "thicknessMmx10Values": [
+      60,
+      70
+    ],
     "shopifyOptions": [
       {
         "name": "Thick",
@@ -623,17 +768,29 @@
       "Blue/Silver Gray",
       "Dark Gray/Silver Gray"
     ],
-    "availableThicknesses": [
-      {
-        "value": 6,
-        "unit": "mm",
-        "originalString": "6mm/0.24in"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 7,
-        "unit": "mm",
-        "originalString": "7mm/0.3in"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "Thick",
+          "rawValue": "6mm/0.24in",
+          "confidence": 1
+        },
+        {
+          "value": 7,
+          "sourceOptionName": "Thick",
+          "rawValue": "7mm/0.3in",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]

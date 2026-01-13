@@ -1,6 +1,6 @@
 {
   "date": "2026-01-11",
-  "totalBrands": 23,
+  "totalBrands": 24,
   "totalProducts": 507,
   "validProducts": 507,
   "invalidProducts": 0,
@@ -58,6 +58,13 @@
       "brandSlug": "houseofmats",
       "totalProducts": 21,
       "validProducts": 21,
+      "invalidProducts": 0,
+      "errors": []
+    },
+    {
+      "brandSlug": "huggermugger",
+      "totalProducts": 0,
+      "validProducts": 0,
       "invalidProducts": 0,
       "errors": []
     },

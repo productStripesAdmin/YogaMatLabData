@@ -1,12 +1,12 @@
 {
   "date": "2026-01-11",
-  "comparedWith": "2026-01-09",
+  "comparedWith": "2026-01-10",
   "summary": {
-    "totalChanges": 430,
-    "newProducts": 11,
+    "totalChanges": 432,
+    "newProducts": 10,
     "removedProducts": 11,
     "priceChanges": 0,
-    "specChanges": 408
+    "specChanges": 411
   },
   "changes": [
     {
@@ -80,81 +80,74 @@
       "newValue": {}
     },
     {
-      "slug": "yolohayoga-infinite-transformation-aura-cork-yoga-mat-plant-foam",
-      "name": "Infinite Transformation Aura Cork Yoga Mat",
-      "brandSlug": "yolohayoga",
-      "changeType": "added",
-      "newValue": {}
-    },
-    {
       "slug": "42birds-cork-yoga-mat",
       "name": "Cork Lightweight Yoga Mat “The Robin”",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Cotton → Cork"
     },
     {
       "slug": "42birds-industrial-mat-the-imperial-eagle",
       "name": "Cork Yoga Industrial Mat “The Imperial Eagle”",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-extra-long-mat",
       "name": "Extra Long Cork Lightweight Yoga Mat \"The Robin\"",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Cotton → Cork"
     },
     {
       "slug": "42birds-extra-long-cork-yoga-industrial-mat-the-imperial-eagle",
       "name": "Extra Long Cork Yoga Industrial Mat “The Imperial Eagle”",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-cork-yoga-mat-massage-balls-and-yoga-block-bundle-the-flock",
       "name": "Cork Lightweight Yoga Mat, Massage Balls and Yoga Block Bundle - \"The Flock\"",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-cork-yoga-mat-and-two-block-bundle",
       "name": "Cork Lightweight Yoga Mat and Two-Block Bundle",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-cork-yoga-mat-and-massage-balls-bundle",
       "name": "Cork Lightweight Yoga Mat and Massage Balls Bundle",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-cork-industrial-yoga-mat-and-two-block-bundle",
       "name": "Cork Industrial Yoga Mat and Two-Block Bundle",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-cork-extra-long-yoga-mat-and-two-block-bundle",
       "name": "Cork Extra Long Yoga Mat and Two-Block Bundle",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "42birds-all-natural-cork-yoga-mat",
       "name": "100% Cork Yoga Mat \"The Woodpecker\"",
       "brandSlug": "42birds",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Cotton → Cork"
     },
     {
       "slug": "aloyoga-w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
@@ -175,7 +168,7 @@
       "name": "Ananday Cork Yoga Mat",
       "brandSlug": "ananday",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "ananday-cork-yoga-mat-and-strap-set",
@@ -210,7 +203,7 @@
       "name": "The Play Mat",
       "brandSlug": "bala",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, width: undefined\" → [object Object]\""
     },
     {
       "slug": "bala-wavy-mat",
@@ -472,6 +465,13 @@
       "details": "thickness: [object Object]mm → [object Object]mm"
     },
     {
+      "slug": "gayo-yoga-cork-mat",
+      "name": "Eco-Friendly Cork Yoga Mat",
+      "brandSlug": "gayo",
+      "changeType": "spec_changed",
+      "details": "material: Natural Rubber → Cork"
+    },
+    {
       "slug": "gayo-eco-friendly-non-slip-yoga-mat-4mm",
       "name": "Eco Balance Yoga Mat- 4 mm",
       "brandSlug": "gayo",
@@ -490,42 +490,42 @@
       "name": "TPE Body Alignment System Yoga Mat - Gray",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "heathyoga-tpe-body-alignment-system-non-slip-yoga-mat",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Turquoise",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-blue-heathyoga",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Navy Blue",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-purple-heathyoga",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Purple",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-lemon-green-heathyoga",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Grass Green",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
       "name": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
       "brandSlug": "heathyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: PVC → TPE"
     },
     {
       "slug": "houseofmats-familia",
@@ -763,7 +763,7 @@
       "name": "Jade Cork Yoga Mat - Hot Yoga - Eco Friendly - JadeYoga",
       "brandSlug": "jadeyoga",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "jadeyoga-jade-mushroom-mat",
@@ -1113,7 +1113,7 @@
       "name": "Diamond Yoga Mat - Clay 7mm - Organic Cotton",
       "brandSlug": "okoliving",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cotton"
     },
     {
       "slug": "okoliving-chakra",
@@ -1134,7 +1134,7 @@
       "name": "Jade & Jute - Naturally Dyed Herbal Yoga Mat",
       "brandSlug": "okoliving",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Cotton → Jute"
     },
     {
       "slug": "okoliving-indigo-moon",
@@ -1190,7 +1190,7 @@
       "name": "Jade & Jute - Travel Yoga Mat",
       "brandSlug": "okoliving",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Cotton → Jute"
     },
     {
       "slug": "okoliving-clay-travel-mat",
@@ -1211,308 +1211,308 @@
       "name": "Mountain Lion Cork Yoga Mat | 3.5MM OR 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-blossom-cork-yoga-mat",
       "name": "Blossom Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-tree-of-life-cork-yoga-mat-4-5mm",
       "name": "Tree of Life Alignment Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-botanicals-cork-yoga-mat",
       "name": "Botanicals Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-essential-cork-yoga-mat",
       "name": "Standard Essential Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-flying-dragon-cork-yoga-mat-4-5mm",
       "name": "Flying Dragon Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-moon-phases-cork-mat",
       "name": "Moon Phases Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-summit-peak-cork-yoga-mat-4-5mm",
       "name": "Summit Peak Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-night-bear",
       "name": "Night Bear Cork Yoga Mat | 4.5MM | Collab Edition",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-power-bear-cork-yoga-mat-3-5mm",
       "name": "Day Bear Cork Yoga Mat | 3.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-chakra-alignment-cork-yoga-mat-4-5mm",
       "name": "Chakras Alignment Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-myco-forest-cork-yoga-mat-4-5mm",
       "name": "Myco Forest Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-butterfly-cork-yoga-mat-4-5mm",
       "name": "Butterfly Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-mandala-cork-yoga-mat-4-5mm-collab-edition",
       "name": "Mandala Cork Yoga Mat | 4.5MM | Collab Edition",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-owl-cork-yoga-mat-4-5mm",
       "name": "Owl Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-revolve-cork-yoga-mat",
       "name": "Revolve Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-unicorn-adults-cork-yoga-mat-3-5mm",
       "name": "Unicorn Adults Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-alignment-yoga-mat",
       "name": "Inner Child Alignment Cork Yoga Mat | 3.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-connection-yoga-mat",
       "name": "Connection Cork Yoga Mat | 3.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-travel-essential-cork-yoga-mat-2mm",
       "name": "Travel Essential Cork Yoga Mat | 2MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-travel-chakras-alignment-cork-yoga-mat-2mm",
       "name": "Travel Artist Cork Yoga Mat | 2MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-wide-essential-cork-yoga-mat-4-5mm",
       "name": "X-WIDE Essential Cork Yoga Mat | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-tall-essential-cork-yoga-mat-3-5mm-6-8-tall",
       "name": "X-TALL Cork Yoga Mat | 6′7 | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-large-printed-blossom",
       "name": "X-TALL Blossom Cork Yoga Mat | 6'7 long | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-tall-moon-phases-cork-yoga-mat-67-long-4-5mm",
       "name": "X-Tall Moon Phases Cork Yoga Mat | 6'7 long | 4.5MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-extra-thick-essential-cork-yoga-mat-6mm",
       "name": "X-Thick Essential Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-thick-moon-phases-cork-yoga-mat-6mm",
       "name": "X-Thick Moon Phases Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-tree-of-life-alignment-cork-yoga-mat-6mm",
       "name": "X-Thick Tree of Life Alignment Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-thick-botanicals-cork-yoga-mat-6mm",
       "name": "X-Thick Botanicals Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-thick-mycoforest-cork-yoga-mat-6mm",
       "name": "X-Thick Myco Forest Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-x-thick-butterfly-cork-yoga-mat-6mm",
       "name": "X-Thick Butterfly Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-biggest-essential-cork-yoga-mat-6mm",
       "name": "BIGGEST Essential Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-biggest-botanicals-cork-yoga-mat-6mm",
       "name": "Biggest Botanicals Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-biggest-tree-of-life-cork-yoga-mat-6mm",
       "name": "Biggest Tree of Life Cork Yoga Mat | 6MM",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-childrens-big-cork-yoga-mat",
       "name": "Kids Align Play & Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-kids-essential-non-toxic-cork-yoga-play-mat-big",
       "name": "Kids Essential Play & Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-kids-space-non-toxic-cork-yoga-play-mat-big",
       "name": "Kids Space Play & Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-kids-unicorn-non-toxic-cork-yoga-play-mat-big",
       "name": "Kids Unicorn Play & Cork Yoga Mat",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-essential-round-yoga-mat-multi-use-53-dia",
       "name": "Essential Round Cork Yoga Mat | Multi-use | 53\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-solar-bloom-round-yoga-mat-multi-use-53-dia",
       "name": "Solar Bloom Round Cork Yoga Mat | Multi-use | 53\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-blue-petals-round-yoga-mat-multi-use-53-dia",
       "name": "Blue Petals Round Cork Yoga Mat | Multi-use | 53\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-soft-skies-round-yoga-mat-multi-use-53-dia",
       "name": "Soft Skies Round Cork Yoga Mat | Multi-use | 53\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-color-strokes-round-yoga-or-baby-mat-multi-use-47-dia",
       "name": "Brush Strokes Round Cork Yoga Mat or Baby Mat | Multi-use | 47\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "scoria-elephant-walk-round-baby-mat-play-stretch-47-dia",
       "name": "Elephant Walk Round Baby Mat - Cork Yoga Mat | Play & Stretch | 47\" dia",
       "brandSlug": "scoria",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "sensu-large-exercise-mat-6-x-4-x-8-5mm",
@@ -1561,7 +1561,7 @@
       "name": "Cork Yoga Mat - Chakra",
       "brandSlug": "shaktiwarrior",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "details": "length: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "shaktiwarrior-sahasrara-pro",
@@ -1610,7 +1610,7 @@
       "name": "Hemp Yoga Mat - Anahata",
       "brandSlug": "shaktiwarrior",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "details": "length: [object Object]\" → [object Object]\", material: undefined → Natural Rubber"
     },
     {
       "slug": "shaktiwarrior-shivshakti-pro",
@@ -1638,7 +1638,7 @@
       "name": "Recycled Suede Yoga Mat - Kundalini",
       "brandSlug": "shaktiwarrior",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → undefined\", width: undefined\" → [object Object]\""
     },
     {
       "slug": "shaktiwarrior-samskara",
@@ -1694,7 +1694,7 @@
       "name": "Cork Yoga Mat - Mandala",
       "brandSlug": "shaktiwarrior",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\""
+      "details": "length: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "shaktiwarrior-aum",
@@ -1869,7 +1869,7 @@
       "name": "Cork Yoga Mat - Mandala Black",
       "brandSlug": "yogadesignlab",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogadesignlab-combo-yoga-mat-tribeca-sand",
@@ -1956,6 +1956,13 @@
       "details": "thickness: [object Object]mm → [object Object]mm"
     },
     {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-aqua",
+      "name": "Infinity Yoga Mat - Mandala Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "removed",
+      "oldValue": {}
+    },
+    {
       "slug": "yogadesignlab-infinity-yoga-mat-mandala-rose",
       "name": "Infinity Yoga Mat - Mandala Rose",
       "brandSlug": "yogadesignlab",
@@ -1974,7 +1981,7 @@
       "name": "Cork Yoga Mat - Natural Balance",
       "brandSlug": "yogadesignlab",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogadesignlab-combo-yoga-mat-jungle-harmony",
@@ -1988,7 +1995,7 @@
       "name": "Travel Cork Yoga Mat - Mandala Black",
       "brandSlug": "yogadesignlab",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yogadesignlab-combo-yoga-mat-earth-green",
@@ -2010,6 +2017,13 @@
       "brandSlug": "yogadesignlab",
       "changeType": "spec_changed",
       "details": "thickness: [object Object]mm → [object Object]mm"
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-tribal-aqua",
+      "name": "Infinity Yoga Mat - Tribal Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "yogadesignlab-combo-yoga-mat-butterfly-glow",
@@ -2170,7 +2184,7 @@
       "name": "Travel Cork Yoga Mat - Natural Balance",
       "brandSlug": "yogadesignlab",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogadesignlab-combo-yoga-mat-rainbow",
@@ -2212,7 +2226,7 @@
       "name": "Yogamatters Eco Rise Yoga Mat",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cotton"
     },
     {
       "slug": "yogamatters-yogamatters-lightweight-exercise-mat-black",
@@ -2233,14 +2247,14 @@
       "name": "Yogamatters Eco Cork Yoga Mat - Black",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogamatters-yogamatters-eco-cork-yoga-mat",
       "name": "Yogamatters Eco Cork Yoga Mat - Green",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogamatters-yogamatters-everyday-studio-mat",
@@ -2282,14 +2296,14 @@
       "name": "Manduka PRO Yoga Mat",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: undefined → PVC"
     },
     {
       "slug": "yogamatters-manduka-pro-mat-long",
       "name": "Manduka PRO Yoga Mat - Long",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: undefined → PVC"
     },
     {
       "slug": "yogamatters-manduka-pro-travel-mat-2-0",
@@ -2317,7 +2331,7 @@
       "name": "ecoYoga Jute Mat",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Jute"
     },
     {
       "slug": "yogamatters-jade-yoga-mat-harmony",
@@ -2401,7 +2415,7 @@
       "name": "Yoga Design Lab Cork Mat 3.5mm - Natural Balance",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-breathe",
@@ -2471,7 +2485,7 @@
       "name": "Jade Yoga Organic Cotton Mysore Yoga Rug",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: [object Object]mm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cotton"
     },
     {
       "slug": "yogamatters-manduka-pro-extra-long-and-wide-yoga-mat-black",
@@ -2520,7 +2534,7 @@
       "name": "Yoga Design Lab Cork Mat 3.5mm - Mandala Black",
       "brandSlug": "yogamatters",
       "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "details": "thickness: [object Object]mm → [object Object]mm, material: Natural Rubber → Cork"
     },
     {
       "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-celestial",
@@ -2593,13 +2607,6 @@
       "oldValue": {}
     },
     {
-      "slug": "yogi-bare-ever-grip-paws-desert-rose",
-      "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
-      "brandSlug": "yogi-bare",
-      "changeType": "removed",
-      "oldValue": {}
-    },
-    {
       "slug": "yogi-bare-minimalist-black-ever-grip-yoga-mat",
       "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - The Minimalist",
       "brandSlug": "yogi-bare",
@@ -2611,413 +2618,420 @@
       "name": "Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-unity-pro-cork-yoga-mat",
       "name": "Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-original-cork-yoga-mat-plant-foam",
       "name": "Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+    },
+    {
+      "slug": "yolohayoga-nomad-cork-yoga-mat-plant-foam",
+      "name": "Nomad Cork Yoga Mat",
+      "brandSlug": "yolohayoga",
+      "changeType": "spec_changed",
+      "details": "thickness: undefinedmm → [object Object]mm"
     },
     {
       "slug": "yolohayoga-travel-cork-yoga-mat",
       "name": "Nomad Air Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-nomad-xl-cork-yoga-mat",
       "name": "Nomad XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-aura-cork-yoga-mat",
       "name": "Mountain Magic Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-chakras-aura-cork-yoga-mat",
       "name": "Chakras Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-blossom-aura-cork-yoga-mat",
       "name": "Blossom Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-kids-cork-yoga-mat",
       "name": "Kids Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-pond-of-harmony-aura-cork-yoga-mat-plant-foam",
       "name": "Pond of Harmony Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-unity-pro-cork-yoga-mat",
       "name": "Mountain Magic Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-unity-xl-cork-yoga-mat",
       "name": "Unity Pro XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-balance-and-unity-aura-cork-yoga-mat",
       "name": "Balance and Unity Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-chakras-original-cork-yoga-mat",
       "name": "Chakras Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-harmony-aura-cork-yoga-mat-plant-foam",
       "name": "Harmony Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-flight-home-aura-cork-yoga-mat-plant-foam",
       "name": "Flight Home Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-nomad-cork-yoga-mat",
       "name": "Mountain Magic Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-blossom-original-cork-yoga-mat",
       "name": "Blossom Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-float-on-aura-cork-yoga-mat-plant-foam",
       "name": "Float On Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-original-cork-yoga-mat",
       "name": "Mountain Magic Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mind-of-the-universe-nomad-cork-yoga-mat",
       "name": "Mind of the Universe Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-balance-and-unity-original-cork-yoga-mat",
       "name": "Balance and Unity Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-inhale-exhale-aura-cork-yoga-mat-plant-foam",
       "name": "Inhale Exhale Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-pond-of-harmony-original-cork-yoga-mat",
       "name": "Pond Of Harmony Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-solar-and-lunar-original-cork-yoga-mat",
       "name": "Solar and Lunar Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-infinite-transformation-nomad-cork-yoga-mat",
       "name": "Infinite Transformation Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-earth-rest-nomad-cork-yoga-mat",
       "name": "Earth Rest Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-pond-of-harmony-unity-pro-cork-yoga-mat",
       "name": "Pond of Harmony Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-harmony-original-cork-yoga-mat-plant-foam",
       "name": "Harmony Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-harmony-unity-pro-cork-yoga-mat",
       "name": "Harmony Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-flight-home-unity-pro-cork-yoga-mat",
       "name": "Flight Home Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-balance-and-unity-pro-cork-yoga-mat",
       "name": "Balance and Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
-    },
-    {
-      "slug": "yolohayoga-el-dorado-aura-cork-yoga-mat",
-      "name": "El Dorado Aura Cork Yoga Mat",
-      "brandSlug": "yolohayoga",
-      "changeType": "removed",
-      "oldValue": {}
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-infinite-transformation-unity-pro-cork-yoga-mat",
       "name": "Infinite Transformation Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-el-dorado-unity-pro-cork-yoga-mat",
       "name": "El Dorado Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-tiger-lotus-aura-cork-yoga-mat",
       "name": "Tiger Lotus Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-tiger-lotus-unity-pro-cork-yoga-mat",
       "name": "Tiger Lotus Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-pond-of-harmony-nomad-xl-cork-yoga-mat",
       "name": "Pond of Harmony Nomad XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-rise-up-nomad-cork-yoga-mat",
       "name": "Rise Up Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-tiger-lotus-original-cork-yoga-mat",
       "name": "Tiger Lotus Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-balance-and-unity-nomad-xl-cork-yoga-mat",
       "name": "Balance and Unity Nomad XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-infinite-bloom-aura-cork-yoga-mat",
       "name": "Infinite Bloom Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-zest-for-life-aura-cork-yoga-mat",
       "name": "Zest For Life Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-nomad-xl-cork-yoga-mat",
       "name": "Mountain Magic Nomad XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-zest-for-life-unity-pro-cork-yoga-mat",
       "name": "Zest For Life Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-tiger-lotus-nomad-cork-yoga-mat",
       "name": "Tiger Lotus Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-infinite-bloom-unity-pro-cork-yoga-mat",
       "name": "Infinite Bloom Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-peacock-oracle-unity-pro-cork-yoga-mat",
       "name": "Peacock Oracle Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-peacock-oracle-aura-cork-yoga-mat",
       "name": "Peacock Oracle Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-awaken-and-transform-aura-cork-yoga-mat",
       "name": "Awaken and Transform Aura Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-awaken-and-transform-unity-pro-cork-yoga-mat",
       "name": "Awaken and Transform Unity Pro Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-pond-of-harmony-nomad-cork-yoga-mat",
       "name": "Pond of Harmony Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-zest-for-life-nomad-cork-yoga-mat",
       "name": "Zest For Life Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-swirly-flow-nomad-cork-yoga-mat",
       "name": "Swirly Flow Nomad Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-swirly-flow-original-cork-yoga-mat",
       "name": "Swirly Flow Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-zest-for-life-original-cork-yoga-mat",
       "name": "Zest For Life Original Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+    },
+    {
+      "slug": "yolohayoga-infinite-transformation-aura-cork-yoga-mat-plant-foam",
+      "name": "Infinite Transformation Aura Cork Yoga Mat",
+      "brandSlug": "yolohayoga",
+      "changeType": "spec_changed",
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
     },
     {
       "slug": "yolohayoga-mountain-magic-unity-pro-xl-cork-yoga-mat",
       "name": "Mountain Magic Unity Pro XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-pond-of-harmony-unity-pro-xl-cork-yoga-mat",
       "name": "Pond of Harmony Unity Pro XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     },
     {
       "slug": "yolohayoga-harmony-unity-pro-xl-cork-yoga-mat",
       "name": "Harmony Unity Pro XL Cork Yoga Mat",
       "brandSlug": "yolohayoga",
       "changeType": "spec_changed",
-      "details": "length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\""
+      "details": "thickness: undefinedmm → [object Object]mm, length: [object Object]\" → [object Object]\", width: [object Object]\" → [object Object]\", material: Natural Rubber → Cork"
     }
   ]
 }

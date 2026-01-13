@@ -52,7 +52,7 @@ See Claude reponse below. Let's revisit this once approach for manduka and hugge
 
   Since you already have Playwright infrastructure, add it as a fallback when products.json returns 403:
 
-  // In extract-all-brands.ts
+  // In get-brands-from-convex.ts
   try {
     // Try products.json first
     const result = await fetchAllProducts(baseUrl, collectionPath);
@@ -360,7 +360,7 @@ Regarding @config/field-mappings.json, I want to make the following edits:
   }
 ]
 
-## Prompt 8 - Normalize product titles
+## Prompt 8 - Normalize product titles - Moved to YogaMatLabApp
 
 In addition, I am thinking of "normalizing" product titles so that they are homogenous / consistent, i.e. to extract details (e.g. lenght x width, thickness, color). Do you think this is a good idea? OR should we stick with the brand product titles?
 
@@ -535,7 +535,7 @@ Is brands.isShopify being used? I would prefer to use brands.platform = shopify 
 
 It's not obvious which units are associated with the lenght, width, thickness, weight measurements that are extracted from text. Can you please save the units and original text, perhaps in an array: value, unit, originalText? 
 
-## Prompt 20 - Codex - DONE
+## Prompt 20 - Thickness -> availableColors - DONE
 
 For some reasons, the following shopifyOptions are being saved as availableColors whereas it should be saved as availableThickness. Can you please check this. Ty!
 
@@ -547,7 +547,7 @@ For some reasons, the following shopifyOptions are being saved as availableColor
   },
 ]
 
-## Prompt 21 - Mat Dimensions (Lenght x Width x Thickness)
+## Prompt 21 - Mat Dimensions (Lenght x Width x Thickness) - DONE
 
 As things stand, the products table has the following dimension fields extracted from text (name, description, etc.). These can be considered estimates or best guesses:
 
@@ -774,7 +774,7 @@ As you can see, there's duplication of fields. How do you suggest I handle these
 
 Should I continue to save the information as above? And use the "estimates" as a fallback if there shopifyOptions are not available? Or to just sense check that the data makes sense?
 
-## Prompt 21 - Mat Weight
+## Prompt 21 - Mat Weight - DONE
 
 As things stand, the products table has the following weight field extracted from text (name, description, etc.). This can be considered an estimate or best guess:
 
@@ -787,7 +787,7 @@ In addition, the following fields are extracted from variants information:
 
 In addition to or instead of minGrams, maxGrams, I think all shopify variant grams values should be saved. Do you agree with this?
 
-## Prompt 21 - Mat Dimensions (take 2)
+## Prompt 21 - Mat Dimensions (take 2) - DONE
 
 There are a number of other "dimension" fields that I forgot to mention. Are these still needed given dimensionOptions?
 
@@ -948,3 +948,206 @@ Some mats are circular. For those, I need to add a new dimension = diameter. And
   ]
 },
 ```
+
+## Prompt 23 - Capture all Price variants - DONE
+
+Similar to grams, I want to create a minPrice, maxPrice and list of all prices derived from variants
+
+## Prompt 24 - "Thick" options mis-classified as availableColors - DONE
+
+The following are examples of options being mis-classified as colors. Can you please fix this. Ty!
+
+```json
+"options": [
+  {
+    "name": "Thick",
+    "position": 1,
+    "values": [
+      "7mm/0.3in",
+      "9mm/0.4in",
+      "12mm/0.5in"
+    ]
+  },
+```
+
+-> 
+
+```json
+›     "availableColors": [
+    "7mm/0.3in",
+    "9mm/0.4in",
+    "12mm/0.5in"
+]
+```
+
+```json
+"options": [
+  {
+    "name": "Thick",
+    "position": 1,
+    "values": [
+      "0.35in",
+      "0.5in"
+    ]
+  },
+```
+
+->
+
+```json
+        "availableColors": [
+  "0.35in",
+  "0.5in"
+]
+```
+
+## Prompt 25 - Material mis-classified as cotton - DONE
+
+This product is mis-classified as material = cotton instead of cotton. The title should take priority over the description. 
+
+```json
+{
+  "id": 1373992189999,
+  "title": "100% Cork Yoga Mat \"The Woodpecker\"",
+  "handle": "all-natural-cork-yoga-mat",
+  "body_html": "<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">description</a></li>\n<li><a href=\"#tab2\">benefits</a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>For the purists out there, the 100% cork mat by <a href=\"/\" title=\"Cork Yoga Mat\">42 Birds</a> contains only cork and nothing else. The sustainable cork is non-slip with natural anti-microbial properties that resist mold, mildew and bad smells.</p>\n<p>With 5mm thickness of pure cork, this mat offers a more firm than soft cushioning. Complimentary cotton carrying and yoga mat strap included. With the feeling of nature beating within you, we wish you a pure and inspiring yoga practice.</p>\n</li>\n<li id=\"tab2\">\n<ul style=\"padding-left: 0;\">\n<li><span>Suitable for all styles of yoga. For hot yoga, you can go towel-free and will not need to deal with a smelly mat.</span></li>\n<li><span>Top/bottom side: 100% sustainable cork that provides a superior grip in both dry and wet conditions. Cork is naturally antimicrobial and self-cleaning.</span></li>\n<li><span>Attractive design will look good no matter where it is stored.</span></li>\n</ul>\n<p><b>Specifications:</b><span> 72″ x 24” | 5mm thick | 2.5 lbs. | 6 in. diameter rolled</span></p>\n<b>Pro Tip: </b><span>For extra grip, spray water on your <a href=\"/colllections/cork-yoga-mat\" title=\"Cork Yoga Mat\">mat</a> in the area your hands and feet go before practice</span>\n</li>\n</ul>\n",
+  "published_at": "2019-09-07T13:01:24-04:00",
+  "created_at": "2019-09-03T10:30:49-04:00",
+  "updated_at": "2026-01-11T10:11:06-05:00",
+  "vendor": "42 Birds",
+  "product_type": "",
+  "tags": [],
+  "variants": [
+    {
+      "id": 12540699017263,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "MAT-COR-1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "price": "84.00",
+      "grams": 2059,
+      "compare_at_price": null,
+      "position": 1,
+      "product_id": 1373992189999,
+      "created_at": "2019-09-03T10:30:49-04:00",
+      "updated_at": "2026-01-11T10:11:06-05:00"
+    }
+  ],
+  "images": [
+    {
+      "id": 31403706613943,
+      "created_at": "2022-02-22T22:32:28-05:00",
+      "position": 1,
+      "updated_at": "2022-02-22T22:32:30-05:00",
+      "product_id": 1373992189999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/100Cork.jpg?v=1645587150",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 11863925096495,
+      "created_at": "2019-09-03T10:31:15-04:00",
+      "position": 2,
+      "updated_at": "2022-02-22T22:32:30-05:00",
+      "product_id": 1373992189999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Front.jpg?v=1645587150",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 11863929323567,
+      "created_at": "2019-09-03T10:31:42-04:00",
+      "position": 3,
+      "updated_at": "2022-02-22T22:32:30-05:00",
+      "product_id": 1373992189999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Angle.jpg?v=1645587150",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "id": 11863933780015,
+      "created_at": "2019-09-03T10:32:12-04:00",
+      "position": 4,
+      "updated_at": "2022-02-22T22:32:30-05:00",
+      "product_id": 1373992189999,
+      "variant_ids": [],
+      "src": "https://cdn.shopify.com/s/files/1/0018/6777/6047/products/All_Cork_Unfold.jpg?v=1645587150",
+      "width": 2000,
+      "height": 2000
+    }
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ]
+}
+```
+
+## Prompt 26 - yolohayoga product core features
+
+› Great, thank you!
+
+  Next, I have noticed that yolohayoga product core features - visible on their website (see image) - are not included in their products.json file. [codex-clipboard-9CLGIM.png 668x682]
+  How do you suggest I incorporate these? Separate / manual file or something else?
+
+• Implemented an optional product-page enrichment step (starting with Yoloha “Core Features”) and wired it into normalization.
+
+  - New config: config/enrichment.json (currently enables yolohayoga and extracts “Core Features” from product pages)
+  - New script: scripts/enrich-data.ts → npm run enrich writes data/enriched/{date}/{brandSlug}.json (+ _summary.json)
+  - Normalization now merges enrichment (if present) into each product as:
+      - coreFeatures?: string[]
+      - coreFeaturesSource?: 'productPage'
+      - coreFeaturesConfidence?: number
+      - and also appends coreFeatures text into the allText extractor input to improve downstream parsing
+  - Fetch now writes brand metadata for enrichment URL resolution: scripts/get-brands-from-convex.ts → data/raw/{date}/_brands.json
+  - Symlinks updated to include data/enriched/latest: scripts/update-latest-symlinks.ts
+  - Docs: docs/ENRICHMENT.md, plus README + docs/DATA_PIPELINE.md updates
+
+  Run it:
+
+  - npm run enrich 2026-01-11 -- --brand yolohayoga --max-products 5 --force
+  - Then npm run normalize 2026-01-11 and npm run aggregate 2026-01-11 (or just npm run pipeline)
+
+  Note: YogaMatLabApp will need to accept the new coreFeatures* fields in its products schema/bulkUpsert when you’re ready to import them.
+
+## Prompt 27 - Question on Length CMx10 Values - DONE
+
+› Given Length CMx10 Values = [
+    1829,
+    2032
+  ]
+
+  Does it make sense to store
+  Length Cm Min = 182.88
+  and
+  Length Cm Max = 203.2
+
+
+  What's the point of the latter?
+
+  Also, should we store CMx100 instead o CMx10 ?
+
+• Yes—those can coexist, and they serve different purposes.
+
+  - lengthCMx10Values: [1829, 2032] is for exact option matching (and compact storage): 1829 → 182.9cm, 2032 → 203.2cm (after rounding to 0.1cm).
+  - lengthCmMin: 182.88 / lengthCmMax: 203.2 is for range queries / sorting / quick prefiltering without scanning arrays. Example: “show mats with any length ≥ 200cm” can be prefiltered
+    with lengthCmMax >= 200. This is also what you’d index in Convex (arrays aren’t index-friendly).
+
+  On CMx100 vs CMx10:
+
+  - I’d keep CMx10. 0.1cm precision is already far tighter than what users care about, and it avoids noisy “precision wars” from inch→cm conversions.
+  - Use CMx100 only if you truly need 0.01cm-level exact matching across brands (rare). If you do, prefer storing both (keep CMx10 for UX filters, add CMx100 for strict equality) to avoid
+    breaking existing logic.

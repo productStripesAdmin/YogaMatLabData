@@ -11,6 +11,12 @@
       "source": "description",
       "originalText": "4.5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -79,10 +85,25 @@
     "variantsCount": 18,
     "minPrice": 45,
     "maxPrice": 45,
+    "variantPriceValues": [
+      45
+    ],
     "priceCurrency": "USD",
     "minGrams": 1200,
     "maxGrams": 1400,
+    "variantGramsValues": [
+      1200,
+      1400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -547,6 +568,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -593,10 +626,24 @@
     "variantsCount": 4,
     "minPrice": 125,
     "maxPrice": 125,
+    "variantPriceValues": [
+      125
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -721,6 +768,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -780,10 +839,24 @@
     "variantsCount": 6,
     "minPrice": 93,
     "maxPrice": 93,
+    "variantPriceValues": [
+      93
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -948,6 +1021,11 @@
       "originalText": "750 grams"
     },
     "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight",
@@ -999,10 +1077,24 @@
     "variantsCount": 1,
     "minPrice": 105,
     "maxPrice": 105,
+    "variantPriceValues": [
+      105
+    ],
     "priceCurrency": "USD",
     "minGrams": 750,
     "maxGrams": 750,
+    "variantGramsValues": [
+      750
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1093,7 +1185,19 @@
       "source": "description",
       "originalText": "3mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "Natural Rubber"
+    ],
+    "materialSource": "tags",
+    "materialConfidence": 0.78,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1159,10 +1263,24 @@
     "variantsCount": 7,
     "minPrice": 76,
     "maxPrice": 76,
+    "variantPriceValues": [
+      76
+    ],
     "priceCurrency": "USD",
     "minGrams": 2300,
     "maxGrams": 2300,
+    "variantGramsValues": [
+      2300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "thicknessMmx10Values": [
+      30
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1437,6 +1555,18 @@
       "originalText": "10mm"
     },
     "material": "NBR",
+    "materials": [
+      "NBR"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1488,10 +1618,24 @@
     "variantsCount": 1,
     "minPrice": 120,
     "maxPrice": 120,
+    "variantPriceValues": [
+      120
+    ],
     "priceCurrency": "USD",
     "minGrams": 1300,
     "maxGrams": 1300,
+    "variantGramsValues": [
+      1300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 10,
+    "thicknessMmMax": 10,
+    "thicknessMmx10Values": [
+      100
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1553,6 +1697,19 @@
       "originalText": "4.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Premium"
@@ -1581,10 +1738,24 @@
     "variantsCount": 4,
     "minPrice": 105,
     "maxPrice": 105,
+    "variantPriceValues": [
+      105
+    ],
     "priceCurrency": "USD",
     "minGrams": 2750,
     "maxGrams": 2750,
+    "variantGramsValues": [
+      2750
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4.5,
+    "thicknessMmMax": 4.5,
+    "thicknessMmx10Values": [
+      45
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -1714,7 +1885,20 @@
       "source": "description",
       "originalText": "4mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1778,10 +1962,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1860,7 +2058,20 @@
       "source": "description",
       "originalText": "4mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1923,10 +2134,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2029,6 +2254,13 @@
       "source": "description",
       "originalText": "lengths - Standard -183cm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Reversible",
       "Non-Slip",
@@ -2081,10 +2313,32 @@
     "variantsCount": 5,
     "minPrice": 135,
     "maxPrice": 150,
+    "variantPriceValues": [
+      135,
+      150
+    ],
     "priceCurrency": "USD",
     "minGrams": 2600,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      2600,
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5.5,
+    "thicknessMmMax": 5.5,
+    "lengthCmMin": 183,
+    "lengthCmMax": 210,
+    "thicknessMmx10Values": [
+      55
+    ],
+    "lengthCMx10Values": [
+      1830,
+      2100
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2195,18 +2449,30 @@
       "Black",
       "Mineral"
     ],
-    "availableLengths": [
-      {
-        "value": 183,
-        "unit": "cm",
-        "originalString": "Standard - 183cm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 210,
-        "unit": "cm",
-        "originalString": "Long - 210cm"
-      }
-    ]
+      "rawUnparsed": [],
+      "lengthCm": [
+        {
+          "value": 183,
+          "sourceOptionName": "Length",
+          "rawValue": "Standard - 183cm",
+          "confidence": 1
+        },
+        {
+          "value": 210,
+          "sourceOptionName": "Length",
+          "rawValue": "Long - 210cm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2226,6 +2492,13 @@
       "source": "description",
       "originalText": "1.5kg"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Reversible",
       "Extra Thick",
@@ -2273,10 +2546,24 @@
     "variantsCount": 1,
     "minPrice": 55,
     "maxPrice": 55,
+    "variantPriceValues": [
+      55
+    ],
     "priceCurrency": "USD",
     "minGrams": 1500,
     "maxGrams": 1500,
+    "variantGramsValues": [
+      1500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 8,
+    "thicknessMmMax": 8,
+    "thicknessMmx10Values": [
+      80
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2344,6 +2631,17 @@
       "originalText": "750 grams"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2412,10 +2710,24 @@
     "variantsCount": 10,
     "minPrice": 70,
     "maxPrice": 70,
+    "variantPriceValues": [
+      70
+    ],
     "priceCurrency": "USD",
     "minGrams": 700,
     "maxGrams": 700,
+    "variantGramsValues": [
+      700
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1,
+    "thicknessMmMax": 1,
+    "thicknessMmx10Values": [
+      10
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -2540,6 +2852,17 @@
     "slug": "yogamatters-yogamatters-organic-cotton-yoga-mat-1",
     "description": "Sustainability matters and here at Yogamatters we’ve been working hard to make your yoga favourites more eco-friendly!\nRe-introducing our organic cotton yoga mat - now made from 100% organically grown cotton, this mat is ideal for your home yoga practice the traditional Indian way. The packaging is compostable now too!\n\nBased on the traditional cotton yoga mat \nMade from 100% organically grown cotton with hand knotted tassels\nHand woven by Indian craftspeople\nDoubles as a rug for your home\nUse a spray water bottle for improved grip\nThoughtfully produced in India with a long-term Yogamatters partner \n\nShop the Yogamatters Organic Cotton Collection here.",
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2578,9 +2901,18 @@
     "variantsCount": 2,
     "minPrice": 44,
     "maxPrice": 44,
+    "variantPriceValues": [
+      44
+    ],
     "priceCurrency": "USD",
     "minGrams": 1500,
     "maxGrams": 1500,
+    "variantGramsValues": [
+      1500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2647,6 +2979,12 @@
       "source": "description",
       "originalText": "7mm"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2693,10 +3031,24 @@
     "variantsCount": 22,
     "minPrice": 165,
     "maxPrice": 165,
+    "variantPriceValues": [
+      165
+    ],
     "priceCurrency": "USD",
     "minGrams": 1900,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "thicknessMmx10Values": [
+      70
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3006,6 +3358,12 @@
       "source": "description",
       "originalText": "7mm"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3046,10 +3404,24 @@
     "variantsCount": 3,
     "minPrice": 180,
     "maxPrice": 180,
+    "variantPriceValues": [
+      180
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "thicknessMmx10Values": [
+      70
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3123,6 +3495,18 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3173,10 +3557,24 @@
     "variantsCount": 19,
     "minPrice": 210,
     "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
     "priceCurrency": "USD",
     "minGrams": 3400,
     "maxGrams": 3400,
+    "variantGramsValues": [
+      3400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "thicknessMmx10Values": [
+      60
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3426,6 +3824,18 @@
       "source": "description",
       "originalText": "6mm"
     },
+    "material": "PVC",
+    "materials": [
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3467,10 +3877,24 @@
     "variantsCount": 5,
     "minPrice": 240,
     "maxPrice": 240,
+    "variantPriceValues": [
+      240
+    ],
     "priceCurrency": "USD",
     "minGrams": 4200,
     "maxGrams": 4200,
+    "variantGramsValues": [
+      4200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "thicknessMmx10Values": [
+      60
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3536,6 +3960,12 @@
       "source": "description",
       "originalText": "1.1kg"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight",
@@ -3561,10 +3991,40 @@
     "variantsCount": 3,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1100,
     "maxGrams": 1100,
+    "variantGramsValues": [
+      1100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "widthCmMin": 61,
+    "widthCmMax": 61,
+    "thicknessMmx10Values": [
+      20
+    ],
+    "lengthCMx10Values": [
+      1800
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1800,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3675,6 +4135,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -3702,10 +4174,24 @@
     "variantsCount": 5,
     "minPrice": 140,
     "maxPrice": 140,
+    "variantPriceValues": [
+      140
+    ],
     "priceCurrency": "USD",
     "minGrams": 2300,
     "maxGrams": 2300,
+    "variantGramsValues": [
+      2300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -3838,6 +4324,17 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3869,10 +4366,24 @@
     "variantsCount": 8,
     "minPrice": 78,
     "maxPrice": 78,
+    "variantPriceValues": [
+      78
+    ],
     "priceCurrency": "USD",
     "minGrams": 900,
     "maxGrams": 900,
+    "variantGramsValues": [
+      900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4022,7 +4533,19 @@
       "source": "description",
       "originalText": "4mm"
     },
-    "material": "Natural Rubber",
+    "material": "Jute",
+    "materials": [
+      "Jute",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4063,10 +4586,24 @@
     "variantsCount": 4,
     "minPrice": 84,
     "maxPrice": 84,
+    "variantPriceValues": [
+      84
+    ],
     "priceCurrency": "USD",
     "minGrams": 2100,
     "maxGrams": 2100,
+    "variantGramsValues": [
+      2100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4161,6 +4698,18 @@
       "originalText": "width 61cm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4207,10 +4756,39 @@
     "variantsCount": 8,
     "minPrice": 125,
     "maxPrice": 125,
+    "variantPriceValues": [
+      125
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2400,
+    "variantGramsValues": [
+      2000,
+      2024,
+      2070,
+      2102,
+      2125,
+      2400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 173,
+    "lengthCmMax": 173,
+    "widthCmMin": 61,
+    "widthCmMax": 61,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1730
+    ],
+    "widthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4298,15 +4876,27 @@
       "value": 188,
       "unit": "cm",
       "source": "description",
-      "originalText": "188cm x 61cm"
+      "originalText": "188cm x 61cm wide"
     },
     "width": {
       "value": 61,
       "unit": "cm",
       "source": "description",
-      "originalText": "188cm x 61cm"
+      "originalText": "188cm x 61cm wide"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4332,10 +4922,40 @@
     "variantsCount": 3,
     "minPrice": 135,
     "maxPrice": 135,
+    "variantPriceValues": [
+      135
+    ],
     "priceCurrency": "USD",
     "minGrams": 2400,
     "maxGrams": 2400,
+    "variantGramsValues": [
+      2400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 188,
+    "lengthCmMax": 188,
+    "widthCmMin": 61,
+    "widthCmMax": 61,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4410,6 +5030,11 @@
       "originalText": "1.5kg"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Lightweight",
@@ -4449,10 +5074,27 @@
     "variantsCount": 4,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1288,
     "maxGrams": 1450,
+    "variantGramsValues": [
+      1288,
+      1366,
+      1369,
+      1450
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "thicknessMmx10Values": [
+      30
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4571,6 +5213,17 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4610,10 +5263,26 @@
     "variantsCount": 3,
     "minPrice": 70,
     "maxPrice": 70,
+    "variantPriceValues": [
+      70
+    ],
     "priceCurrency": "USD",
     "minGrams": 654,
     "maxGrams": 784,
+    "variantGramsValues": [
+      654,
+      690,
+      784
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -4688,6 +5357,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4714,10 +5394,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4767,6 +5461,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4796,10 +5501,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2200,
     "maxGrams": 2200,
+    "variantGramsValues": [
+      2200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4849,6 +5568,17 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4874,10 +5604,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4927,6 +5671,18 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Alignment Marks"
@@ -4955,10 +5711,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2800,
     "maxGrams": 2800,
+    "variantGramsValues": [
+      2800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5032,6 +5802,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5057,10 +5838,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5110,6 +5905,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5143,10 +5949,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5184,6 +6004,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5217,10 +6048,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5257,7 +6102,20 @@
       "source": "description",
       "originalText": "3.5mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5285,10 +6143,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5338,6 +6210,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5366,10 +6249,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2200,
     "maxGrams": 2200,
+    "variantGramsValues": [
+      2200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5413,6 +6310,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5438,10 +6347,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5491,6 +6414,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5516,10 +6451,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1000,
     "maxGrams": 1000,
+    "variantGramsValues": [
+      1000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5569,6 +6518,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5596,10 +6557,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1000,
     "maxGrams": 1000,
+    "variantGramsValues": [
+      1000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5649,6 +6624,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5675,10 +6662,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1000,
     "maxGrams": 1000,
+    "variantGramsValues": [
+      1000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5728,6 +6729,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -5756,10 +6769,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1600,
     "maxGrams": 1600,
+    "variantGramsValues": [
+      1600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5809,6 +6836,17 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Reversible",
@@ -5850,10 +6888,24 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1000,
     "maxGrams": 1000,
+    "variantGramsValues": [
+      1000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -5932,6 +6984,13 @@
       "source": "description",
       "originalText": "183cm length"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Reversible",
       "Non-Slip",
@@ -5971,10 +7030,29 @@
     "variantsCount": 2,
     "minPrice": 720,
     "maxPrice": 720,
+    "variantPriceValues": [
+      720
+    ],
     "priceCurrency": "USD",
     "minGrams": 21000,
     "maxGrams": 21000,
+    "variantGramsValues": [
+      21000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5.5,
+    "thicknessMmMax": 5.5,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "thicknessMmx10Values": [
+      55
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -6047,6 +7125,11 @@
     "slug": "yogamatters-yogamatters-restore-organic-cotton-yoga-nidra-mat",
     "description": "Introducing our new Restorative Yoga Mat, still the waves of your mind and go deeper into Savasana. Designed for a restorative yoga practice and gong baths, fall into deep relaxation and support your yoga nidra practice with this cocooning meditation prop to relieve stress and anxiety. \nMade from sustainable materials with plentiful cushioning for comfort and warmth. Perfect for your home sanctuary but it also comes with a practical carry handle so you can take your mat to your restorative yoga class too. \n\nOuter mat cover made from 100% organically grown cotton  and filled with recycled polyester fibrefill\nRemovable and machine washable cover\nRolls up for easy storage \nPractical carry handle \nDoubles as a spare mattress or even as a yoga bolster\nThoughtfully produced in India with a long-term Yogamatters partner\nCompostable packaging\n\nShop the Yogamatters Organic Cotton Collection here.\nShop the Yogamatters Yoga Nidra Kit here.",
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
     "features": [
       "Eco-Friendly"
     ],
@@ -6087,9 +7170,18 @@
     "variantsCount": 3,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -6168,13 +7260,13 @@
       "value": 180,
       "unit": "cm",
       "source": "description",
-      "originalText": "180 cm x 66 cm"
+      "originalText": "180 cm x 66 cm "
     },
     "width": {
       "value": 66,
       "unit": "cm",
       "source": "description",
-      "originalText": "180 cm x 66 cm"
+      "originalText": "180 cm x 66 cm "
     },
     "weight": {
       "value": 1.1,
@@ -6183,6 +7275,11 @@
       "originalText": "1.1 kg"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly"
     ],
@@ -6208,10 +7305,40 @@
     "variantsCount": 2,
     "minPrice": 140,
     "maxPrice": 140,
+    "variantPriceValues": [
+      140
+    ],
     "priceCurrency": "USD",
     "minGrams": 1100,
     "maxGrams": 1100,
+    "variantGramsValues": [
+      1100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 180,
+    "lengthCmMax": 180,
+    "widthCmMin": 66,
+    "widthCmMax": 66,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1800
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1800,
+        "widthCMx10": 660
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -6290,13 +7417,13 @@
       "originalText": "3mm"
     },
     "length": {
-      "value": 72,
+      "value": 182.88,
       "unit": "cm",
       "source": "description",
       "originalText": "Length: 72\""
     },
     "width": {
-      "value": 27,
+      "value": 68.58,
       "unit": "cm",
       "source": "description",
       "originalText": "Width: 27\""
@@ -6307,7 +7434,19 @@
       "source": "description",
       "originalText": "1.13kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -6338,10 +7477,34 @@
     "variantsCount": 4,
     "minPrice": 125,
     "maxPrice": 125,
+    "variantPriceValues": [
+      125
+    ],
     "priceCurrency": "USD",
     "minGrams": 1100,
     "maxGrams": 1100,
+    "variantGramsValues": [
+      1100
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      686
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -6457,10 +7620,24 @@
     "variantsCount": 1,
     "minPrice": 465,
     "maxPrice": 465,
+    "variantPriceValues": [
+      465
+    ],
     "priceCurrency": "USD",
     "minGrams": 12000,
     "maxGrams": 12000,
+    "variantGramsValues": [
+      12000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "thicknessMmx10Values": [
+      60
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -6515,6 +7692,13 @@
       "source": "description",
       "originalText": "210cm length"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Smooth"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Reversible",
       "Non-Slip",
@@ -6556,10 +7740,29 @@
     "variantsCount": 3,
     "minPrice": 830,
     "maxPrice": 830,
+    "variantPriceValues": [
+      830
+    ],
     "priceCurrency": "USD",
     "minGrams": 24000,
     "maxGrams": 24000,
+    "variantGramsValues": [
+      24000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5.5,
+    "thicknessMmMax": 5.5,
+    "lengthCmMin": 210,
+    "lengthCmMax": 210,
+    "thicknessMmx10Values": [
+      55
+    ],
+    "lengthCMx10Values": [
+      2100
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -6651,6 +7854,12 @@
       "source": "description",
       "originalText": "5mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -6698,10 +7907,24 @@
     "variantsCount": 17,
     "minPrice": 380,
     "maxPrice": 380,
+    "variantPriceValues": [
+      380
+    ],
     "priceCurrency": "USD",
     "minGrams": 15600,
     "maxGrams": 15600,
+    "variantGramsValues": [
+      15600
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -7170,6 +8393,18 @@
       "originalText": "3mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "Cotton"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -7209,10 +8444,24 @@
     "variantsCount": 10,
     "minPrice": 320,
     "maxPrice": 320,
+    "variantPriceValues": [
+      320
+    ],
     "priceCurrency": "USD",
     "minGrams": 13800,
     "maxGrams": 13800,
+    "variantGramsValues": [
+      13800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "thicknessMmx10Values": [
+      30
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -7445,6 +8694,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -7485,10 +8746,24 @@
     "variantsCount": 6,
     "minPrice": 390,
     "maxPrice": 390,
+    "variantPriceValues": [
+      390
+    ],
     "priceCurrency": "USD",
     "minGrams": 15000,
     "maxGrams": 15000,
+    "variantGramsValues": [
+      15000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -7653,6 +8928,17 @@
       "originalText": "750 grams"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -7687,10 +8973,24 @@
     "variantsCount": 6,
     "minPrice": 585,
     "maxPrice": 585,
+    "variantPriceValues": [
+      585
+    ],
     "priceCurrency": "USD",
     "minGrams": 10000,
     "maxGrams": 10000,
+    "variantGramsValues": [
+      10000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1,
+    "thicknessMmMax": 1,
+    "thicknessMmx10Values": [
+      10
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -7800,7 +9100,20 @@
       "source": "description",
       "originalText": "3.5mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -7837,10 +9150,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -7914,6 +9241,17 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -7941,10 +9279,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2200,
     "maxGrams": 2200,
+    "variantGramsValues": [
+      2200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -8018,6 +9370,18 @@
       "originalText": "10mm"
     },
     "material": "NBR",
+    "materials": [
+      "NBR"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Extra Thick",
       "Non-Slip",
@@ -8049,10 +9413,24 @@
     "variantsCount": 1,
     "minPrice": 490,
     "maxPrice": 490,
+    "variantPriceValues": [
+      490
+    ],
     "priceCurrency": "USD",
     "minGrams": 7800,
     "maxGrams": 7800,
+    "variantGramsValues": [
+      7800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 10,
+    "thicknessMmMax": 10,
+    "thicknessMmx10Values": [
+      100
+    ],
     "shopifyOptions": [
       {
         "name": "Title",

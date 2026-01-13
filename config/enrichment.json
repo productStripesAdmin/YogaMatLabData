@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "defaults": {
+    "delayBetweenProductsMs": 1000,
+    "timeoutMs": 20000,
+    "userAgent": "random"
+  },
+  "brands": {
+    "aloyoga": {
+      "enabled": true,
+      "strategy": "manual",
+      "baseUrl": "https://www.aloyoga.com/en-sg/",
+      "productPathTemplate": "products/{handle}",
+      "appendText": {
+        "headings": ["Fit", "Description", "Fabrication", "Colors"]
+      }
+    },
+    "gayo": {
+      "enabled": true,
+      "baseUrl": "https://www.gayoshop.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Specs"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "houseofmats": {
+      "enabled": true,
+      "baseUrl": "https://www.houseofmats.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Size"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "liforme": {
+      "enabled": true,
+      "baseUrl": "https://liforme.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Specs & Features"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "manduka": {
+      "enabled": true,
+      "baseUrl": "https://www.manduka.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Specs"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "yogibare": {
+      "enabled": true,
+      "baseUrl": "https://www.yogi-bare.co.uk",
+      "productPathTemplate": "/collections/yoga-mats/products/{handle}",
+      "appendText": {
+        "headings": ["The Details", "Details"],
+        "endHeadings": [
+          "How to Love Me",
+          "Why You'll Love It",
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "thesatoriconcept": {
+      "enabled": true,
+      "baseUrl": "https://www.thesatoriconcept.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Dimensions & Material"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "shaktiwarrior": {
+      "enabled": true,
+      "baseUrl": "https://www.shaktiwarriorshop.com",
+      "productPathTemplate": "/collections/sweat-practice-copy/products/{handle}",
+      "appendText": {
+        "headings": [
+          "Soul of the product",
+          "Material",
+          "Care guide",
+          "Mindful craftsmanship",
+          "Measurement"
+        ],
+        "endHeadings": [
+          "Shipping & Returns",
+          "Shipping",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description",
+          "Measurement"
+        ]
+      }
+    },
+    "stakt": {
+      "enabled": true,
+      "baseUrl": "https://shopstakt.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Product details", "Product Details"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "woloyoga": {
+      "enabled": true,
+      "baseUrl": "https://woloyoga.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": [
+          "Dimension & Materials",
+          "Dimensions & Materials",
+          "Dimensions & Material",
+          "Dimension & Material",
+          "Specs & Care"
+        ],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "yogamatters": {
+      "enabled": true,
+      "baseUrl": "https://www.yogamatters.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Details"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "yogadesignlab": {
+      "enabled": true,
+      "baseUrl": "https://yogadesignlab.com",
+      "productPathTemplate": "/products/{handle}",
+      "appendText": {
+        "headings": ["Product Specs"],
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Reviews",
+          "Description"
+        ]
+      }
+    },
+    "yolohayoga": {
+      "enabled": true,
+      "baseUrl": "https://yolohayoga.com",
+      "productPathTemplate": "/products/{handle}",
+      "coreFeatures": {
+        "heading": "Core Features",
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Description"
+        ]
+      }
+    }
+  }
+}

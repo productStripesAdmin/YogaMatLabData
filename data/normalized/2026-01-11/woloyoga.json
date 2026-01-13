@@ -12,6 +12,17 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Reversible",
       "Non-Slip"
@@ -29,10 +40,27 @@
     "variantsCount": 6,
     "minPrice": 579,
     "maxPrice": 778,
+    "variantPriceValues": [
+      579,
+      628,
+      778
+    ],
     "priceCurrency": "USD",
     "minGrams": 2700,
     "maxGrams": 3500,
+    "variantGramsValues": [
+      2700,
+      3500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -144,6 +172,17 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -160,10 +199,27 @@
     "variantsCount": 18,
     "minPrice": 389,
     "maxPrice": 598,
+    "variantPriceValues": [
+      389,
+      438,
+      598
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 4000,
+    "variantGramsValues": [
+      3200,
+      4000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -463,6 +519,17 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip",
       "Lightweight"
@@ -480,10 +547,26 @@
     "variantsCount": 15,
     "minPrice": 329,
     "maxPrice": 538,
+    "variantPriceValues": [
+      329,
+      378,
+      538
+    ],
     "priceCurrency": "USD",
     "minGrams": 1300,
     "maxGrams": 1300,
+    "variantGramsValues": [
+      1300
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Color",
@@ -702,6 +785,12 @@
     "name": "Dual Flow Bundle",
     "slug": "woloyoga-dual-flow-bundle",
     "description": "Two Mastery Mats so you and a partner can practice together with comfort and grip.",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -718,7 +807,13 @@
     "variantsCount": 36,
     "minPrice": 758,
     "maxPrice": 758,
+    "variantPriceValues": [
+      758
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 36,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -846,7 +941,13 @@
     "variantsCount": 25,
     "minPrice": 638,
     "maxPrice": 638,
+    "variantPriceValues": [
+      638
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 25,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -965,7 +1066,13 @@
     "variantsCount": 30,
     "minPrice": 698,
     "maxPrice": 698,
+    "variantPriceValues": [
+      698
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 30,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1096,7 +1203,13 @@
     "variantsCount": 4,
     "minPrice": 1138,
     "maxPrice": 1138,
+    "variantPriceValues": [
+      1138
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1166,6 +1279,11 @@
     "slug": "woloyoga-the-ritual-bundle",
     "description": "A complete setup with a Mastery Mat, Linea Yoga Towel, and two Cork Yoga Blocks. Everything you need to ground, support, and deepen your daily practice.",
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [],
     "shopifyId": 8394821664964,
     "shopifyHandle": "the-ritual-bundle",
@@ -1181,7 +1299,13 @@
     "variantsCount": 18,
     "minPrice": 896,
     "maxPrice": 896,
+    "variantPriceValues": [
+      896
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 18,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {

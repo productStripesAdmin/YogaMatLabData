@@ -34,6 +34,10 @@ async function updateSymlinks(date: string): Promise<void> {
       link: path.join(dataDir, 'raw', 'latest'),
     },
     {
+      target: path.join(dataDir, 'enriched', date),
+      link: path.join(dataDir, 'enriched', 'latest'),
+    },
+    {
       target: path.join(dataDir, 'normalized', date),
       link: path.join(dataDir, 'normalized', 'latest'),
     },

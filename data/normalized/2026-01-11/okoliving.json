@@ -15,13 +15,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "weight": {
       "value": 1.814371637742559,
@@ -30,6 +30,12 @@
       "originalText": "4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -51,10 +57,40 @@
     "variantsCount": 1,
     "minPrice": 210.8,
     "maxPrice": 210.8,
+    "variantPriceValues": [
+      210.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -131,13 +167,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "weight": {
       "value": 1.814371637742559,
@@ -146,6 +182,12 @@
       "originalText": "4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -166,10 +208,40 @@
     "variantsCount": 1,
     "minPrice": 210.8,
     "maxPrice": 210.8,
+    "variantPriceValues": [
+      210.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -222,13 +294,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "weight": {
       "value": 1.814371637742559,
@@ -237,6 +309,12 @@
       "originalText": "4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -257,10 +335,40 @@
     "variantsCount": 1,
     "minPrice": 210.8,
     "maxPrice": 210.8,
+    "variantPriceValues": [
+      210.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -313,13 +421,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x27\""
+      "originalText": "77\" x27\"   "
     },
     "weight": {
       "value": 1.814371637742559,
@@ -328,6 +436,12 @@
       "originalText": "4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -348,10 +462,40 @@
     "variantsCount": 1,
     "minPrice": 223.2,
     "maxPrice": 223.2,
+    "variantPriceValues": [
+      223.2
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -398,13 +542,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.9504495105732509,
@@ -412,7 +556,20 @@
       "source": "description",
       "originalText": "4.3 lbs"
     },
-    "material": "Natural Rubber",
+    "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -436,10 +593,40 @@
     "variantsCount": 1,
     "minPrice": 210.8,
     "maxPrice": 210.8,
+    "variantPriceValues": [
+      210.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -486,13 +673,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -501,6 +688,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -520,10 +713,40 @@
     "variantsCount": 1,
     "minPrice": 181.8,
     "maxPrice": 181.8,
+    "variantPriceValues": [
+      181.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -588,13 +811,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -603,6 +826,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -622,10 +851,40 @@
     "variantsCount": 1,
     "minPrice": 161.6,
     "maxPrice": 161.6,
+    "variantPriceValues": [
+      161.6
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -684,13 +943,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -698,7 +957,20 @@
       "source": "description",
       "originalText": "3.4 lbs"
     },
-    "material": "Cotton",
+    "material": "Jute",
+    "materials": [
+      "Jute",
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -720,10 +992,40 @@
     "variantsCount": 1,
     "minPrice": 161.6,
     "maxPrice": 161.6,
+    "variantPriceValues": [
+      161.6
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -800,13 +1102,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -815,6 +1117,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -833,10 +1141,40 @@
     "variantsCount": 1,
     "minPrice": 171.7,
     "maxPrice": 171.7,
+    "variantPriceValues": [
+      171.7
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -895,13 +1233,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.9504495105732509,
@@ -910,6 +1248,19 @@
       "originalText": "4.3 lbs"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -933,10 +1284,40 @@
     "variantsCount": 1,
     "minPrice": 198.4,
     "maxPrice": 198.4,
+    "variantPriceValues": [
+      198.4
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1001,13 +1382,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "weight": {
       "value": 2.041168092460379,
@@ -1016,6 +1397,12 @@
       "originalText": "4.5 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1035,10 +1422,40 @@
     "variantsCount": 1,
     "minPrice": 223.2,
     "maxPrice": 223.2,
+    "variantPriceValues": [
+      223.2
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1079,13 +1496,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -1094,6 +1511,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -1113,10 +1536,40 @@
     "variantsCount": 1,
     "minPrice": 181.8,
     "maxPrice": 181.8,
+    "variantPriceValues": [
+      181.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1163,13 +1616,13 @@
       "value": 195.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "77\" x 27\""
+      "originalText": "77\" x 27\"   "
     },
     "weight": {
       "value": 2.041168092460379,
@@ -1178,6 +1631,12 @@
       "originalText": "4.5 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1197,10 +1656,40 @@
     "variantsCount": 1,
     "minPrice": 223.2,
     "maxPrice": 223.2,
+    "variantPriceValues": [
+      223.2
+    ],
     "priceCurrency": "USD",
     "minGrams": 2041,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 7,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 195.58,
+    "lengthCmMax": 195.58,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      70
+    ],
+    "lengthCMx10Values": [
+      1956
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1956,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1241,13 +1730,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -1256,6 +1745,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -1275,10 +1770,40 @@
     "variantsCount": 1,
     "minPrice": 161.6,
     "maxPrice": 161.6,
+    "variantPriceValues": [
+      161.6
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1337,13 +1862,13 @@
       "value": 187.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "width": {
       "value": 68.58,
       "unit": "cm",
       "source": "description",
-      "originalText": "74\" x27\""
+      "originalText": "74\" x27\"   "
     },
     "weight": {
       "value": 1.542215892081175,
@@ -1352,6 +1877,12 @@
       "originalText": "3.4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Antimicrobial"
@@ -1371,10 +1902,40 @@
     "variantsCount": 1,
     "minPrice": 171.7,
     "maxPrice": 171.7,
+    "variantPriceValues": [
+      171.7
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 1814,
+    "variantGramsValues": [
+      1814
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1429,13 +1990,38 @@
       "source": "description",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
     "weight": {
       "value": 0.9071858188712795,
       "unit": "kg",
       "source": "description",
       "originalText": "2 lbs"
     },
-    "material": "Cotton",
+    "material": "Jute",
+    "materials": [
+      "Jute",
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1457,10 +2043,40 @@
     "variantsCount": 1,
     "minPrice": 148.8,
     "maxPrice": 148.8,
+    "variantPriceValues": [
+      148.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 1134,
     "maxGrams": 1134,
+    "variantGramsValues": [
+      1134
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1515,6 +2131,18 @@
       "source": "description",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
     "weight": {
       "value": 1.1339822735890994,
       "unit": "kg",
@@ -1522,6 +2150,18 @@
       "originalText": "2.5 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1543,10 +2183,40 @@
     "variantsCount": 1,
     "minPrice": 148.8,
     "maxPrice": 148.8,
+    "variantPriceValues": [
+      148.8
+    ],
     "priceCurrency": "USD",
     "minGrams": 1134,
     "maxGrams": 1134,
+    "variantGramsValues": [
+      1134
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -1577,6 +2247,18 @@
       "source": "options",
       "originalText": "3mm"
     },
+    "length": {
+      "value": 187.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
+    "width": {
+      "value": 68.58,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "74\"L x 27\"W"
+    },
     "weight": {
       "value": 1.814371637742559,
       "unit": "kg",
@@ -1584,6 +2266,18 @@
       "originalText": "4 lbs"
     },
     "material": "Cotton",
+    "materials": [
+      "Cotton",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1605,10 +2299,46 @@
     "variantsCount": 15,
     "minPrice": 186,
     "maxPrice": 248,
+    "variantPriceValues": [
+      186,
+      202,
+      248
+    ],
     "priceCurrency": "USD",
     "minGrams": 1814,
     "maxGrams": 2041,
+    "variantGramsValues": [
+      1814,
+      1950,
+      2041
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 7,
+    "lengthCmMin": 187.96,
+    "lengthCmMax": 187.96,
+    "widthCmMin": 68.58,
+    "widthCmMax": 68.58,
+    "thicknessMmx10Values": [
+      30,
+      50,
+      70
+    ],
+    "lengthCMx10Values": [
+      1880
+    ],
+    "widthCMx10Values": [
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1880,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1749,22 +2479,35 @@
         "position": 18
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3,
-        "unit": "mm",
-        "originalString": "3mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      },
-      {
-        "value": 7,
-        "unit": "mm",
-        "originalString": "7mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3mm",
+          "confidence": 1
+        },
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        },
+        {
+          "value": 7,
+          "sourceOptionName": "Thickness",
+          "rawValue": "7mm",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]

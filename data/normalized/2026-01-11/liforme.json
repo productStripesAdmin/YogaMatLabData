@@ -6,6 +6,18 @@
     "slug": "liforme-liforme-classic-yoga-mat",
     "description": "TRULY REVOLUTIONARY. The original ground-breaking Liforme Classic Yoga Mat features our unique and patented AlignForMe® posture alignment design. The intelligent markers help guide Yogis of all levels and sizes to improve form, posture, and body awareness with every practice.\nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -43,7 +55,13 @@
     "variantsCount": 13,
     "minPrice": 160,
     "maxPrice": 160,
+    "variantPriceValues": [
+      160
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 13,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -193,6 +211,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -223,8 +253,19 @@
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -317,6 +358,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -347,8 +400,19 @@
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -395,6 +459,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -424,8 +500,19 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -459,6 +546,12 @@
       "source": "description",
       "originalText": "4mm"
     },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -505,8 +598,21 @@
     "variantsCount": 48,
     "minPrice": 240,
     "maxPrice": 260,
+    "variantPriceValues": [
+      240,
+      250,
+      260
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 48,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -680,7 +786,22 @@
       "Terracotta",
       "Aqua",
       "Forest"
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "LYM"
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -695,6 +816,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -727,8 +860,19 @@
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -809,6 +953,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -839,8 +995,19 @@
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -913,6 +1080,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -945,8 +1124,19 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -981,6 +1171,17 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1011,8 +1212,19 @@
     "variantsCount": 1,
     "minPrice": 200,
     "maxPrice": 200,
+    "variantPriceValues": [
+      200
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1065,6 +1277,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1095,8 +1319,19 @@
     "variantsCount": 2,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1145,6 +1380,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1175,8 +1422,19 @@
     "variantsCount": 1,
     "minPrice": 200,
     "maxPrice": 200,
+    "variantPriceValues": [
+      200
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1235,6 +1493,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1265,8 +1535,19 @@
     "variantsCount": 2,
     "minPrice": 195,
     "maxPrice": 195,
+    "variantPriceValues": [
+      195
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1309,6 +1590,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1338,8 +1631,19 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1374,6 +1678,18 @@
     "slug": "liforme-liforme-mother-earth-yoga-mat",
     "description": "The Liforme Mother Earth Yoga Mat was created to inspire a connection with nature during your practice. Featuring an adapted of AlignForMe® alignment design adorned with a beautiful hand-painted depiction of ‘Mother Earth’ surrounded by the leaves of her trees. Printed in three beautiful shades of green, olive, and purple using our eco-friendly, non-toxic inks, these intelligent markers help guide Yogis of all levels and sizes to improved posture, balance, and body awareness.\nExperience unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1405,9 +1721,18 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
     "minGrams": 3500,
     "maxGrams": 3500,
+    "variantGramsValues": [
+      3500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1443,6 +1768,17 @@
     "slug": "liforme-liforme-rainbow-yoga-mat",
     "description": "The Liforme Rainbow Yoga Mat features a bold and beautiful rainbow variation of our signature AlignForMe® posture alignment design, available on vibrant Yellow, calming Blue, or uplifting Grateful Pink surfaces. Designed for Yogis of all shapes and sizes, the intelligent cues of the AlignForMe® system help you stay balanced and aligned, reducing the risk of injury and enhancing body awareness.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1472,7 +1808,13 @@
     "variantsCount": 3,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1548,6 +1890,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1582,8 +1936,19 @@
     "variantsCount": 4,
     "minPrice": 170,
     "maxPrice": 170,
+    "variantPriceValues": [
+      170
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1642,6 +2007,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1672,8 +2049,19 @@
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1710,6 +2098,18 @@
     "slug": "liforme-liforme-radiant-sun-yoga-mat",
     "description": "TRULY RADIANT. No matter the weather, it’s always sunny on your Liforme Radiant Sun Yoga Mat. Featuring a radiant AlignForMe® design printed in warm yellow, orange, and red durable, eco-friendly, non-toxic inks. Available on either our vibrant yellow or calming blue surface, the Radiant Sun design brings light and energy to your practice.\nExperience unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, it’s truly planet-friendly and body-kind.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1736,7 +2136,13 @@
     "variantsCount": 2,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1780,6 +2186,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1809,8 +2227,19 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1845,6 +2274,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1874,8 +2315,19 @@
     "variantsCount": 1,
     "minPrice": 190,
     "maxPrice": 190,
+    "variantPriceValues": [
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -1904,6 +2356,18 @@
     "slug": "liforme-liforme-dragon-phoenix-yoga-mat",
     "description": "The Liforme Dragon and Phoenix Yoga Mats brings harmony and balance to your practice. Set against our red surface, the mat features a striking gold AlignForMe® posture alignment system, designed to guide you intuitively through each pose with improved posture, balance, and body awareness.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber and PVC-free materials. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose - ideal for all body types and Yoga styles.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1930,7 +2394,13 @@
     "variantsCount": 2,
     "minPrice": 200,
     "maxPrice": 200,
+    "variantPriceValues": [
+      200
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -1980,6 +2450,18 @@
     "slug": "liforme-liforme-zodiac-yoga-mat",
     "description": "The special edition Liforme Zodiac Yoga Mats celebrate Good Fortune and the rich symbolism of the Chinese Zodiac. Each mat pays tribute to the Chinese New Year, with past editions honouring the ‘Year of the Rat’, ‘Year of the Pig’, and ‘Year of the Dog’, featuring a unique etched design inspired by the Zodiac Animal. The latest addition is the bold and dynamic ‘Year of the Tiger’ mat, showcasing a striking black and cream tiger-striped AlignForMe® design on a vibrant orange mat surface. \nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose.\nAs part of Liforme’s commitment to conservation, 3% of Liforme.com sales of the Year of the Tiger Yoga Mat will be donated to WWF to support their conservation and campaigning work which is helping to bring our world back to life. WWF-UK is a registered charity in England and Wales 1081247 and in Scotland SC039593 and a company limited by guarantee registered in England and Wales 4016725. \nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2008,7 +2490,14 @@
     "variantsCount": 4,
     "minPrice": 170,
     "maxPrice": 190,
+    "variantPriceValues": [
+      170,
+      190
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2068,6 +2557,18 @@
     "slug": "liforme-liforme-evolve-yoga-mat",
     "description": "TRULY REFINED. The Liforme Evolve Yoga Mat, is designed for those who appreciate simplicity without compromising on quality. This mat features a pared-back and refined AlignForMe® alignment system for those who like a clean and minimalist look. The sleek design offers subtle visual guidance to support your practice without unnecessary distractions.\nExperience unmatched non-slip grip, with our incredible GripForMe® top surface material, so you can hold poses longer and avoid slipping, even in the sweatiest of Yoga practices. Made from sustainably sourced natural rubber and PVC-free materials, this Yoga mat is truly Planet friendly and body-kind. \nDesigned to be longer and wider than standard Yoga mats, it gives you more space to move freely, with the perfect balance of firm stability and soft cushioning for every pose.\nIncludes a complimentary Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2098,7 +2599,13 @@
     "variantsCount": 4,
     "minPrice": 160,
     "maxPrice": 160,
+    "variantPriceValues": [
+      160
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2158,6 +2665,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2189,8 +2708,19 @@
     "variantsCount": 2,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2233,6 +2763,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2263,8 +2805,19 @@
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2299,6 +2852,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2328,8 +2893,19 @@
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2364,6 +2940,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2393,8 +2981,19 @@
     "variantsCount": 1,
     "minPrice": 220,
     "maxPrice": 220,
+    "variantPriceValues": [
+      220
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2447,6 +3046,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2479,8 +3090,19 @@
     "variantsCount": 4,
     "minPrice": 200,
     "maxPrice": 200,
+    "variantPriceValues": [
+      200
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 4,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2539,6 +3161,18 @@
       "originalText": "2mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2571,8 +3205,19 @@
     "variantsCount": 7,
     "minPrice": 130,
     "maxPrice": 130,
+    "variantPriceValues": [
+      130
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 7,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2685,6 +3330,18 @@
       "originalText": "4mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2715,8 +3372,19 @@
     "variantsCount": 3,
     "minPrice": 155,
     "maxPrice": 155,
+    "variantPriceValues": [
+      155
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2803,6 +3471,18 @@
       "originalText": "2mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2835,10 +3515,24 @@
     "variantsCount": 3,
     "minPrice": 155,
     "maxPrice": 155,
+    "variantPriceValues": [
+      155
+    ],
     "priceCurrency": "USD",
     "minGrams": 4000,
     "maxGrams": 4000,
+    "variantGramsValues": [
+      4000
+    ],
+    "variantGramsZeroOrMissingCount": 2,
+    "variantGramsCoverage": 0.3333333333333333,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2889,6 +3583,18 @@
       "originalText": "2mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2922,8 +3628,19 @@
     "variantsCount": 3,
     "minPrice": 135,
     "maxPrice": 135,
+    "variantPriceValues": [
+      135
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -2974,6 +3691,18 @@
       "originalText": "2mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3002,8 +3731,19 @@
     "variantsCount": 1,
     "minPrice": 165,
     "maxPrice": 165,
+    "variantPriceValues": [
+      165
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -3032,6 +3772,17 @@
     "slug": "liforme-liforme-rainbow-travel-yoga-mat",
     "description": "The Liforme Rainbow Yoga Mat features a bold and beautiful rainbow variation of our signature AlignForMe® posture alignment design, available on vibrant Yellow, calming Blue, or uplifting Grateful Pink surfaces. Designed for Yogis of all shapes and sizes, the intelligent cues of the alignment system help you stay balanced and aligned, reducing the risk of injury and enhancing body awareness.\nPrinted using durable, eco-friendly, non-toxic inks, our Planet-friendly Yoga mat is made with sustainably sourced natural rubber. It offers unmatched non-slip surface allowing you to hold poses longer and avoid slipping, even in the sweatiest of Yoga practices.\nLighter than our regular Yoga mats, this mat is effortless to carry, perfect for on-the-go practice, whether you’re heading to the studio, traveling, or practicing outdoors.\nIncludes a complimentary Travel Yoga Mat bag for easy carrying and storage.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3060,7 +3811,13 @@
     "variantsCount": 3,
     "minPrice": 155,
     "maxPrice": 155,
+    "variantPriceValues": [
+      155
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3136,6 +3893,17 @@
       "originalText": "2mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3165,8 +3933,19 @@
     "variantsCount": 1,
     "minPrice": 165,
     "maxPrice": 165,
+    "variantPriceValues": [
+      165
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 2,
+    "thicknessMmMax": 2,
+    "thicknessMmx10Values": [
+      20
+    ],
     "shopifyOptions": [
       {
         "name": "Colour",
@@ -3217,7 +3996,13 @@
     "variantsCount": 91,
     "minPrice": 246,
     "maxPrice": 246,
+    "variantPriceValues": [
+      246
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 91,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3396,7 +4181,13 @@
     "variantsCount": 54,
     "minPrice": 187,
     "maxPrice": 187,
+    "variantPriceValues": [
+      187
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 54,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3510,7 +4301,13 @@
     "variantsCount": 36,
     "minPrice": 161,
     "maxPrice": 161,
+    "variantPriceValues": [
+      161
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 36,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3585,9 +4382,18 @@
     "variantsCount": 96,
     "minPrice": 280,
     "maxPrice": 280,
+    "variantPriceValues": [
+      280
+    ],
     "priceCurrency": "USD",
     "minGrams": 1,
     "maxGrams": 1,
+    "variantGramsValues": [
+      1
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3646,6 +4452,12 @@
     "name": "Liforme Cosmic Moon Yoga Mat & Travel Mat Bundle",
     "slug": "liforme-liforme-cosmic-moon-yoga-mat-travel-mat-bundle",
     "description": "TRULY GREAT VALUE. Can’t decide which is the perfect Liforme mat for you? With this great value Bundle, you can have the best Yoga mat with you at home or away! The bundle includes our Cosmic Moon Yoga Mat and Cosmic Moon Travel Mat, featuring a radiant Moon System AlignForMe® Guide in beautiful shades of yellow, blue, green, lilac, and white on our grippy mat surface. Printed in eco-friendly, non-toxic inks that are exceptionally durable, Liforme’s ground-breaking alignment system is designed to work for all bodies and styles of practice. Let the cosmic energy of the lunar cycle inspire your next transformation.\nComplimentary Yoga Mat and Travel Yoga Mat bags included",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3669,9 +4481,18 @@
     "variantsCount": 9,
     "minPrice": 293,
     "maxPrice": 293,
+    "variantPriceValues": [
+      293
+    ],
     "priceCurrency": "USD",
     "minGrams": 1,
     "maxGrams": 1,
+    "variantGramsValues": [
+      1
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -3735,9 +4556,18 @@
     "variantsCount": 9,
     "minPrice": 293,
     "maxPrice": 293,
+    "variantPriceValues": [
+      293
+    ],
     "priceCurrency": "USD",
     "minGrams": 1,
     "maxGrams": 1,
+    "variantGramsValues": [
+      1
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {

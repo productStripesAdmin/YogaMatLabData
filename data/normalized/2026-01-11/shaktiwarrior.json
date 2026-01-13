@@ -5,13 +5,30 @@
     "name": "Recycled PU Yoga Mat - Sage",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-sage",
     "description": "The Sage Arch Yoga Mat features a unique arch shape for better alignment and flow, made from recycled PU and natural tree rubber. With non-slip grip and dense cushioning, it offers sustainable support for regular and hot yoga.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -33,10 +50,35 @@
     "variantsCount": 1,
     "minPrice": 84,
     "maxPrice": 84,
+    "variantPriceValues": [
+      84
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -77,7 +119,28 @@
         "height": 879,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -85,13 +148,30 @@
     "name": "Recycled PU Yoga Mat - Firestone",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-firestone",
     "description": "The Firestone Arch Yoga Mat features a unique arch shape to support natural movement and enhance stability. Made from recycled PU and natural tree rubber, it offers non-slip grip, joint-friendly cushioning, and sustainable performance for all styles of yoga.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -113,10 +193,35 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -157,7 +262,28 @@
         "height": 1184,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -165,13 +291,30 @@
     "name": "Recycled PU Yoga Mat - Moonbeam",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-moonbeam",
     "description": "The Arch Shaped Moonbeam Mat is designed for comfort and alignment with its unique arch shape. Made from recycled PU and natural rubber, it offers a non-slip surface, joint support, and eco-friendly performance for mindful movement.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -196,10 +339,35 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -234,7 +402,28 @@
         "height": 3700,
         "position": 4
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -242,13 +431,30 @@
     "name": "Recycled PU Yoga Mat - Earthstone",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-earthstone",
     "description": "Experience comfort and balance with our Arch Shaped Recycled PU Yoga Mat—crafted from eco-conscious recycled PU and natural tree rubber for non-slip grip, joint support, and mindful movement. Its curved design promotes alignment and flow in every practice.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -273,10 +479,35 @@
     "variantsCount": 1,
     "minPrice": 109,
     "maxPrice": 109,
+    "variantPriceValues": [
+      109
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -317,7 +548,28 @@
         "height": 1216,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -331,7 +583,25 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
-    "material": "Natural Rubber",
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -352,10 +622,43 @@
     "variantsCount": 2,
     "minPrice": 94,
     "maxPrice": 104,
+    "variantPriceValues": [
+      94,
+      104
+    ],
     "priceCurrency": "USD",
     "minGrams": 1700,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      1700,
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "widthCmMin": 60.96,
+    "widthCmMax": 68.58,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "widthCMx10Values": [
+      610,
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -416,18 +719,36 @@
         "position": 8
       }
     ],
-    "availableLengths": [
-      {
-        "value": 182.88,
-        "unit": "cm",
-        "originalString": "Studio - 72\" L x 24\" W"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 213.36,
-        "unit": "cm",
-        "originalString": "Extra Long and Extra Wide - 84\" L x 27\" W"
-      }
-    ]
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 68.58
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -441,7 +762,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -463,10 +801,35 @@
     "variantsCount": 1,
     "minPrice": 94,
     "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -519,7 +882,28 @@
         "height": 4384,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -539,7 +923,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -559,10 +960,40 @@
     "variantsCount": 1,
     "minPrice": 51,
     "maxPrice": 51,
+    "variantPriceValues": [
+      51
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -609,7 +1040,28 @@
         "height": 2160,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -617,13 +1069,30 @@
     "name": "Recycled PU Yoga Mat - Chakra",
     "slug": "shaktiwarrior-chakra-shanti-pu-yoga-mat",
     "description": "Step into serenity with the Chakra Recycled PU Yoga Mat—featuring a radiant gold chakra design on an ivory recycled PU surface and a natural tree rubber base. Enjoy non-slip grip, joint support, and eco-conscious performance for regular and hot yoga.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -646,10 +1115,35 @@
     "variantsCount": 1,
     "minPrice": 74,
     "maxPrice": 74,
+    "variantPriceValues": [
+      74
+    ],
     "priceCurrency": "USD",
     "minGrams": 3200,
     "maxGrams": 3200,
+    "variantGramsValues": [
+      3200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -702,7 +1196,28 @@
         "height": 4381,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -710,13 +1225,30 @@
     "name": "Recycled PU Yoga Mat - Anahata",
     "slug": "shaktiwarrior-anahata-shanti-pu-yoga-mat",
     "description": "Flow with calm and balance on the Heart Chakra Recycled PU Yoga Mat—featuring an Anahata-inspired design on eco-friendly recycled PU and natural tree rubber for grip, support, and mindful movement",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -738,10 +1270,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -800,7 +1357,28 @@
         "height": 4384,
         "position": 8
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -814,6 +1392,18 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -833,10 +1423,35 @@
     "variantsCount": 1,
     "minPrice": 81,
     "maxPrice": 81,
+    "variantPriceValues": [
+      81
+    ],
     "priceCurrency": "USD",
     "minGrams": 1900,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -883,7 +1498,28 @@
         "height": 4375,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -891,13 +1527,24 @@
     "name": "Recycled PU Yoga Mat - Sahasrara",
     "slug": "shaktiwarrior-sahasrara-pu-wide-yoga-mat",
     "description": "Unveil the elegance of the Sahasrara Recycled PU Yoga Mat—featuring a lotus-inspired design on a sleek black recycled PU surface with natural tree rubber. With a wider base for stability, it’s ideal for both regular and hot yoga.",
-    "width": {
+    "length": {
       "value": 182.88,
       "unit": "cm",
       "source": "options",
       "originalText": "Extra Wide - 72\" L x 28\" W"
     },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Extra Wide - 72\" L x 28\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Wide"
@@ -920,10 +1567,35 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 3000,
     "maxGrams": 3000,
+    "variantGramsValues": [
+      3000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 711
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -988,7 +1660,28 @@
         "height": 4393,
         "position": 9
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 71.12
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Wide - 72\" L x 28\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1002,6 +1695,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1024,10 +1735,35 @@
     "variantsCount": 1,
     "minPrice": 69,
     "maxPrice": 69,
+    "variantPriceValues": [
+      69
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1080,7 +1816,28 @@
         "height": 4375,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1094,7 +1851,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1114,10 +1888,35 @@
     "variantsCount": 1,
     "minPrice": 94,
     "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1164,7 +1963,28 @@
         "height": 3700,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1178,7 +1998,25 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1198,10 +2036,35 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1260,7 +2123,28 @@
         "height": 1900,
         "position": 8
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1274,7 +2158,25 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1292,10 +2194,35 @@
     "variantsCount": 1,
     "minPrice": 72,
     "maxPrice": 72,
+    "variantPriceValues": [
+      72
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1342,7 +2269,28 @@
         "height": 1871,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1356,13 +2304,25 @@
       "source": "options",
       "originalText": "Travel - 1mm"
     },
-    "length": {
-      "value": 182.88,
+    "width": {
+      "value": 0.1,
       "unit": "cm",
       "source": "options",
-      "originalText": "Studio - 72\" L x 24\" W"
+      "originalText": "Travel - 1mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1381,10 +2341,42 @@
     "variantsCount": 2,
     "minPrice": 62,
     "maxPrice": 81,
+    "variantPriceValues": [
+      62,
+      81
+    ],
     "priceCurrency": "USD",
     "minGrams": 2200,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2200,
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1,
+    "thicknessMmMax": 1,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      10
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1463,13 +2455,35 @@
         "position": 11
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1,
-        "unit": "mm",
-        "originalString": "Travel - 1mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1,
+          "sourceOptionName": "Size",
+          "rawValue": "Travel - 1mm",
+          "confidence": 0.7000000000000001
+        }
+      ],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1489,7 +2503,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1509,10 +2540,40 @@
     "variantsCount": 1,
     "minPrice": 49,
     "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1559,7 +2620,28 @@
         "height": 4378,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1573,6 +2655,19 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1592,10 +2687,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 2500,
     "maxGrams": 2500,
+    "variantGramsValues": [
+      2500
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1642,7 +2762,28 @@
         "height": 4370,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1662,7 +2803,18 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
     "features": [
       "Eco-Friendly",
       "Extra Thick"
@@ -1681,10 +2833,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1200,
     "maxGrams": 1200,
+    "variantGramsValues": [
+      1200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1725,7 +2907,28 @@
         "height": 3700,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1745,7 +2948,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1764,10 +2984,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1400,
     "maxGrams": 1400,
+    "variantGramsValues": [
+      1400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1814,7 +3064,28 @@
         "height": 4378,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1828,7 +3099,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1849,10 +3137,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1887,7 +3200,28 @@
         "height": 1600,
         "position": 4
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1901,7 +3235,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1923,10 +3274,43 @@
     "variantsCount": 2,
     "minPrice": 89,
     "maxPrice": 99,
+    "variantPriceValues": [
+      89,
+      99
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1800,
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "widthCmMin": 60.96,
+    "widthCmMax": 68.58,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "widthCMx10Values": [
+      610,
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -1969,18 +3353,36 @@
         "position": 5
       }
     ],
-    "availableLengths": [
-      {
-        "value": 182.88,
-        "unit": "cm",
-        "originalString": "Studio - 72\" L x 24\" W"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 213.36,
-        "unit": "cm",
-        "originalString": "Extra Long and Extra Wide - 84\" L x 27\" W"
-      }
-    ]
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 68.58
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1994,7 +3396,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2014,10 +3433,35 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1900,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2070,7 +3514,28 @@
         "height": 800,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2084,7 +3549,25 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
-    "material": "Natural Rubber",
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -2106,10 +3589,42 @@
     "variantsCount": 2,
     "minPrice": 84,
     "maxPrice": 99,
+    "variantPriceValues": [
+      84,
+      99
+    ],
     "priceCurrency": "USD",
     "minGrams": 1900,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 213.36,
+    "widthCmMin": 60.96,
+    "widthCmMax": 68.58,
+    "lengthCMx10Values": [
+      1829,
+      2134
+    ],
+    "widthCMx10Values": [
+      610,
+      686
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      },
+      {
+        "lengthCMx10": 2134,
+        "widthCMx10": 686
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2164,18 +3679,36 @@
         "position": 7
       }
     ],
-    "availableLengths": [
-      {
-        "value": 182.88,
-        "unit": "cm",
-        "originalString": "Studio - 72\" L x 24\" W"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 213.36,
-        "unit": "cm",
-        "originalString": "Extra Long and Extra Wide - 84\" L x 27\" W"
-      }
-    ]
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        },
+        {
+          "value": {
+            "lengthCm": 213.36,
+            "widthCm": 68.58
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Extra Long and Extra Wide - 84\" L x 27\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2189,7 +3722,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
     ],
@@ -2209,10 +3759,35 @@
     "variantsCount": 1,
     "minPrice": 94,
     "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
     "priceCurrency": "USD",
     "minGrams": 1900,
     "maxGrams": 1900,
+    "variantGramsValues": [
+      1900
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2265,7 +3840,28 @@
         "height": 1400,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2285,7 +3881,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2309,10 +3922,40 @@
     "variantsCount": 1,
     "minPrice": 49,
     "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2365,7 +4008,28 @@
         "height": 1400,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2379,7 +4043,25 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "title",
+    "textureConfidence": 0.85,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2398,10 +4080,35 @@
     "variantsCount": 1,
     "minPrice": 79,
     "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
     "priceCurrency": "USD",
     "minGrams": 2495,
     "maxGrams": 2495,
+    "variantGramsValues": [
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2448,7 +4155,28 @@
         "height": 1889,
         "position": 6
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2468,7 +4196,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "TPE",
+    "materials": [
+      "TPE"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.92,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -2488,10 +4233,40 @@
     "variantsCount": 1,
     "minPrice": 49,
     "maxPrice": 49,
+    "variantPriceValues": [
+      49
+    ],
     "priceCurrency": "USD",
     "minGrams": 1400,
     "maxGrams": 1400,
+    "variantGramsValues": [
+      1400
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2544,7 +4319,28 @@
         "height": 4378,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2558,7 +4354,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2579,10 +4392,35 @@
     "variantsCount": 1,
     "minPrice": 81,
     "maxPrice": 81,
+    "variantPriceValues": [
+      81
+    ],
     "priceCurrency": "USD",
     "minGrams": 2000,
     "maxGrams": 2000,
+    "variantGramsValues": [
+      2000
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2635,7 +4473,28 @@
         "height": 1332,
         "position": 7
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2649,7 +4508,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2669,10 +4545,35 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2713,7 +4614,28 @@
         "height": 3700,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2727,7 +4649,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2746,10 +4685,35 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2784,7 +4748,28 @@
         "height": 1400,
         "position": 4
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2798,7 +4783,24 @@
       "source": "options",
       "originalText": "Studio - 72\" L x 24\" W"
     },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "options",
+      "originalText": "Studio - 72\" L x 24\" W"
+    },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2818,10 +4820,35 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1800,
     "maxGrams": 1800,
+    "variantGramsValues": [
+      1800
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Size",
@@ -2862,6 +4889,27 @@
         "height": 3700,
         "position": 5
       }
-    ]
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "sizePairsCm": [
+        {
+          "value": {
+            "lengthCm": 182.88,
+            "widthCm": 60.96
+          },
+          "sourceOptionName": "Size",
+          "rawValue": "Studio - 72\" L x 24\" W",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]

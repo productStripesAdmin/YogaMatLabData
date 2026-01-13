@@ -41,6 +41,13 @@ export interface NormalizedYogaMat {
     originalText: string; // Original text with original unit (e.g., "36\" Diameter")
   };
 
+  rolledDiameter?: {
+    value: number; // Normalized value
+    unit: 'cm'; // Always cm (normalized unit)
+    source: 'options' | 'description';
+    originalText: string; // Original text with original unit (e.g., "6 in. diameter rolled")
+  };
+
   weight?: {
     value: number; // Normalized value
     unit: 'kg'; // Always kg (normalized unit)
@@ -50,8 +57,22 @@ export interface NormalizedYogaMat {
 
   // Product attributes
   material?: MaterialType;
+  materials?: MaterialType[];
+  materialSource?: 'title' | 'tags' | 'description';
+  materialConfidence?: number; // 0..1
   texture?: TextureType;
+  textures?: TextureType[];
+  textureSource?: 'title' | 'tags' | 'description';
+  textureConfidence?: number; // 0..1
   features?: YogaMatFeature[];
+  coreFeatures?: string[];
+  coreFeaturesSource?: 'productPage';
+  coreFeaturesConfidence?: number; // 0..1
+  productPageSections?: Array<{
+    heading: string;
+    items: string[];
+    confidence: number; // 0..1
+  }>;
 
   // Shopify metadata
   shopifyId: number;
@@ -67,6 +88,7 @@ export interface NormalizedYogaMat {
   variantsCount: number;
   minPrice?: number;
   maxPrice?: number;
+  variantPriceValues?: number[]; // Unique prices across variants (sorted asc)
   priceCurrency?: string; // default "USD"
   minGrams?: number;
   maxGrams?: number;
@@ -85,6 +107,8 @@ export interface NormalizedYogaMat {
   widthCmMax?: number;
   diameterCmMin?: number;
   diameterCmMax?: number;
+  rolledDiameterCmMin?: number;
+  rolledDiameterCmMax?: number;
 
   // Integer-coded option values for exact-match filters (derived)
   // Encoding: cm * 10 (tenths of cm), mm * 10 (tenths of mm)
@@ -92,6 +116,7 @@ export interface NormalizedYogaMat {
   lengthCMx10Values?: number[];
   widthCMx10Values?: number[];
   diameterCMx10Values?: number[];
+  rolledDiameterCMx10Values?: number[];
   sizePairsCMx10Values?: Array<{
     lengthCMx10: number;
     widthCMx10: number;
@@ -145,6 +170,12 @@ export interface NormalizedYogaMat {
       rawValue: string;
       confidence: number; // 0..1
     }>;
+    rolledDiameterCm?: Array<{
+      value: number;
+      sourceOptionName: string;
+      rawValue: string;
+      confidence: number; // 0..1
+    }>;
     sizePairsCm?: Array<{
       value: {
         lengthCm: number;
@@ -181,6 +212,10 @@ function stripHtml(html: string): string {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
+    .replace(/&ldquo;/g, '“')
+    .replace(/&rdquo;/g, '”')
+    .replace(/&lsquo;/g, '‘')
+    .replace(/&rsquo;/g, '’')
     .replace(/&#39;/g, "'")
     .trim();
 }
@@ -197,6 +232,8 @@ function pushUnique<T>(arr: T[], item: T, keyFn: (item: T) => string): void {
   if (arr.some(existing => keyFn(existing) === key)) return;
   arr.push(item);
 }
+
+type TextSource = 'title' | 'tags' | 'description';
 
 /**
  * Generates a URL-safe slug from brand and product name
@@ -249,7 +286,7 @@ function extractThickness(product: ShopifyProduct, text: string): {
   const patterns = [
     /(\d+(?:\.\d+)?)\s*mm/i,
     /(\d+(?:\.\d+)?)\s*millimeter/i,
-    /(\d+\/\d+)\s*inch/i,
+    /(\d+\/\d+)\s*(?:inches?|inch|in\.?|["″”“])\s*(?:thick|thickness)?/i,
     /(\d+(?:\.\d+)?)\s*inch(?:es)?\s*thick/i,
   ];
 
@@ -307,7 +344,8 @@ function classifyOptionValues(values: string[]): 'thickness' | 'diameter' | 'dim
 
   for (const value of values) {
     // Pattern 1: Thickness (strongest signal)
-    if (/\b(\d+(?:\.\d+)?)\s*(?:mm|millimeter)\b/i.test(value)) {
+    // Support mm, inch/in, mixed strings like "7mm/0.3in"
+    if (parseThicknessString(value) != null) {
       thicknessCount++;
       continue;
     }
@@ -319,7 +357,9 @@ function classifyOptionValues(values: string[]): 'thickness' | 'diameter' | 'dim
     }
 
     // Pattern 2: Full dimensions (L x W)
-    if (/\d+(?:\.\d+)?[\"\'cm]?\s*[xX×]\s*\d+(?:\.\d+)?[\"\'cm]?/.test(value)) {
+    if (
+      /\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?\s*(?:\b(?:l|w|length|width|long|wide)\b)?\s*[xX×]\s*\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?\s*(?:\b(?:l|w|length|width|long|wide)\b)?/i.test(value)
+    ) {
       dimensionsCount++;
       continue;
     }
@@ -345,12 +385,14 @@ type LinearUnit = 'cm' | 'mm' | 'in' | 'ft';
 
 function unitTokenToLinearUnit(token: string | undefined): LinearUnit | null {
   if (!token) return null;
-  const lower = token.toLowerCase().trim();
+  const lower = token.toLowerCase().trim().replace(/\.+$/, '');
 
   if (lower === 'cm') return 'cm';
   if (lower === 'mm') return 'mm';
-  if (lower === '"' || lower === 'in' || lower === 'inch' || lower === 'inches') return 'in';
-  if (lower === "'" || lower === 'ft' || lower === 'feet' || lower === 'foot') return 'ft';
+  // Inches: ASCII quote (") as well as common Unicode variants (″ “ ”)
+  if (lower === '"' || lower === '″' || lower === '”' || lower === '“' || lower === 'in' || lower === 'inch' || lower === 'inches') return 'in';
+  // Feet: ASCII apostrophe (') as well as common Unicode variants (′ ‘ ’)
+  if (lower === "'" || lower === '′' || lower === '’' || lower === '‘' || lower === 'ft' || lower === 'feet' || lower === 'foot') return 'ft';
 
   return null;
 }
@@ -369,8 +411,8 @@ function linearToCm(value: number, unit: LinearUnit): number {
 function inferUnlabeledLinearUnit(text: string, ...numbers: number[]): LinearUnit {
   const lower = text.toLowerCase();
 
-  if (lower.includes("'")) return 'ft';
-  if (lower.includes('"') || /\b(?:inch|in)\b/i.test(text)) return 'in';
+  if (lower.includes("'") || lower.includes('′') || lower.includes('’') || lower.includes('‘')) return 'ft';
+  if (lower.includes('"') || lower.includes('″') || lower.includes('”') || lower.includes('“') || /\b(?:inch|in)\b/i.test(text)) return 'in';
   if (lower.includes('cm')) return 'cm';
   if (lower.includes('mm')) return 'mm';
 
@@ -381,7 +423,7 @@ function inferUnlabeledLinearUnit(text: string, ...numbers: number[]): LinearUni
 
 function extractAllLinearMeasurements(text: string): Array<{ value: number; unit: LinearUnit }> {
   const results: Array<{ value: number; unit: LinearUnit }> = [];
-  const re = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in|ft|feet|foot|["'])/ig;
+  const re = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])/ig;
 
   for (const match of text.matchAll(re)) {
     const value = parseFloat(match[1]);
@@ -441,7 +483,7 @@ function optionNameSuggestsDimensions(optionNameLower: string): boolean {
 }
 
 function hasExplicitLinearUnit(rawValue: string): boolean {
-  return /(cm|mm|\b(?:inch|inches|in|ft|feet|foot)\b|["'])/i.test(rawValue);
+  return /(cm|mm|\b(?:inch|inches|in\.?|ft\.?|feet|foot)\b|["'″”’′“‘])/i.test(rawValue);
 }
 
 function makeOptionParseConfidence(params: {
@@ -502,11 +544,71 @@ function makeOptionParseConfidence(params: {
  *   "183cm x 61cm" → { length: 183, width: 61 }
  */
 function parseDimensionString(dimStr: string): { length: number; width: number } | { length: number } | null {
-  // Pattern 1: Full dimensions (L x W), including inches/feet (e.g., 6' x 4')
-  const pairRe = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in|ft|feet|foot|["'])?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in|ft|feet|foot|["'])?/ig;
-  const pairMatches = Array.from(dimStr.matchAll(pairRe));
+  const bestPair = pickBestDimensionPairMatch(dimStr);
+  if (bestPair) return { length: bestPair.length, width: bestPair.width };
 
-  if (pairMatches.length > 0) {
+  // Pattern 2: Single dimension (length only)
+  const single = parseSingleLinearToCm(dimStr);
+  if (single != null) return { length: single };
+
+  return null;
+}
+
+function pickBestDimensionPairMatch(dimStr: string): { length: number; width: number; matchText: string } | null {
+  // Pattern: Full dimensions (L x W), including inches/feet, with optional labels like 68"L / 24"W.
+  const pairRe = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?\s*(?:\b(?:l|w|length|width|long|wide)\b)?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?\s*(?:\b(?:l|w|length|width|long|wide)\b)?/ig;
+  const pairMatches = Array.from(dimStr.matchAll(pairRe));
+  if (pairMatches.length === 0) return null;
+
+  const candidates = pairMatches
+    .map((match) => {
+      const leftValue = parseFloat(match[1]);
+      const rightValue = parseFloat(match[3]);
+      if (!Number.isFinite(leftValue) || !Number.isFinite(rightValue)) return null;
+
+      const inferred = inferUnlabeledLinearUnit(dimStr, leftValue, rightValue);
+      const leftUnit = unitTokenToLinearUnit(match[2]) ?? unitTokenToLinearUnit(match[4]) ?? inferred;
+      const rightUnit = unitTokenToLinearUnit(match[4]) ?? unitTokenToLinearUnit(match[2]) ?? inferred;
+
+      const length = linearToCm(leftValue, leftUnit);
+      const width = linearToCm(rightValue, rightUnit);
+
+      const minDim = Math.min(length, width);
+      const maxDim = Math.max(length, width);
+
+      // Filter out "dimension pairs" that are really "width x thickness" (e.g., 24"W x 4mm).
+      const looksLikeThicknessPair = minDim < 5 && maxDim > 25;
+      if (looksLikeThicknessPair) return null;
+
+      const hasExplicitUnit = Boolean(unitTokenToLinearUnit(match[2]) || unitTokenToLinearUnit(match[4]));
+      const hasMetricUnit = isMetricUnit(leftUnit) || isMetricUnit(rightUnit);
+
+      // Prefer plausible mat-ish ranges, but remain permissive for accessories.
+      let score = 0;
+      if (minDim >= 10) score += 2;
+      if (minDim >= 20) score += 1;
+      if (maxDim >= 50) score += 1;
+      if (maxDim >= 100) score += 1;
+      if (hasExplicitUnit) score += 0.5;
+      if (hasMetricUnit) score += 0.25;
+
+      // If one dimension is extremely small, penalize heavily even if it passed the thickness filter.
+      if (minDim < 10) score -= 2;
+
+      // Break ties by favoring the larger overall footprint.
+      score += Math.min((length * width) / 20000, 2);
+
+      return {
+        length,
+        width,
+        matchText: match[0],
+        score,
+      };
+    })
+    .filter((value): value is { length: number; width: number; matchText: string; score: number } => value != null);
+
+  if (candidates.length === 0) {
+    // Fallback: previous behavior - pick the first metric pair if any, otherwise the first match.
     const preferred = pairMatches.find(m => {
       const leftUnit = unitTokenToLinearUnit(m[2]);
       const rightUnit = unitTokenToLinearUnit(m[4]);
@@ -516,21 +618,19 @@ function parseDimensionString(dimStr: string): { length: number; width: number }
     const leftValue = parseFloat(preferred[1]);
     const rightValue = parseFloat(preferred[3]);
     const inferred = inferUnlabeledLinearUnit(dimStr, leftValue, rightValue);
-
     const leftUnit = unitTokenToLinearUnit(preferred[2]) ?? unitTokenToLinearUnit(preferred[4]) ?? inferred;
     const rightUnit = unitTokenToLinearUnit(preferred[4]) ?? unitTokenToLinearUnit(preferred[2]) ?? inferred;
 
-    const length = linearToCm(leftValue, leftUnit);
-    const width = linearToCm(rightValue, rightUnit);
-
-    return { length, width };
+    return {
+      length: linearToCm(leftValue, leftUnit),
+      width: linearToCm(rightValue, rightUnit),
+      matchText: preferred[0],
+    };
   }
 
-  // Pattern 2: Single dimension (length only)
-  const single = parseSingleLinearToCm(dimStr);
-  if (single != null) return { length: single };
-
-  return null;
+  candidates.sort((a, b) => b.score - a.score);
+  const best = candidates[0];
+  return { length: best.length, width: best.width, matchText: best.matchText };
 }
 
 function parseDiameterString(value: string, assumeDiameter: boolean): number | null {
@@ -540,6 +640,46 @@ function parseDiameterString(value: string, assumeDiameter: boolean): number | n
   if (!looksDiameter) return null;
 
   return parseSingleLinearToCm(value);
+}
+
+function extractRolledDiameter(product: ShopifyProduct, text: string): NormalizedYogaMat['rolledDiameter'] | undefined {
+  const lower = text.toLowerCase();
+  const hasRolled = /\broll(?:ed|s)?\b/.test(lower);
+  const hasDiameter = /\bdiam(?:eter)?\b|\bdia\.?\b|ø/.test(lower);
+  if (!hasRolled || !hasDiameter) return undefined;
+
+  // Prefer patterns like: "6 in. diameter rolled" / "diameter: 6 in when rolled"
+  const directPattern = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])\s*(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø)\s*(?:when\s+)?\broll(?:ed|s)?\b/i;
+  const direct = text.match(directPattern);
+  if (direct) {
+    const value = parseFloat(direct[1]);
+    const unit = unitTokenToLinearUnit(direct[2]) ?? inferUnlabeledLinearUnit(text, value);
+    if (Number.isFinite(value)) {
+      return {
+        value: linearToCm(value, unit),
+        unit: 'cm',
+        source: 'description',
+        originalText: direct[0],
+      };
+    }
+  }
+
+  const reversePattern = /\broll(?:ed|s)?\b[\s\S]{0,40}?(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])(?:\s*(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø))?/i;
+  const reverse = text.match(reversePattern);
+  if (reverse) {
+    const value = parseFloat(reverse[1]);
+    const unit = unitTokenToLinearUnit(reverse[2]) ?? inferUnlabeledLinearUnit(text, value);
+    if (Number.isFinite(value)) {
+      return {
+        value: linearToCm(value, unit),
+        unit: 'cm',
+        source: 'description',
+        originalText: reverse[0],
+      };
+    }
+  }
+
+  return undefined;
 }
 
 /**
@@ -557,7 +697,7 @@ function parseThicknessString(thicknessStr: string): number | null {
   }
 
   // Pattern 2: Fractional inches (e.g., "1/4 inch", "3/16 inch")
-  const fractionMatch = thicknessStr.match(/(\d+)\/(\d+)\s*inch/i);
+  const fractionMatch = thicknessStr.match(/(\d+)\/(\d+)\s*(?:inches?|inch|in\.?|["″”“])/i);
   if (fractionMatch) {
     const numerator = parseFloat(fractionMatch[1]);
     const denominator = parseFloat(fractionMatch[2]);
@@ -681,11 +821,11 @@ function extractDimensions(product: ShopifyProduct, text: string): {
 
   // Fallback: extract from text
   // Pattern 1: Try L x W format first (e.g., "72\" x 26\"", "183cm x 61cm")
-  const parsedLxW = parseDimensionString(text);
-  if (parsedLxW && 'width' in parsedLxW) {
+  const parsedLxW = pickBestDimensionPairMatch(text);
+  if (parsedLxW) {
     const length = parsedLxW.length;
     const width = parsedLxW.width;
-    const originalText = text.match(/(\d+(?:\.\d+)?)\s*(?:cm|mm|inches?|inch|in|ft|feet|foot|["'])?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(?:cm|mm|inches?|inch|in|ft|feet|foot|["'])?/i)?.[0] ?? text;
+    const originalText = parsedLxW.matchText ?? text;
 
     return {
       length: {
@@ -722,16 +862,17 @@ function extractDimensions(product: ShopifyProduct, text: string): {
 
   // Match length patterns
   const lengthPatterns = [
-    /(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s+(?:long|length|l\b)/i,
-    /(?:long|length).*?(\d+(?:\.\d+)?)\s*(?:inch|"|cm)/i,
+    /(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?\s*(?:long|length|l\b)/i,
+    /(?:long|length).*?(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
   ];
 
   for (const pattern of lengthPatterns) {
     const lengthMatch = text.match(pattern);
     if (lengthMatch) {
       const lengthValue = parseFloat(lengthMatch[1]);
-      const isCm = text.toLowerCase().includes('cm');
-      const valueInCm = isCm ? lengthValue : lengthValue * 2.54;
+      const unitToken = lengthMatch[2];
+      const unit = unitTokenToLinearUnit(unitToken) ?? inferUnlabeledLinearUnit(lengthMatch[0], lengthValue);
+      const valueInCm = linearToCm(lengthValue, unit);
 
       result.length = {
         value: valueInCm, // Normalized to cm
@@ -745,16 +886,17 @@ function extractDimensions(product: ShopifyProduct, text: string): {
 
   // Match width patterns
   const widthPatterns = [
-    /(\d+(?:\.\d+)?)\s*(?:inch|"|cm)?\s+(?:wide|width|w\b)/i,
-    /(?:wide|width).*?(\d+(?:\.\d+)?)\s*(?:inch|"|cm)/i,
+    /(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?\s*(?:wide|width|w\b)/i,
+    /(?:wide|width).*?(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
   ];
 
   for (const pattern of widthPatterns) {
     const widthMatch = text.match(pattern);
     if (widthMatch) {
       const widthValue = parseFloat(widthMatch[1]);
-      const isCm = text.toLowerCase().includes('cm');
-      const valueInCm = isCm ? widthValue : widthValue * 2.54;
+      const unitToken = widthMatch[2];
+      const unit = unitTokenToLinearUnit(unitToken) ?? inferUnlabeledLinearUnit(widthMatch[0], widthValue);
+      const valueInCm = linearToCm(widthValue, unit);
 
       result.width = {
         value: valueInCm, // Normalized to cm
@@ -821,12 +963,19 @@ function extractWeight(product: ShopifyProduct, text: string): {
 /**
  * Extracts material type from text
  */
-function extractMaterial(text: string, tags: string[]): MaterialType | undefined {
+function extractMaterialsMeta(title: string, description: string, tags: string[]): {
+  material?: MaterialType;
+  materials?: MaterialType[];
+  materialSource?: TextSource;
+  materialConfidence?: number;
+} {
   const materialMap: Record<string, MaterialType> = {
     'natural rubber': 'Natural Rubber',
     'rubber': 'Natural Rubber',
     'pu leather': 'PU Leather',
     'polyurethane': 'PU Leather',
+    'eco-pu': 'PU Leather',
+    'eco pu': 'PU Leather',
     'pvc': 'PVC',
     'tpe': 'TPE',
     'cork': 'Cork',
@@ -835,28 +984,118 @@ function extractMaterial(text: string, tags: string[]): MaterialType | undefined
     'nbr': 'NBR',
   };
 
-  // 1. Combine and lowercase
-  let cleanText = `${text} ${tags.join(' ')}`.toLowerCase();
-
-  // 2. The "De-falsifier": Remove negative phrases
-  // This looks for "free of", "no", etc., until it hits a break (comma, period, or "and")
-  const negationRegex = /(?:free of|no|without|zero|0%|non-)\s+[^.\,]+?(?=\s+is|base|gives|\.|\,|$)/g;
-  cleanText = cleanText.replace(negationRegex, "");
-
-  // 3. Sort keys by length (longest first)
-  // Essential so 'natural rubber' matches before 'rubber'
+  // Avoid false positives like "100% cork" matching "0%" within "100%".
+  const negationRegex = /(?:free of|no|without|zero|non-|(?<!\d)0%)\s+[^.\,]+?(?=\s+is|base|gives|\.|\,|$)/g;
   const sortedKeys = Object.keys(materialMap).sort((a, b) => b.length - a.length);
 
-  // 4. Single Pass Search
-  for (const key of sortedKeys) {
-    // Optional: Use word boundaries \b to ensure 'cotton' doesn't match 'cottonwood'
-    const regex = new RegExp(`\\b${key}\\b`, 'i');
-    if (regex.test(cleanText)) {
-      return materialMap[key];
-    }
-  }
+  const detectAllInText = (text: string): MaterialType[] => {
+    let cleanText = text.toLowerCase();
+    cleanText = cleanText.replace(negationRegex, '');
 
-  return undefined;
+    const found: MaterialType[] = [];
+    for (const key of sortedKeys) {
+      const regex = new RegExp(`\\b${key}\\b`, 'i');
+      if (regex.test(cleanText)) {
+        const material = materialMap[key];
+        if (!found.includes(material)) found.push(material);
+      }
+    }
+    return found;
+  };
+
+  const titleMaterials = detectAllInText(title);
+  const tagMaterials = detectAllInText(tags.join(' '));
+  const descriptionMaterials = detectAllInText(description);
+
+  const allMaterials = Array.from(
+    new Set([...titleMaterials, ...tagMaterials, ...descriptionMaterials])
+  );
+
+  const pickPrimary = (): { material?: MaterialType; source?: TextSource; confidence?: number } => {
+    // Priority: title → tags → description
+    // This prevents accessory mentions in the description (e.g., "cotton strap included")
+    // from overriding the primary material in the title (e.g., "100% cork mat").
+    if (titleMaterials.length > 0) {
+      const material = titleMaterials[0];
+      let confidence = 0.92;
+      if (/\b100%\b/.test(title)) confidence += 0.05;
+      if (/\bcork\b/i.test(title) && material === 'Cork') confidence += 0.03;
+      return { material, source: 'title', confidence: clamp01(confidence) };
+    }
+
+    if (tagMaterials.length > 0) {
+      return { material: tagMaterials[0], source: 'tags', confidence: 0.78 };
+    }
+
+    if (descriptionMaterials.length > 0) {
+      const material = descriptionMaterials[0];
+      let confidence = 0.65;
+      if (/\bblend\b|\bcomposite\b/i.test(description)) confidence -= 0.05;
+      return { material, source: 'description', confidence: clamp01(confidence) };
+    }
+
+    return {};
+  };
+
+  const primary = pickPrimary();
+
+  return {
+    material: primary.material,
+    materials: allMaterials.length > 0 ? allMaterials : undefined,
+    materialSource: primary.source,
+    materialConfidence: primary.confidence,
+  };
+}
+
+function extractTexturesMeta(title: string, description: string, tags: string[]): {
+  texture?: TextureType;
+  textures?: TextureType[];
+  textureSource?: TextSource;
+  textureConfidence?: number;
+} {
+  const textureKeywords: Array<{
+    type: TextureType;
+    patterns: RegExp[];
+  }> = [
+    { type: 'Suede-like', patterns: [/\bsuede\b/i, /\bmicrofiber\b/i, /\bsuede[-\s]?like\b/i] },
+    { type: 'Textured', patterns: [/\btextured\b/i, /\btexture\b/i, /\bridged\b/i, /\braised\b/i] },
+    { type: 'Grippy', patterns: [/\bgrippy\b/i, /\bnon[-\s]?slip\b/i, /\bnonslip\b/i, /\bsticky\b/i, /\bgrip\b/i] },
+    { type: 'Smooth', patterns: [/\bsmooth\b/i] },
+  ];
+
+  const detectAll = (text: string): TextureType[] => {
+    const found: TextureType[] = [];
+    for (const { type, patterns } of textureKeywords) {
+      if (patterns.some(p => p.test(text))) {
+        found.push(type);
+      }
+    }
+    return found;
+  };
+
+  const titleTextures = detectAll(title);
+  const tagTextures = detectAll(tags.join(' '));
+  const descriptionTextures = detectAll(description);
+
+  const allTextures = Array.from(
+    new Set([...titleTextures, ...tagTextures, ...descriptionTextures])
+  );
+
+  const pickPrimary = (): { texture?: TextureType; source?: TextSource; confidence?: number } => {
+    if (titleTextures.length > 0) return { texture: titleTextures[0], source: 'title', confidence: 0.85 };
+    if (tagTextures.length > 0) return { texture: tagTextures[0], source: 'tags', confidence: 0.75 };
+    if (descriptionTextures.length > 0) return { texture: descriptionTextures[0], source: 'description', confidence: 0.65 };
+    return {};
+  };
+
+  const primary = pickPrimary();
+
+  return {
+    texture: primary.texture,
+    textures: allTextures.length > 0 ? allTextures : undefined,
+    textureSource: primary.source,
+    textureConfidence: primary.confidence,
+  };
 }
 
 /**
@@ -898,6 +1137,16 @@ function getPriceRange(product: ShopifyProduct): { min: number; max: number } {
     min: Math.min(...prices),
     max: Math.max(...prices),
   };
+}
+
+function getVariantPriceValues(product: ShopifyProduct): number[] | undefined {
+  const prices = product.variants
+    .map(v => parseFloat(v.price))
+    .filter(p => Number.isFinite(p) && p > 0);
+
+  if (prices.length === 0) return undefined;
+
+  return Array.from(new Set(prices)).sort((a, b) => a - b);
 }
 
 /**
@@ -1004,6 +1253,9 @@ function extractDiameter(product: ShopifyProduct, text: string): {
   source: 'options' | 'description';
   originalText: string;
 } | undefined {
+  // Avoid misclassifying "diameter rolled" as a round mat diameter.
+  if (extractRolledDiameter(product, text)) return undefined;
+
   if (product.options) {
     for (const option of product.options) {
       const optionName = option.name.toLowerCase();
@@ -1025,7 +1277,7 @@ function extractDiameter(product: ShopifyProduct, text: string): {
     }
   }
 
-  const directPattern = /(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø|\bround\b|\bcircle\b|\bcircular\b)\s*[:\-]?\s*(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in|ft|feet|foot|["'])/i;
+  const directPattern = /(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø|\bround\b|\bcircle\b|\bcircular\b)\s*[:\-]?\s*(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])/i;
   const directMatch = text.match(directPattern);
   if (directMatch) {
     const value = parseFloat(directMatch[1]);
@@ -1040,7 +1292,7 @@ function extractDiameter(product: ShopifyProduct, text: string): {
     }
   }
 
-  const reversePattern = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in|ft|feet|foot|["'])\s*(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø|\bround\b|\bcircle\b)/i;
+  const reversePattern = /(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])\s*(?:\bdiam(?:eter)?\b|\bdia\.?\b|ø|\bround\b|\bcircle\b)/i;
   const reverseMatch = text.match(reversePattern);
   if (reverseMatch) {
     const value = parseFloat(reverseMatch[1]);
@@ -1084,11 +1336,42 @@ function extractColors(product: ShopifyProduct): string[] | undefined {
   return undefined;
 }
 
+function extractEnrichedColorsFromSections(sections: Array<{ heading: string; items: string[] }> | undefined): string[] | undefined {
+  if (!sections?.length) return undefined;
+
+  const colorsSection = sections.find(s => {
+    const heading = (s.heading ?? '').trim().toLowerCase();
+    return heading === 'colors' || heading === 'colour' || heading === 'colours' || heading === 'color';
+  });
+
+  const items = colorsSection?.items?.filter((item) => typeof item === 'string') ?? [];
+  const cleaned = items
+    .map(v => v.replace(/\s+/g, ' ').trim())
+    .filter(v => v.length > 0 && v !== 'Default Title');
+
+  return cleaned.length > 0 ? cleaned : undefined;
+}
+
+function mergeUniqueStrings(primary: string[] | undefined, secondary: string[] | undefined): string[] | undefined {
+  const all = [...(primary ?? []), ...(secondary ?? [])].filter(Boolean);
+  if (all.length === 0) return undefined;
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const value of all) {
+    const key = value.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(value);
+  }
+  return out;
+}
+
 function deriveDimensionQueryFields(params: {
   thickness?: NormalizedYogaMat['thickness'];
   length?: NormalizedYogaMat['length'];
   width?: NormalizedYogaMat['width'];
   diameter?: NormalizedYogaMat['diameter'];
+  rolledDiameter?: NormalizedYogaMat['rolledDiameter'];
   dimensionOptions?: NormalizedYogaMat['dimensionOptions'];
 }): Pick<
   NormalizedYogaMat,
@@ -1100,16 +1383,20 @@ function deriveDimensionQueryFields(params: {
   | 'widthCmMax'
   | 'diameterCmMin'
   | 'diameterCmMax'
+  | 'rolledDiameterCmMin'
+  | 'rolledDiameterCmMax'
   | 'thicknessMmx10Values'
   | 'lengthCMx10Values'
   | 'widthCMx10Values'
   | 'diameterCMx10Values'
+  | 'rolledDiameterCMx10Values'
   | 'sizePairsCMx10Values'
 > {
   const thicknessMmValues: number[] = [];
   const lengthCmValues: number[] = [];
   const widthCmValues: number[] = [];
   const diameterCmValues: number[] = [];
+  const rolledDiameterCmValues: number[] = [];
   const sizePairs: Array<{ lengthCm: number; widthCm: number }> = [];
 
   if (params.dimensionOptions) {
@@ -1117,6 +1404,7 @@ function deriveDimensionQueryFields(params: {
     params.dimensionOptions.lengthCm?.forEach(l => lengthCmValues.push(l.value));
     params.dimensionOptions.widthCm?.forEach(w => widthCmValues.push(w.value));
     params.dimensionOptions.diameterCm?.forEach(d => diameterCmValues.push(d.value));
+    params.dimensionOptions.rolledDiameterCm?.forEach(d => rolledDiameterCmValues.push(d.value));
     params.dimensionOptions.sizePairsCm?.forEach(p => {
       lengthCmValues.push(p.value.lengthCm);
       widthCmValues.push(p.value.widthCm);
@@ -1129,11 +1417,26 @@ function deriveDimensionQueryFields(params: {
   if (lengthCmValues.length === 0 && params.length?.value != null) lengthCmValues.push(params.length.value);
   if (widthCmValues.length === 0 && params.width?.value != null) widthCmValues.push(params.width.value);
   if (diameterCmValues.length === 0 && params.diameter?.value != null) diameterCmValues.push(params.diameter.value);
+  if (rolledDiameterCmValues.length === 0 && params.rolledDiameter?.value != null) rolledDiameterCmValues.push(params.rolledDiameter.value);
+
+  // If we extracted a single LxW pair from text (same originalText), emit it as a size pair for query-friendly fields.
+  if (
+    sizePairs.length === 0 &&
+    params.length?.value != null &&
+    params.width?.value != null &&
+    params.length.source === 'description' &&
+    params.width.source === 'description' &&
+    params.length.originalText &&
+    params.length.originalText === params.width.originalText
+  ) {
+    sizePairs.push({ lengthCm: params.length.value, widthCm: params.width.value });
+  }
 
   const thicknessMmRange = computeMinMax(thicknessMmValues);
   const lengthCmRange = computeMinMax(lengthCmValues);
   const widthCmRange = computeMinMax(widthCmValues);
   const diameterCmRange = computeMinMax(diameterCmValues);
+  const rolledDiameterCmRange = computeMinMax(rolledDiameterCmValues);
 
   const thicknessMmx10Values = thicknessMmValues.length > 0
     ? Array.from(new Set(thicknessMmValues.map(encodeMmX10))).sort((a, b) => a - b)
@@ -1146,6 +1449,9 @@ function deriveDimensionQueryFields(params: {
     : undefined;
   const diameterCMx10Values = diameterCmValues.length > 0
     ? Array.from(new Set(diameterCmValues.map(encodeCmX10))).sort((a, b) => a - b)
+    : undefined;
+  const rolledDiameterCMx10Values = rolledDiameterCmValues.length > 0
+    ? Array.from(new Set(rolledDiameterCmValues.map(encodeCmX10))).sort((a, b) => a - b)
     : undefined;
 
   const sizePairsCMx10Values = sizePairs.length > 0
@@ -1169,10 +1475,13 @@ function deriveDimensionQueryFields(params: {
     widthCmMax: widthCmRange?.max,
     diameterCmMin: diameterCmRange?.min,
     diameterCmMax: diameterCmRange?.max,
+    rolledDiameterCmMin: rolledDiameterCmRange?.min,
+    rolledDiameterCmMax: rolledDiameterCmRange?.max,
     thicknessMmx10Values,
     lengthCMx10Values,
     widthCMx10Values,
     diameterCMx10Values,
+    rolledDiameterCMx10Values,
     sizePairsCMx10Values,
   };
 }
@@ -1184,6 +1493,7 @@ function extractDimensionOptions(product: ShopifyProduct): NormalizedYogaMat['di
   const lengthCm: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['lengthCm']> = [];
   const widthCm: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['widthCm']> = [];
   const diameterCm: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['diameterCm']> = [];
+  const rolledDiameterCm: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['rolledDiameterCm']> = [];
   const sizePairsCm: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['sizePairsCm']> = [];
   const rawUnparsed: NonNullable<NonNullable<NormalizedYogaMat['dimensionOptions']>['rawUnparsed']> = [];
 
@@ -1213,6 +1523,7 @@ function extractDimensionOptions(product: ShopifyProduct): NormalizedYogaMat['di
       // 1) Diameter
       const diameter = parseDiameterString(rawValue, assumeDiameter);
       if (diameter != null) {
+        const isRolled = /\broll(?:ed|s)?\b/i.test(rawValue) || optionNameLower.includes('rolled');
         const confidence = makeOptionParseConfidence({
           kind: 'diameter',
           optionNameLower,
@@ -1224,7 +1535,7 @@ function extractDimensionOptions(product: ShopifyProduct): NormalizedYogaMat['di
         });
 
         pushUnique(
-          diameterCm,
+          isRolled ? rolledDiameterCm : diameterCm,
           { value: diameter, sourceOptionName: option.name, rawValue, confidence },
           i => `${i.sourceOptionName}|${i.rawValue}|${i.value.toFixed(4)}`
         );
@@ -1346,6 +1657,7 @@ function extractDimensionOptions(product: ShopifyProduct): NormalizedYogaMat['di
   if (lengthCm.length > 0) result.lengthCm = lengthCm;
   if (widthCm.length > 0) result.widthCm = widthCm;
   if (diameterCm.length > 0) result.diameterCm = diameterCm;
+  if (rolledDiameterCm.length > 0) result.rolledDiameterCm = rolledDiameterCm;
   if (sizePairsCm.length > 0) result.sizePairsCm = sizePairsCm;
 
   return (
@@ -1354,6 +1666,7 @@ function extractDimensionOptions(product: ShopifyProduct): NormalizedYogaMat['di
     result.lengthCm != null ||
     result.widthCm != null ||
     result.diameterCm != null ||
+    result.rolledDiameterCm != null ||
     result.sizePairsCm != null
   ) ? result : undefined;
 }
@@ -1376,6 +1689,7 @@ function extractDiameters(product: ShopifyProduct): Array<{
 
     for (const value of option.values) {
       if (value === 'Default Title') continue;
+      if (/\broll(?:ed|s)?\b/i.test(value)) continue;
 
       const parsed = parseDiameterString(value, isDiameterOption);
       if (parsed != null) {
@@ -1396,10 +1710,19 @@ function extractDiameters(product: ShopifyProduct): Array<{
  */
 export function mapShopifyToYogaMat(
   product: ShopifyProduct,
-  brandSlug: string
+  brandSlug: string,
+  enrichment?: {
+    coreFeatures?: { items: string[]; confidence: number };
+    appendText?: string;
+    productPageSections?: Array<{ heading: string; items: string[]; confidence: number }>;
+  }
 ): NormalizedYogaMat {
   const description = stripHtml(product.body_html || '');
-  const allText = `${product.title} ${description} ${product.tags.join(' ')}`;
+  const coreFeaturesText = enrichment?.coreFeatures?.items?.length
+    ? enrichment.coreFeatures.items.join(' ')
+    : '';
+  const appendedText = enrichment?.appendText?.trim() ?? '';
+  const allText = `${product.title} ${description} ${product.tags.join(' ')} ${coreFeaturesText} ${appendedText}`;
   const priceRange = getPriceRange(product);
   const gramsRange = getGramsRange(product);
   const gramsSanity = getVariantGramsSanity(product);
@@ -1407,11 +1730,19 @@ export function mapShopifyToYogaMat(
   const dimensionOptions = extractDimensionOptions(product);
   const thickness = extractThickness(product, allText);
   const diameter = extractDiameter(product, allText);
+  const rolledDiameter = extractRolledDiameter(product, allText);
+  const materialsMeta = extractMaterialsMeta(product.title, description, product.tags);
+  const texturesMeta = extractTexturesMeta(product.title, description, product.tags);
+  const optionColors = extractColors(product);
+  const enrichedColors = brandSlug === 'aloyoga'
+    ? extractEnrichedColorsFromSections(enrichment?.productPageSections)
+    : undefined;
   const dimensionQueryFields = deriveDimensionQueryFields({
     thickness,
     length: dimensions.length,
     width: dimensions.width,
     diameter,
+    rolledDiameter,
     dimensionOptions,
   });
 
@@ -1430,11 +1761,23 @@ export function mapShopifyToYogaMat(
     length: dimensions.length,
     width: dimensions.width,
     diameter,
+    rolledDiameter,
     weight: extractWeight(product, allText),
 
     // Attributes
-    material: extractMaterial(allText, product.tags),
+    material: materialsMeta.material,
+    materials: materialsMeta.materials,
+    materialSource: materialsMeta.materialSource,
+    materialConfidence: materialsMeta.materialConfidence,
+    texture: texturesMeta.texture,
+    textures: texturesMeta.textures,
+    textureSource: texturesMeta.textureSource,
+    textureConfidence: texturesMeta.textureConfidence,
     features: extractFeatures(allText, product.tags),
+    coreFeatures: enrichment?.coreFeatures?.items?.length ? enrichment.coreFeatures.items : undefined,
+    coreFeaturesSource: enrichment?.coreFeatures?.items?.length ? 'productPage' : undefined,
+    coreFeaturesConfidence: enrichment?.coreFeatures?.items?.length ? enrichment.coreFeatures.confidence : undefined,
+    productPageSections: enrichment?.productPageSections?.length ? enrichment.productPageSections : undefined,
 
     // Shopify metadata
     shopifyId: product.id,
@@ -1450,6 +1793,7 @@ export function mapShopifyToYogaMat(
     variantsCount: product.variants.length,
     minPrice: priceRange.min,
     maxPrice: priceRange.max,
+    variantPriceValues: getVariantPriceValues(product),
     priceCurrency: 'USD', // Default to USD for Shopify products
     minGrams: gramsRange?.min,
     maxGrams: gramsRange?.max,
@@ -1466,7 +1810,7 @@ export function mapShopifyToYogaMat(
     images: mapImages(product),
 
     // Normalized extractions from options
-    availableColors: extractColors(product),
+    availableColors: mergeUniqueStrings(optionColors, enrichedColors),
     availableDiameters: extractDiameters(product),
     dimensionOptions,
   };

@@ -12,6 +12,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -32,10 +44,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -85,23 +116,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -116,6 +160,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -135,10 +191,27 @@
     "variantsCount": 2,
     "minPrice": 110,
     "maxPrice": 121,
+    "variantPriceValues": [
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -199,18 +272,30 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -225,6 +310,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -245,10 +342,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -298,23 +414,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -328,7 +457,20 @@
       "source": "options",
       "originalText": "1.5mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -351,10 +493,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 116,
+    "variantPriceValues": [
+      83,
+      105,
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -416,23 +577,36 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -447,6 +621,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -467,10 +653,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      1588,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -520,23 +725,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -551,6 +769,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -570,10 +800,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -623,23 +872,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -654,6 +916,18 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -676,10 +950,24 @@
     "variantsCount": 1,
     "minPrice": 116,
     "maxPrice": 116,
+    "variantPriceValues": [
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 2495,
     "maxGrams": 2495,
+    "variantGramsValues": [
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -739,13 +1027,24 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -763,15 +1062,27 @@
       "value": 152.4,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -791,10 +1102,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -842,13 +1183,24 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 4,
-        "unit": "mm",
-        "originalString": "4mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "Thickness",
+          "rawValue": "4mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -863,6 +1215,18 @@
       "originalText": "3mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -883,10 +1247,27 @@
     "variantsCount": 2,
     "minPrice": 110,
     "maxPrice": 116,
+    "variantPriceValues": [
+      110,
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 1701,
     "maxGrams": 2495,
+    "variantGramsValues": [
+      1701,
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      30,
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -947,18 +1328,30 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3,
-        "unit": "mm",
-        "originalString": "3mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3mm",
+          "confidence": 1
+        },
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -973,6 +1366,18 @@
       "originalText": "3mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -993,10 +1398,27 @@
     "variantsCount": 2,
     "minPrice": 110,
     "maxPrice": 116,
+    "variantPriceValues": [
+      110,
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 1701,
     "maxGrams": 2495,
+    "variantGramsValues": [
+      1701,
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      30,
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1057,18 +1479,30 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3,
-        "unit": "mm",
-        "originalString": "3mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3mm",
+          "confidence": 1
+        },
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1083,6 +1517,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1102,10 +1548,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1167,23 +1632,36 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1198,6 +1676,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1217,10 +1707,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1270,23 +1779,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1301,6 +1823,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1320,8 +1854,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1377,23 +1926,36 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1414,6 +1976,18 @@
       "originalText": "1.6 kg"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1433,10 +2007,24 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "thicknessMmx10Values": [
+      40
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1472,13 +2060,24 @@
         "position": 4
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 4,
-        "unit": "mm",
-        "originalString": "4mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "Thickness",
+          "rawValue": "4mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1493,6 +2092,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1513,10 +2124,27 @@
     "variantsCount": 2,
     "minPrice": 110,
     "maxPrice": 121,
+    "variantPriceValues": [
+      110,
+      121
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1583,18 +2211,30 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1609,6 +2249,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1628,8 +2280,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1679,23 +2346,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1710,6 +2390,18 @@
       "originalText": "3mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Extra Thick",
@@ -1731,10 +2423,27 @@
     "variantsCount": 2,
     "minPrice": 110,
     "maxPrice": 116,
+    "variantPriceValues": [
+      110,
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 1701,
     "maxGrams": 2495,
+    "variantGramsValues": [
+      1701,
+      2495
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      30,
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1795,18 +2504,30 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3,
-        "unit": "mm",
-        "originalString": "3mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3mm",
+          "confidence": 1
+        },
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1820,7 +2541,20 @@
       "source": "options",
       "originalText": "1.5mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -1844,10 +2578,29 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 116,
+    "variantPriceValues": [
+      83,
+      105,
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 3221,
+    "variantGramsValues": [
+      2223,
+      3221
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1903,23 +2656,36 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -1934,6 +2700,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -1952,8 +2730,19 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -1989,13 +2778,24 @@
         "position": 4
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2010,6 +2810,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2029,8 +2841,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2086,23 +2913,36 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2117,7 +2957,7 @@
       "originalText": "1.5mm"
     },
     "length": {
-      "value": 24,
+      "value": 60.96,
       "unit": "cm",
       "source": "description",
       "originalText": "long x 24\""
@@ -2128,7 +2968,19 @@
       "source": "description",
       "originalText": "1.6 kg"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2151,10 +3003,29 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      15
+    ],
+    "lengthCMx10Values": [
+      610
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -2216,6 +3087,18 @@
     "slug": "yogadesignlab-combo-yoga-mat-xl-celestial",
     "description": "Meet the Celestial XL, Yoga Design Lab‚ is most spacious combo mat yet. Designed for yogis who crave extra room to move, stretch, and flow, this oversized mat transforms any room or studio into an elevated yoga sanctuary.\nMade with our signature eco-friendly materials, the Celestial XL combines a soft microfiber top with a natural rubber base for superior grip - especially when wet. Whether you're stretching out in wide poses or practicing dynamic flows, the generous surface area gives you freedom to move without limits.\nPerfect for home practice, teaching, or simply creating a sacred space that feels expansive and grounded.\n\n\nAll-in-One Performance: No more juggling mats and towels. The Celestial XL fuses a natural rubber base with an ultra-absorbent microfiber surface, giving you seamless grip and cushioning in one beautiful design.\n\nPlanet-Friendly Materials: Crafted from eco-conscious natural rubber and recycled PET microfiber, and printed with water-based inks. Free from silicone, toxic glues, and phthalates - good for your body and kind to the Earth.\n\nSweat-Activated Support: The more you sweat, the better the grip. Ideal for hot yoga, power flows, and everything in between, this mat keeps you grounded through every pose.\n\nVersatile for Every Practice: Whether you‚  are flowing through vinyasa, unwinding in yin, or holding strong in power yoga, the Celestial XL offers stability and comfort for all styles\n\n Practice Without Limits: More surface area means more freedom to move - perfect for expansive poses, taller yogis, or creating a personal studio feel anywhere.",
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2235,9 +3118,18 @@
     "variantsCount": 1,
     "minPrice": 138,
     "maxPrice": 138,
+    "variantPriceValues": [
+      138
+    ],
     "priceCurrency": "USD",
     "minGrams": 3719,
     "maxGrams": 3719,
+    "variantGramsValues": [
+      3719
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
     "shopifyOptions": [
       {
@@ -2294,6 +3186,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2313,10 +3217,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2223,
     "maxGrams": 2223,
+    "variantGramsValues": [
+      2223
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2370,13 +3288,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2391,6 +3320,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2410,8 +3351,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2479,23 +3435,36 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2510,6 +3479,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2528,8 +3509,19 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2571,13 +3563,24 @@
         "position": 5
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2592,6 +3595,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2612,8 +3627,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2663,23 +3693,36 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2694,6 +3737,18 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2712,10 +3767,24 @@
     "variantsCount": 1,
     "minPrice": 116,
     "maxPrice": 116,
+    "variantPriceValues": [
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 2812,
     "maxGrams": 2812,
+    "variantGramsValues": [
+      2812
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2781,13 +3850,24 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2802,6 +3882,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -2821,10 +3913,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -2896,13 +4002,24 @@
         "position": 10
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -2920,15 +4037,27 @@
       "value": 152.4,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -2947,10 +4076,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3004,13 +4163,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 4,
-        "unit": "mm",
-        "originalString": "4mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "Thickness",
+          "rawValue": "4mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3025,6 +4195,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -3044,8 +4226,23 @@
     "variantsCount": 3,
     "minPrice": 83,
     "maxPrice": 121,
+    "variantPriceValues": [
+      83,
+      110,
+      121
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 3,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 5.5,
+    "thicknessMmx10Values": [
+      15,
+      35,
+      55
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3101,23 +4298,36 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 3,
+        "parsedCount": 3,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      },
-      {
-        "value": 5.5,
-        "unit": "mm",
-        "originalString": "5.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 5.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3132,6 +4342,18 @@
       "originalText": "5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -3149,10 +4371,24 @@
     "variantsCount": 1,
     "minPrice": 116,
     "maxPrice": 116,
+    "variantPriceValues": [
+      116
+    ],
     "priceCurrency": "USD",
     "minGrams": 2812,
     "maxGrams": 2812,
+    "variantGramsValues": [
+      2812
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3218,13 +4454,24 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3239,6 +4486,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3258,10 +4517,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3347,6 +4620,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3366,10 +4651,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3423,13 +4722,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3444,6 +4754,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3464,10 +4786,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3515,13 +4851,24 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3536,6 +4883,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3555,10 +4914,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3630,13 +5003,24 @@
         "position": 10
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3651,6 +5035,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3670,10 +5066,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -3764,6 +5174,13 @@
       "source": "options",
       "originalText": "5mm"
     },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -3782,8 +5199,19 @@
     "variantsCount": 1,
     "minPrice": 116,
     "maxPrice": 116,
+    "variantPriceValues": [
+      116
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "thicknessMmx10Values": [
+      50
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3837,13 +5265,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 5,
-        "unit": "mm",
-        "originalString": "5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3858,6 +5297,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3877,8 +5328,19 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -3926,13 +5388,24 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -3947,6 +5420,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -3966,10 +5451,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4011,13 +5510,24 @@
         "position": 5
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4038,6 +5548,18 @@
       "originalText": "2.2 kg"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4057,10 +5579,24 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2200,
     "maxGrams": 2200,
+    "variantGramsValues": [
+      2200
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": false,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4134,6 +5670,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4153,10 +5701,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4198,13 +5760,24 @@
         "position": 5
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4219,6 +5792,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.6,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4238,10 +5823,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4307,13 +5906,24 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4328,6 +5938,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4347,10 +5969,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4404,13 +6040,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4425,6 +6072,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4444,10 +6103,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Title",
@@ -4515,6 +6188,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -4533,10 +6218,26 @@
     "variantsCount": 2,
     "minPrice": 83,
     "maxPrice": 110,
+    "variantPriceValues": [
+      83,
+      110
+    ],
     "priceCurrency": "USD",
     "minGrams": 2268,
     "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      15,
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4585,18 +6286,30 @@
         "position": 6
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 2,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
       },
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      }
-    ]
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        },
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4611,6 +6324,18 @@
       "originalText": "1.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4630,8 +6355,19 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": false,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4685,13 +6421,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4709,15 +6456,27 @@
       "value": 152.4,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "width": {
       "value": 60.96,
       "unit": "cm",
       "source": "description",
-      "originalText": "60 \" x 24 \""
+      "originalText": "60 \" x 24 \" "
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -4737,10 +6496,40 @@
     "variantsCount": 1,
     "minPrice": 59,
     "maxPrice": 59,
+    "variantPriceValues": [
+      59
+    ],
     "priceCurrency": "USD",
     "minGrams": 1451,
     "maxGrams": 1451,
+    "variantGramsValues": [
+      1451
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 152.4,
+    "lengthCmMax": 152.4,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1524
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1524,
+        "widthCMx10": 610
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4806,13 +6595,24 @@
         "position": 9
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 4,
-        "unit": "mm",
-        "originalString": "4mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "Thickness",
+          "rawValue": "4mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4826,7 +6626,20 @@
       "source": "options",
       "originalText": "1.5mm"
     },
-    "material": "Natural Rubber",
+    "material": "Cork",
+    "materials": [
+      "Cork",
+      "Natural Rubber",
+      "PVC"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip",
@@ -4848,10 +6661,24 @@
     "variantsCount": 1,
     "minPrice": 83,
     "maxPrice": 83,
+    "variantPriceValues": [
+      83
+    ],
     "priceCurrency": "USD",
     "minGrams": 1588,
     "maxGrams": 1588,
+    "variantGramsValues": [
+      1588
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "thicknessMmx10Values": [
+      15
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -4905,13 +6732,24 @@
         "position": 7
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 1.5,
-        "unit": "mm",
-        "originalString": "1.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 1.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "1.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   },
   {
     "brandId": "",
@@ -4926,6 +6764,18 @@
       "originalText": "3.5mm"
     },
     "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
       "Non-Slip"
@@ -4944,8 +6794,19 @@
     "variantsCount": 1,
     "minPrice": 110,
     "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
     "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 3.5,
+    "thicknessMmMax": 3.5,
+    "thicknessMmx10Values": [
+      35
+    ],
     "shopifyOptions": [
       {
         "name": "Thickness",
@@ -5005,12 +6866,23 @@
         "position": 8
       }
     ],
-    "availableThicknesses": [
-      {
-        "value": 3.5,
-        "unit": "mm",
-        "originalString": "3.5mm"
-      }
-    ]
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "rawUnparsed": [],
+      "thicknessMm": [
+        {
+          "value": 3.5,
+          "sourceOptionName": "Thickness",
+          "rawValue": "3.5mm",
+          "confidence": 1
+        }
+      ]
+    }
   }
 ]
