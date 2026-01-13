@@ -58,6 +58,7 @@ jobs:
       - name: Commit and push results
         if: steps.pipeline.outputs.exit_code == '0'
         run: |
+          DATA_BRANCH="data"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -65,12 +66,32 @@ jobs:
           echo "📂 Checking data directory contents:"
           ls -la data/ || echo "data/ directory doesn't exist"
 
-          # Debug: Show git status before adding
-          echo "📊 Git status before staging:"
-          git status
+          # Prepare a separate worktree for the data branch so we don't push artifacts to main.
+          git fetch origin "${DATA_BRANCH}" || true
+          rm -rf ../data-branch
+
+          if git show-ref --verify --quiet "refs/remotes/origin/${DATA_BRANCH}"; then
+            git worktree add ../data-branch "origin/${DATA_BRANCH}"
+          else
+            git worktree add ../data-branch --detach
+            cd ../data-branch
+            git checkout --orphan "${DATA_BRANCH}"
+            git rm -rf . || true
+            cd -
+          fi
+
+          rsync -a --delete --exclude '.git' data/ ../data-branch/data/
+
+          cd ../data-branch
+          cat > README.md << 'EOF'
+          This branch contains generated YogaMatLabData pipeline outputs under `data/`.
+          It is updated automatically by GitHub Actions.
+          EOF
+          git add -A README.md
 
           # Use --force to override .gitignore (data/ is ignored locally but not in CI)
-          git add --force data/
+          # Exclude volatile per-run state files that cause merge conflicts when multiple runs happen.
+          git add --force data/ ':(exclude)data/.hash-registry.json' ':(exclude)data/changes/latest-changeset.json'
 
           # Debug: Show what's staged
           echo "📦 Staged changes:"
@@ -115,7 +136,7 @@ jobs:
                          -m "Run: ${{ github.run_number }}"
             fi
 
-            git push
+            git push origin HEAD:"${DATA_BRANCH}"
           fi
 
       - name: Upload extraction logs

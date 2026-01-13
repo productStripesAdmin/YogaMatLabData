@@ -20,6 +20,13 @@ data/changes/
 data/.hash-registry.json
 !data/.gitkeep
 
+# Enrichment outputs are generated artifacts; keep only manual inputs in git.
+data/enriched/*
+!data/enriched/manual/
+
+# "latest" symlinks are generated artifacts (created by update-symlinks)
+data/**/latest
+
 # Playwright
 .cache/
 playwright-report/

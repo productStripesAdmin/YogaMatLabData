@@ -15,6 +15,15 @@ I want to create a data pipeline for [YogaMatLabApp](https://github.com/productS
 > [!NOTE]
 > The data pipeline code and associated data will all be held in a separate repo: [YogaMatLabData](https://github.com/productStripesAdmin/YogaMatLabData)
 
+## Recommended Git Branching (Main vs Data)
+
+To avoid frequent git conflicts when pipeline outputs change (especially with GitHub Actions also committing), use:
+
+- `main`: pipeline code/config/docs (+ any manual inputs like `data/raw/manual/*` and `data/enriched/manual/*`)
+- `data`: generated pipeline outputs under `data/` (raw/normalized/aggregated/changes + `latest` symlinks)
+
+YogaMatLabApp’s git submodule should track the `data` branch so the app consumes stable, versioned outputs without `main` changing underneath you.
+
 ## Brand URLs with products.json endpoints
 
 https://www.aloyoga.com/collections/yoga/products.json (or /en-sg if needed)
