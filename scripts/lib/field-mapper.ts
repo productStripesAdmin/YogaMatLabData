@@ -367,20 +367,6 @@ function generateTitleAuto(params: {
     edits.push('drop-mat-suffix');
   }
 
-  // Ensure vendor prefix for consistency ("Manduka PRO", "Liforme Travel", etc.).
-  if (vendor && vendorKey) {
-    const titleKey = normalizeTitleKey(working);
-    if (titleKey && !titleKey.startsWith(vendorKey) && !titleKey.includes(vendorKey)) {
-      working = `${vendor} ${working}`.replace(/\s+/g, ' ').trim();
-      edits.push('prefix-vendor');
-    } else if (titleKey.includes(vendorKey) && !titleKey.startsWith(vendorKey)) {
-      // If vendor appears later in the title, move it to the front and remove later duplicates.
-      const vendorRe = new RegExp(escapeForRegex(vendor), 'ig');
-      working = `${vendor} ${working.replace(vendorRe, ' ')}`.replace(/\s+/g, ' ').trim();
-      edits.push('dedupe-vendor');
-    }
-  }
-
   // Final cleanup.
   working = working
     .replace(/\s*-\s*$/g, '')
@@ -896,6 +882,53 @@ function classifySingleDimension(value: string, numValue: number, unit: 'cm' | '
   return 'length';
 }
 
+function extractLabeledDimensionPairFromText(text: string): { length: number; width: number; matchText: string } | undefined {
+  const cleaned = text.replace(/\s+/g, ' ');
+
+  const unitToken = String.raw`(?:"|″|“|”|inches?|in\.?|cm|mm|ft\.?|feet|foot|')`;
+  const number = String.raw`(\d+(?:\.\d+)?)`;
+  const valueWithUnit = String.raw`${number}\s*(${unitToken})?`;
+  const optionalCmParen = String.raw`(?:\s*\(\s*(\d+(?:\.\d+)?)\s*cm\s*\))?`;
+  const between = String.raw`\s*${optionalCmParen}\s*`;
+  const sep = String.raw`\s*(?:x|×)\s*`;
+
+  const toCmFromMatch = (rawNumber: string, rawUnit: string | undefined, parenCm: string | undefined, fullMatch: string): number => {
+    if (parenCm && Number.isFinite(parseFloat(parenCm))) return parseFloat(parenCm);
+    const n = parseFloat(rawNumber);
+    const unit = unitTokenToLinearUnit(rawUnit) ?? inferUnlabeledLinearUnit(fullMatch, n);
+    return linearToCm(n, unit);
+  };
+
+  // Examples:
+  //   70" (178 cm) long x 24" (61 cm) wide
+  //   178 cm long x 61 cm wide
+  const longThenWide = new RegExp(
+    String.raw`${valueWithUnit}${between}(?:long|length|l\b)${sep}${valueWithUnit}${between}(?:wide|width|w\b)`,
+    'i'
+  );
+
+  const wideThenLong = new RegExp(
+    String.raw`${valueWithUnit}${between}(?:wide|width|w\b)${sep}${valueWithUnit}${between}(?:long|length|l\b)`,
+    'i'
+  );
+
+  const m1 = cleaned.match(longThenWide);
+  if (m1) {
+    const length = toCmFromMatch(m1[1], m1[2], m1[3], m1[0]);
+    const width = toCmFromMatch(m1[4], m1[5], m1[6], m1[0]);
+    return { length, width, matchText: m1[0] };
+  }
+
+  const m2 = cleaned.match(wideThenLong);
+  if (m2) {
+    const width = toCmFromMatch(m2[1], m2[2], m2[3], m2[0]);
+    const length = toCmFromMatch(m2[4], m2[5], m2[6], m2[0]);
+    return { length, width, matchText: m2[0] };
+  }
+
+  return undefined;
+}
+
 /**
  * Extracts dimensions from options (priority) or text (fallback)
  * Returns length and width in cm
@@ -977,12 +1010,33 @@ function extractDimensions(product: ShopifyProduct, text: string): {
   }
 
   // Fallback: extract from text
+  const cleanedText = stripHtml(text);
+
+  // Pattern 0: Try explicit "long x wide" patterns (handles optional "(178 cm)" parentheticals).
+  const labeledPair = extractLabeledDimensionPairFromText(cleanedText);
+  if (labeledPair) {
+    return {
+      length: {
+        value: labeledPair.length,
+        unit: 'cm',
+        source: 'description',
+        originalText: labeledPair.matchText,
+      },
+      width: {
+        value: labeledPair.width,
+        unit: 'cm',
+        source: 'description',
+        originalText: labeledPair.matchText,
+      }
+    };
+  }
+
   // Pattern 1: Try L x W format first (e.g., "72\" x 26\"", "183cm x 61cm")
-  const parsedLxW = pickBestDimensionPairMatch(text);
+  const parsedLxW = pickBestDimensionPairMatch(cleanedText);
   if (parsedLxW) {
     const length = parsedLxW.length;
     const width = parsedLxW.width;
-    const originalText = parsedLxW.matchText ?? text;
+    const originalText = parsedLxW.matchText ?? cleanedText;
 
     return {
       length: {
@@ -1017,14 +1071,17 @@ function extractDimensions(product: ShopifyProduct, text: string): {
     };
   } = {};
 
+  const maybeParen = String.raw`(?:\s*\([^)]{0,60}\))?`;
+
   // Match length patterns
   const lengthPatterns = [
-    /(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?\s*(?:long|length|l\b)/i,
-    /(?:long|length).*?(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
+    new RegExp(String.raw`(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?${maybeParen}\\s*(?:long|length|l\\b)`, 'i'),
+    // e.g. "available in two lengths: 68\" and 74\"" (captures the first value)
+    /(?:lengths?|length)\s*[:=]?\s*(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
   ];
 
   for (const pattern of lengthPatterns) {
-    const lengthMatch = text.match(pattern);
+    const lengthMatch = cleanedText.match(pattern);
     if (lengthMatch) {
       const lengthValue = parseFloat(lengthMatch[1]);
       const unitToken = lengthMatch[2];
@@ -1043,12 +1100,12 @@ function extractDimensions(product: ShopifyProduct, text: string): {
 
   // Match width patterns
   const widthPatterns = [
-    /(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?\s*(?:wide|width|w\b)/i,
-    /(?:wide|width).*?(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
+    new RegExp(String.raw`(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)?${maybeParen}\\s*(?:wide|width|w\\b)`, 'i'),
+    /(?:width)\s*[:=]?\s*(\d+(?:\.\d+)?)\s*(inch|inches|in\.?|["″”“]|cm)/i,
   ];
 
   for (const pattern of widthPatterns) {
-    const widthMatch = text.match(pattern);
+    const widthMatch = cleanedText.match(pattern);
     if (widthMatch) {
       const widthValue = parseFloat(widthMatch[1]);
       const unitToken = widthMatch[2];
@@ -1062,6 +1119,36 @@ function extractDimensions(product: ShopifyProduct, text: string): {
         originalText: widthMatch[0],
       };
       break;
+    }
+  }
+
+  // Final fallback: if width is still missing, infer from any linear measurements in text.
+  // This helps cases like: `24" wide, available in two lengths: 68" and 74"` where the
+  // "wide" keyword may be separated by extra tokens/markup.
+  if (!result.width) {
+    const candidates = Array.from(
+      cleanedText.matchAll(/(?<!\/)(\d+(?:\.\d+)?)\s*(cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])/ig)
+    )
+      .map((m) => {
+        const value = parseFloat(m[1]);
+        const unit = unitTokenToLinearUnit(m[2]);
+        if (!Number.isFinite(value) || !unit) return null;
+        return { valueCm: linearToCm(value, unit), matchText: m[0] };
+      })
+      .filter((v): v is { valueCm: number; matchText: string } => Boolean(v && Number.isFinite(v.valueCm)))
+      // Filter out thickness-like values (mm-cm small) and keep plausible mat widths.
+      .filter((v) => v.valueCm >= 40 && v.valueCm <= 110);
+
+    if (candidates.length > 0) {
+      // Prefer the smallest plausible width if multiple candidates exist.
+      candidates.sort((a, b) => a.valueCm - b.valueCm);
+      const picked = candidates[0];
+      result.width = {
+        value: picked.valueCm,
+        unit: 'cm',
+        source: 'description',
+        originalText: picked.matchText,
+      };
     }
   }
 

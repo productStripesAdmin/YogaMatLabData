@@ -22,10 +22,9 @@ The generator starts from the Shopify title and:
 - Strips obvious vendor/brand suffix duplication (e.g. `... - JadeYoga`)
 - Keeps the first dash-separated segment when titles are formatted like `Line Name - Color`
 - Removes generic `Yoga Mat` / `Mat` suffixes when the remaining line name is still descriptive
-- Ensures the vendor is prefixed for consistency (e.g. `Manduka PRO`, `Liforme Travel`)
+- Does **not** prefix the brand/vendor (the UI should render brand separately, e.g. logo + name)
 
 ## Notes
 
 - This is a heuristic and may be refined over time; use `titleAutoVersion` to track changes.
 - YogaMatLabApp should prefer `titleManual ?? titleAuto ?? titleOriginal ?? name` for display.
-

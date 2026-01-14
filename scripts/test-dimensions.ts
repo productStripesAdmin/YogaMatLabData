@@ -86,6 +86,16 @@ const samples: Array<{ label: string; brandSlug: string; product: ShopifyProduct
       bodyHtml: '<p>Dimensions: 3/16&quot; thick, 24&quot; wide, available in two lengths: 68&quot; and 74&rdquo;, and weighs about 5 pounds.</p>',
     }),
   },
+  {
+    label: 'Yoga Design Lab: 70" (178 cm) long x 24" (61 cm) wide',
+    brandSlug: 'yogadesignlab',
+    product: makeProduct({
+      id: 5,
+      title: 'Combo Yoga Mat - Rainbow',
+      handle: 'combo-yoga-mat-rainbow',
+      bodyHtml: '<p><strong>Dimensions:</strong> 70&quot; (178 cm) long x 24&quot; (61 cm) wide</p><p><strong>Thickness Options:</strong> 3.5mm or 5.5mm</p>',
+    }),
+  },
 ];
 
 for (const sample of samples) {
