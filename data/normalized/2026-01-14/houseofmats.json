@@ -56,12 +56,12 @@
     ],
     "shopifyCreatedAt": "2021-09-17T16:22:39+02:00",
     "shopifyPublishedAt": "2021-09-17T16:22:39+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 154.39,
-    "maxPrice": 154.39,
+    "minPrice": 154.55,
+    "maxPrice": 154.55,
     "variantPriceValues": [
-      154.39
+      154.55
     ],
     "priceCurrency": "USD",
     "minGrams": 3300,
@@ -212,12 +212,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:49:15+02:00",
     "shopifyPublishedAt": "2024-09-06T16:26:56+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 150.83,
-    "maxPrice": 150.83,
+    "minPrice": 150.99,
+    "maxPrice": 150.99,
     "variantPriceValues": [
-      150.83
+      150.99
     ],
     "priceCurrency": "USD",
     "minGrams": 2600,
@@ -364,12 +364,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:50:23+02:00",
     "shopifyPublishedAt": "2024-09-06T16:27:09+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 150.83,
-    "maxPrice": 150.83,
+    "minPrice": 150.99,
+    "maxPrice": 150.99,
     "variantPriceValues": [
-      150.83
+      150.99
     ],
     "priceCurrency": "USD",
     "minGrams": 2600,
@@ -507,12 +507,12 @@
     ],
     "shopifyCreatedAt": "2022-04-25T20:45:29+02:00",
     "shopifyPublishedAt": "2022-04-25T20:45:29+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 154.39,
-    "maxPrice": 154.39,
+    "minPrice": 154.55,
+    "maxPrice": 154.55,
     "variantPriceValues": [
-      154.39
+      154.55
     ],
     "priceCurrency": "USD",
     "minGrams": 3300,
@@ -672,12 +672,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:45:12+02:00",
     "shopifyPublishedAt": "2024-09-06T16:27:37+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -833,12 +833,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:47:02+02:00",
     "shopifyPublishedAt": "2024-09-06T16:27:54+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -986,12 +986,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:53:05+02:00",
     "shopifyPublishedAt": "2024-09-05T18:10:21+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 142.51,
-    "maxPrice": 142.51,
+    "minPrice": 142.66,
+    "maxPrice": 142.66,
     "variantPriceValues": [
-      142.51
+      142.66
     ],
     "priceCurrency": "USD",
     "minGrams": 2000,
@@ -1132,12 +1132,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:52:34+02:00",
     "shopifyPublishedAt": "2024-09-06T16:28:16+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 127.07,
-    "maxPrice": 127.07,
+    "minPrice": 127.21,
+    "maxPrice": 127.21,
     "variantPriceValues": [
-      127.07
+      127.21
     ],
     "priceCurrency": "USD",
     "minGrams": 2000,
@@ -1285,12 +1285,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:44:24+02:00",
     "shopifyPublishedAt": "2024-09-06T16:28:35+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -1428,12 +1428,12 @@
     ],
     "shopifyCreatedAt": "2022-04-25T21:20:38+02:00",
     "shopifyPublishedAt": "2022-04-25T21:20:38+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 178.14,
-    "maxPrice": 178.14,
+    "minPrice": 178.33,
+    "maxPrice": 178.33,
     "variantPriceValues": [
-      178.14
+      178.33
     ],
     "priceCurrency": "USD",
     "minGrams": 3000,
@@ -1587,12 +1587,12 @@
     ],
     "shopifyCreatedAt": "2025-12-05T15:44:31+01:00",
     "shopifyPublishedAt": "2025-12-05T15:44:31+01:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -1717,12 +1717,12 @@
     ],
     "shopifyCreatedAt": "2022-04-25T18:10:53+02:00",
     "shopifyPublishedAt": "2022-04-25T18:10:53+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 178.14,
-    "maxPrice": 178.14,
+    "minPrice": 178.33,
+    "maxPrice": 178.33,
     "variantPriceValues": [
-      178.14
+      178.33
     ],
     "priceCurrency": "USD",
     "minGrams": 4000,
@@ -1872,12 +1872,12 @@
     ],
     "shopifyCreatedAt": "2022-04-25T20:59:17+02:00",
     "shopifyPublishedAt": "2022-04-25T20:59:17+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 154.39,
-    "maxPrice": 154.39,
+    "minPrice": 154.55,
+    "maxPrice": 154.55,
     "variantPriceValues": [
-      154.39
+      154.55
     ],
     "priceCurrency": "USD",
     "minGrams": 3300,
@@ -2025,12 +2025,12 @@
     ],
     "shopifyCreatedAt": "2025-12-05T15:42:27+01:00",
     "shopifyPublishedAt": "2025-12-05T15:42:27+01:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 2000,
@@ -2178,12 +2178,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:46:35+02:00",
     "shopifyPublishedAt": "2024-09-06T16:28:50+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -2338,12 +2338,12 @@
     ],
     "shopifyCreatedAt": "2024-08-28T16:19:18+02:00",
     "shopifyPublishedAt": "2024-09-06T16:29:06+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 178.14,
-    "maxPrice": 178.14,
+    "minPrice": 178.33,
+    "maxPrice": 178.33,
     "variantPriceValues": [
-      178.14
+      178.33
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -2492,12 +2492,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:47:34+02:00",
     "shopifyPublishedAt": "2025-03-24T00:33:38+01:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,
@@ -2645,12 +2645,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:50:54+02:00",
     "shopifyPublishedAt": "2024-09-06T16:29:35+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 150.83,
-    "maxPrice": 150.83,
+    "minPrice": 150.99,
+    "maxPrice": 150.99,
     "variantPriceValues": [
-      150.83
+      150.99
     ],
     "priceCurrency": "USD",
     "minGrams": 2600,
@@ -2790,12 +2790,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:48:25+02:00",
     "shopifyPublishedAt": "2024-09-06T16:29:50+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 150.83,
-    "maxPrice": 150.83,
+    "minPrice": 150.99,
+    "maxPrice": 150.99,
     "variantPriceValues": [
-      150.83
+      150.99
     ],
     "priceCurrency": "USD",
     "minGrams": 2600,
@@ -2936,12 +2936,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:51:47+02:00",
     "shopifyPublishedAt": "2024-09-06T16:30:18+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 127.07,
-    "maxPrice": 127.07,
+    "minPrice": 127.21,
+    "maxPrice": 127.21,
     "variantPriceValues": [
-      127.07
+      127.21
     ],
     "priceCurrency": "USD",
     "minGrams": 1800,
@@ -3089,12 +3089,12 @@
     ],
     "shopifyCreatedAt": "2024-05-09T17:43:48+02:00",
     "shopifyPublishedAt": "2024-09-06T16:30:36+02:00",
-    "shopifyUpdatedAt": "2026-01-14T02:21:01+01:00",
+    "shopifyUpdatedAt": "2026-01-14T16:07:40+01:00",
     "variantsCount": 1,
-    "minPrice": 162.7,
-    "maxPrice": 162.7,
+    "minPrice": 162.88,
+    "maxPrice": 162.88,
     "variantPriceValues": [
-      162.7
+      162.88
     ],
     "priceCurrency": "USD",
     "minGrams": 3400,

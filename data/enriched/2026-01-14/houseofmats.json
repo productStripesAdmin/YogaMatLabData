@@ -1,13 +1,13 @@
 {
   "brandSlug": "houseofmats",
-  "extractedAt": "2026-01-14T01:21:37.721Z",
+  "extractedAt": "2026-01-14T15:08:16.028Z",
   "products": [
     {
       "shopifyId": 7167222743191,
       "handle": "familia",
       "slug": "houseofmats-familia",
       "productUrl": "https://www.houseofmats.com/products/familia",
-      "extractedAt": "2026-01-14T01:21:38.477Z",
+      "extractedAt": "2026-01-14T15:08:16.966Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">183cm x 63cm<br /> 4mm<br /> 3kg<br /> </span></p>",
         "confidence": 0.75,
@@ -33,7 +33,7 @@
       "handle": "airy-blue",
       "slug": "houseofmats-airy-blue",
       "productUrl": "https://www.houseofmats.com/products/airy-blue",
-      "extractedAt": "2026-01-14T01:21:39.961Z",
+      "extractedAt": "2026-01-14T15:08:18.721Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x68cm<br /> 3.5mm<br /> 2.6 kg</span></p>",
         "confidence": 0.75,
@@ -58,7 +58,7 @@
       "handle": "clay",
       "slug": "houseofmats-clay",
       "productUrl": "https://www.houseofmats.com/products/clay",
-      "extractedAt": "2026-01-14T01:21:41.610Z",
+      "extractedAt": "2026-01-14T15:08:20.406Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x68cm<br /> 3.5mm<br /> 2.6 kg<br /> <br /> </span></p>",
         "confidence": 0.9,
@@ -85,7 +85,7 @@
       "handle": "daylight-moth-by-ula-basinska-11",
       "slug": "houseofmats-daylight-moth-by-ula-basinska-11",
       "productUrl": "https://www.houseofmats.com/products/daylight-moth-by-ula-basinska-11",
-      "extractedAt": "2026-01-14T01:21:43.152Z",
+      "extractedAt": "2026-01-14T15:08:22.189Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">183cm x 63cm<br /> 4mm<br /> 3.5kg<br /> </span></p>",
         "confidence": 0.75,
@@ -111,7 +111,7 @@
       "handle": "forest-green",
       "slug": "houseofmats-forest-green",
       "productUrl": "https://www.houseofmats.com/products/forest-green",
-      "extractedAt": "2026-01-14T01:21:44.686Z",
+      "extractedAt": "2026-01-14T15:08:23.912Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -137,7 +137,7 @@
       "handle": "golden-hour",
       "slug": "houseofmats-golden-hour",
       "productUrl": "https://www.houseofmats.com/products/golden-hour",
-      "extractedAt": "2026-01-14T01:21:46.160Z",
+      "extractedAt": "2026-01-14T15:08:25.595Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 3.4 kg<br /> <br /> </span></p>",
         "confidence": 0.9,
@@ -164,7 +164,7 @@
       "handle": "oat-signature",
       "slug": "houseofmats-oat-signature",
       "productUrl": "https://www.houseofmats.com/products/oat-signature",
-      "extractedAt": "2026-01-14T01:21:47.690Z",
+      "extractedAt": "2026-01-14T15:08:27.274Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 2mm<br /> 1.2kg<br /> </span></p>",
         "confidence": 0.75,
@@ -190,7 +190,7 @@
       "handle": "magnetic-purple",
       "slug": "houseofmats-magnetic-purple",
       "productUrl": "https://www.houseofmats.com/products/magnetic-purple",
-      "extractedAt": "2026-01-14T01:21:49.215Z",
+      "extractedAt": "2026-01-14T15:08:28.909Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 2mm<br /> 1.8kg</span></p>",
         "confidence": 0.75,
@@ -215,7 +215,7 @@
       "handle": "misty-grey",
       "slug": "houseofmats-misty-grey",
       "productUrl": "https://www.houseofmats.com/products/misty-grey",
-      "extractedAt": "2026-01-14T01:21:50.758Z",
+      "extractedAt": "2026-01-14T15:08:30.635Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 4.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -241,7 +241,7 @@
       "handle": "moonlight",
       "slug": "houseofmats-moonlight",
       "productUrl": "https://www.houseofmats.com/products/moonlight",
-      "extractedAt": "2026-01-14T01:21:52.332Z",
+      "extractedAt": "2026-01-14T15:08:32.324Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">183cm x 63cm <br /> 4mm<br /> 3.5kg<br /> </span></p>",
         "confidence": 0.75,
@@ -267,7 +267,7 @@
       "handle": "nautica-yoga-mat-studio-collection-4-5mm",
       "slug": "houseofmats-nautica-yoga-mat-studio-collection-4-5mm",
       "productUrl": "https://www.houseofmats.com/products/nautica-yoga-mat-studio-collection-4-5mm",
-      "extractedAt": "2026-01-14T01:21:53.847Z",
+      "extractedAt": "2026-01-14T15:08:34.065Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -293,7 +293,7 @@
       "handle": "midnight-tribe-by-ula-basinska",
       "slug": "houseofmats-midnight-tribe-by-ula-basinska",
       "productUrl": "https://www.houseofmats.com/products/midnight-tribe-by-ula-basinska",
-      "extractedAt": "2026-01-14T01:21:55.483Z",
+      "extractedAt": "2026-01-14T15:08:35.751Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">183cm x 63cm<br /> 4mm<br /> 3.5kg<br /> </span></p>",
         "confidence": 0.75,
@@ -319,7 +319,7 @@
       "handle": "peony-bloom",
       "slug": "houseofmats-peony-bloom",
       "productUrl": "https://www.houseofmats.com/products/peony-bloom",
-      "extractedAt": "2026-01-14T01:21:56.951Z",
+      "extractedAt": "2026-01-14T15:08:37.544Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">183cm x 63cm<br /> 4mm<br /> 3.5kg<br /> </span></p>",
         "confidence": 0.75,
@@ -345,7 +345,7 @@
       "handle": "purple-yoga-mat-classic-collection-4-5mm",
       "slug": "houseofmats-purple-yoga-mat-classic-collection-4-5mm",
       "productUrl": "https://www.houseofmats.com/products/purple-yoga-mat-classic-collection-4-5mm",
-      "extractedAt": "2026-01-14T01:21:58.645Z",
+      "extractedAt": "2026-01-14T15:08:39.246Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 4.5mm<br /> 3.8g</span></p>",
         "confidence": 0.75,
@@ -370,7 +370,7 @@
       "handle": "rooted-brown",
       "slug": "houseofmats-rooted-brown",
       "productUrl": "https://www.houseofmats.com/products/rooted-brown",
-      "extractedAt": "2026-01-14T01:22:00.143Z",
+      "extractedAt": "2026-01-14T15:08:40.928Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -396,7 +396,7 @@
       "handle": "royal-plum-signature-yoga-mat-classic-collection-4-5mm",
       "slug": "houseofmats-royal-plum-signature-yoga-mat-classic-collection-4-5mm",
       "productUrl": "https://www.houseofmats.com/products/royal-plum-signature-yoga-mat-classic-collection-4-5mm",
-      "extractedAt": "2026-01-14T01:22:01.647Z",
+      "extractedAt": "2026-01-14T15:08:42.628Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm <br /> 3.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -422,7 +422,7 @@
       "handle": "royal-plum",
       "slug": "houseofmats-royal-plum",
       "productUrl": "https://www.houseofmats.com/products/royal-plum",
-      "extractedAt": "2026-01-14T01:22:03.168Z",
+      "extractedAt": "2026-01-14T15:08:44.274Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 3.4 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -448,7 +448,7 @@
       "handle": "sage-green",
       "slug": "houseofmats-sage-green",
       "productUrl": "https://www.houseofmats.com/products/sage-green",
-      "extractedAt": "2026-01-14T01:22:04.627Z",
+      "extractedAt": "2026-01-14T15:08:45.958Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 2.6 kg<br /> <br /> </span></p>",
         "confidence": 0.9,
@@ -475,7 +475,7 @@
       "handle": "suiyobi",
       "slug": "houseofmats-suiyobi",
       "productUrl": "https://www.houseofmats.com/products/suiyobi",
-      "extractedAt": "2026-01-14T01:22:06.158Z",
+      "extractedAt": "2026-01-14T15:08:47.653Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 2.6 kg<br /> </span></p>",
         "confidence": 0.75,
@@ -501,7 +501,7 @@
       "handle": "the-black-mat-1",
       "slug": "houseofmats-the-black-mat-1",
       "productUrl": "https://www.houseofmats.com/products/the-black-mat-1",
-      "extractedAt": "2026-01-14T01:22:07.819Z",
+      "extractedAt": "2026-01-14T15:08:49.383Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm <br /> 2mm<br /> 1.8kg<br /> </span></p>",
         "confidence": 0.75,
@@ -527,7 +527,7 @@
       "handle": "the-black-mat",
       "slug": "houseofmats-the-black-mat",
       "productUrl": "https://www.houseofmats.com/products/the-black-mat",
-      "extractedAt": "2026-01-14T01:22:09.362Z",
+      "extractedAt": "2026-01-14T15:08:51.181Z",
       "appendText": {
         "text": "Size: <p><span class=\"metafield-multi_line_text_field\">185cm x 68cm<br /> 3.5mm<br /> 4.5 kg<br /> </span></p>",
         "confidence": 0.75,

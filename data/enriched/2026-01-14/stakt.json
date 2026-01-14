@@ -1,13 +1,13 @@
 {
   "brandSlug": "stakt",
-  "extractedAt": "2026-01-14T01:24:39.696Z",
+  "extractedAt": "2026-01-14T15:11:37.746Z",
   "products": [
     {
       "shopifyId": 8037178015926,
       "handle": "the-stakt-mat-pro",
       "slug": "stakt-the-stakt-mat-pro",
       "productUrl": "https://shopstakt.com/products/the-stakt-mat-pro",
-      "extractedAt": "2026-01-14T01:24:39.884Z",
+      "extractedAt": "2026-01-14T15:11:38.523Z",
       "appendText": {
         "text": "Product details: Patent #US-D1050762-S With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} The Stakt Mat Pro has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts. Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support. Just 3 pounds 12mm when lying flat Gain stable footing Simply wipe clean Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. <strong>Flat:</strong> 12 mm thick, 69\" L x 24\" W <strong>Folded:</strong> 12\" L x 3\" H x 24\" W <strong>Weight: </strong>3.4 lbs <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat. Product Details: Patent #US-D1050762-S With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} The Stakt Mat Pro has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts. Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support. Just 3 pounds 12mm when lying flat Gain stable footing Simply wipe clean Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. <strong>Flat:</strong> 12 mm thick, 69\" L x 24\" W <strong>Folded:</strong> 12\" L x 3\" H x 24\" W <strong>Weight: </strong>3.4 lbs <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat.",
         "confidence": 1,
@@ -70,7 +70,7 @@
       "handle": "the-mat",
       "slug": "stakt-the-mat",
       "productUrl": "https://shopstakt.com/products/the-mat",
-      "extractedAt": "2026-01-14T01:24:40.993Z",
+      "extractedAt": "2026-01-14T15:11:39.998Z",
       "appendText": {
         "text": "Product details: Patent #US-D1050762-S With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. Just 3 pounds, and folds away quickly for seamless storage and transport At 12mm thick, it has twice the padding of traditional yoga mats. Your joints will thank us later. Stays put thanks to a ribbed texture on the underside Simply spray and wipe <strong>Flat:</strong> 12 mm thick, 69\" L x 24 W\" <strong>Folded:</strong> 12\" L x 3\" H x 24\" W <strong>Weight:</strong> 3 lbs. <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat. Product Details: Patent #US-D1050762-S With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. Just 3 pounds, and folds away quickly for seamless storage and transport At 12mm thick, it has twice the padding of traditional yoga mats. Your joints will thank us later. Stays put thanks to a ribbed texture on the underside Simply spray and wipe <strong>Flat:</strong> 12 mm thick, 69\" L x 24 W\" <strong>Folded:</strong> 12\" L x 3\" H x 24\" W <strong>Weight:</strong> 3 lbs. <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat.",
         "confidence": 1,
@@ -129,7 +129,7 @@
       "handle": "stakt-mat-pro-xl",
       "slug": "stakt-stakt-mat-pro-xl",
       "productUrl": "https://shopstakt.com/products/stakt-mat-pro-xl",
-      "extractedAt": "2026-01-14T01:24:42.424Z",
+      "extractedAt": "2026-01-14T15:11:41.143Z",
       "appendText": {
         "text": "Product details: With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} At <strong>80″ x 28″</strong>, the Mat Pro XL gives you space to stretch, lunge, pivot, and flow without feeling confined — perfect for taller practitioners and anyone who wants a generous platform for sculpt, pilates, yoga, HIIT, and more. Just like the Stakt Mat Pro, the Pro XL has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts. Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Pro XL offers unmatched stability and support. 80\" L x 28\" W 12mm when lying flat Gain stable footing Simply wipe clean Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. <strong>Flat:</strong> 12 mm thick, 80\" L x 28\" W <strong>Folded:</strong> 28\" x 10\" x 4\" <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat. Taller bodies & bigger movements Cross-training routines that need extra real estate Yoga, Pilates, and HIIT lovers who want to spread out Anyone who wants more space to move without sacrificing performance Product Details: With this purchase, you will make an impact of: ${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`} At <strong>80″ x 28″</strong>, the Mat Pro XL gives you space to stretch, lunge, pivot, and flow without feeling confined — perfect for taller practitioners and anyone who wants a generous platform for sculpt, pilates, yoga, HIIT, and more. Just like the Stakt Mat Pro, the Pro XL has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts. Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Pro XL offers unmatched stability and support. 80\" L x 28\" W 12mm when lying flat Gain stable footing Simply wipe clean Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more. <strong>Flat:</strong> 12 mm thick, 80\" L x 28\" W <strong>Folded:</strong> 28\" x 10\" x 4\" <strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats After every use, wipe down your mat with the Stakt Mat Cleanser Spray Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat. Taller bodies & bigger movements Cross-training routines that need extra real estate Yoga, Pilates, and HIIT lovers who want to spread out Anyone who wants more space to move without sacrificing performance",
         "confidence": 1,
@@ -198,7 +198,7 @@
       "handle": "the-strength-set",
       "slug": "stakt-the-strength-set",
       "productUrl": "https://shopstakt.com/products/the-strength-set",
-      "extractedAt": "2026-01-14T01:24:43.909Z",
+      "extractedAt": "2026-01-14T15:11:42.749Z",
       "errors": [
         "Append text headings not found: Product details, Product Details"
       ]
@@ -208,7 +208,7 @@
       "handle": "the-stakt-starter-set",
       "slug": "stakt-the-stakt-starter-set",
       "productUrl": "https://shopstakt.com/products/the-stakt-starter-set",
-      "extractedAt": "2026-01-14T01:24:45.380Z",
+      "extractedAt": "2026-01-14T15:11:44.637Z",
       "errors": [
         "Append text headings not found: Product details, Product Details"
       ]
@@ -218,7 +218,7 @@
       "handle": "the-bring-stakt-anywhere-set",
       "slug": "stakt-the-bring-stakt-anywhere-set",
       "productUrl": "https://shopstakt.com/products/the-bring-stakt-anywhere-set",
-      "extractedAt": "2026-01-14T01:24:46.892Z",
+      "extractedAt": "2026-01-14T15:11:46.359Z",
       "errors": [
         "Append text headings not found: Product details, Product Details"
       ]
@@ -228,7 +228,7 @@
       "handle": "the-holiday-gift-set",
       "slug": "stakt-the-holiday-gift-set",
       "productUrl": "https://shopstakt.com/products/the-holiday-gift-set",
-      "extractedAt": "2026-01-14T01:24:48.551Z",
+      "extractedAt": "2026-01-14T15:11:47.997Z",
       "errors": [
         "Append text headings not found: Product details, Product Details"
       ]
@@ -238,7 +238,7 @@
       "handle": "the-pilates-set",
       "slug": "stakt-the-pilates-set",
       "productUrl": "https://shopstakt.com/products/the-pilates-set",
-      "extractedAt": "2026-01-14T01:24:50.106Z",
+      "extractedAt": "2026-01-14T15:11:49.558Z",
       "errors": [
         "Append text headings not found: Product details, Product Details"
       ]
