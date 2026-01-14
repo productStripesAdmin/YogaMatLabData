@@ -1610,6 +1610,132 @@ function mergeUniqueStrings(primary: string[] | undefined, secondary: string[] |
   return out;
 }
 
+type DimensionOptions = NonNullable<NormalizedYogaMat['dimensionOptions']>;
+
+function extractDimensionOptionsFromText(text: string): DimensionOptions | undefined {
+  const cleaned = stripHtml(text ?? '');
+  if (!cleaned) return undefined;
+
+  const thicknessCandidates: Array<NonNullable<DimensionOptions['thicknessMm']>[number]> = [];
+  const rawMatches = Array.from(cleaned.matchAll(/(?<!\/)(\d+(?:\.\d+)?)\s*(?:mm|millimeter)\b/ig));
+
+  for (const match of rawMatches) {
+    const value = parseFloat(match[1]);
+    if (!Number.isFinite(value) || value <= 0 || value > 30) continue; // thickness mm sanity
+
+    const index = match.index ?? 0;
+    const window = cleaned.slice(Math.max(0, index - 40), Math.min(cleaned.length, index + match[0].length + 40)).toLowerCase();
+    const hasThicknessKeyword = /\bthick(?:ness)?\b/.test(window);
+    const hasOptionsKeyword = /\boption(s)?\b/.test(window);
+
+    let confidence = 0.62;
+    if (hasThicknessKeyword) confidence += 0.15;
+    if (hasOptionsKeyword) confidence += 0.10;
+
+    pushUnique(thicknessCandidates, {
+      value,
+      sourceOptionName: 'description',
+      rawValue: match[0],
+      confidence: clamp01(confidence),
+    }, (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`);
+  }
+
+  if (thicknessCandidates.length === 0) return undefined;
+
+  const candidateCount = rawMatches.length;
+  const parsedCount = thicknessCandidates.length;
+  const unparsedCount = Math.max(0, candidateCount - parsedCount);
+
+  return {
+    sanity: {
+      candidateCount,
+      parsedCount,
+      unparsedCount,
+      coverage: candidateCount > 0 ? parsedCount / candidateCount : 0,
+      allUnparsed: candidateCount > 0 && parsedCount === 0,
+    },
+    thicknessMm: thicknessCandidates,
+    rawUnparsed: [],
+  };
+}
+
+function mergeDimensionOptions(primary: DimensionOptions | undefined, secondary: DimensionOptions | undefined): DimensionOptions | undefined {
+  if (!primary && !secondary) return undefined;
+  if (!primary) return secondary;
+  if (!secondary) return primary;
+
+  const merged: DimensionOptions = {
+    sanity: {
+      candidateCount: (primary.sanity?.candidateCount ?? 0) + (secondary.sanity?.candidateCount ?? 0),
+      parsedCount: (primary.sanity?.parsedCount ?? 0) + (secondary.sanity?.parsedCount ?? 0),
+      unparsedCount: (primary.sanity?.unparsedCount ?? 0) + (secondary.sanity?.unparsedCount ?? 0),
+      coverage: 0,
+      allUnparsed: false,
+    },
+    thicknessMm: [...(primary.thicknessMm ?? [])],
+    lengthCm: primary.lengthCm ? [...primary.lengthCm] : undefined,
+    widthCm: primary.widthCm ? [...primary.widthCm] : undefined,
+    diameterCm: primary.diameterCm ? [...primary.diameterCm] : undefined,
+    rolledDiameterCm: primary.rolledDiameterCm ? [...primary.rolledDiameterCm] : undefined,
+    sizePairsCm: primary.sizePairsCm ? [...primary.sizePairsCm] : undefined,
+    rawUnparsed: [...(primary.rawUnparsed ?? [])],
+  };
+
+  const mergeValueList = <T extends { value: any; sourceOptionName: string; rawValue: string }>(
+    target: T[] | undefined,
+    incoming: T[] | undefined,
+    keyFn: (item: T) => string
+  ): T[] | undefined => {
+    if (!incoming || incoming.length === 0) return target;
+    const out = target ? [...target] : [];
+    for (const item of incoming) pushUnique(out, item, keyFn);
+    return out.length > 0 ? out : undefined;
+  };
+
+  merged.thicknessMm = mergeValueList(
+    merged.thicknessMm,
+    secondary.thicknessMm,
+    (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.lengthCm = mergeValueList(
+    merged.lengthCm,
+    secondary.lengthCm,
+    (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.widthCm = mergeValueList(
+    merged.widthCm,
+    secondary.widthCm,
+    (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.diameterCm = mergeValueList(
+    merged.diameterCm,
+    secondary.diameterCm,
+    (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.rolledDiameterCm = mergeValueList(
+    merged.rolledDiameterCm,
+    secondary.rolledDiameterCm,
+    (t) => `${t.value}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.sizePairsCm = mergeValueList(
+    merged.sizePairsCm,
+    secondary.sizePairsCm,
+    (t) => `${t.value.lengthCm}x${t.value.widthCm}|${t.sourceOptionName}|${t.rawValue}`
+  );
+  merged.rawUnparsed = mergeValueList(
+    merged.rawUnparsed,
+    secondary.rawUnparsed,
+    (t) => `${t.sourceOptionName}|${t.rawValue}`
+  ) ?? [];
+
+  const candidateCount = merged.sanity.candidateCount;
+  const parsedCount = merged.sanity.parsedCount;
+  merged.sanity.coverage = candidateCount > 0 ? parsedCount / candidateCount : 0;
+  merged.sanity.allUnparsed = candidateCount > 0 && parsedCount === 0;
+
+  return merged;
+}
+
 function deriveDimensionQueryFields(params: {
   thickness?: NormalizedYogaMat['thickness'];
   length?: NormalizedYogaMat['length'];
@@ -1971,7 +2097,10 @@ export function mapShopifyToYogaMat(
   const gramsRange = getGramsRange(product);
   const gramsSanity = getVariantGramsSanity(product);
   const dimensions = extractDimensions(product, allText);
-  const dimensionOptions = extractDimensionOptions(product);
+  const dimensionOptions = mergeDimensionOptions(
+    extractDimensionOptions(product),
+    extractDimensionOptionsFromText(allText)
+  );
   const thickness = extractThickness(product, allText);
   const diameter = extractDiameter(product, allText);
   const rolledDiameter = extractRolledDiameter(product, allText);

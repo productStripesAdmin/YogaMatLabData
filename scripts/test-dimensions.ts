@@ -106,6 +106,9 @@ for (const sample of samples) {
     width: normalized.width,
     thickness: normalized.thickness,
     dimensionQuery: {
+      thicknessMmMin: normalized.thicknessMmMin,
+      thicknessMmMax: normalized.thicknessMmMax,
+      thicknessMmx10Values: normalized.thicknessMmx10Values,
       lengthCmMin: normalized.lengthCmMin,
       widthCmMin: normalized.widthCmMin,
       lengthCMx10Values: normalized.lengthCMx10Values,
