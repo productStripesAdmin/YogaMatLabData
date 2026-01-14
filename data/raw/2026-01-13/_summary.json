@@ -3,7 +3,7 @@
   "totalBrands": 20,
   "successfulBrands": 20,
   "failedBrands": 0,
-  "totalProducts": 477,
+  "totalProducts": 478,
   "results": [
     {
       "brandName": "42 Birds",
@@ -121,7 +121,7 @@
       "brandName": "Yoga Design Lab",
       "brandSlug": "yogadesignlab",
       "success": true,
-      "productCount": 49,
+      "productCount": 51,
       "totalPages": 1
     },
     {
@@ -135,7 +135,7 @@
       "brandName": "Yogi Bare",
       "brandSlug": "yogibare",
       "success": true,
-      "productCount": 10,
+      "productCount": 9,
       "totalPages": 1
     },
     {

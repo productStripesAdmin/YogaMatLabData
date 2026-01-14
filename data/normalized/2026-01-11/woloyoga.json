@@ -4,12 +4,34 @@
     "brandSlug": "woloyoga",
     "name": "Ascend Mat 4mm",
     "slug": "woloyoga-ascend-yoga-mat",
+    "titleOriginal": "Ascend Mat 4mm",
+    "titleAuto": "Wolo Yoga Ascend Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Professional-grade yoga mat built for serious flow and focused strength, made with SGS-certified natural rubber\n✓ 100% natural rubber on both sides✓ Dual-sided reversible grip✓ Built to last, day after day",
     "thickness": {
       "value": 4,
       "unit": "mm",
       "source": "description",
       "originalText": "4mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm wide"
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm wide"
+    },
+    "weight": {
+      "value": 2.7,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.7kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -25,7 +47,24 @@
     "textureConfidence": 0.65,
     "features": [
       "Reversible",
-      "Non-Slip"
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimension & Materials",
+        "items": [
+          "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Dimension & Material",
+        "items": [
+          "183cm long x 68cm wide x 4mm thick. (approx. 2.7kg). Made with 100% SGS-certified natural rubber."
+        ],
+        "confidence": 0.75
+      }
     ],
     "shopifyId": 8333492650180,
     "shopifyHandle": "ascend-yoga-mat",
@@ -58,8 +97,24 @@
     "isAvailable": true,
     "thicknessMmMin": 4,
     "thicknessMmMax": 4,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
     "thicknessMmx10Values": [
       40
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 680
+      }
     ],
     "shopifyOptions": [
       {
@@ -164,12 +219,34 @@
     "brandSlug": "woloyoga",
     "name": "Mastery Mat 4mm",
     "slug": "woloyoga-mastery-yoga-mat",
+    "titleOriginal": "Mastery Mat 4mm",
+    "titleAuto": "Wolo Yoga Mastery Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Everyday yoga mat designed with unshakeable grip and lasting durability, made with SGS-certified natural rubber\n✓ Grippy with even sweat palms✓ High-density support for stability✓ Move freely on this large mat",
     "thickness": {
       "value": 4,
       "unit": "mm",
       "source": "description",
       "originalText": "4mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "weight": {
+      "value": 2.7,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.7kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -185,6 +262,33 @@
     "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimension",
+        "items": [
+          "183cm long x 68cm width x 4mm thick (2.7kg)"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Materials",
+        "items": [
+          "SGS-certified natural rubber, non-toxic vegan leather"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Care",
+        "items": [
+          "Gently wipe the mat with a damp cloth after each use",
+          "Do not use oil-based cleaning products",
+          "Air dry the mat before rolling",
+          "Store out of direct sunlight and heat source",
+          "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+        ],
+        "confidence": 0.9500000000000001
+      }
     ],
     "shopifyId": 8210934399172,
     "shopifyHandle": "mastery-yoga-mat",
@@ -217,8 +321,24 @@
     "isAvailable": true,
     "thicknessMmMin": 4,
     "thicknessMmMax": 4,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
     "thicknessMmx10Values": [
       40
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 680
+      }
     ],
     "shopifyOptions": [
       {
@@ -511,12 +631,34 @@
     "brandSlug": "woloyoga",
     "name": "Away Travel Mat 1.5mm",
     "slug": "woloyoga-away-travel-mat",
+    "titleOriginal": "Away Travel Mat 1.5mm",
+    "titleAuto": "Wolo Yoga Away Travel",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Lightweight, foldable yoga mat designed to let you bring your practice on the go, made with SGS-certified natural rubber\n✓ Fit in your carry-on suitcase✓ Grippy with even sweat palms✓ Move freely on this large mat",
     "thickness": {
       "value": 1.5,
       "unit": "mm",
       "source": "description",
       "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "weight": {
+      "value": 1.3,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.3kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -533,6 +675,33 @@
     "features": [
       "Non-Slip",
       "Lightweight"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimension",
+        "items": [
+          "183cm long x 68cm width x 1.5mm thick (1.3kg)"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Materials",
+        "items": [
+          "SGS-certified natural rubber, non-toxic coconut fiber leather"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Care",
+        "items": [
+          "Gently wipe the mat with a damp cloth after each use",
+          "Do not use oil-based cleaning products",
+          "Air dry the mat before rolling",
+          "Store out of direct sunlight and heat source",
+          "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+        ],
+        "confidence": 0.9500000000000001
+      }
     ],
     "shopifyId": 8247536746692,
     "shopifyHandle": "away-travel-mat",
@@ -564,8 +733,24 @@
     "isAvailable": true,
     "thicknessMmMin": 1.5,
     "thicknessMmMax": 1.5,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
     "thicknessMmx10Values": [
       15
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 680
+      }
     ],
     "shopifyOptions": [
       {
@@ -784,7 +969,35 @@
     "brandSlug": "woloyoga",
     "name": "Dual Flow Bundle",
     "slug": "woloyoga-dual-flow-bundle",
+    "titleOriginal": "Dual Flow Bundle",
+    "titleAuto": "Wolo Yoga Dual Flow Bundle",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Two Mastery Mats so you and a partner can practice together with comfort and grip.",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "weight": {
+      "value": 2.7,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.7kg"
+    },
     "texture": "Grippy",
     "textures": [
       "Grippy"
@@ -793,6 +1006,33 @@
     "textureConfidence": 0.65,
     "features": [
       "Non-Slip"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimension",
+        "items": [
+          "183cm long x 68cm width x 4mm thick (2.7kg)"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Materials",
+        "items": [
+          "SGS-certified natural rubber, non-toxic vegan leather"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Care",
+        "items": [
+          "Gently wipe the mat with a damp cloth after each use",
+          "Do not use oil-based cleaning products",
+          "Air dry the mat before rolling",
+          "Store out of direct sunlight and heat source",
+          "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+        ],
+        "confidence": 0.9500000000000001
+      }
     ],
     "shopifyId": 8210944131268,
     "shopifyHandle": "dual-flow-bundle",
@@ -815,6 +1055,27 @@
     "variantGramsCoverage": 0,
     "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 680
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "1st Mat Colour",
@@ -923,9 +1184,64 @@
     "brandSlug": "woloyoga",
     "name": "Travel Flow Bundle",
     "slug": "woloyoga-travel-flow-bundle",
+    "titleOriginal": "Travel Flow Bundle",
+    "titleAuto": "Wolo Yoga Travel Flow Bundle",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Two Away Mats that are lightweight, foldable, and easy to pack for practice anywhere.",
+    "thickness": {
+      "value": 1.5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 183,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "width": {
+      "value": 68,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "183cm long x 68cm width"
+    },
+    "weight": {
+      "value": 1.3,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "1.3kg"
+    },
     "features": [
       "Lightweight"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimension",
+        "items": [
+          "183cm long x 68cm width x 1.5mm thick (1.3kg)"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Materials",
+        "items": [
+          "SGS-certified natural rubber, non-toxic coconut fiber leather"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Care",
+        "items": [
+          "Gently wipe the mat with a damp cloth after each use",
+          "Do not use oil-based cleaning products",
+          "Air dry the mat before rolling",
+          "Store out of direct sunlight and heat source",
+          "Roll with top of mat side facing out, rolling in opposite direction can damage mat surface"
+        ],
+        "confidence": 0.9500000000000001
+      }
     ],
     "shopifyId": 8347884716228,
     "shopifyHandle": "travel-flow-bundle",
@@ -949,6 +1265,27 @@
     "variantGramsCoverage": 0,
     "variantGramsAllZeroOrMissing": true,
     "isAvailable": true,
+    "thicknessMmMin": 1.5,
+    "thicknessMmMax": 1.5,
+    "lengthCmMin": 183,
+    "lengthCmMax": 183,
+    "widthCmMin": 68,
+    "widthCmMax": 68,
+    "thicknessMmx10Values": [
+      15
+    ],
+    "lengthCMx10Values": [
+      1830
+    ],
+    "widthCMx10Values": [
+      680
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1830,
+        "widthCMx10": 680
+      }
+    ],
     "shopifyOptions": [
       {
         "name": "1st Mat Colour",
@@ -1048,6 +1385,10 @@
     "brandSlug": "woloyoga",
     "name": "Complete Flow Bundle",
     "slug": "woloyoga-complete-flow-bundle",
+    "titleOriginal": "Complete Flow Bundle",
+    "titleAuto": "Wolo Yoga Complete Flow Bundle",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "One Mastery Mat and one Away Travel Mat, giving you the perfect balance of home stability and travel-ready freedom.",
     "features": [
       "Lightweight"
@@ -1187,6 +1528,10 @@
     "brandSlug": "woloyoga",
     "name": "Elevate Flow Bundle",
     "slug": "woloyoga-elevate-flow-bundle",
+    "titleOriginal": "Elevate Flow Bundle",
+    "titleAuto": "Wolo Yoga Elevate Flow Bundle",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Two Ascend Mats built for performance and balance. Ideal for couples or advanced practitioners who want to rise higher together.",
     "features": [],
     "shopifyId": 8394648355012,
@@ -1277,6 +1622,10 @@
     "brandSlug": "woloyoga",
     "name": "The Ritual Bundle",
     "slug": "woloyoga-the-ritual-bundle",
+    "titleOriginal": "The Ritual Bundle",
+    "titleAuto": "Wolo Yoga The Ritual Bundle",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "A complete setup with a Mastery Mat, Linea Yoga Towel, and two Cork Yoga Blocks. Everything you need to ground, support, and deepen your daily practice.",
     "material": "Cork",
     "materials": [

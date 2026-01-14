@@ -1,0 +1,788 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat Pro",
+    "slug": "stakt-the-stakt-mat-pro",
+    "titleOriginal": "The Stakt Mat Pro",
+    "titleAuto": "The Stakt Pro",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Everything you love about the Stakt Mat, plus a premium textured layer for enhanced performance.\nWhat makes the Stakt Mat Pro different?\n\n\n \nPremium Durability: The premium textured layer provides added strength, ensuring your mat stands up to even the most rigorous workouts.\n\n\nSuperior Grip: Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support.\n\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W Folded\nPatent #US-D1050762-S",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "weight": {
+      "value": 1.3607787283069193,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3 pounds"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip",
+      "Premium"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product details",
+        "items": [
+          "Patent #US-D1050762-S",
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "The Stakt Mat Pro has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts.",
+          "Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support.",
+          "Just 3 pounds",
+          "12mm when lying flat",
+          "Gain stable footing",
+          "Simply wipe clean",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "<strong>Flat:</strong> 12 mm thick, 69\" L x 24\" W",
+          "<strong>Folded:</strong> 12\" L x 3\" H x 24\" W",
+          "<strong>Weight: </strong>3.4 lbs",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat."
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Product Details",
+        "items": [
+          "Patent #US-D1050762-S",
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "The Stakt Mat Pro has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts.",
+          "Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Stakt Mat Pro offers unmatched stability and support.",
+          "Just 3 pounds",
+          "12mm when lying flat",
+          "Gain stable footing",
+          "Simply wipe clean",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "<strong>Flat:</strong> 12 mm thick, 69\" L x 24\" W",
+          "<strong>Folded:</strong> 12\" L x 3\" H x 24\" W",
+          "<strong>Weight: </strong>3.4 lbs",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat."
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 8037178015926,
+    "shopifyHandle": "the-stakt-mat-pro",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
+    "shopifyTags": [
+      "20% at Checkout",
+      "honeycomb-supplier-product",
+      "Logicbroker",
+      "staktmatpro"
+    ],
+    "shopifyCreatedAt": "2024-07-29T11:20:09-04:00",
+    "shopifyPublishedAt": "2024-08-01T07:45:57-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:19-05:00",
+    "variantsCount": 6,
+    "minPrice": 128,
+    "maxPrice": 128,
+    "variantPriceValues": [
+      128
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1361,
+    "maxGrams": 1361,
+    "variantGramsValues": [
+      1361
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "lengthCmMin": 175.26,
+    "lengthCmMax": 175.26,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      120
+    ],
+    "lengthCMx10Values": [
+      1753
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1753,
+        "widthCMx10": 610
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Midnight",
+          "Dune",
+          "Lilac",
+          "Forest",
+          "Fig"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_C_42abc1c3-938e-47ba-9237-80c8c7e6b7c1.png?v=1761671139",
+        "width": 1768,
+        "height": 1667,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/pro_mat_Instagram_Post_1_d9ae9478-9cb7-4750-b4de-4ce2508af7ef.png?v=1761671139",
+        "width": 927,
+        "height": 927,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_black_block_D.png?v=1761671139",
+        "width": 2048,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_007.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2051,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_568.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2048,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/33.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/35.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_724.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2051,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_058.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2049,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_067.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2042,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_711.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2047,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/032025_SS_Stak_784.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2049,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Mat_2-_fixed.png?v=1764687116",
+        "width": 811,
+        "height": 859,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/96.png?v=1764687116",
+        "width": 1080,
+        "height": 1080,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Mat_3.png?v=1764687116",
+        "width": 856,
+        "height": 857,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Plum-_mat.png?v=1764687116",
+        "width": 1146,
+        "height": 1080,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot_2025-11-26_at_9.36.11_AM.png?v=1764687116",
+        "width": 996,
+        "height": 997,
+        "position": 17
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251017SS_Stakt0724.jpg?v=1764687116",
+        "width": 2048,
+        "height": 2052,
+        "position": 18
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Midnight",
+      "Dune",
+      "Lilac",
+      "Forest",
+      "Fig"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 5,
+        "parsedCount": 2,
+        "unparsedCount": 3,
+        "coverage": 0.4,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12 mm",
+          "confidence": 0.77
+        },
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat",
+    "slug": "stakt-the-mat",
+    "titleOriginal": "The Stakt Mat",
+    "titleAuto": "The Stakt",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Stakt is the only 2 in 1 fitness mat that doubles as a block for added versatility in your workouts and extra support for whichever way you move. This reimagined yoga mat is twice as thick and super lightweight.\n12 mm thick, 69\" L x 24 W\" Flat, 12\" L x 3\" H x 24\" W FoldedPatent #US-D1050762-S",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12 mm"
+    },
+    "length": {
+      "value": 175.26,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "width": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "69\" L x 24 W"
+    },
+    "weight": {
+      "value": 1.3607787283069193,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3 pounds"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Lightweight"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product details",
+        "items": [
+          "Patent #US-D1050762-S",
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "Just 3 pounds, and folds away quickly for seamless storage and transport",
+          "At 12mm thick, it has twice the padding of traditional yoga mats. Your joints will thank us later.",
+          "Stays put thanks to a ribbed texture on the underside",
+          "Simply spray and wipe",
+          "<strong>Flat:</strong> 12 mm thick, 69\" L x 24 W\"",
+          "<strong>Folded:</strong> 12\" L x 3\" H x 24\" W",
+          "<strong>Weight:</strong> 3 lbs.",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat."
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Product Details",
+        "items": [
+          "Patent #US-D1050762-S",
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "Just 3 pounds, and folds away quickly for seamless storage and transport",
+          "At 12mm thick, it has twice the padding of traditional yoga mats. Your joints will thank us later.",
+          "Stays put thanks to a ribbed texture on the underside",
+          "Simply spray and wipe",
+          "<strong>Flat:</strong> 12 mm thick, 69\" L x 24 W\"",
+          "<strong>Folded:</strong> 12\" L x 3\" H x 24\" W",
+          "<strong>Weight:</strong> 3 lbs.",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat."
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 6599577534646,
+    "shopifyHandle": "the-mat",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "Mat",
+    "shopifyTags": [
+      "20% at Checkout",
+      "Cortina",
+      "everything_bundle",
+      "honeycomb-supplier-product"
+    ],
+    "shopifyCreatedAt": "2021-03-23T18:56:27-04:00",
+    "shopifyPublishedAt": "2021-08-20T18:56:15-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:19-05:00",
+    "variantsCount": 6,
+    "minPrice": 94,
+    "maxPrice": 94,
+    "variantPriceValues": [
+      94
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 1361,
+    "maxGrams": 1361,
+    "variantGramsValues": [
+      1361
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "lengthCmMin": 175.26,
+    "lengthCmMax": 175.26,
+    "widthCmMin": 60.96,
+    "widthCmMax": 60.96,
+    "thicknessMmx10Values": [
+      120
+    ],
+    "lengthCMx10Values": [
+      1753
+    ],
+    "widthCMx10Values": [
+      610
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1753,
+        "widthCMx10": 610
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Dune",
+          "Midnight",
+          "Iron",
+          "Tide",
+          "Rosewater",
+          "Seafoam"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/mat_pink_block_C_039.png?v=1765470544",
+        "width": 3783,
+        "height": 3788,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/2_dcb7a7f7-c65f-4a88-85be-1694b6a9722f.png?v=1765470544",
+        "width": 600,
+        "height": 600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/1_57be36cc-f703-4fde-889c-5f4976a96bdd.png?v=1765470544",
+        "width": 600,
+        "height": 600,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/mat_navy_block_C.png?v=1765470544",
+        "width": 2048,
+        "height": 2049,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/022124_SS_Stakt_0530.jpg?v=1765470544",
+        "width": 2048,
+        "height": 2038,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/022124_SS_Stakt_0236.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Grey.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/StaktGreenandPinkRoughEdits-1226539_1.jpg?v=1763479683",
+        "width": 2642,
+        "height": 2642,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/BlockB-Grey.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot_2024-05-22_at_8.50.58_PM.png?v=1763479683",
+        "width": 990,
+        "height": 934,
+        "position": 10
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2024-05-22at8.51.18PM.png?v=1763479683",
+        "width": 992,
+        "height": 904,
+        "position": 11
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/IMG_5849_87693416-b0f6-4a32-a0a9-7ee3cbf831d7.png?v=1763479683",
+        "width": 3487,
+        "height": 3487,
+        "position": 12
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/Screenshot2024-05-22at8.53.53PM.png?v=1763479683",
+        "width": 986,
+        "height": 1216,
+        "position": 13
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Rosewater.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 14
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/BlockC-Seafoam.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 15
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/StaktGreenandPinkRoughEdits-1226246.jpg?v=1763479683",
+        "width": 1984,
+        "height": 1984,
+        "position": 16
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/products/StaktGreenandPinkRoughEdits-1226440.jpg?v=1763479683",
+        "width": 2048,
+        "height": 2048,
+        "position": 17
+      }
+    ],
+    "availableColors": [
+      "Dune",
+      "Midnight",
+      "Iron",
+      "Tide",
+      "Rosewater",
+      "Seafoam"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 5,
+        "parsedCount": 2,
+        "unparsedCount": 3,
+        "coverage": 0.4,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12 mm",
+          "confidence": 0.77
+        },
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "stakt",
+    "name": "The Stakt Mat Pro XL",
+    "slug": "stakt-stakt-mat-pro-xl",
+    "titleOriginal": "The Stakt Mat Pro XL",
+    "titleAuto": "The Stakt Pro XL",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Meet the Stakt Mat Pro XL -  the same premium, ultra-supportive mat you love, now with even more room to move. At 80\" x 28\", it’s longer and wider than the original Stakt Mat Pro (69\" x 24\"), giving you extra comfort, stability, and space for every flow, sculpt, or stretch. Perfect for taller users or anyone who wants a little more wiggle room on the mat.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnfolded: 80\" W x 28\" LFolded: 28\" x 10\" x 4\"",
+    "thickness": {
+      "value": 12,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "12mm"
+    },
+    "length": {
+      "value": 203.2,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" L x 28\" W"
+    },
+    "width": {
+      "value": 71.12,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "80\" L x 28\" W"
+    },
+    "features": [
+      "Eco-Friendly",
+      "Extra Wide",
+      "Premium"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product details",
+        "items": [
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "At <strong>80″ x 28″</strong>, the Mat Pro XL gives you space to stretch, lunge, pivot, and flow without feeling confined — perfect for taller practitioners and anyone who wants a generous platform for sculpt, pilates, yoga, HIIT, and more.",
+          "Just like the Stakt Mat Pro, the Pro XL has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts.",
+          "Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Pro XL offers unmatched stability and support.",
+          "80\" L x 28\" W",
+          "12mm when lying flat",
+          "Gain stable footing",
+          "Simply wipe clean",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "<strong>Flat:</strong> 12 mm thick, 80\" L x 28\" W",
+          "<strong>Folded:</strong> 28\" x 10\" x 4\"",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat.",
+          "Taller bodies & bigger movements",
+          "Cross-training routines that need extra real estate",
+          "Yoga, Pilates, and HIIT lovers who want to spread out",
+          "Anyone who wants more space to move without sacrificing performance"
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Product Details",
+        "items": [
+          "With this purchase, you will make an impact of:",
+          "${customer ? `Earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase` : `Join ${programName} to earn ${totalPoints} ${dataProduct.storeSettings?.pointPluralName ?? 'Points'} on this purchase`}",
+          "At <strong>80″ x 28″</strong>, the Mat Pro XL gives you space to stretch, lunge, pivot, and flow without feeling confined — perfect for taller practitioners and anyone who wants a generous platform for sculpt, pilates, yoga, HIIT, and more.",
+          "Just like the Stakt Mat Pro, the Pro XL has an added premium textured layer that provides added strength, ensuring your mat stands up to even the most rigorous workouts.",
+          "Perfect for high-impact exercises, sneaker-clad routines, and those intense sweaty yoga sessions, the Pro XL offers unmatched stability and support.",
+          "80\" L x 28\" W",
+          "12mm when lying flat",
+          "Gain stable footing",
+          "Simply wipe clean",
+          "Most mats on the market were designed with yoga in mind. Our mats are designed with a variety of practices in mind- including sculpt, pilates, HIIT and more. It's 2x thicker than the average yoga mat, making it extra supportive and comfortable. And of course, stakt's unique foldable design means it doubles as a step stool, yoga block, meditation seat and more.",
+          "<strong>Flat:</strong> 12 mm thick, 80\" L x 28\" W",
+          "<strong>Folded:</strong> 28\" x 10\" x 4\"",
+          "<strong>Materials:</strong> EVA Foam Blend, a safer alternative to PVC Yoga Mats",
+          "After every use, wipe down your mat with the Stakt Mat Cleanser Spray",
+          "Furry friends can accidentally scratch and damage your mat so always try to keep your pets at a distance",
+          "We recommend storing your mat indoors and without the carry strap on it as this can cause indents to the mat.",
+          "Taller bodies & bigger movements",
+          "Cross-training routines that need extra real estate",
+          "Yoga, Pilates, and HIIT lovers who want to spread out",
+          "Anyone who wants more space to move without sacrificing performance"
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 8384218300598,
+    "shopifyHandle": "stakt-mat-pro-xl",
+    "shopifyVendor": "stakt",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2026-01-01T17:48:50-05:00",
+    "shopifyPublishedAt": "2026-01-08T20:36:56-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:19-05:00",
+    "variantsCount": 1,
+    "minPrice": 158,
+    "maxPrice": 158,
+    "variantPriceValues": [
+      158
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "thicknessMmMin": 12,
+    "thicknessMmMax": 12,
+    "lengthCmMin": 203.2,
+    "lengthCmMax": 203.2,
+    "widthCmMin": 71.12,
+    "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      120
+    ],
+    "lengthCMx10Values": [
+      2032
+    ],
+    "widthCMx10Values": [
+      711
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 2032,
+        "widthCMx10": 711
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0135.jpg?v=1767307572",
+        "width": 2048,
+        "height": 2125,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0606.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2051,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0151.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0240.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2053,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0103.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2047,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0522/4991/9670/files/20251209SS_Stakt0514.jpg?v=1767307571",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      }
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 4,
+        "parsedCount": 2,
+        "unparsedCount": 2,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12mm",
+          "confidence": 0.62
+        },
+        {
+          "value": 12,
+          "sourceOptionName": "description",
+          "rawValue": "12 mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  }
+]

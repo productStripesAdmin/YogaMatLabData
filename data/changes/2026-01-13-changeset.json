@@ -2,13 +2,27 @@
   "date": "2026-01-13",
   "comparedWith": "2026-01-11",
   "summary": {
-    "totalChanges": 475,
-    "newProducts": 0,
-    "removedProducts": 33,
+    "totalChanges": 477,
+    "newProducts": 2,
+    "removedProducts": 34,
     "priceChanges": 0,
-    "specChanges": 442
+    "specChanges": 441
   },
   "changes": [
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-mandala-aqua",
+      "name": "Infinity Yoga Mat - Mandala Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {}
+    },
+    {
+      "slug": "yogadesignlab-infinity-yoga-mat-5mm-tribal-aqua",
+      "name": "Infinity Yoga Mat - Tribal Aqua",
+      "brandSlug": "yogadesignlab",
+      "changeType": "added",
+      "newValue": {}
+    },
     {
       "slug": "42birds-cork-yoga-mat",
       "name": "Cork Lightweight Yoga Mat “The Robin”",
@@ -2904,8 +2918,8 @@
       "slug": "yogibare-ever-grip-paws-desert-rose",
       "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
       "brandSlug": "yogibare",
-      "changeType": "spec_changed",
-      "details": "thickness: [object Object]mm → [object Object]mm"
+      "changeType": "removed",
+      "oldValue": {}
     },
     {
       "slug": "yogibare-minimalist-black-ever-grip-yoga-mat",

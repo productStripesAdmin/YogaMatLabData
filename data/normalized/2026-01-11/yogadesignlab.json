@@ -4,12 +4,28 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Celestial",
     "slug": "yogadesignlab-combo-yoga-mat-celestial",
+    "titleOriginal": "Combo Yoga Mat - Celestial",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Reach for the stars with the Celestial Combo Yoga Mat, a perfect blend of beauty, functionality, and sustainability. Inspired by the vastness of the cosmos, this mat features a dreamy celestial design that adds a sense of wonder and tranquility to your practice.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nIdeal for hot yoga, vinyasa, or any practice that demands both style and performance, the Celestial Combo Yoga Mat elevates your experience with every movement.",
     "thickness": {
       "value": 1.5,
       "unit": "mm",
       "source": "options",
       "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "long x 24\""
+    },
+    "weight": {
+      "value": 3.2,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.2 kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -26,7 +42,22 @@
     "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
-      "Non-Slip"
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product Specs",
+        "items": [
+          "<strong>Dimensions:</strong> 70\" (178 cm) long x 24\" (61 cm) wide",
+          "<strong>Thickness Options: </strong>3.5mm or 5.5mm",
+          "<strong>Weight: </strong>7.1 lb (3.2 kg) or 4.9 lb (2.2 kg)",
+          "<strong>Materials:</strong> Natural rubber base with recycled PET microfiber top layer",
+          "<strong>Eco-Friendly Features:</strong> Water-based inks; free of silicone, toxic glue, and phthalates",
+          "Choose the thickness that fits your practice, whether you prioritize comfort or ease of movement."
+        ],
+        "confidence": 0.9
+      }
     ],
     "shopifyId": 7140703764639,
     "shopifyHandle": "combo-yoga-mat-celestial",
@@ -62,10 +93,15 @@
     "isAvailable": true,
     "thicknessMmMin": 1.5,
     "thicknessMmMax": 5.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
     "thicknessMmx10Values": [
       15,
       35,
       55
+    ],
+    "lengthCMx10Values": [
+      610
     ],
     "shopifyOptions": [
       {
@@ -152,12 +188,28 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Aegean Green",
     "slug": "yogadesignlab-combo-yoga-mat-aegean-green",
+    "titleOriginal": "Combo Yoga Mat - Aegean Green",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Immerse yourself in the tranquil elegance of the Aegean Green Combo Yoga Mat, where design meets functionality. This all-in-one mat combines the grip of a natural rubber base with the absorbency of a microfiber towel, providing everything you need for a seamless practice.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nThe serene Aegean green tones evoke a sense of calm and focus, creating a grounding experience every time you unroll your mat. Perfect for hot yoga, vinyasa, or your favorite flow.",
     "thickness": {
       "value": 3.5,
       "unit": "mm",
       "source": "options",
       "originalText": "3.5mm"
+    },
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "long x 24\""
+    },
+    "weight": {
+      "value": 3.2,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.2 kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -174,7 +226,22 @@
     "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
-      "Non-Slip"
+      "Non-Slip",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product Specs",
+        "items": [
+          "<strong>Dimensions:</strong> 70\" (178 cm) long x 24\" (61 cm) wide",
+          "<strong>Thickness Options: </strong>3.5mm or 5.5mm",
+          "<strong>Weight: </strong>7.1 lb (3.2 kg) or 4.9 lb (2.2 kg)",
+          "<strong>Materials:</strong> Natural rubber base with recycled PET microfiber top layer",
+          "<strong>Eco-Friendly Features:</strong> Water-based inks; free of silicone, toxic glue, and phthalates",
+          "Choose the thickness that fits your practice, whether you prioritize comfort or ease of movement."
+        ],
+        "confidence": 0.9
+      }
     ],
     "shopifyId": 6969327321247,
     "shopifyHandle": "combo-yoga-mat-aegean-green",
@@ -208,9 +275,14 @@
     "isAvailable": true,
     "thicknessMmMin": 3.5,
     "thicknessMmMax": 5.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
     "thicknessMmx10Values": [
       35,
       55
+    ],
+    "lengthCMx10Values": [
+      610
     ],
     "shopifyOptions": [
       {
@@ -302,12 +374,28 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Breathe",
     "slug": "yogadesignlab-combo-yoga-mat-breathe",
+    "titleOriginal": "Combo Yoga Mat - Breathe",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Find calm and clarity with the Breathe Combo Yoga Mat, designed to inspire mindfulness through every pose. Its serene design blends artful aesthetics with practical functionality, featuring a sweat-activated microfiber towel top fused with a durable natural tree rubber base for ultimate stability.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nIdeal for all styles of yoga, this mat offers a non-slip surface that enhances grip as your practice heats up. Lightweight and eco-conscious, it‚ is free from toxic materials, making it a sustainable and stylish companion for your wellness journey.\nLet this mat remind you to inhale, exhale, and flow with intention.",
     "thickness": {
       "value": 1.5,
       "unit": "mm",
       "source": "options",
       "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "long x 24\""
+    },
+    "weight": {
+      "value": 3.2,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.2 kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -325,7 +413,22 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
-      "Lightweight"
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product Specs",
+        "items": [
+          "<strong>Dimensions:</strong> 70\" (178 cm) long x 24\" (61 cm) wide",
+          "<strong>Thickness Options: </strong>3.5mm or 5.5mm",
+          "<strong>Weight: </strong>7.1 lb (3.2 kg) or 4.9 lb (2.2 kg)",
+          "<strong>Materials:</strong> Natural rubber base with recycled PET microfiber top layer",
+          "<strong>Eco-Friendly Features:</strong> Water-based inks; free of silicone, toxic glue, and phthalates",
+          "Choose the thickness that fits your practice, whether you prioritize comfort or ease of movement."
+        ],
+        "confidence": 0.9
+      }
     ],
     "shopifyId": 6969263358111,
     "shopifyHandle": "combo-yoga-mat-breathe",
@@ -360,10 +463,15 @@
     "isAvailable": true,
     "thicknessMmMin": 1.5,
     "thicknessMmMax": 5.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
     "thicknessMmx10Values": [
       15,
       35,
       55
+    ],
+    "lengthCMx10Values": [
+      610
     ],
     "shopifyOptions": [
       {
@@ -450,12 +558,28 @@
     "brandSlug": "yogadesignlab",
     "name": "Cork Yoga Mat - Mandala Black",
     "slug": "yogadesignlab-cork-yoga-mat-mandala-black",
+    "titleOriginal": "Cork Yoga Mat - Mandala Black",
+    "titleAuto": "Yoga Design Lab Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Discover the perfect harmony of style, performance, and sustainability with the Cork Yoga Mat - Mandala Black. Designed for mindful yogis, this mat features a beautifully intricate black mandala pattern, inspiring balance and focus with every practice. The top layer is made from sustainably harvested cork, a natural, renewable material celebrated for its durability and non-slip properties. The grip improves with moisture, making it ideal for everything from gentle yin yoga to sweaty power flows and hot yoga sessions.\nThe cork surface is naturally antimicrobial, helping to resist odors and bacteria, so your mat stays fresh with minimal cleaning. Beneath the cork, a durable natural rubber base offers stability, cushioning, and joint support for comfort in every pose. Free from PVC, toxic glues, and harmful chemicals, this mat is as safe for you as it is for the environment.\n\n\nSustainably harvested cork for a non-slip surface that gets grippier with moisture\n\nNaturally antimicrobial to resist odors and bacteria, keeping your mat fresh\n\nFree from PVC and toxic chemicals for a safe and eco-friendly practice\n\nLightweight and durable for easy transport and long-lasting performance\n\nBiodegradable materials to reduce your environmental footprint\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nWhether you're practicing at home, in the studio, or outdoors, the Mandala Black Cork Yoga Mat offers a premium experience with a focus on sustainability and performance. Embrace an eco-conscious yoga practice with a mat designed to last, support, and inspire.",
     "thickness": {
       "value": 1.5,
       "unit": "mm",
       "source": "options",
       "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "long x 24\""
+    },
+    "weight": {
+      "value": 2.2,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.2 kg"
     },
     "material": "Cork",
     "materials": [
@@ -475,8 +599,23 @@
       "Eco-Friendly",
       "Non-Slip",
       "Lightweight",
+      "Extra Wide",
       "Antimicrobial",
       "Premium"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product Specs",
+        "items": [
+          "<strong>Dimensions:</strong> 70\" (178 cm) long x 24\" (61 cm) wide",
+          "<strong>Thickness Options: </strong>3.5mm or 5.5mm",
+          "<strong>Weight: </strong>4.9 lbs (2.2 kg) or 7.1 lbs (3.2kg)",
+          "<strong>Materials:</strong> Sustainable, renewable cork top layer with a base layer made from natural, non-Amazonian harvested tree rubber.",
+          "<strong>Eco-Friendly Features:</strong> Water-based inks; free of silicone, toxic glue, and phthalates.",
+          "Choose the thickness that fits your practice, whether you prioritize comfort or ease of movement."
+        ],
+        "confidence": 0.9
+      }
     ],
     "shopifyId": 6994960449695,
     "shopifyHandle": "cork-yoga-mat-mandala-black",
@@ -511,10 +650,15 @@
     "isAvailable": true,
     "thicknessMmMin": 1.5,
     "thicknessMmMax": 5.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
     "thicknessMmx10Values": [
       15,
       35,
       55
+    ],
+    "lengthCMx10Values": [
+      610
     ],
     "shopifyOptions": [
       {
@@ -613,12 +757,28 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Tribeca Sand",
     "slug": "yogadesignlab-combo-yoga-mat-tribeca-sand",
+    "titleOriginal": "Combo Yoga Mat - Tribeca Sand",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with the minimalist elegance of the Tribeca Sand Combo Yoga Mat. Its neutral, sophisticated design complements any studio or home space while offering top-tier performance. The sweat-activated microfiber towel surface is seamlessly bonded to a natural tree rubber base, providing exceptional grip and support for every pose.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nPerfect for hot yoga, vinyasa, or meditation, this lightweight and eco-friendly mat is crafted without toxic materials, embodying a commitment to style and sustainability.\nFlow with confidence and poise on a mat that mirrors the beauty of balance and simplicity.",
     "thickness": {
       "value": 1.5,
       "unit": "mm",
       "source": "options",
       "originalText": "1.5mm"
+    },
+    "length": {
+      "value": 60.96,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "long x 24\""
+    },
+    "weight": {
+      "value": 3.2,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.2 kg"
     },
     "material": "Natural Rubber",
     "materials": [
@@ -636,7 +796,22 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
-      "Lightweight"
+      "Lightweight",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Product Specs",
+        "items": [
+          "<strong>Dimensions:</strong> 70\" (178 cm) long x 24\" (61 cm) wide",
+          "<strong>Thickness Options: </strong>3.5mm or 5.5mm",
+          "<strong>Weight: </strong>7.1 lb (3.2 kg) or 4.9 lb (2.2 kg)",
+          "<strong>Materials:</strong> Natural rubber base with recycled PET microfiber top layer",
+          "<strong>Eco-Friendly Features:</strong> Water-based inks; free of silicone, toxic glue, and phthalates",
+          "Choose the thickness that fits your practice, whether you prioritize comfort or ease of movement."
+        ],
+        "confidence": 0.9
+      }
     ],
     "shopifyId": 6963795329183,
     "shopifyHandle": "combo-yoga-mat-tribeca-sand",
@@ -671,10 +846,15 @@
     "isAvailable": true,
     "thicknessMmMin": 1.5,
     "thicknessMmMax": 5.5,
+    "lengthCmMin": 60.96,
+    "lengthCmMax": 60.96,
     "thicknessMmx10Values": [
       15,
       35,
       55
+    ],
+    "lengthCMx10Values": [
+      610
     ],
     "shopifyOptions": [
       {
@@ -761,6 +941,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Geo",
     "slug": "yogadesignlab-combo-yoga-mat-geo",
+    "titleOriginal": "Combo Yoga Mat - Geo",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Transform your practice with the Geo Combo Yoga Mat, where sleek design meets high performance. The modern geometric design adds a touch of artistry to your practice, while the moisture-activated surface ensures a superior grip as you sweat, keeping you stable and focused through every pose.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nWhether you‚  are flowing through vinyasa, hot yoga, or any other dynamic practice, the Geo Combo Yoga Mat offers the perfect balance of style, comfort, and performance.",
     "thickness": {
       "value": 1.5,
@@ -908,6 +1092,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Night",
     "slug": "yogadesignlab-infinity-yoga-mat-5mm-night",
+    "titleOriginal": "Infinity Yoga Mat - Night",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Where elegance meets endurance. The Infinity Yoga Mat - Night is a sleek, all-black mat designed for those who flow with focus. A minimalist triangle detail at the center serves as a grounding point, guiding alignment and intention. Crafted for performance, its ultra-grippy surface keeps you steady through every pose, while its cushioned support enhances comfort. Step onto the mat and move into the night‚ bold, strong, limitless.\n\n\nPremium, Eco-Friendly Material: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable and non-toxic material for a sustainable choice.\n\nSuperior Grip: The textured surface ensures stability and slip-resistance during all poses.\n\nComfortable & Cushioned: Provides ideal support for your joints and pressure points.\n\nEasy to Clean & Maintain: Wipe down with ease after each practice.\n\n\nCarrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\nElevate your practice with the Infinity Yoga Mat - Night - a fusion of style, stability, and strength. Step into the darkness, find your center, and flow without limits.",
     "thickness": {
       "value": 5,
@@ -1051,6 +1239,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Kids Combo Yoga Mat - Geo",
     "slug": "yogadesignlab-combo-yoga-mat-kids-geo",
+    "titleOriginal": "Kids Combo Yoga Mat - Geo",
+    "titleAuto": "Yoga Design Lab Kids Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Make movement fun with the Kids Combo Yoga Mat - Geo from Yoga Design Lab! Designed just for little yogis, this playful mat features a bold geometric pattern that sparks creativity and keeps kids engaged. \n\nSized for Kids: Perfectly scaled at 60 \" x 24 \" for smaller bodies, ensuring comfort and ease during yoga or playtime.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 4,
@@ -1207,6 +1399,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Mandala Teal",
     "slug": "yogadesignlab-infinity-yoga-mat-mandala-teal",
+    "titleOriginal": "Infinity Yoga Mat - Mandala Teal",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Infuse your practice with tranquility and energy with the Mandala Teal Infinity Yoga Mat. Featuring a captivating teal mandala design, this mat blends beauty with performance. Made from eco-friendly, non-toxic materials, it offers a slip-resistant surface for stability and the right amount of cushioning for comfort. Whether you're flowing through an energetic sequence or settling into a deep stretch, the Mandala Teal mat provides the support and grip you need to stay grounded and focused.\n\n\nEco-Friendly & Sustainable: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable and non-toxic material for a healthier planet.\n\nSuperior Grip: Textured surface provides excellent traction for stability in every pose.\n\nCushioned Comfort: Soft yet supportive cushioning for optimal joint protection and comfort.\n\nEasy to Clean: Simply wipe down for a hassle-free post-practice cleanup.\n\nUnique Mandala Design: The calming teal mandala pattern enhances your practice with a sense of balance and peace.\n\nCarrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\n\nThe Mandala Teal Infinity Yoga Mat combines elegance with functionality, making it the ideal mat for those seeking harmony in their practice and their environment.",
     "thickness": {
       "value": 3,
@@ -1358,6 +1554,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Mandala Charcoal",
     "slug": "yogadesignlab-infinity-yoga-mat-mandala-charcoal",
+    "titleOriginal": "Infinity Yoga Mat - Mandala Charcoal",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with the Mandala Black Infinity Yoga Mat, designed for those who seek both strength and serenity. Featuring an intricate black mandala design, this mat combines aesthetic elegance with superior performance. Crafted from eco-friendly, non-toxic materials, it offers a slip-resistant surface for stable poses and a cushioned feel for ultimate comfort. Perfect for any practice, from intense flows to grounding stretches, the Mandala Black mat supports you with both style and function.\n\n\nSustainable & Eco-Friendly: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable, non-toxic material.\n\nEnhanced Grip & Stability: Textured surface prevents slipping, even during the most challenging poses.\n\nComfortable Cushioning: Soft yet supportive for your joints and pressure points.\n\nEasy to Care For: Wipe clean with ease after each practice.\n\nTimeless Mandala Design: The sleek black and white mandala adds a touch of tranquility to your space.\n\n Carrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\nThe Mandala Black Infinity Yoga Mat is your perfect balance of durability, style, and eco-consciousness. Whether you're grounding yourself in meditation or flowing through poses, this mat is built to support your every movement.",
     "thickness": {
       "value": 3,
@@ -1509,6 +1709,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Mandala Turquoise",
     "slug": "yogadesignlab-combo-yoga-mat-mandala-turquoise",
+    "titleOriginal": "Combo Yoga Mat - Mandala Turquoise",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Center your practice with the serene and vibrant Mandala Turquoise Combo Yoga Mat. Featuring a stunning mandala design in calming turquoise hues, this mat combines artistic beauty with performance, bringing a sense of peace and balance to every flow.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nWhether you're flowing through vinyasa, grounding in restorative poses, or powering through hot yoga, the Mandala Turquoise Combo Yoga Mat provides the perfect balance of stability, style, and eco-friendly craftsmanship for every session.",
     "thickness": {
       "value": 1.5,
@@ -1668,6 +1872,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Mandala Black",
     "slug": "yogadesignlab-combo-yoga-mat-mandala-black",
+    "titleOriginal": "Combo Yoga Mat - Mandala Black",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Channel strength and focus with the Mandala Black Combo Yoga Mat, where timeless design meets high-performance functionality. Featuring a bold mandala pattern, this mat combines a sweat-activated microfiber towel surface with a natural tree rubber base for superior grip and support, even during the most dynamic flows.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nStep onto this mat and let its intricate mandala inspire balance, power, and transformation in every practice.",
     "thickness": {
       "value": 1.5,
@@ -1815,6 +2023,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Boho Glow",
     "slug": "yogadesignlab-combo-yoga-mat-boho-glow",
+    "titleOriginal": "Combo Yoga Mat - Boho Glow",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Light up your practice‚ literally‚ with the Combo Yoga Mat - Boho Glow. Featuring an intricate bohemian-inspired design that glows in the dark, this mat adds a magical touch to your flow. Whether you're practicing under studio lights or moonlit skies, the glowing pattern inspires creativity and energy in every move.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nTurn your practice into a glowing masterpiece. The Boho Glow Combo Mat is where function meets flair, guiding you to shine on and off the mat.",
     "thickness": {
       "value": 1.5,
@@ -1962,6 +2174,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Kids Combo Yoga Mat - Geo Blue",
     "slug": "yogadesignlab-combo-yoga-mat-kids-geo-blue",
+    "titleOriginal": "Kids Combo Yoga Mat - Geo Blue",
+    "titleAuto": "Yoga Design Lab Kids Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "THE KID‚ is MAT\n        \n            Perfect for virtual PE classes, this extra-durable mat offers a softgrip and cushion to support your child‚ is playful yoga practice. 4.5mm of natural tree rubber is bonded to an ultra-absorbent \n                microfiber towel layer.\n        \n    \n    \n PRO TIP\n        \n            For optimal grip, wet your hands or spritz a little water on your mat before practice. Sweat will also help you adhere to your mat.\n        \n    \n    \n EARTH CONSCIOUS\n        \n            Natural tree rubber base, recycled PET microfiber, and water-based inks.\n            Free of silicone, toxic glue, and phthalates.\n        \n    \n    \n CARE INSTRUCTIONS\n        \n            Depending on the type of practice, how much you sweat, and personal preference, we recommend washing your Combo Mat every 1-3 uses. If you choose to not wash your mat, hang to dry away from direct \n                sunlight. Roll with the patterned side on the outside for storage or travel. \n            \n            We recommend hand-washing to extend the life of your mat. If you choose to machine wash, please do so on a gentle cycle with a machine without a center agitator. Hang to dry away from direct sunlight.\n            \n        \n    \n    \n DETAILS\n        \n            4 mm of natural tree rubber base + recycled PET microfiber top layer60 in (152 cm) x 24 in (61 cm) x 4 mm, 3.5 lb (1.6 kg)\n            Carrying Strap Included",
     "thickness": {
       "value": 4,
@@ -2084,6 +2300,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Pearl",
     "slug": "yogadesignlab-combo-yoga-mat-pearl",
+    "titleOriginal": "Combo Yoga Mat - Pearl",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Unveil elegance in your practice with the Pearl Combo Yoga Mat, designed to bring both luxury and function to your flow. Featuring a soft, iridescent design that shimmers with every movement, this mat blends beauty with performance for an elevated yoga experience.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nThe Pearl Combo Yoga Mat is a luxurious, functional companion for any yoga practice, bringing balance, style, and eco-conscious design into every session.",
     "thickness": {
       "value": 3.5,
@@ -2241,6 +2461,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Iris",
     "slug": "yogadesignlab-combo-yoga-mat-iris",
+    "titleOriginal": "Combo Yoga Mat - Iris",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step into your flow with the Iris Combo Yoga Mat, a breathtaking blend of function and artistry. Featuring a mesmerizing iridescent floral design, this all-in-one mat transforms every practice into a radiant experience.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\n Unique Iridescent Finish: The captivating design shimmers with changing colors, adding an inspiring touch to your practice.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nThe Iris Combo Mat invites you to flow with confidence and brilliance, illuminating your practice with every pose. Perfect for yogis who crave both performance and visual inspiration.",
     "thickness": {
       "value": 1.5,
@@ -2382,6 +2606,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Mandala Rose",
     "slug": "yogadesignlab-infinity-yoga-mat-mandala-rose",
+    "titleOriginal": "Infinity Yoga Mat - Mandala Rose",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Embrace the beauty of your practice with the Mandala Rose Infinity Yoga Mat. Featuring a stunning mandala design in soft, earthy tones, this mat provides both aesthetic inspiration and superior performance. The unique Infinity surface combines durability with a soft texture, offering excellent grip and cushioning for every movement. Eco-friendly and free from harmful chemicals, it's as kind to the earth as it is to your practice. Perfect for those seeking balance, both in their yoga journey and in their environment.\n\n\nPremium, Eco-Friendly Material: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable and non-toxic material for a sustainable choice.\n\nSuperior Grip: The textured surface ensures stability and slip-resistance during all poses.\n\nComfortable & Cushioned: Provides ideal support for your joints and pressure points.\n\nEasy to Clean & Maintain: Wipe down with ease after each practice.\n\nUnique Mandala Design: Beautiful, hand-drawn artwork adds spiritual inspiration to your mat.\n\n Carrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\nWhether you're flowing through a vinyasa or holding a deep stretch, the Mandala Rose Infinity Yoga Mat helps you find your center while supporting your every move.",
     "thickness": {
       "value": 3,
@@ -2534,6 +2762,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Cork Yoga Mat - Natural Balance",
     "slug": "yogadesignlab-cork-yoga-mat-natural-balance",
+    "titleOriginal": "Cork Yoga Mat - Natural Balance",
+    "titleAuto": "Yoga Design Lab Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Find your flow with the Cork Yoga Mat - Natural Balance by Yoga Design Lab. Designed for stability and sustainability, this eco-friendly mat blends premium cork with a natural rubber base for superior grip, durability, and comfort. The minimalist geometric design inspires alignment and mindfulness, while the moisture-activated surface ensures non-slip support through every pose. Ideal for all practices, from grounding yin sessions to dynamic vinyasa flows. Elevate your practice with nature‚ is finest.\n\n\nSustainably harvested cork for a non-slip surface that gets grippier with moisture\n\nNaturally antimicrobial to resist odors and bacteria, keeping your mat fresh\n\nFree from PVC and toxic chemicals for a safe and eco-friendly practice\n\nLightweight and durable for easy transport and long-lasting performance\n\nBiodegradable materials to reduce your environmental footprint\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nMove with balance. Move with nature. üåø\n \n \n\n\n  const observer = new MutationObserver(function (mutations) {\n    mutations.forEach(function (mutation) {\n      mutation.addedNodes.forEach(function (node) {\n        if (node.nodeType === 1) { // ensure it's an element\n          // Check if it's the image or contains the image\n          const targetImg = node.matches?.('img[alt=\"icon\"]') \n            ? node \n            : node.querySelector?.('img[alt=\"icon\"]');\n\n          if (targetImg) {\n            targetImg.setAttribute(\"alt\", \"recycled water bottle counter\");\n          }\n        }\n      });\n    });\n  });\n\n  observer.observe(document.body, {\n    childList: true,\n    subtree: true\n  });",
     "thickness": {
       "value": 1.5,
@@ -2692,6 +2924,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Jungle Harmony",
     "slug": "yogadesignlab-combo-yoga-mat-jungle-harmony",
+    "titleOriginal": "Combo Yoga Mat - Jungle Harmony",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Artist Series\nStep into the heart of Africa with the Jungle Harmony Combo Mat, featuring stunning artwork by South African artist Mbongeni Mhlongo. This vibrant design captures the lush greenery and dynamic wildlife of Africa, immersing your practice in the raw beauty and vitality of nature.\nA tribute to Africa‚ is profound connection with the earth, life, and movement, the Jungle Harmony mat transforms every pose into a journey. The intricate artwork channels the spirit of Africa‚ is landscapes, inspiring freedom, energy, and harmony in your flow.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nLet the Jungle Harmony Combo Mat ground your practice in the essence of nature and connect you to the untamed energy of Africa.",
     "thickness": {
       "value": 3.5,
@@ -2802,6 +3038,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Rose",
     "slug": "yogadesignlab-combo-yoga-mat-rose",
+    "titleOriginal": "Combo Yoga Mat - Rose",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Add a touch of elegance to your practice with the Rose Combo Yoga Mat. Featuring a delicate floral-inspired design in soft, romantic hues, this mat brings beauty and grace to your flow while providing superior functionality.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nLet the Rose Combo Yoga Mat be your companion as you embrace the beauty of every pose and cultivate a practice that reflects your commitment to elegance, performance, and eco-conscious living.",
     "thickness": {
       "value": 1.5,
@@ -2949,6 +3189,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Cork Yoga Mat - Mandala Black",
     "slug": "yogadesignlab-cork-yoga-mat-1-5mm-mandala-black",
+    "titleOriginal": "Travel Cork Yoga Mat - Mandala Black",
+    "titleAuto": "Yoga Design Lab Travel Cork",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "THE CORK MAT\n\nUnlike most of our competition, our Cork Mat is made with a 100% natural rubber base layer topped with a renewable, sustainable cork top layer.\nWhile natural cork provides superior wet and dry grip, it is ideal in heated and hot yoga classes because as temperatures rise, cork begins to loosen and becomes softer & easier to grip. It's also moisture-activated - becoming grippier as it gets wet. Truly nature's best solution for towel-free traction. Cork is also closed-cell and naturally anti-microbial, sealing out moisture & resisting odor and bacteria from sweat.\nOur natural rubber base layer offers a unique springy ride that cushions and protects joints, while also remaining stable and supportive in any pose. Stays put on the floor better than foam base layers and provides denser cushioning.\nThe stunning, symmetrical pattern helps guide alignment, and is printed using a non-fade water-based ink.\nNote:  The foldable 1.5mm option is excellent for yogis on the go, and also provides an excellent non-slip, natural \"topper\" to other mats.\n\n\n\n PRO TIP\n\nFor optimal grip, lightly spritz your mat with water before practice.\n\n\n\n DURABLE\n\nSupports any practice from a high intensity workout to a gentle flow. Suitable for shoes.\n\n\n\n EARTH CONSCIOUS\n\n \n\nSustainable, renewable cork top layer made from the outer layer of bark from the cork oak tree. (Cork trees are the only tree in the world that regenerate stripped bark.)\nBase layer is made with natural, non-Amazonian harvested tree rubber.\nAll of our beautiful designs are printed with water-based inks.\nPhthalate, silicone and toxin-fee.\n\n\n\n\n CARE INSTRUCTIONS\n\nTo clean, wipe with a soft towel dampened with soap and water; lay flat or hang to air dry.\nRoll with the colored/designed side on the outside.\n\n\n\n DIMENSIONS\n\n70\"(178 cm) long x 24\"(61 cm) wide\n1.5mm thick = 3.5 lb (1.6 kg)\nIncludes carrying strap",
     "thickness": {
       "value": 1.5,
@@ -3085,6 +3329,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat XL - Celestial",
     "slug": "yogadesignlab-combo-yoga-mat-xl-celestial",
+    "titleOriginal": "Combo Yoga Mat XL - Celestial",
+    "titleAuto": "Yoga Design Lab Combo XL",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet the Celestial XL, Yoga Design Lab‚ is most spacious combo mat yet. Designed for yogis who crave extra room to move, stretch, and flow, this oversized mat transforms any room or studio into an elevated yoga sanctuary.\nMade with our signature eco-friendly materials, the Celestial XL combines a soft microfiber top with a natural rubber base for superior grip - especially when wet. Whether you're stretching out in wide poses or practicing dynamic flows, the generous surface area gives you freedom to move without limits.\nPerfect for home practice, teaching, or simply creating a sacred space that feels expansive and grounded.\n\n\nAll-in-One Performance: No more juggling mats and towels. The Celestial XL fuses a natural rubber base with an ultra-absorbent microfiber surface, giving you seamless grip and cushioning in one beautiful design.\n\nPlanet-Friendly Materials: Crafted from eco-conscious natural rubber and recycled PET microfiber, and printed with water-based inks. Free from silicone, toxic glues, and phthalates - good for your body and kind to the Earth.\n\nSweat-Activated Support: The more you sweat, the better the grip. Ideal for hot yoga, power flows, and everything in between, this mat keeps you grounded through every pose.\n\nVersatile for Every Practice: Whether you‚  are flowing through vinyasa, unwinding in yin, or holding strong in power yoga, the Celestial XL offers stability and comfort for all styles\n\n Practice Without Limits: More surface area means more freedom to move - perfect for expansive poses, taller yogis, or creating a personal studio feel anywhere.",
     "material": "Natural Rubber",
     "materials": [
@@ -3178,6 +3426,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Earth Green",
     "slug": "yogadesignlab-combo-yoga-mat-earth-green",
+    "titleOriginal": "Combo Yoga Mat - Earth Green",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Reconnect with nature during your practice with the Earth Green Combo Yoga Mat. Featuring a harmonious blend of earthy tones and functional design, this mat combines a soft, sweat-absorbent microfiber towel top with a supportive natural tree rubber base.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nIdeal for all yoga styles, its non-slip surface enhances grip as you move, ensuring stability and confidence from your first pose to your final savasana. Lightweight and travel-friendly, this eco-conscious mat is free from toxic materials, making it a mindful choice for your wellness journey.",
     "thickness": {
       "value": 3.5,
@@ -3312,6 +3564,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Zenith",
     "slug": "yogadesignlab-combo-yoga-mat-zenith",
+    "titleOriginal": "Combo Yoga Mat - Zenith",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with the Combo Yoga Mat - Zenith, a fusion of performance and artistic expression. Inspired by celestial balance and geometric harmony, its ethereal blend of pinks, blues, and mountain textures transports you to a place of serenity and strength.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nReach new heights in your practice with Zenith - where art meets intention and movement meets mindfulness.",
     "thickness": {
       "value": 1.5,
@@ -3471,6 +3727,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Zen Zebra",
     "slug": "yogadesignlab-combo-yoga-mat-zen-zebra",
+    "titleOriginal": "Combo Yoga Mat - Zen Zebra",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Artist Series\nExperience the soul of Africa in your practice with our new Zen Zebra Combo Yoga Mat, featuring breathtaking artwork by Mbongeni Mhlongo, a South African artist based in Johannesburg. \nThe vibrant wildlife and lush greenery evoke the untamed beauty and vitality of Africa, grounding your practice in the essence of nature. This mat is a tribute to Africa's deep connection with the earth, life, and movement. \nEvery flow becomes a journey, channeling the spirit of Africa‚ is wildlife and landscapes, inviting you to embrace freedom, energy, and harmony with every pose.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nLet the Zen Zebra Combo Yoga Mat transform your practice, inspiring you to connect with the wild beauty and untamed energy of Africa with every pose.",
     "thickness": {
       "value": 3.5,
@@ -3587,6 +3847,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Butterfly Glow",
     "slug": "yogadesignlab-combo-yoga-mat-butterfly-glow",
+    "titleOriginal": "Combo Yoga Mat - Butterfly Glow",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Let your practice shine‚ day or night‚ with the Butterfly Glow Combo Yoga Mat. This stunning mat features a delicate butterfly-inspired design that glows in the dark, creating a magical experience for evening flows, restorative sessions, or candlelit practices. The soft hues of blue, pink, and geometric details come alive, inspiring tranquility and transformation with every move.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\n\nStep onto the Butterfly Glow Combo Yoga Mat and let its radiant glow guide you through moments of strength, peace, and flow‚ any time, anywhere.",
     "thickness": {
       "value": 1.5,
@@ -3729,6 +3993,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Diamond Align Navy",
     "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-navy",
+    "titleOriginal": "Infinity Yoga Mat - Diamond Align Navy",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Bring focus and elegance to your practice with the Diamond Align Navy Yoga Mat. Featuring a bold navy color paired with a geometric diamond design, this mat combines style with performance. Made from eco-friendly, non-toxic materials, it offers a slip-resistant surface for stability and ample cushioning for joint protection. Whether you're flowing through an intense vinyasa or holding a deep stretch, the Diamond Align Navy mat supports you with its durability and comfort.\n\n\nEco-Friendly & Sustainable: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable and non-toxic material for a healthier environment.\n\nSuperior Grip: Textured surface ensures excellent traction, keeping you stable in every pose.\n\nComfortable Cushioning: Provides optimal joint support, making your practice more comfortable.\n\nEasy to Clean: Wipe down after practice for quick maintenance.\n\nStriking Diamond Design: The sophisticated navy color and geometric pattern add a touch of elegance to your yoga space.\n\nCarrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\n\nThe Diamond Align Navy Yoga Mat is the perfect blend of style, comfort, and functionality, supporting you throughout your practice with every move.",
     "thickness": {
       "value": 5,
@@ -3874,6 +4142,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Geo",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-geo",
+    "titleOriginal": "Travel Combo Yoga Mat - Geo",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Bring bold energy to your flow with the Geo Travel Mat from Yoga Design Lab. Featuring a striking geometric design, this all-in-one mat-towel combo is perfect for yogis on the go. The Geo mat is ideal for travel, hot yoga, or adding a vibrant edge to your everyday practice.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 1.5,
@@ -4026,6 +4298,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Kids Combo Yoga Mat - Jungle",
     "slug": "yogadesignlab-kids-combo-yoga-mat-jungle",
+    "titleOriginal": "Kids Combo Yoga Mat - Jungle",
+    "titleAuto": "Yoga Design Lab Kids Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Let your little adventurer explore the wild with the Kids Combo Yoga Mat - Glow-in-the-Dark Jungle. Featuring adorable animals like playful zebras, meditating frogs, and cheerful leopards, this vibrant mat glows in the dark to add an extra layer of fun and wonder.\n\nSized for Kids: Perfectly scaled at 60 \" x 24 \" for smaller bodies, ensuring comfort and ease during yoga or playtime.\n\nGlow-in-the-Dark Design: A fun and captivating feature that adds excitement to yoga, mindfulness, or bedtime stretches.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nWhether it‚ is yoga, stretching, or imaginative play, this mat turns every session into a glowing jungle escape!",
     "thickness": {
       "value": 4,
@@ -4187,6 +4463,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Crystal",
     "slug": "yogadesignlab-combo-yoga-mat-crystal",
+    "titleOriginal": "Combo Yoga Mat - Crystal",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Bring clarity and balance to your practice with the Crystal Combo Yoga Mat. Inspired by the ethereal beauty of crystals, this mat features a serene, gem-like design that invites calm and focus to your flow.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nWhether you're grounding in meditation or flowing through a challenging sequence, the Crystal Combo Yoga Mat empowers your practice with stability, style, and a connection to mindful living.",
     "thickness": {
       "value": 1.5,
@@ -4334,6 +4614,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Diamond Align Coral",
     "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-coral",
+    "titleOriginal": "Infinity Yoga Mat - Diamond Align Coral",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step into your practice with the Diamond Align Coral Yoga Mat, designed to inspire and support every movement. Featuring a vibrant coral color with a geometric diamond pattern, this mat offers both style and performance. Crafted from eco-friendly, non-toxic materials, it provides a slip-resistant surface for stability and the perfect cushioning for joint protection. Ideal for dynamic flows or restorative poses, the Diamond Align Coral mat is a bold yet balanced companion for your yoga journey.\n\n\nSustainable & Eco-Friendly: Crafted from Natural tree rubber base + PU (polyethylene), a recyclable and non-toxic material for a cleaner planet.\n\nEnhanced Grip: Textured surface prevents slipping, providing stability in every pose.\n\nComfortable Cushioning: Provides optimal support for your joints, making every practice more comfortable.\n\nEasy to Maintain: Wipe clean effortlessly after each session.\n\nBold Diamond Design: The striking coral color and geometric pattern bring energy and clarity to your practice.\n\nCarrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\n\nWith the Diamond Align Coral Yoga Mat, bring focus, comfort, and vibrant energy to your practice, while staying grounded in every pose.",
     "thickness": {
       "value": 5,
@@ -4478,6 +4762,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Mandala Turquoise",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-turquoise",
+    "titleOriginal": "Travel Combo Yoga Mat - Mandala Turquoise",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice anywhere with the Mandala Turquoise Travel Mat from Yoga Design Lab. Inspired by sacred symmetry and soothing coastal hues, this ultra-light mat is made for movement - whether you're flowing in a studio or stretching under the sun.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 1.5,
@@ -4612,6 +4900,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Mandala Black",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-black",
+    "titleOriginal": "Travel Combo Yoga Mat - Mandala Black",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Ground your practice in strength and stillness with the Mandala Black Travel Mat from Yoga Design Lab. Designed for the mindful mover, this sleek 1.5mm mat features a sacred mandala design in bold black tones, symbolizing balance, unity, and inner focus. Lightweight and foldable, it‚ is the perfect mat for travel, hot yoga, or minimalist practice.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 1.5,
@@ -4746,6 +5038,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Celestial",
     "slug": "yogadesignlab-travel-combo-yoga-mat-celestial",
+    "titleOriginal": "Travel Combo Yoga Mat - Celestial",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Channel the cosmos with the Yoga Design Lab Combo Yoga Mat - Celestial. This stunning mat combines a mesmerizing celestial-inspired design with high-performance functionality, elevating your practice to new heights.\nCrafted with a sweat-activated microfiber towel surface and a natural rubber base, this mat delivers exceptional grip, stability, and style. Whether in hot yoga, restorative flows, or daily practice, it offers a grounding experience that aligns with your inner universe.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nLet the Celestial Mat inspire your flow with a touch of the divine, grounding you in every pose while connecting you to the infinite.",
     "thickness": {
       "value": 1.5,
@@ -4875,6 +5171,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Breathe",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-breathe",
+    "titleOriginal": "Travel Combo Yoga Mat - Breathe",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Find calm wherever you roam with the Breathe Travel Combo Mat from Yoga Design Lab. This ultra-light mat features a serene, nature-inspired design that invites you to pause, center, and connect. With a built-in microfiber towel top and natural rubber base, it delivers steady grip and soft support‚ especially in sweaty practices. Eco-conscious and foldable, it‚ is crafted from recycled plastic bottles and non-toxic materials, making it as gentle on the planet as it is on your practice.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 1.5,
@@ -5027,6 +5327,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Tribeca Sand",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-tribeca-sand",
+    "titleOriginal": "Travel Combo Yoga Mat - Tribeca Sand",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Meet your new travel yoga essential: the Geo Combo Mat from Yoga Design Lab. Designed for yogis on the move, this ultra-lightweight mat combines a luxe, sweat-activated microfiber towel top with a natural rubber base for unbeatable grip and stability - even in the hottest flows. The bold, geometric print energizes your practice while the eco-friendly materials (including recycled plastic bottles and water-based inks) support the planet. \n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.",
     "thickness": {
       "value": 1.5,
@@ -5167,6 +5471,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Infinity Yoga Mat - Eternal",
     "slug": "yogadesignlab-infinity-yoga-mat-eternal",
+    "titleOriginal": "Infinity Yoga Mat - Eternal",
+    "titleAuto": "Yoga Design Lab Infinity Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Embrace limitless possibilities with the Infinity Yoga Mat - Eternal. This sleek black mat features a striking infinity symbol at its center, symbolizing the endless journey of growth and self-discovery through your practice. Designed for yogis who seek balance and depth, the mat‚ is minimalistic yet powerful design offers a modern, timeless aesthetic.\n\n\nSleek & Stylish: A bold infinity symbol stands out on a deep black backdrop, representing an eternal flow of energy and mindfulness.\n\nDurable & Supportive: Made with high-quality materials, providing stability and cushioning for all your poses, from warrior to downward dog.\n\nEco-Conscious Construction: Crafted from eco-friendly materials, offering a sustainable practice with every movement.\n\nNon-Slip Surface: The textured surface ensures a secure grip, giving you confidence during your practice.\n\nCarrying Strap Included: Easily transport your mat to and from class with the convenient, adjustable carrying strap. Perfect for on-the-go yogis.\n\n\nElevate your practice with the Eternal Infinity Yoga Mat, where the symbol of infinity meets the flow of your yoga journey.",
     "thickness": {
       "value": 5,
@@ -5289,6 +5597,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Butterfly Glow",
     "slug": "yogadesignlab-travel-combo-yoga-mat-butterfly-glow",
+    "titleOriginal": "Travel Combo Yoga Mat - Butterfly Glow",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Travel light, flow bright with the Butterfly Glow Combo Travel Yoga Mat. This ultra-portable, 1.5mm mat features a stunning butterfly-inspired design that glows in the dark, adding a touch of magic to your practice wherever you go. The soft blue and pink hues radiate tranquility, while the glowing patterns come to life in low-light settings, making every session feel special.\nDespite its slim profile, this travel-friendly mat doesn't compromise on comfort or performance. The microfiber top provides a super-absorbent, non-slip surface, while the natural rubber base offers excellent grip for a stable practice, even in intense sessions.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nTake the Butterfly Glow Combo Travel Yoga Mat with you wherever your practice leads‚ its radiant glow and ultra-light design make it the perfect companion for yoga on the movePair your Butterfly Glow Travel Yoga Mat with a yoga block for added support or a strap to deepen stretches and enhance your practice wherever you go.",
     "thickness": {
       "value": 1.5,
@@ -5412,6 +5724,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Iris",
     "slug": "yogadesignlab-travel-combo-yoga-mat-iris",
+    "titleOriginal": "Travel Combo Yoga Mat - Iris",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Brighten your journey with the Yoga Design Lab Combo Travel Yoga Mat - Iris. This ultra-lightweight 1.5mm mat features a shimmering iridescent design that adds a touch of magic to your practice, wherever your travels take you.\nDesigned for performance and portability, the Iris Travel Mat combines a sweat-activated microfiber towel top with a natural rubber base, delivering excellent grip and stability in a foldable, travel-friendly format.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nTake your flow on the road with the Iris Travel Mat, a blend of elegance and functionality made for yogis on the go.",
     "thickness": {
       "value": 1.5,
@@ -5534,6 +5850,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Mandala Sapphire",
     "slug": "yogadesignlab-combo-yoga-mat-mandala-sapphire",
+    "titleOriginal": "Combo Yoga Mat - Mandala Sapphire",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "THE COMBO MAT\n\nThe Combo Mat was designed to be the ultimate hot yoga and sweaty companion. An ultra-absorbent and colorful microfiber towel top layer, bonded to a natural tree rubber base.\nPerfect for a sweaty grip or for added balance stability; No more towel bunching, as this is an ALL-in-ONE product.\n\n\n\n PRO TIP\n\nFor optimal grip, wet your hands or spritz a little water on your mat before practice. Sweat will also help you adhere to your mat.\n\n\n\n EARTH CONSCIOUS\n\nNatural tree rubber base, recycled PET microfiber, and water-based inks. Free of silicone, toxic glue, and phthalates.\n\n\n\n CARE INSTRUCTIONS\n\nDepending on the type of practice, how much you sweat, and personal preference, we recommend washing your Combo Mat every 1-3 uses. If you choose to not wash your mat, hang to dry away from direct sunlight. Roll with the patterned side on the outside for storage or travel.\nWe recommend hand-washing to extend the life of your mat. If you choose to machine wash, please do so on a gentle cycle with a machine without a center agitator. Hang to dry away from direct sunlight.\n\n\n\n DETAILS\n\n3.5 mm of natural tree rubber + recycled PET microfiber top layer70 in (178 cm) x 24 in (61 cm) x 3.5 mm, 4.9 lb (2.2 kg)Includes carrying strap",
     "thickness": {
       "value": 3.5,
@@ -5662,6 +5982,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Crystal",
     "slug": "yogadesignlab-travel-combo-yoga-mat-crystal",
+    "titleOriginal": "Travel Combo Yoga Mat - Crystal",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Discover clarity and balance on the go with the Yoga Design Lab Combo Travel Yoga Mat - Crystal. This ultra-lightweight 1.5mm mat is designed for portability and performance, combining a sweat-activated microfiber towel surface with a natural rubber base for exceptional grip and stability.\nCompact and foldable, the Crystal Travel Mat easily fits into your bag, making it the perfect companion for studio sessions, outdoor flows, or your next adventure.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nBring a sense of purity and focus to your practice with the Crystal Travel Mat, designed to support your flow wherever life leads you.",
     "thickness": {
       "value": 1.5,
@@ -5784,6 +6108,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Zenith",
     "slug": "yogadesignlab-travel-combo-yoga-mat-zenith",
+    "titleOriginal": "Travel Combo Yoga Mat - Zenith",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Take your practice anywhere with the Travel Combo Yoga Mat - Zenith, a lightweight, foldable, and ultra-versatile mat designed for yogis on the go. Featuring a stunning blend of celestial hues and geometric symmetry, this mat brings inspiration and balance to every movement.\nWith a moisture-activated microfiber surface fused to natural rubber, it delivers exceptional grip as you sweat, making it ideal for hot yoga, vinyasa, and travel-friendly flows.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nStay grounded wherever you go with Zenith - designed for movement, made for adventure.\n\n\n\n  const observer = new MutationObserver(function (mutations) {\n    mutations.forEach(function (mutation) {\n      mutation.addedNodes.forEach(function (node) {\n        if (node.nodeType === 1) { // ensure it's an element\n          // Check if it's the image or contains the image\n          const targetImg = node.matches?.('img[alt=\"icon\"]') \n            ? node \n            : node.querySelector?.('img[alt=\"icon\"]');\n\n          if (targetImg) {\n            targetImg.setAttribute(\"alt\", \"recycled water bottle counter\");\n          }\n        }\n      });\n    });\n  });\n\n  observer.observe(document.body, {\n    childList: true,\n    subtree: true\n  });",
     "thickness": {
       "value": 1.5,
@@ -5930,6 +6258,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Rose",
     "slug": "yogadesignlab-travel-combo-yoga-mat-rose",
+    "titleOriginal": "Travel Combo Yoga Mat - Rose",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Add elegance to your hot yoga or yoga for beginners practice with the Yoga Design Lab Combo Travel Yoga Mat - Rose. This 1.5mm mat blends beauty and function, featuring a sweat-activated microfiber towel surface and a natural rubber base for superior grip.\nLightweight and foldable, it fits seamlessly into your routine, whether you're at the studio, exploring the outdoors, or traveling the world. \n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nGraceful and practical, the Rose Travel Mat brings a touch of sophistication to your yoga journey.",
     "thickness": {
       "value": 1.5,
@@ -6064,6 +6396,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Monaco",
     "slug": "yogadesignlab-combo-yoga-mat-1-5mm-monaco",
+    "titleOriginal": "Travel Combo Yoga Mat - Monaco",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Unroll elegance with the Travel Combo Yoga Mat - Monaco, where artistry meets functionality. Designed for yogis on the go, this ultra-light 1.5mm mat combines a soft microfiber towel top with a natural rubber base for superior grip - activated by sweat. The dreamy Moroccan-inspired pattern blends pinks, blues, and gold accents, adding a touch of luxury to your flow. Foldable and lightweight, it‚ is perfect for travel, hot yoga, or studio sessions.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nTravel light. Flow freely. Shine boldly. ‚ú®",
     "thickness": {
       "value": 1.5,
@@ -6180,6 +6516,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Monaco",
     "slug": "yogadesignlab-combo-yoga-mat-3-5mm-monaco",
+    "titleOriginal": "Combo Yoga Mat - Monaco",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step onto luxury with the Combo Yoga Mat - Monaco, a fusion of beauty and performance. Featuring a Moroccan-inspired watercolor design with pink, blue, and gold hues, this mat blends a soft microfiber towel top with a natural rubber base for ultimate grip and cushioning. Sweat-activated for stability, it‚ is perfect for hot yoga, vinyasa, and restorative flows. It‚ is your all-in-one mat for style and support.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nFlow in style. Move with ease. Elevate your practice. ‚ú®",
     "thickness": {
       "value": 1.5,
@@ -6316,6 +6656,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Combo Yoga Mat - Boho Glow",
     "slug": "yogadesignlab-travel-combo-yoga-mat-boho-glow",
+    "titleOriginal": "Travel Combo Yoga Mat - Boho Glow",
+    "titleAuto": "Yoga Design Lab Travel Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Light up your practice with the Boho Glow Combo Travel Yoga Mat. Featuring a bohemian-inspired design that glows in the dark, this mat adds a burst of energy to your practice, no matter where you are. The intricate geometric patterns and vibrant colors transform your mat into a radiant work of art that shines in low-light conditions, inspiring creativity and flow.\nWith its 1.5mm thickness, this travel mat is designed for yogis on the go. The microfiber surface provides superior grip as you sweat, while the natural rubber base ensures stability in every pose. Compact, lightweight, and easy to carry, it‚ is perfect for taking your practice anywhere.\n\n\nCompact and portable: Folds like a towel for effortless transport.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nThe Boho Glow Combo Travel Yoga Mat is your perfect partner for a practice that‚ is as free-spirited and radiant as you are. Travel light, flow bright, and embrace your journey.",
     "thickness": {
       "value": 1.5,
@@ -6445,6 +6789,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Kids Combo Yoga Mat - Celestial",
     "slug": "yogadesignlab-kids-combo-yoga-mat-celestial",
+    "titleOriginal": "Kids Combo Yoga Mat - Celestial",
+    "titleAuto": "Yoga Design Lab Kids Combo",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Take your little yogi on a journey through the stars with the Kids Combo Yoga Mat - Celestial. Designed to spark creativity and focus, this mat features a dreamy celestial-inspired design with constellations and a soft galaxy backdrop.\n\n\nSized for Kids: Perfectly scaled at 60 \" x 24 \" for smaller bodies, ensuring comfort and ease during yoga or playtime.\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nWhether they‚  are mastering a downward dog or simply dreaming among the stars, this mat is the perfect companion for kids to explore movement, mindfulness, and a little magic.",
     "thickness": {
       "value": 4,
@@ -6619,6 +6967,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Travel Cork Yoga Mat - Natural Balance",
     "slug": "yogadesignlab-travel-cork-yoga-mat-natural-balance",
+    "titleOriginal": "Travel Cork Yoga Mat - Natural Balance",
+    "titleAuto": "Yoga Design Lab Travel Cork",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Lightweight, foldable, and designed for yogis on the move, the Travel Cork Yoga Mat - Natural Balance offers the perfect blend of portability and performance. Crafted from sustainable cork and natural rubber, this ultra-thin mat delivers a moisture-activated grip for stability wherever your practice takes you. The minimalist geometric design encourages alignment, while its compact build fits easily into any bag. Ideal for travel, hot yoga, and layering over studio mats.\n\n\nSustainably harvested cork for a non-slip surface that gets grippier with moisture\n\nNaturally antimicrobial to resist odors and bacteria, keeping your mat fresh\n\nFree from PVC and toxic chemicals for a safe and eco-friendly practice\n\nLightweight and durable for easy transport and long-lasting performance\n\nBiodegradable materials to reduce your environmental footprint\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nPack light, move freely, and stay grounded anywhere. üåø\n\n\n\n  const observer = new MutationObserver(function (mutations) {\n    mutations.forEach(function (mutation) {\n      mutation.addedNodes.forEach(function (node) {\n        if (node.nodeType === 1) { // ensure it's an element\n          // Check if it's the image or contains the image\n          const targetImg = node.matches?.('img[alt=\"icon\"]') \n            ? node \n            : node.querySelector?.('img[alt=\"icon\"]');\n\n          if (targetImg) {\n            targetImg.setAttribute(\"alt\", \"recycled water bottle counter\");\n          }\n        }\n      });\n    });\n  });\n\n  observer.observe(document.body, {\n    childList: true,\n    subtree: true\n  });",
     "thickness": {
       "value": 1.5,
@@ -6756,6 +7108,10 @@
     "brandSlug": "yogadesignlab",
     "name": "Combo Yoga Mat - Rainbow",
     "slug": "yogadesignlab-combo-yoga-mat-rainbow",
+    "titleOriginal": "Combo Yoga Mat - Rainbow",
+    "titleAuto": "Yoga Design Lab Combo Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Celebrate love, diversity, and self-expression with the Rainbow Combo Yoga Mat. Created to honor Pride Month, this vibrant design showcases the full spectrum of colors, symbolizing inclusivity and unity. It‚ is more than a mat‚ it‚ is a statement of pride and empowerment for every yogi.\n\n\nAll-in-One Design: Say goodbye to slippery layers‚ this mat fuses a natural rubber base with a moisture-activated microfiber surface for unmatched grip and convenience.\n\nEco-Friendly Materials: Made with a natural rubber base and recycled PET microfiber, printed using water-based inks. Free of silicone, toxic glue, and phthalates, it‚ is a conscious choice for you and the planet.\n\nMoisture-Activated Grip: The surface becomes grippier as you sweat, supporting your transitions and deeper poses with ease.\n\nPerfect For All Styles: Ideal for hot yoga, vinyasa, power yoga, restorative sessions, and more, providing the support and grip needed for every flow.\n\nCarry Strap Included: Comes with a durable strap for easy transport to and from your practice.\n\nPractice with purpose and pride. The Rainbow Combo Yoga Mat is a celebration of individuality and community, inspiring you to move with love and authenticity every time you step on the mat.",
     "thickness": {
       "value": 3.5,

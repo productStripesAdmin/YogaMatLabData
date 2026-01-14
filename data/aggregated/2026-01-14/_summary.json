@@ -1,0 +1,117 @@
+{
+  "date": "2026-01-14",
+  "totalBrands": 20,
+  "totalProducts": 444,
+  "uniqueSlugs": 444,
+  "duplicateSlugs": 0,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "aloyoga",
+      "productCount": 4
+    },
+    {
+      "brandSlug": "ananday",
+      "productCount": 4
+    },
+    {
+      "brandSlug": "gaiam",
+      "productCount": 35
+    },
+    {
+      "brandSlug": "gayo",
+      "productCount": 4
+    },
+    {
+      "brandSlug": "heathyoga",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "houseofmats",
+      "productCount": 21
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "productCount": 14
+    },
+    {
+      "brandSlug": "liforme",
+      "productCount": 41
+    },
+    {
+      "brandSlug": "manduka",
+      "productCount": 16
+    },
+    {
+      "brandSlug": "okoliving",
+      "productCount": 18
+    },
+    {
+      "brandSlug": "scoria",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "productCount": 32
+    },
+    {
+      "brandSlug": "stakt",
+      "productCount": 3
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "productCount": 12
+    },
+    {
+      "brandSlug": "woloyoga",
+      "productCount": 8
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "productCount": 49
+    },
+    {
+      "brandSlug": "yogamatters",
+      "productCount": 53
+    },
+    {
+      "brandSlug": "yogibare",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "productCount": 60
+    }
+  ],
+  "priceStats": {
+    "min": 19.98,
+    "max": 1138,
+    "average": 137.84452702702703,
+    "median": 110
+  },
+  "materialBreakdown": {
+    "Cork": 143,
+    "PVC": 37,
+    "Natural Rubber": 158,
+    "Cotton": 23,
+    "TPE": 12,
+    "Jute": 3,
+    "NBR": 2
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 353,
+    "Non-Slip": 368,
+    "Lightweight": 169,
+    "Extra Wide": 219,
+    "Antimicrobial": 103,
+    "Extra Thick": 160,
+    "Extra Long": 82,
+    "Reversible": 19,
+    "Premium": 92,
+    "Alignment Marks": 135,
+    "Closed-Cell": 26
+  }
+}

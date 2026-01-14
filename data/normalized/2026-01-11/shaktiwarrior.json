@@ -4,7 +4,17 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Sage",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-sage",
+    "titleOriginal": "Recycled PU Yoga Mat - Sage",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Sage Arch Yoga Mat features a unique arch shape for better alignment and flow, made from recycled PU and natural tree rubber. With non-slip grip and dense cushioning, it offers sustainable support for regular and hot yoga.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
     "length": {
       "value": 182.88,
       "unit": "cm",
@@ -32,7 +42,53 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
+      "Extra Wide",
       "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Soul of the product",
+        "items": [
+          "Grippy PU surface for non-slip performance even with sweat",
+          "Wider than traditional mats for extra space",
+          "Arch shaped Mat",
+          "Tree rubber bottom provides secure floor grip",
+          "5mm high rubber density for joint cushioning",
+          "Free from harmful silicone, phthalates, PVC, and chemicals",
+          "Ideal for both regular and hot yoga sessions",
+          "Excellent durability for long-lasting use"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Material",
+        "items": [
+          "Recycled PU Leather, 100% natural tree rubber, water based inks"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Care guide",
+        "items": [
+          "We recommend you clean using a yoga mat cleaner. Spray clean the PU top and then wipe the mat. Let it Air Dry (Do not put in washer or dryer)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Mindful craftsmanship",
+        "items": [
+          "PU is an artificial material made with split leather (the fibrous part of the hide left over from making leather) that does not involve animals and it is ethically sourced. We use recycled PU.",
+          "The other side of the mat is made with sustainably harvested tree rubber from rubber trees, a renewable resource. These mats don't contain any PVC, formaldehyde, or harmful chemicals making your mat both kind to you and kind to the earth."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Measurement",
+        "items": [
+          ">Measurement <span class=\"text-button\""
+        ],
+        "confidence": 0.65
+      }
     ],
     "shopifyId": 7380228571202,
     "shopifyHandle": "recycled-pu-yoga-mat-sage",
@@ -63,10 +119,15 @@
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
     "lengthCmMin": 182.88,
     "lengthCmMax": 182.88,
     "widthCmMin": 71.12,
     "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      50
+    ],
     "lengthCMx10Values": [
       1829
     ],
@@ -147,7 +208,17 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Firestone",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-firestone",
+    "titleOriginal": "Recycled PU Yoga Mat - Firestone",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Firestone Arch Yoga Mat features a unique arch shape to support natural movement and enhance stability. Made from recycled PU and natural tree rubber, it offers non-slip grip, joint-friendly cushioning, and sustainable performance for all styles of yoga.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
     "length": {
       "value": 182.88,
       "unit": "cm",
@@ -174,7 +245,54 @@
     "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
-      "Non-Slip"
+      "Non-Slip",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Soul of the product",
+        "items": [
+          "Grippy PU surface for non-slip performance even with sweat",
+          "Wider than traditional mats for extra space",
+          "Arch shaped Mat",
+          "Tree rubber bottom provides secure floor grip",
+          "5mm high rubber density for joint cushioning",
+          "Free from harmful silicone, phthalates, PVC, and chemicals",
+          "Ideal for both regular and hot yoga sessions",
+          "Excellent durability for long-lasting use"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Material",
+        "items": [
+          "Recycled PU Leather, 100% natural tree rubber, water based inks"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Care guide",
+        "items": [
+          "We recommend you clean using a yoga mat cleaner. Spray clean the PU top and then wipe the mat. Let it Air Dry (Do not put in washer or dryer)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Mindful craftsmanship",
+        "items": [
+          "PU is an artificial material made with split leather (the fibrous part of the hide left over from making leather) that does not involve animals and it is ethically sourced. We use recycled PU.",
+          "The other side of the mat is made with sustainably harvested tree rubber from rubber trees, a renewable resource. These mats don't contain any PVC, formaldehyde, or harmful chemicals making your mat both kind to you and kind to the earth."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Measurement",
+        "items": [
+          ">Measurement <span class=\"text-button\""
+        ],
+        "confidence": 0.65
+      }
     ],
     "shopifyId": 7380222967874,
     "shopifyHandle": "recycled-pu-yoga-mat-firestone",
@@ -206,10 +324,15 @@
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
     "lengthCmMin": 182.88,
     "lengthCmMax": 182.88,
     "widthCmMin": 71.12,
     "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      50
+    ],
     "lengthCMx10Values": [
       1829
     ],
@@ -290,7 +413,17 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Moonbeam",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-moonbeam",
+    "titleOriginal": "Recycled PU Yoga Mat - Moonbeam",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Arch Shaped Moonbeam Mat is designed for comfort and alignment with its unique arch shape. Made from recycled PU and natural rubber, it offers a non-slip surface, joint support, and eco-friendly performance for mindful movement.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
     "length": {
       "value": 182.88,
       "unit": "cm",
@@ -318,7 +451,53 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
+      "Extra Wide",
       "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Soul of the product",
+        "items": [
+          "Grippy PU surface for non-slip performance even with sweat",
+          "Wider than traditional mats for extra space",
+          "Arch shaped Mat",
+          "Tree rubber bottom provides secure floor grip",
+          "5mm high rubber density for joint cushioning",
+          "Free from harmful silicone, phthalates, PVC, and chemicals",
+          "Ideal for both regular and hot yoga sessions",
+          "Excellent durability for long-lasting use"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Material",
+        "items": [
+          "Recycled PU Leather, 100% natural tree rubber, water based inks"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Care guide",
+        "items": [
+          "We recommend you clean using a yoga mat cleaner. Spray clean the PU top and then wipe the mat. Let it Air Dry (Do not put in washer or dryer)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Mindful craftsmanship",
+        "items": [
+          "PU is an artificial material made with split leather (the fibrous part of the hide left over from making leather) that does not involve animals and it is ethically sourced. We use recycled PU.",
+          "The other side of the mat is made with sustainably harvested tree rubber from rubber trees, a renewable resource. These mats don't contain any PVC, formaldehyde, or harmful chemicals making your mat both kind to you and kind to the earth."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Measurement",
+        "items": [
+          ">Measurement <span class=\"text-button\""
+        ],
+        "confidence": 0.65
+      }
     ],
     "shopifyId": 7380221689922,
     "shopifyHandle": "recycled-pu-yoga-mat-moonbeam",
@@ -352,10 +531,15 @@
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
     "lengthCmMin": 182.88,
     "lengthCmMax": 182.88,
     "widthCmMin": 71.12,
     "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      50
+    ],
     "lengthCMx10Values": [
       1829
     ],
@@ -430,7 +614,17 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Earthstone",
     "slug": "shaktiwarrior-recycled-pu-yoga-mat-earthstone",
+    "titleOriginal": "Recycled PU Yoga Mat - Earthstone",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Experience comfort and balance with our Arch Shaped Recycled PU Yoga Mat—crafted from eco-conscious recycled PU and natural tree rubber for non-slip grip, joint support, and mindful movement. Its curved design promotes alignment and flow in every practice.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
     "length": {
       "value": 182.88,
       "unit": "cm",
@@ -458,7 +652,53 @@
     "features": [
       "Eco-Friendly",
       "Non-Slip",
+      "Extra Wide",
       "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Soul of the product",
+        "items": [
+          "Grippy PU surface for non-slip performance even with sweat",
+          "Wider than traditional mats for extra space",
+          "Arch shaped Mat",
+          "Tree rubber bottom provides secure floor grip",
+          "5mm high rubber density for joint cushioning",
+          "Free from harmful silicone, phthalates, PVC, and chemicals",
+          "Ideal for both regular and hot yoga sessions",
+          "Excellent durability for long-lasting use"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Material",
+        "items": [
+          "Recycled PU Leather, 100% natural tree rubber, water based inks"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Care guide",
+        "items": [
+          "We recommend you clean using a yoga mat cleaner. Spray clean the PU top and then wipe the mat. Let it Air Dry (Do not put in washer or dryer)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Mindful craftsmanship",
+        "items": [
+          "PU is an artificial material made with split leather (the fibrous part of the hide left over from making leather) that does not involve animals and it is ethically sourced. We use recycled PU.",
+          "The other side of the mat is made with sustainably harvested tree rubber from rubber trees, a renewable resource. These mats don't contain any PVC, formaldehyde, or harmful chemicals making your mat both kind to you and kind to the earth."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Measurement",
+        "items": [
+          ">Measurement <span class=\"text-button\""
+        ],
+        "confidence": 0.65
+      }
     ],
     "shopifyId": 7379928350786,
     "shopifyHandle": "recycled-pu-yoga-mat-earthstone",
@@ -492,10 +732,15 @@
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
     "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
     "lengthCmMin": 182.88,
     "lengthCmMax": 182.88,
     "widthCmMin": 71.12,
     "widthCmMax": 71.12,
+    "thicknessMmx10Values": [
+      50
+    ],
     "lengthCMx10Values": [
       1829
     ],
@@ -576,6 +821,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Chakra",
     "slug": "shaktiwarrior-chakra-pro",
+    "titleOriginal": "Cork Yoga Mat - Chakra",
+    "titleAuto": "S Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Designed with a detailed hand-drawn chakra motif, this mat combines eco-friendly cork and rubber for durability, grip, and joint-friendly comfort.",
     "length": {
       "value": 182.88,
@@ -604,7 +853,56 @@
     "textureConfidence": 0.65,
     "features": [
       "Eco-Friendly",
-      "Non-Slip"
+      "Non-Slip",
+      "Alignment Marks",
+      "Antimicrobial",
+      "Premium"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Soul of the product",
+        "items": [
+          "100% eco-friendly, sustainable and vegan materials",
+          "Natural cork provides enhanced grip—even when wet providing non-slip performance",
+          "High density rubber ensures joint-friendly cushioning",
+          "Excellent durability, high quality, and free from harmful substances",
+          "Versatile for regular and hot yoga sessions",
+          "Anti-microbial cork surface for a hygienic environment"
+        ],
+        "confidence": 0.9500000000000001
+      },
+      {
+        "heading": "Material",
+        "items": [
+          "Biodegradable, Recyclable, 100% natural tree rubber, water based inks with premium cork",
+          "The best thing: They come from the earth, they go back into the earth! The mat is 100% biodegradable, so by buying it you aren't increasing your carbon footprint."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Care guide",
+        "items": [
+          "We recommend you clean using a yoga mat cleaner. Wipe it down with a yoga mat cleaner after your practice. Let it Air Dry (Do not put in Dryer)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Mindful craftsmanship",
+        "items": [
+          "Cork is the outer bark of the Oak Tree. The Oak tree is never cut down to harvest cork, rather the bark is stripped by hand! No part of the bark is wasted during cork production. Oak trees regenerate their bark by absorbing five times more Carbon Dioxide than an oak tree that hasn't been harvested.",
+          "The other side of the mat is made with sustainably harvested tree rubber from rubber trees, a renewable resource. These mats don't contain any PVC, EVA or synthetic rubber making your mat both kind to you and kind to the earth.",
+          "All designs are made using water based inks to avoid chemicals",
+          "The best thing: They come from the earth, they go back into the earth! The mat is 100% biodegradable, so by buying it you aren't increasing your carbon footprint."
+        ],
+        "confidence": 0.75
+      },
+      {
+        "heading": "Measurement",
+        "items": [
+          ">Measurement <span class=\"text-button\""
+        ],
+        "confidence": 0.65
+      }
     ],
     "shopifyId": 102427983891,
     "shopifyHandle": "chakra-pro",
@@ -755,6 +1053,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Sahasrara",
     "slug": "shaktiwarrior-sahasrara-pro",
+    "titleOriginal": "Cork Yoga Mat - Sahasrara",
+    "titleAuto": "S Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with our Black Sahasrara Cork Yoga Mat—featuring a hand-drawn Crown Chakra design on eco-friendly, non-slip cork for natural grip, durability, and grounding support. Crafted for mindful movement and sustainable living.",
     "length": {
       "value": 182.88,
@@ -910,6 +1212,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Akasa",
     "slug": "shaktiwarrior-tpe-yoga-mat-akasa",
+    "titleOriginal": "TPE Yoga Mat - Akasa",
+    "titleAuto": "S Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Crafted from recycled plastic with 6mm cushioning, this vibrant mat features a dreamcatcher design to uplift your practice with grip, comfort, and joy.",
     "thickness": {
       "value": 6,
@@ -1068,6 +1374,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Chakra",
     "slug": "shaktiwarrior-chakra-shanti-pu-yoga-mat",
+    "titleOriginal": "Recycled PU Yoga Mat - Chakra",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step into serenity with the Chakra Recycled PU Yoga Mat—featuring a radiant gold chakra design on an ivory recycled PU surface and a natural tree rubber base. Enjoy non-slip grip, joint support, and eco-conscious performance for regular and hot yoga.",
     "length": {
       "value": 182.88,
@@ -1224,6 +1534,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Anahata",
     "slug": "shaktiwarrior-anahata-shanti-pu-yoga-mat",
+    "titleOriginal": "Recycled PU Yoga Mat - Anahata",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Flow with calm and balance on the Heart Chakra Recycled PU Yoga Mat—featuring an Anahata-inspired design on eco-friendly recycled PU and natural tree rubber for grip, support, and mindful movement",
     "length": {
       "value": 182.88,
@@ -1385,6 +1699,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Sahasrara",
     "slug": "shaktiwarrior-sahasrara-hemp",
+    "titleOriginal": "Hemp Yoga Mat - Sahasrara",
+    "titleAuto": "Shakti Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The mat is made from sustainable hemp and features a detailed Sahasrara Crown design, representing unity and focus. Built for grip, support, and conscious practice",
     "length": {
       "value": 182.88,
@@ -1526,6 +1844,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled PU Yoga Mat - Sahasrara",
     "slug": "shaktiwarrior-sahasrara-pu-wide-yoga-mat",
+    "titleOriginal": "Recycled PU Yoga Mat - Sahasrara",
+    "titleAuto": "S Warrior Recycled PU",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Unveil the elegance of the Sahasrara Recycled PU Yoga Mat—featuring a lotus-inspired design on a sleek black recycled PU surface with natural tree rubber. With a wider base for stability, it’s ideal for both regular and hot yoga.",
     "length": {
       "value": 182.88,
@@ -1688,6 +2010,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Anahata",
     "slug": "shaktiwarrior-anahata-hemp",
+    "titleOriginal": "Hemp Yoga Mat - Anahata",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Embrace balance with the Anahata Hemp Yoga Mat—crafted from 100% sustainable hemp and natural rubber for sweat-activated grip and joint support. Ideal for hot yoga, its green design reflects the heart chakra, symbolizing love and harmony.",
     "length": {
       "value": 182.88,
@@ -1844,6 +2170,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Shivshakti",
     "slug": "shaktiwarrior-shivshakti-pro",
+    "titleOriginal": "Cork Yoga Mat - Shivshakti",
+    "titleAuto": "Shakti Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step onto the Shakti Warrior Cork Yoga Mat with its majestic Tiger Design—symbolizing strength, balance, and resilience. Crafted for power and performance with eco-friendly materials and enhanced grip for every practice.",
     "length": {
       "value": 182.88,
@@ -1991,6 +2321,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled Suede Yoga Mat - Sacred",
     "slug": "shaktiwarrior-sacred-rubber",
+    "titleOriginal": "Recycled Suede Yoga Mat - Sacred",
+    "titleAuto": "Shakti Warrior Recycled Suede",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The Sacred Geometry Yoga Mat features a meaningful design symbolizing universal energy, crafted from natural tree rubber and recycled microfiber suede for cushioned support and sweat-activated grip.",
     "length": {
       "value": 182.88,
@@ -2151,6 +2485,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled Suede Yoga Mat - Ajna",
     "slug": "shaktiwarrior-ajna-pro",
+    "titleOriginal": "Recycled Suede Yoga Mat - Ajna",
+    "titleAuto": "Shakti Warrior Recycled Suede",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with the Ajna Pro Yoga Mat—crafted from recycled microfiber suede and natural tree rubber for extra cushioning, sweat-activated grip, and an Ajna chakra-inspired design. Eco-friendly, durable, and free from harmful substances.",
     "length": {
       "value": 182.88,
@@ -2297,6 +2635,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled Suede Yoga Mat - Kundalini",
     "slug": "shaktiwarrior-kundalini",
+    "titleOriginal": "Recycled Suede Yoga Mat - Kundalini",
+    "titleAuto": "Shakti Warrior Recycled Suede",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Ignite your practice with the Kundalini Design Yoga Mat—featuring an artful design inspired by awakening energy. Made with recycled suede and natural tree rubber, it offers joint support, non-slip grip, and lasting durability.",
     "thickness": {
       "value": 1,
@@ -2490,6 +2832,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Samskara",
     "slug": "shaktiwarrior-samskara",
+    "titleOriginal": "TPE Yoga Mat - Samskara",
+    "titleAuto": "S Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Strong yet serene—this 6mm mat blends elephant energy, eco materials, and non-slip grip for grounded, graceful practice.",
     "thickness": {
       "value": 6,
@@ -2648,6 +2994,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled Suede Yoga Mat - Lotus",
     "slug": "shaktiwarrior-lotus",
+    "titleOriginal": "Recycled Suede Yoga Mat - Lotus",
+    "titleAuto": "Shakti Warrior Recycled Suede",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The elegant lotus design symbolizes purity and enlightenment, while the mat’s joint-friendly cushioning and non-slip grip offer both beauty and reliable support throughout your practice.",
     "length": {
       "value": 182.88,
@@ -2790,6 +3140,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Sahasrara",
     "slug": "shaktiwarrior-sahasrara",
+    "titleOriginal": "TPE Yoga Mat - Sahasrara",
+    "titleAuto": "Shakti Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Connect to pure consciousness with 6mm of support, eco-conscious materials, and a lotus design for unity and flow.",
     "thickness": {
       "value": 6,
@@ -2935,6 +3289,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Ajna",
     "slug": "shaktiwarrior-ajna",
+    "titleOriginal": "TPE Yoga Mat - Ajna",
+    "titleAuto": "S Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Inspired by ocean calm, this blue marble 6mm mat offers grip, stability, and sustainable serenity for intuitive movement.",
     "thickness": {
       "value": 6,
@@ -3092,6 +3450,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Samskara",
     "slug": "shaktiwarrior-samskara-hemp",
+    "titleOriginal": "Hemp Yoga Mat - Samskara",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "The mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a detailed elephant motif, it's crafted for high performance and eco-conscious practice",
     "length": {
       "value": 182.88,
@@ -3228,6 +3590,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Chakra",
     "slug": "shaktiwarrior-chakra-hemp",
+    "titleOriginal": "Hemp Yoga Mat - Chakra",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "This mat combines hemp and natural tree rubber with vibrant chakra symbolism. Use for sweat-activated grip, durability, and love for sustainability. Crafted for high performance and mindful movement, it’s an eco-conscious choice for your daily practice.",
     "length": {
       "value": 182.88,
@@ -3389,6 +3755,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Samskara",
     "slug": "shaktiwarrior-samskara-pro",
+    "titleOriginal": "Cork Yoga Mat - Samskara",
+    "titleAuto": "S Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Elevate your practice with the Shakti Warrior Cork Yoga Mat—featuring a hand-drawn elephant design, eco-friendly materials, and enhanced grip for sustainable, high-performance movement.",
     "length": {
       "value": 182.88,
@@ -3542,6 +3912,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Mandala",
     "slug": "shaktiwarrior-mandala-pro",
+    "titleOriginal": "Cork Yoga Mat - Mandala",
+    "titleAuto": "Shakti Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Made from cork and natural rubber, this mat delivers non-slip performance and joint support, finished with a detailed mandala design for a distinct look.",
     "length": {
       "value": 182.88,
@@ -3715,6 +4089,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Aum",
     "slug": "shaktiwarrior-aum",
+    "titleOriginal": "Cork Yoga Mat - Aum",
+    "titleAuto": "Spiritual Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Embrace focus and serenity with the Aum Cork Yoga Mat -crafted for mindful movement, enhanced grip, and a calming presence on the mat. Perfect for setting intentions and deepening your practice.",
     "length": {
       "value": 182.88,
@@ -3868,6 +4246,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Chakra",
     "slug": "shaktiwarrior-chakra-yoga-mat",
+    "titleOriginal": "TPE Yoga Mat - Chakra",
+    "titleAuto": "S Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Find balance on the Chakra TPE Yoga Mat—crafted from recycled plastic with 6mm cushioning and a vibrant chakra design for grip, alignment, and mindful flow.",
     "thickness": {
       "value": 6,
@@ -4036,6 +4418,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Recycled Suede Yoga Mat - Zakti",
     "slug": "shaktiwarrior-zakti",
+    "titleOriginal": "Recycled Suede Yoga Mat - Zakti",
+    "titleAuto": "S Warrior Recycled Suede",
+    "titleAutoConfidence": 0.7000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Channel strength and stability with the Elephant design Yoga Mat—crafted from natural tree rubber and recycled microfiber suede for superior cushioning, non-slip grip, and eco-conscious durability.",
     "length": {
       "value": 182.88,
@@ -4183,6 +4569,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "TPE Yoga Mat - Jnana",
     "slug": "shaktiwarrior-jnana-yoga-mat",
+    "titleOriginal": "TPE Yoga Mat - Jnana",
+    "titleAuto": "S Warrior TPE Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Rise into bliss with our Feather Design TPE Yoga Mat—crafted from recycled plastic with 6mm cushioning and angelic symbolism for grip, support, and soulful flow.",
     "thickness": {
       "value": 6,
@@ -4347,6 +4737,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Cork Yoga Mat - Akasa",
     "slug": "shaktiwarrior-akasa-pro",
+    "titleOriginal": "Cork Yoga Mat - Akasa",
+    "titleAuto": "S Warrior Cork Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "Step onto the Akasa Cork Yoga Mat - featuring a hand-drawn Dreamcatcher design on eco-friendly cork to inspire positive energy, grip, and mindful movement in every practice.",
     "length": {
       "value": 182.88,
@@ -4501,6 +4895,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Firestone",
     "slug": "shaktiwarrior-hemp-yoga-mat-firestone",
+    "titleOriginal": "Hemp Yoga Mat - Firestone",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a rich, deep burgundy hue that inspires focus and warmth, it’s crafted for high performance and an eco-conscious practice.",
     "length": {
       "value": 182.88,
@@ -4642,6 +5040,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - Moonbeam",
     "slug": "shaktiwarrior-hemp-yoga-mat-moonbeam",
+    "titleOriginal": "Hemp Yoga Mat - Moonbeam",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a moon hue that inspires neutrality, it’s crafted for high performance and an eco-conscious practice.",
     "length": {
       "value": 182.88,
@@ -4776,6 +5178,10 @@
     "brandSlug": "shaktiwarrior",
     "name": "Hemp Yoga Mat - River",
     "slug": "shaktiwarrior-hemp-yoga-mat-river",
+    "titleOriginal": "Hemp Yoga Mat - River",
+    "titleAuto": "S Warrior Hemp Yoga Mat",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
     "description": "This mat combines sustainable hemp with natural rubber for a sweat-activated grip, support, and durability. Featuring a deep blue hue that inspires neutrality, it’s crafted for high performance and an eco-conscious practice.",
     "length": {
       "value": 182.88,

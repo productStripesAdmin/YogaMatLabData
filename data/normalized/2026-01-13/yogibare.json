@@ -190,13 +190,13 @@
     "shopifyTags": [],
     "shopifyCreatedAt": "2025-10-06T19:18:06+01:00",
     "shopifyPublishedAt": "2025-11-07T07:40:59+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 2,
-    "minPrice": 81,
-    "maxPrice": 103,
+    "minPrice": 103,
+    "maxPrice": 133,
     "variantPriceValues": [
-      81,
-      103
+      103,
+      133
     ],
     "priceCurrency": "USD",
     "minGrams": 2400,
@@ -208,7 +208,7 @@
     "variantGramsZeroOrMissingCount": 0,
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
-    "isAvailable": true,
+    "isAvailable": false,
     "thicknessMmMin": 5,
     "thicknessMmMax": 8,
     "lengthCmMin": 66,
@@ -479,13 +479,13 @@
     ],
     "shopifyCreatedAt": "2025-10-31T22:04:57+00:00",
     "shopifyPublishedAt": "2025-11-07T07:40:34+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 2,
-    "minPrice": 81,
-    "maxPrice": 103,
+    "minPrice": 103,
+    "maxPrice": 133,
     "variantPriceValues": [
-      81,
-      103
+      103,
+      133
     ],
     "priceCurrency": "USD",
     "minGrams": 2800,
@@ -497,7 +497,7 @@
     "variantGramsZeroOrMissingCount": 0,
     "variantGramsCoverage": 1,
     "variantGramsAllZeroOrMissing": false,
-    "isAvailable": true,
+    "isAvailable": false,
     "thicknessMmMin": 5,
     "thicknessMmMax": 8,
     "lengthCmMin": 66,
@@ -766,19 +766,19 @@
     "shopifyTags": [],
     "shopifyCreatedAt": "2025-10-31T22:01:23+00:00",
     "shopifyPublishedAt": "2025-11-07T07:40:47+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 2,
-    "minPrice": 81,
-    "maxPrice": 103,
+    "minPrice": 103,
+    "maxPrice": 133,
     "variantPriceValues": [
-      81,
-      103
+      103,
+      133
     ],
     "priceCurrency": "USD",
     "variantGramsZeroOrMissingCount": 2,
     "variantGramsCoverage": 0,
     "variantGramsAllZeroOrMissing": true,
-    "isAvailable": true,
+    "isAvailable": false,
     "thicknessMmMin": 5,
     "thicknessMmMax": 8,
     "lengthCmMin": 66,
@@ -1046,12 +1046,12 @@
     ],
     "shopifyCreatedAt": "2024-02-27T10:56:20+00:00",
     "shopifyPublishedAt": "2025-08-14T19:07:34+01:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
+    "minPrice": 118,
+    "maxPrice": 118,
     "variantPriceValues": [
-      92
+      118
     ],
     "priceCurrency": "USD",
     "minGrams": 2300,
@@ -1312,12 +1312,12 @@
     ],
     "shopifyCreatedAt": "2024-02-27T10:55:58+00:00",
     "shopifyPublishedAt": "2025-08-14T19:07:55+01:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
+    "minPrice": 118,
+    "maxPrice": 118,
     "variantPriceValues": [
-      92
+      118
     ],
     "priceCurrency": "USD",
     "minGrams": 2300,
@@ -1588,12 +1588,12 @@
     ],
     "shopifyCreatedAt": "2021-01-21T10:43:24+00:00",
     "shopifyPublishedAt": "2024-12-05T13:48:17+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 102,
-    "maxPrice": 102,
+    "minPrice": 131,
+    "maxPrice": 131,
     "variantPriceValues": [
-      102
+      131
     ],
     "priceCurrency": "USD",
     "minGrams": 2500,
@@ -1873,12 +1873,12 @@
     ],
     "shopifyCreatedAt": "2024-02-27T10:56:10+00:00",
     "shopifyPublishedAt": "2025-12-10T13:20:31+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
+    "minPrice": 118,
+    "maxPrice": 118,
     "variantPriceValues": [
-      92
+      118
     ],
     "priceCurrency": "USD",
     "minGrams": 2300,
@@ -2151,12 +2151,12 @@
     ],
     "shopifyCreatedAt": "2024-08-14T11:19:12+01:00",
     "shopifyPublishedAt": "2025-12-15T12:27:57+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
+    "minPrice": 118,
+    "maxPrice": 118,
     "variantPriceValues": [
-      92
+      118
     ],
     "priceCurrency": "USD",
     "minGrams": 2300,
@@ -2223,133 +2223,6 @@
         "width": 1920,
         "height": 1920,
         "position": 6
-      }
-    ]
-  },
-  {
-    "brandId": "",
-    "brandSlug": "yogibare",
-    "name": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
-    "slug": "yogibare-ever-grip-paws-desert-rose",
-    "titleOriginal": "EverGrip Non Slip Matte Yoga Mat. FSC® Certified Natural Rubber - Desert Rose",
-    "titleAuto": "Yogi Bare EverGrip Non Slip Matte . FSC® Certified Natural Rubber",
-    "titleAutoConfidence": 0.7000000000000001,
-    "titleAutoVersion": "shadow-title-v1",
-    "description": "Grip that never quits.\nEasy clean. Built to last. Matte feel. Ultra Grip. \nWhy we made this\nIntroducing our latest innovation “Ever Grip”.\nAfter a decade of creating Yoga mats for you, your home & your favourite studios we created Ever Grip.\nOur unique innovation created to be more durable, long lasting and be non marking.\nThe feel is a “matte grip”.  Its everything you’d expect from a Yogi Bare; grippy, supportive, non slip but the feeling is more natural than sticky.\n \nWhy You’ll Love It\nFSC® Certified Natural Rubber: Responsibly sourced from sustainably managed forests.\nSuperior Grip: Our infamous ultra grip top layer now in an anti sweat stain surface supports your every move.\nNon toxic, Glue + PVC Free: Made with you and the environment in mind.\nMinimalist Design: Matte finish, delicious colour ways and sleek new silhouette that elevate any studio or home space.\nDurable Density: Made to last. No flaking or tearing. Built to support daily practice without compression or wear.\nTough and durable: Made to handle daily practice without wearing down\nWipe clean finish: Sweat, spills, and smudges wipe right off\nSupportive: 4mm cushioning for joint support, stability and comfort\nNon-toxic materials: Free from PVC, TPE and harsh chemicals glues or dyes.\nInnovated for life: Our favourite Paws mat. Reimagined. Anti sweat stain surface.",
-    "thickness": {
-      "value": 4,
-      "unit": "mm",
-      "source": "description",
-      "originalText": "4mm"
-    },
-    "material": "Natural Rubber",
-    "materials": [
-      "Natural Rubber",
-      "PVC",
-      "TPE"
-    ],
-    "materialSource": "title",
-    "materialConfidence": 0.92,
-    "texture": "Grippy",
-    "textures": [
-      "Grippy"
-    ],
-    "textureSource": "title",
-    "textureConfidence": 0.85,
-    "features": [
-      "Eco-Friendly",
-      "Non-Slip"
-    ],
-    "shopifyId": 7911519322250,
-    "shopifyHandle": "ever-grip-paws-desert-rose",
-    "shopifyVendor": "Yogi Bare",
-    "shopifyProductType": "Yoga Mat",
-    "shopifyTags": [
-      "_Bestseller",
-      "LIVE",
-      "wholesale"
-    ],
-    "shopifyCreatedAt": "2024-02-27T10:55:45+00:00",
-    "shopifyPublishedAt": "2024-12-05T13:39:25+00:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
-    "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
-    "variantPriceValues": [
-      92
-    ],
-    "priceCurrency": "USD",
-    "minGrams": 2300,
-    "maxGrams": 2300,
-    "variantGramsValues": [
-      2300
-    ],
-    "variantGramsZeroOrMissingCount": 0,
-    "variantGramsCoverage": 1,
-    "variantGramsAllZeroOrMissing": false,
-    "isAvailable": false,
-    "thicknessMmMin": 4,
-    "thicknessMmMax": 4,
-    "thicknessMmx10Values": [
-      40
-    ],
-    "shopifyOptions": [
-      {
-        "name": "Title",
-        "position": 1,
-        "values": [
-          "Default Title"
-        ]
-      }
-    ],
-    "images": [
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_1.jpg?v=1767817291",
-        "width": 1920,
-        "height": 1920,
-        "position": 1
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0764copy.jpg?v=1767817291",
-        "width": 1024,
-        "height": 768,
-        "position": 2
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_2.jpg?v=1767817291",
-        "width": 1920,
-        "height": 1920,
-        "position": 3
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0964copy.jpg?v=1767817291",
-        "width": 1024,
-        "height": 768,
-        "position": 4
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_3.jpg?v=1767817291",
-        "width": 1920,
-        "height": 1920,
-        "position": 5
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0869copy.jpg?v=1767817291",
-        "width": 768,
-        "height": 1024,
-        "position": 6
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Capture_YogiBare_LoganHouse_Campaign0804copy.jpg?v=1767817291",
-        "width": 768,
-        "height": 1024,
-        "position": 7
-      },
-      {
-        "src": "https://cdn.shopify.com/s/files/1/2128/0363/files/Desert_Rose_Website_4.jpg?v=1767817291",
-        "width": 1920,
-        "height": 1920,
-        "position": 8
       }
     ]
   },
@@ -2550,12 +2423,12 @@
     ],
     "shopifyCreatedAt": "2024-09-10T11:29:38+01:00",
     "shopifyPublishedAt": "2025-10-06T18:50:22+01:00",
-    "shopifyUpdatedAt": "2026-01-13T14:20:50+00:00",
+    "shopifyUpdatedAt": "2026-01-13T15:33:24+00:00",
     "variantsCount": 1,
-    "minPrice": 92,
-    "maxPrice": 92,
+    "minPrice": 118,
+    "maxPrice": 118,
     "variantPriceValues": [
-      92
+      118
     ],
     "priceCurrency": "USD",
     "minGrams": 2300,

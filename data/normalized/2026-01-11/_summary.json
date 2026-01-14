@@ -2,21 +2,71 @@
   "date": "2026-01-11",
   "totalBrands": 24,
   "totalProducts": 507,
-  "validProducts": 507,
+  "validProducts": 474,
   "invalidProducts": 0,
+  "discardedProducts": 33,
   "brands": [
     {
       "brandSlug": "42birds",
       "totalProducts": 10,
       "validProducts": 10,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
       "brandSlug": "aloyoga",
       "totalProducts": 30,
-      "validProducts": 30,
+      "validProducts": 4,
       "invalidProducts": 0,
+      "discardedProducts": 26,
+      "discardedProductTypes": [
+        {
+          "productType": "Women:Bottoms:Leggings",
+          "count": 10
+        },
+        {
+          "productType": "Women:Bras",
+          "count": 6
+        },
+        {
+          "productType": "Accessories:Equipment:Straps",
+          "count": 2
+        },
+        {
+          "productType": "Accessories:Equipment:Blocks",
+          "count": 1
+        },
+        {
+          "productType": "Accessories:Equipment:Bottle",
+          "count": 1
+        },
+        {
+          "productType": "Accessories:Equipment:Towels",
+          "count": 1
+        },
+        {
+          "productType": "Women:Accessories:Socks",
+          "count": 1
+        },
+        {
+          "productType": "Women:Bottoms:Shorts",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Long Sleeves",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Short Sleeves",
+          "count": 1
+        },
+        {
+          "productType": "Women:Tops:Tanks",
+          "count": 1
+        }
+      ],
       "errors": []
     },
     {
@@ -24,6 +74,8 @@
       "totalProducts": 4,
       "validProducts": 4,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -31,6 +83,8 @@
       "totalProducts": 20,
       "validProducts": 20,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -38,6 +92,8 @@
       "totalProducts": 35,
       "validProducts": 35,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -45,6 +101,8 @@
       "totalProducts": 4,
       "validProducts": 4,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -52,6 +110,8 @@
       "totalProducts": 6,
       "validProducts": 6,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -59,6 +119,8 @@
       "totalProducts": 21,
       "validProducts": 21,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -66,13 +128,26 @@
       "totalProducts": 0,
       "validProducts": 0,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
       "brandSlug": "jadeyoga",
       "totalProducts": 16,
-      "validProducts": 16,
+      "validProducts": 14,
       "invalidProducts": 0,
+      "discardedProducts": 2,
+      "discardedProductTypes": [
+        {
+          "productType": "Cotton Yoga Rug",
+          "count": 1
+        },
+        {
+          "productType": "MUSHROOM",
+          "count": 1
+        }
+      ],
       "errors": []
     },
     {
@@ -80,6 +155,8 @@
       "totalProducts": 7,
       "validProducts": 7,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -87,6 +164,8 @@
       "totalProducts": 41,
       "validProducts": 41,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -94,6 +173,8 @@
       "totalProducts": 16,
       "validProducts": 16,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -101,6 +182,8 @@
       "totalProducts": 18,
       "validProducts": 18,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -108,6 +191,8 @@
       "totalProducts": 44,
       "validProducts": 44,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -115,6 +200,8 @@
       "totalProducts": 3,
       "validProducts": 3,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -122,13 +209,22 @@
       "totalProducts": 32,
       "validProducts": 32,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
       "brandSlug": "stakt",
       "totalProducts": 8,
-      "validProducts": 8,
+      "validProducts": 3,
       "invalidProducts": 0,
+      "discardedProducts": 5,
+      "discardedProductTypes": [
+        {
+          "productType": "bundle",
+          "count": 5
+        }
+      ],
       "errors": []
     },
     {
@@ -136,6 +232,8 @@
       "totalProducts": 12,
       "validProducts": 12,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -143,6 +241,8 @@
       "totalProducts": 8,
       "validProducts": 8,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -150,6 +250,8 @@
       "totalProducts": 49,
       "validProducts": 49,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -157,6 +259,8 @@
       "totalProducts": 53,
       "validProducts": 53,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -164,6 +268,8 @@
       "totalProducts": 10,
       "validProducts": 10,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     },
     {
@@ -171,6 +277,8 @@
       "totalProducts": 60,
       "validProducts": 60,
       "invalidProducts": 0,
+      "discardedProducts": 0,
+      "discardedProductTypes": [],
       "errors": []
     }
   ]

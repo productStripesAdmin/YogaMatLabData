@@ -1,0 +1,1884 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "Peaceful Mountain Cork Yoga Mat",
+    "slug": "thesatoriconcept-the-peaceful-mountain-cork-yoga-mat",
+    "titleOriginal": "Peaceful Mountain Cork Yoga Mat",
+    "titleAuto": "Peaceful Mountain Cork",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "This beautifully designed mat features a serene green color, reminiscent of lush forests and rolling hills. The intricate layers of mountain patterns are thoughtfully crafted to inspire a sense of calm and grounding. Whether you’re practicing at home, in the studio, or outdoors, the Peaceful Mountain Yoga Mat serves as a constant reminder of the tranquility and strength found in nature. Allow its calming presence to enhance your yoga experience, making each session a peaceful retreat from the hustle and bustle of daily life.\nOur mountain design was inspired by the refreshed feeling of being surrounded by nature.\nThis mat has been upgraded to an extended size of 72 x 26 inches.\nFree gift : Carry strap is included!",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "width": {
+      "value": 182,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "weight": {
+      "value": 2.5,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 72inch (66cm x 182cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\">4mm</a> | 2.5kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 6629890588857,
+    "shopifyHandle": "the-peaceful-mountain-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "Best Seller",
+      "mat"
+    ],
+    "shopifyCreatedAt": "2021-04-05T14:20:06-04:00",
+    "shopifyPublishedAt": "2021-07-21T16:55:15-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:09-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 182,
+    "widthCmMax": 182,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      1820
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 1820
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136129.png?v=1753411944",
+        "width": 800,
+        "height": 782,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/1.png?v=1753443400",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136106.png?v=1753443400",
+        "width": 800,
+        "height": 800,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136109.png?v=1753443400",
+        "width": 700,
+        "height": 700,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136114.jpg?v=1753443400",
+        "width": 1000,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136112.jpg?v=1753443400",
+        "width": 1000,
+        "height": 1500,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136117.jpg?v=1753443400",
+        "width": 1440,
+        "height": 826,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136119.png?v=1753443400",
+        "width": 800,
+        "height": 533,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136123.png?v=1753443400",
+        "width": 600,
+        "height": 400,
+        "position": 10
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "description",
+          "rawValue": "4mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "Garden of Flower Cork Yoga Mat",
+    "slug": "thesatoriconcept-garden-of-flower-cork-yoga-mat",
+    "titleOriginal": "Garden of Flower Cork Yoga Mat",
+    "titleAuto": "Garden of Flower Cork",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Step onto the Garden of Flower Yoga Mat, where the delicate beauty of Magnolia flowers blooms in abundance. Crafted with earth-tone colors that mirror the soothing hues of the soil and the elevated pinks of Magnolia blossoms, this mat evokes a sense of calm while symbolizing the purity and resilience of Magnolias. As you unroll this mat, you are transported on to a magical garden, leaving behind the chaos of the outside world and reconnecting with your inner self.\nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "width": {
+      "value": 182,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "weight": {
+      "value": 2.5,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Eco-Friendly",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 72inch (66cm x 182cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\">4mm</a> | 2.5kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 6782422679737,
+    "shopifyHandle": "garden-of-flower-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "Best Seller",
+      "mat"
+    ],
+    "shopifyCreatedAt": "2021-06-15T21:32:35-04:00",
+    "shopifyPublishedAt": "2025-12-19T09:24:56-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:09-05:00",
+    "variantsCount": 1,
+    "minPrice": 75,
+    "maxPrice": 75,
+    "variantPriceValues": [
+      75
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 182,
+    "widthCmMax": 182,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      1820
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 1820
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136063.png?v=1753445544",
+        "width": 700,
+        "height": 700,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136048.jpg?v=1762455077",
+        "width": 1500,
+        "height": 1159,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136046.jpg?v=1762455077",
+        "width": 1200,
+        "height": 875,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136051.jpg?v=1753445544",
+        "width": 1000,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136053.png?v=1753445544",
+        "width": 900,
+        "height": 600,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136057.jpg?v=1753445544",
+        "width": 700,
+        "height": 748,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Garden_of_Flower_Cork_Yoga_Mat_-_Satori_Concept_-5136059.png?v=1753445544",
+        "width": 800,
+        "height": 533,
+        "position": 8
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "description",
+          "rawValue": "4mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "Original Cork Yoga Mat",
+    "slug": "thesatoriconcept-satoriconcept-original-cork-yoga-mat",
+    "titleOriginal": "Original Cork Yoga Mat",
+    "titleAuto": "Original Cork",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Our classic mat puts the beauty of cork center stage. The eco-friendly quality of the mat not only provides a gentle and accommodating feeling to the body but also helps you enjoy the maximum effect of yoga exercise.\nOne beautiful thing about Cork Yoga Mat is its ability to withstand sweat, unlike some yoga mats which begin to peel and scratch under constant sweat. \nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "width": {
+      "value": 182,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 182cm"
+    },
+    "weight": {
+      "value": 2.5,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Eco-Friendly",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 72inch (66cm x 182cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\">4mm</a> | 2.5kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 6235203731641,
+    "shopifyHandle": "satoriconcept-original-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2021-01-13T10:14:17-05:00",
+    "shopifyPublishedAt": "2021-01-13T10:14:19-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:09-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 182,
+    "widthCmMax": 182,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      1820
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 1820
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Original_Cork_Yoga_Mat_-_Satori_Concept_-5136095.png?v=1730725954",
+        "width": 800,
+        "height": 800,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Original_Cork_Yoga_Mat_-_Satori_Concept_-5136097.png?v=1730725959",
+        "width": 700,
+        "height": 700,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Original_Cork_Yoga_Mat_-_Satori_Concept_-5136100.png?v=1730727598",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Original_Cork_Yoga_Mat_-_Satori_Concept_-5136102.png?v=1763748432",
+        "width": 1600,
+        "height": 1600,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "description",
+          "rawValue": "4mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "7 Chakras Cork Yoga Mat",
+    "slug": "thesatoriconcept-7-chakras-cork-yoga-mat",
+    "titleOriginal": "7 Chakras Cork Yoga Mat",
+    "titleAuto": "7 Chakras Cork",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Awaken your energy centers with our 7 Chakras Cork Yoga Mat, featuring vibrant colors that represent each chakra. This design promotes balance and harmony in your practice, aligning your physical and spiritual self. The mat’s vivid hues not only enhance your focus but also inspire a deeper connection to your inner energy. Crafted for yogis of all levels, this mat provides a non-slip surface and optimal cushioning. Let the 7 Chakras design inspire your journey towards equilibrium and well-being, infusing your practice with vibrant energy and holistic balance.\nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 4,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "4mm"
+    },
+    "length": {
+      "value": 61,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "61cm x 182cm"
+    },
+    "width": {
+      "value": 182,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "61cm x 182cm"
+    },
+    "weight": {
+      "value": 2.5,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "2.5kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>24inch x 72inch (61cm x 182cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/4mm-yoga-mats\">4mm</a> | 2.5kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 6235261796537,
+    "shopifyHandle": "7-chakras-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "Best Seller",
+      "Mat"
+    ],
+    "shopifyCreatedAt": "2021-01-13T10:53:03-05:00",
+    "shopifyPublishedAt": "2022-11-28T22:12:16-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:09-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "thicknessMmMin": 4,
+    "thicknessMmMax": 4,
+    "lengthCmMin": 61,
+    "lengthCmMax": 61,
+    "widthCmMin": 182,
+    "widthCmMax": 182,
+    "thicknessMmx10Values": [
+      40
+    ],
+    "lengthCMx10Values": [
+      610
+    ],
+    "widthCMx10Values": [
+      1820
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 610,
+        "widthCMx10": 1820
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7C_Cover.png?v=1753445411",
+        "width": 1451,
+        "height": 1451,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7_Chakras_Cork_Yoga_Mat_-_Satori_Concept_-5135983.png?v=1753445411",
+        "width": 800,
+        "height": 800,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7_Chakras_Cork_Yoga_Mat_-_Satori_Concept_-5135985.png?v=1753445411",
+        "width": 500,
+        "height": 500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7_Chakras_Cork_Yoga_Mat_-_Satori_Concept_-5135988.jpg?v=1753445411",
+        "width": 1000,
+        "height": 1500,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7_Chakras_Cork_Yoga_Mat_-_Satori_Concept_-5135990.jpg?v=1753445411",
+        "width": 1500,
+        "height": 1000,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 1,
+        "unparsedCount": 0,
+        "coverage": 1,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 4,
+          "sourceOptionName": "description",
+          "rawValue": "4mm",
+          "confidence": 0.77
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "KOI Fish Cork Yoga Mat",
+    "slug": "thesatoriconcept-koi-fish-cork-yoga-mat",
+    "titleOriginal": "KOI Fish Cork Yoga Mat",
+    "titleAuto": "KOI Fish Cork",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "From our designer: \"This concept captures the essence of zen, featuring a calm and peaceful pond adorned with waterlilies and gracefully swimming koi. I chose the elegant butterfly Koi, known for their long, flowing fins and tails, adding a touch of beauty and movement to the design. Complementing the koi, water lettuce has been included for its decorative appeal, enhancing the overall aesthetic and staying true to the initial concept. In Japanese culture, Koi fish symbolize luck and prosperity, while the waterlilies, akin to lotuses, represent rebirth and resurrection.\" \nThis artwork is brought to you by Yohanes Ragil, an Illustrator/Graphic Designer based in Bali, Indonesia. His works are usually inspired by nature and cultures (especially Southeast Asian) with a style inspired by lino-cut technique in a monochromatic palette. \nFree gift : Carry strap is included",
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Eco-Friendly"
+    ],
+    "shopifyId": 7912633827513,
+    "shopifyHandle": "koi-fish-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2024-06-05T08:57:58-04:00",
+    "shopifyPublishedAt": "2024-06-10T21:15:29-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:09-05:00",
+    "variantsCount": 1,
+    "minPrice": 89,
+    "maxPrice": 89,
+    "variantPriceValues": [
+      89
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": false,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/3-1-3.jpg?v=1753445890",
+        "width": 2048,
+        "height": 2048,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/KOI_Fish_Cork_Yoga_Mat_-_Satori_Concept_-5136085.jpg?v=1753445890",
+        "width": 1600,
+        "height": 1600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/KOI_Fish_Cork_Yoga_Mat_-_Satori_Concept_-5136088.jpg?v=1753445890",
+        "width": 1600,
+        "height": 1600,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/KOI_Fish_Cork_Yoga_Mat_-_Satori_Concept_-5136090.jpg?v=1753445890",
+        "width": 1600,
+        "height": 1600,
+        "position": 4
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL Original Cork Yoga Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-extra-large-cork-yoga-mat",
+    "titleOriginal": "XL Original Cork Yoga Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL Original Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Our classic large yoga mat puts the beauty of cork center stage. The eco-friendly quality of the mat not only provides a gentle and accommodating feeling to the body but also helps you enjoy the maximum effect of yoga exercise.\nOne beautiful thing about Cork Yoga Mat is its ability to withstand sweat, unlike some yoga mats which begin to peel and scratch under constant sweat. \nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 7973685100729,
+    "shopifyHandle": "extra-large-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2024-09-04T19:47:34-04:00",
+    "shopifyPublishedAt": "2024-09-04T19:48:17-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_6.png?v=1754502783",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Original_Cork_Yoga_Mat_80_x26_x6mm_-_Satori_Concept_-5136234.jpg?v=1764791339",
+        "width": 1597,
+        "height": 1597,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Original_Cork_Yoga_Mat_80_x26_x6mm_-_Satori_Concept_-5136236.png?v=1754502783",
+        "width": 700,
+        "height": 700,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Original_Cork_Yoga_Mat_80_x26_x6mm_-_Satori_Concept_-5136239.png?v=1754502783",
+        "width": 800,
+        "height": 800,
+        "position": 5
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL Mountain Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-xl-6mm-mountain-cork-mat",
+    "titleOriginal": "XL Mountain Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL Mountain",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Our mountain design was inspired by the refreshed feeling of being surrounded by nature.\nThis beautifully designed large yoga mat features a serene green color, reminiscent of lush forests and rolling hills. The intricate layers of mountain patterns are thoughtfully crafted to inspire a sense of calm and grounding. Whether you’re practicing at home, in the studio, or outdoors, the Peaceful Mountain Yoga Mat serves as a constant reminder of the tranquility and strength found in nature. Allow its calming presence to enhance your yoga experience, making each session a peaceful retreat from the hustle and bustle of daily life.\nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "features": [
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 8012567740601,
+    "shopifyHandle": "xl-6mm-mountain-cork-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2024-11-01T10:17:16-04:00",
+    "shopifyPublishedAt": "2024-11-01T10:23:52-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 89,
+    "maxPrice": 89,
+    "variantPriceValues": [
+      89
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3629,
+    "maxGrams": 3629,
+    "variantGramsValues": [
+      3629
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_4.png?v=1753444140",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Mountain_Mat_80_x26_x6mm_-_Satori_Concept_-5136223.jpg?v=1753444140",
+        "width": 1597,
+        "height": 1597,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Mountain_Mat_80_x26_x6mm_-_Satori_Concept_-5136225.jpg?v=1753444140",
+        "width": 1600,
+        "height": 1237,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Mountain_Mat_80_x26_x6mm_-_Satori_Concept_-5136227.jpg?v=1753444140",
+        "width": 1600,
+        "height": 1208,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136114.jpg?v=1753443400",
+        "width": 1000,
+        "height": 1500,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136117.jpg?v=1753443400",
+        "width": 1440,
+        "height": 826,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136119.png?v=1753443400",
+        "width": 800,
+        "height": 533,
+        "position": 8
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136123.png?v=1753443400",
+        "width": 600,
+        "height": 400,
+        "position": 9
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Peaceful_Mountain_Cork_Yoga_Mat_-_Satori_Concept_-5136112.jpg?v=1753443400",
+        "width": 1000,
+        "height": 1500,
+        "position": 10
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL Four Elements Cork Yoga Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-xl-four-elements-cork-yoga-mat-80x26x6mm",
+    "titleOriginal": "XL Four Elements Cork Yoga Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL Four Elements Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Special launching promotion: 17% off\nOur 4 Elements design embodies the essence of Earth, Water, Fire, and Air. Earth grounds you, Water brings fluidity, Fire sparks passion, and Air provides clarity. Together, they inspire balance and harmony in your yoga practice. The centered symmetric line ensures precise alignment, enhancing your overall practice.\nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Extra Thick",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 8051058639033,
+    "shopifyHandle": "xl-four-elements-cork-yoga-mat-80x26x6mm",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2025-02-24T15:10:15-05:00",
+    "shopifyPublishedAt": "2025-02-24T15:13:53-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 85,
+    "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2268,
+    "maxGrams": 2268,
+    "variantGramsValues": [
+      2268
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/mat_bigger_3.jpg?v=1740427987",
+        "width": 2164,
+        "height": 2164,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/comparison_photo_copy_2.jpg?v=1740427987",
+        "width": 1597,
+        "height": 1597,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/RE3_logo.jpg?v=1740427259",
+        "width": 1500,
+        "height": 1500,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/RE2_logo.jpg?v=1740427247",
+        "width": 1500,
+        "height": 1500,
+        "position": 4
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL Phoenix Cork Yoga Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-xl-phoenix-cork-yoga-mat",
+    "titleOriginal": "XL Phoenix Cork Yoga Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL Phoenix Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "The Phoenix Yoga Mat, inspired by East Asian art, features a majestic phoenix poised for ascent, framed by delicate azaleas and drifting clouds. This design exudes grace and movement, with the phoenix symbolizing loyalty and prosperity, and the azaleas representing abundance and love, creating a piece rich in meaning and elegance.\nThis artwork is brought to you by Yohanes Ragil, a designer based in Bali, Indonesia. His works are usually inspired by nature and cultures (especially Southeast Asian) with a style inspired by lino-cut technique in a monochromatic palette. \nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Extra Thick",
+      "Extra Wide"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 8173484638393,
+    "shopifyHandle": "xl-phoenix-cork-yoga-mat",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2025-07-20T21:28:20-04:00",
+    "shopifyPublishedAt": "2025-07-20T21:34:50-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 85,
+    "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_5.png?v=1757783654",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Phoenix_Cork_Yoga_Mat_-_Satori_Concept_-5136138.jpg?v=1762801681",
+        "width": 1600,
+        "height": 1600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Phoenix_Cork_Yoga_Mat_-_Satori_Concept_-5136136.jpg?v=1762801681",
+        "width": 1600,
+        "height": 1600,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Phoenix_Cork_Yoga_Mat_-_Satori_Concept_-5136142.jpg?v=1757783654",
+        "width": 1600,
+        "height": 1600,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/7.272520.jpg?v=1757783654",
+        "width": 2048,
+        "height": 2048,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL Blue Whale Cork Yoga Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-xl-phoenix-cork-yoga-mat-80x26x6mm-copy",
+    "titleOriginal": "XL Blue Whale Cork Yoga Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL Blue Whale Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "This design is inspired by our deep love for the ocean. The whale tail represents freedom and joy — a graceful moment when the whale leaps above the water, symbolizing harmony and connection with nature. It also reminds us to protect our oceans and the incredible life within them.\nCreated by artist Amanda Rasmitha, this design was originally painted using watercolor techniques. We transformed her artwork onto the cork surface, and after multiple color tests, we are happy to bring it to life with the vivid blue shades that capture the spirit and serenity of the sea.\nThe mat also features instructional alignment lines to help guide your poses and support balance.\nFree gift : Carry strap is included",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Extra Thick",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 8211331055801,
+    "shopifyHandle": "xl-phoenix-cork-yoga-mat-80x26x6mm-copy",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2025-09-12T14:56:01-04:00",
+    "shopifyPublishedAt": "2025-12-28T03:32:47-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 85,
+    "maxPrice": 85,
+    "variantPriceValues": [
+      85
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": false,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_13.png?v=1757784337",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Original_Cork_Yoga_Mat_80_x26_x6mm_-_Satori_Concept_-5136234.jpg?v=1764791339",
+        "width": 1597,
+        "height": 1597,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Screen_Shot_2025-09-13_at_1.19.39_PM.png?v=1761876810",
+        "width": 1284,
+        "height": 1288,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Screen_Shot_2025-09-13_at_1.19.49_PM.png?v=1761876810",
+        "width": 1280,
+        "height": 1284,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Screen_Shot_2025-09-13_at_1.19.58_PM.png?v=1761876810",
+        "width": 1284,
+        "height": 1282,
+        "position": 6
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "XL The Earth Cork Yoga Mat (80\"x26\"x6mm)",
+    "slug": "thesatoriconcept-xl-blue-whale-cork-yoga-mat-80x26x6mm-copy",
+    "titleOriginal": "XL The Earth Cork Yoga Mat (80\"x26\"x6mm)",
+    "titleAuto": "XL The Earth Cork",
+    "titleAutoConfidence": 0.65,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "Our Latest Design Is Here 💚\nFind your center on this beautifully crafted cork mat, where warm, earthy tones meet vibrant green botanicals. A radiant globe takes center stage, reminding us that every movement connects us to something greater than ourselves.\nLush green forest details frame your flow—ferns and palms above, evergreens below—inviting you into a natural sanctuary where you can breathe, stretch, and simply be. The alignment lines are there to support your practice and poses.\nCrafted from sustainable cork with rich green accents throughout, this mat is a celebration of our beautiful planet.",
+    "thickness": {
+      "value": 6,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "6mm"
+    },
+    "length": {
+      "value": 66,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "width": {
+      "value": 203,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "66cm x 203cm"
+    },
+    "weight": {
+      "value": 3.8,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "3.8kg"
+    },
+    "material": "Cork",
+    "materials": [
+      "Cork"
+    ],
+    "materialSource": "title",
+    "materialConfidence": 0.9500000000000001,
+    "features": [
+      "Eco-Friendly",
+      "Extra Thick",
+      "Extra Wide",
+      "Alignment Marks"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Dimensions & Material",
+        "items": [
+          "<strong>Materials: </strong>natural cork and rubber",
+          "<strong>Size: </strong>26inch x 80inch (66cm x 203cm)",
+          "<strong>Thickness:</strong> <a href=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\" title=\"https://www.thesatoriconcept.com/collections/6mm-yoga-mats\">6mm</a> | 3.8kg"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "shopifyId": 8261229609145,
+    "shopifyHandle": "xl-blue-whale-cork-yoga-mat-80x26x6mm-copy",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat"
+    ],
+    "shopifyCreatedAt": "2025-10-30T21:33:33-04:00",
+    "shopifyPublishedAt": "2025-11-21T13:51:57-05:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 79,
+    "maxPrice": 79,
+    "variantPriceValues": [
+      79
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "thicknessMmMin": 6,
+    "thicknessMmMax": 6,
+    "lengthCmMin": 66,
+    "lengthCmMax": 66,
+    "widthCmMin": 203,
+    "widthCmMax": 203,
+    "thicknessMmx10Values": [
+      60
+    ],
+    "lengthCMx10Values": [
+      660
+    ],
+    "widthCMx10Values": [
+      2030
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 660,
+        "widthCMx10": 2030
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/6.jpg?v=1763751119",
+        "width": 4720,
+        "height": 4721,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Image_20251030211348_102_4_copy.jpg?v=1763751119",
+        "width": 3500,
+        "height": 3500,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_16.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Image_20251030211345_101_4_copy.jpg?v=1764791339",
+        "width": 3500,
+        "height": 3500,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/XL_Original_Cork_Yoga_Mat_80_x26_x6mm_-_Satori_Concept_-5136234.jpg?v=1764791339",
+        "width": 1597,
+        "height": 1597,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Upgraded_size_3.png?v=1764791339",
+        "width": 1080,
+        "height": 1080,
+        "position": 6
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Image_20251030211344_100_4_copy.jpg?v=1764791339",
+        "width": 3000,
+        "height": 3000,
+        "position": 7
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Image_20251030211349_103_4_copy.jpg?v=1764791339",
+        "width": 3000,
+        "height": 3000,
+        "position": 8
+      }
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 6,
+          "sourceOptionName": "description",
+          "rawValue": "6mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": []
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "thesatoriconcept",
+    "name": "Yoga Mat Forest Design",
+    "slug": "thesatoriconcept-vegan-suede-yoga-mat-forest",
+    "titleOriginal": "Yoga Mat Forest Design",
+    "titleAuto": "Forest Design",
+    "titleAutoConfidence": 0.6000000000000001,
+    "titleAutoVersion": "shadow-title-v1",
+    "description": "This artwork is created by Emma Hall : \"I was really inspired by retro floral patterns from the 60s and 70s that use this clearly hand-drawn element to create a more fun and organic pattern. My aim was to infuse these patterns with modern colors and details to give them a more modern edge. To create the design I use purely hand-drawings which are then scanned and vectorised to allow resizing and colouring.\"Emma is a British designer from Cambridge. Her biggest joy in her work is colour. The process involved usually centres around mixing analogue and digital methods. Subjects are generally drawn from nature, such as, imagined or real African landscapes, wildflowers and animals. Her travels growing up and Mozambican heritage may have also contributed to these interests. This design is featured on a premium vegan suede yoga mat, combining Emma's vibrant artistry with eco-conscious functionality.\nFree gift : Carry strap is included\nFeatured on The Yoga Nomads",
+    "texture": "Suede-like",
+    "textures": [
+      "Suede-like"
+    ],
+    "textureSource": "tags",
+    "textureConfidence": 0.75,
+    "features": [
+      "Eco-Friendly",
+      "Lightweight",
+      "Premium"
+    ],
+    "shopifyId": 7931802943673,
+    "shopifyHandle": "vegan-suede-yoga-mat-forest",
+    "shopifyVendor": "Satori Concept",
+    "shopifyProductType": "Yoga Mat",
+    "shopifyTags": [
+      "mat",
+      "suede",
+      "vegan"
+    ],
+    "shopifyCreatedAt": "2024-06-26T14:28:28-04:00",
+    "shopifyPublishedAt": "2024-06-26T14:33:48-04:00",
+    "shopifyUpdatedAt": "2026-01-13T20:21:12-05:00",
+    "variantsCount": 1,
+    "minPrice": 39,
+    "maxPrice": 39,
+    "variantPriceValues": [
+      39
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136190.jpg?v=1730726176",
+        "width": 1600,
+        "height": 1600,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136193.jpg?v=1730726182",
+        "width": 1600,
+        "height": 1600,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136196.jpg?v=1730726188",
+        "width": 1600,
+        "height": 1600,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136198.jpg?v=1730726193",
+        "width": 1600,
+        "height": 1600,
+        "position": 4
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136200.jpg?v=1730726199",
+        "width": 1600,
+        "height": 1600,
+        "position": 5
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0531/5081/0297/files/Vegan_Suede_Yoga_Mat_-_Forest_-_Satori_Concept_-5136203.jpg?v=1730726204",
+        "width": 1600,
+        "height": 1600,
+        "position": 6
+      }
+    ]
+  }
+]

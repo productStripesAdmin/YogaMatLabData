@@ -1,0 +1,174 @@
+{
+  "date": "2026-01-14",
+  "totalBrandsConsidered": 20,
+  "brandsEnriched": 13,
+  "productsFetched": 316,
+  "productsWithCoreFeatures": 60,
+  "productsWithAppendText": 246,
+  "productsWithSections": 246,
+  "errors": 10,
+  "brands": [
+    {
+      "brandSlug": "aloyoga",
+      "products": 2,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 2,
+      "productsWithSections": 2,
+      "sectionsExtracted": [
+        "Colors",
+        "Description",
+        "Fabrication",
+        "Fit"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "gayo",
+      "products": 4,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 4,
+      "productsWithSections": 4,
+      "sectionsExtracted": [
+        "Specs"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "houseofmats",
+      "products": 21,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 21,
+      "productsWithSections": 21,
+      "sectionsExtracted": [
+        "Size"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "liforme",
+      "products": 41,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 38,
+      "productsWithSections": 38,
+      "sectionsExtracted": [
+        "Dimensions",
+        "Materials",
+        "Specs & Features",
+        "Thickness",
+        "Weight"
+      ],
+      "errors": 3
+    },
+    {
+      "brandSlug": "manduka",
+      "products": 16,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 16,
+      "productsWithSections": 16,
+      "sectionsExtracted": [
+        "Dimensions",
+        "Length",
+        "Material",
+        "Specs",
+        "Weight",
+        "Width"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "products": 32,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 32,
+      "productsWithSections": 32,
+      "sectionsExtracted": [
+        "Care guide",
+        "Material",
+        "Measurement",
+        "Mindful craftsmanship",
+        "Soul of the product"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "stakt",
+      "products": 8,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 3,
+      "productsWithSections": 3,
+      "sectionsExtracted": [
+        "Product details",
+        "Product Details"
+      ],
+      "errors": 5
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "products": 12,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 10,
+      "productsWithSections": 10,
+      "sectionsExtracted": [
+        "Dimensions & Material"
+      ],
+      "errors": 2
+    },
+    {
+      "brandSlug": "woloyoga",
+      "products": 8,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 8,
+      "productsWithSections": 8,
+      "sectionsExtracted": [
+        "Dimension & Material",
+        "Dimension & Materials",
+        "Specs & Care"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "products": 49,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 49,
+      "productsWithSections": 49,
+      "sectionsExtracted": [
+        "Product Specs"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogamatters",
+      "products": 53,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 53,
+      "productsWithSections": 53,
+      "sectionsExtracted": [
+        "Details",
+        "Size"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yogibare",
+      "products": 10,
+      "productsWithCoreFeatures": 0,
+      "productsWithAppendText": 10,
+      "productsWithSections": 10,
+      "sectionsExtracted": [
+        "Details",
+        "The Details"
+      ],
+      "errors": 0
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "products": 60,
+      "productsWithCoreFeatures": 60,
+      "productsWithAppendText": 0,
+      "productsWithSections": 0,
+      "sectionsExtracted": [],
+      "errors": 0
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
-  "totalBrands": 23,
-  "totalProducts": 507,
-  "validProducts": 474,
+  "totalBrands": 20,
+  "totalProducts": 478,
+  "validProducts": 445,
   "invalidProducts": 0,
   "discardedProducts": 33,
   "brands": [
@@ -79,15 +79,6 @@
       "errors": []
     },
     {
-      "brandSlug": "bala",
-      "totalProducts": 20,
-      "validProducts": 20,
-      "invalidProducts": 0,
-      "discardedProducts": 0,
-      "discardedProductTypes": [],
-      "errors": []
-    },
-    {
       "brandSlug": "gaiam",
       "totalProducts": 35,
       "validProducts": 35,
@@ -142,15 +133,6 @@
       "errors": []
     },
     {
-      "brandSlug": "keep",
-      "totalProducts": 7,
-      "validProducts": 7,
-      "invalidProducts": 0,
-      "discardedProducts": 0,
-      "discardedProductTypes": [],
-      "errors": []
-    },
-    {
       "brandSlug": "liforme",
       "totalProducts": 41,
       "validProducts": 41,
@@ -181,15 +163,6 @@
       "brandSlug": "scoria",
       "totalProducts": 44,
       "validProducts": 44,
-      "invalidProducts": 0,
-      "discardedProducts": 0,
-      "discardedProductTypes": [],
-      "errors": []
-    },
-    {
-      "brandSlug": "sensu",
-      "totalProducts": 3,
-      "validProducts": 3,
       "invalidProducts": 0,
       "discardedProducts": 0,
       "discardedProductTypes": [],
@@ -238,8 +211,8 @@
     },
     {
       "brandSlug": "yogadesignlab",
-      "totalProducts": 49,
-      "validProducts": 49,
+      "totalProducts": 51,
+      "validProducts": 51,
       "invalidProducts": 0,
       "discardedProducts": 0,
       "discardedProductTypes": [],
@@ -256,8 +229,8 @@
     },
     {
       "brandSlug": "yogibare",
-      "totalProducts": 10,
-      "validProducts": 10,
+      "totalProducts": 9,
+      "validProducts": 9,
       "invalidProducts": 0,
       "discardedProducts": 0,
       "discardedProductTypes": [],

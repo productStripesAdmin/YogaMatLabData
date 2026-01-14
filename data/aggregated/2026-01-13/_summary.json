@@ -1,8 +1,8 @@
 {
   "date": "2026-01-13",
   "totalBrands": 23,
-  "totalProducts": 474,
-  "uniqueSlugs": 474,
+  "totalProducts": 475,
+  "uniqueSlugs": 475,
   "duplicateSlugs": 0,
   "brands": [
     {
@@ -83,7 +83,7 @@
     },
     {
       "brandSlug": "yogadesignlab",
-      "productCount": 49
+      "productCount": 51
     },
     {
       "brandSlug": "yogamatters",
@@ -91,7 +91,7 @@
     },
     {
       "brandSlug": "yogibare",
-      "productCount": 10
+      "productCount": 9
     },
     {
       "brandSlug": "yolohayoga",
@@ -101,29 +101,29 @@
   "priceStats": {
     "min": 19.98,
     "max": 1138,
-    "average": 137.87369198312228,
-    "median": 110
+    "average": 155.92637894736842,
+    "median": 115
   },
   "materialBreakdown": {
     "Cork": 143,
     "PVC": 39,
-    "Natural Rubber": 159,
+    "Natural Rubber": 160,
     "Cotton": 23,
     "TPE": 13,
     "Jute": 3,
     "NBR": 2
   },
   "featureBreakdown": {
-    "Eco-Friendly": 356,
-    "Non-Slip": 372,
+    "Eco-Friendly": 357,
+    "Non-Slip": 373,
     "Lightweight": 172,
-    "Extra Wide": 221,
+    "Extra Wide": 223,
     "Antimicrobial": 106,
-    "Extra Thick": 161,
+    "Extra Thick": 163,
     "Extra Long": 81,
     "Reversible": 19,
-    "Premium": 91,
-    "Alignment Marks": 134,
+    "Premium": 93,
+    "Alignment Marks": 136,
     "Closed-Cell": 26
   }
 }
