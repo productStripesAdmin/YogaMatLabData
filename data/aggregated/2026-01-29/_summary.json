@@ -1,0 +1,116 @@
+{
+  "date": "2026-01-29",
+  "totalBrands": 20,
+  "totalProducts": 399,
+  "uniqueSlugs": 399,
+  "duplicateSlugs": 0,
+  "totalSeries": 92,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "aloyoga",
+      "productCount": 13
+    },
+    {
+      "brandSlug": "ananday",
+      "productCount": 4
+    },
+    {
+      "brandSlug": "gaiam",
+      "productCount": 2
+    },
+    {
+      "brandSlug": "gayo",
+      "productCount": 3
+    },
+    {
+      "brandSlug": "heathyoga",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "houseofmats",
+      "productCount": 21
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "productCount": 13
+    },
+    {
+      "brandSlug": "liforme",
+      "productCount": 41
+    },
+    {
+      "brandSlug": "manduka",
+      "productCount": 16
+    },
+    {
+      "brandSlug": "okoliving",
+      "productCount": 18
+    },
+    {
+      "brandSlug": "scoria",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "productCount": 27
+    },
+    {
+      "brandSlug": "stakt",
+      "productCount": 8
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "productCount": 11
+    },
+    {
+      "brandSlug": "woloyoga",
+      "productCount": 8
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "productCount": 49
+    },
+    {
+      "brandSlug": "yogamatters",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "yogibare",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "yolohayoga",
+      "productCount": 51
+    }
+  ],
+  "priceStats": {
+    "min": 50,
+    "max": 480,
+    "average": 131.68463659147866,
+    "median": 115
+  },
+  "materialBreakdown": {
+    "Cork": 133,
+    "Natural Rubber": 165,
+    "TPE": 10,
+    "Cotton": 23,
+    "PVC": 17,
+    "Jute": 3,
+    "PU Leather": 4
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 286,
+    "Non-Slip": 316,
+    "Lightweight": 106,
+    "Travel": 79,
+    "Antimicrobial": 100,
+    "Reversible": 6,
+    "Premium": 68,
+    "Alignment Marks": 120,
+    "Closed-Cell": 23
+  }
+}

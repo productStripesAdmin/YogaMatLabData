@@ -1,0 +1,1690 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Warrior Mat - Black",
+    "slug": "aloyoga-w7092r-warrior-mat-black",
+    "titleOriginal": "Warrior Mat - Black",
+    "seriesKey": "aloyoga:warrior",
+    "seriesName": "Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session.",
+    "thickness": {
+      "value": 5,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "5mm"
+    },
+    "length": {
+      "value": 188.976,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6.2ft x 2.2ft "
+    },
+    "width": {
+      "value": 67.05600000000001,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6.2ft x 2.2ft "
+    },
+    "weight": {
+      "value": 3.628743275485118,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "8 lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "pvcFree": true,
+    "features": [],
+    "productPageSections": [
+      {
+        "heading": "Description",
+        "items": [
+          "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session."
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Fit",
+        "items": [
+          "Dimensions: 6.2ft x 2.2ft x 5mm",
+          "Weight: Approximately 8 lbs"
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Fabrication",
+        "items": [
+          "Base: 100% Natural Rubber",
+          "Coating: 100% Polyurethane"
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Colors",
+        "items": [
+          "Smoky Quartz",
+          "Jungle",
+          "Eclipse",
+          "Black",
+          "Espresso"
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 4520937521270,
+    "shopifyHandle": "w7092r-warrior-mat-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "aloversary20off",
+      "b:1:Best Seller",
+      "BVCategory:Accessories",
+      "Color:Black:Color",
+      "ColorGroup:Black",
+      "Maintenance:ColorWayBot_mutate",
+      "Maintenance:ColorWayBot_upserted_me",
+      "Maintenance:ColorwayProduct",
+      "Maintenance:Deletepocalypse20",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "Mats",
+      "not_clearance",
+      "pricing:fullprice",
+      "Retail:Load0717",
+      "SellThru_AS_2025",
+      "Status:ABestSeller",
+      "Status:Core",
+      "Status:MBestSeller",
+      "StyleId:W7092R",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "X:MemberOfSetConfig",
+      "YCRF_reviews:accessories",
+      "YGroup_W7092R"
+    ],
+    "shopifyCreatedAt": "2020-06-03T17:22:29-07:00",
+    "shopifyPublishedAt": "2020-10-23T16:06:52-07:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210,
+    "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 726,
+    "maxGrams": 726,
+    "variantGramsValues": [
+      726
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 5,
+    "thicknessMmMax": 5,
+    "lengthCmMin": 188.976,
+    "lengthCmMax": 188.976,
+    "widthCmMin": 67.05600000000001,
+    "widthCmMax": 67.05600000000001,
+    "thicknessMmx10Values": [
+      50
+    ],
+    "lengthCMx10Values": [
+      1890
+    ],
+    "widthCMx10Values": [
+      671
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1890,
+        "widthCMx10": 671
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7092R_01.jpg?v=1679077034",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W7092R_01_1_7a7765fd-6f62-42d6-860f-c74ba7a74fd6.jpg?v=1695420561",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7092R_01_b1_a2.jpg?v=1695420561",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Smoky Quartz",
+      "Jungle",
+      "Eclipse",
+      "Espresso"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 5,
+          "sourceOptionName": "description",
+          "rawValue": "5mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Warrior Mat - Espresso",
+    "slug": "aloyoga-w7192r-warrior-mat-espresso",
+    "titleOriginal": "Warrior Mat - Espresso",
+    "seriesKey": "aloyoga:warrior",
+    "seriesName": "Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session.",
+    "pvcFree": true,
+    "features": [],
+    "shopifyId": 7850803429556,
+    "shopifyHandle": "w7192r-warrior-mat-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "BVCategory:Accessories",
+      "Color:Espresso:Color",
+      "ColorGroup:Brown",
+      "HO24",
+      "HO24D5-family",
+      "HO24Drops-family",
+      "Maintenance:ColorwayProduct",
+      "master-accessories-all",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "Status:Carryover",
+      "StyleId:W7192R",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_W7192R"
+    ],
+    "shopifyCreatedAt": "2024-09-19T15:27:10-07:00",
+    "shopifyPublishedAt": "2024-12-31T09:41:51-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210,
+    "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3797,
+    "maxGrams": 3797,
+    "variantGramsValues": [
+      3797
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Espresso"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W7192R_04064_b1_s1_a1.jpg?v=1734041894",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W7192R_04064_b1_s1_a2.jpg?v=1734041894",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      }
+    ],
+    "availableColors": [
+      "Espresso"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Warrior Mat - Smoky Quartz",
+    "slug": "aloyoga-w7092r-warrior-mat-smoky-quartz",
+    "titleOriginal": "Warrior Mat - Smoky Quartz",
+    "seriesKey": "aloyoga:warrior",
+    "seriesName": "Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session.",
+    "pvcFree": true,
+    "features": [],
+    "shopifyId": 6239914524852,
+    "shopifyHandle": "w7092r-warrior-mat-smoky-quartz",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Smoky Quartz:Color",
+      "ColorGroup:Brown",
+      "Maintenance:CheckImages:not-enough-images-for-plp",
+      "Maintenance:ColorWayBot_mutate",
+      "Maintenance:ColorWayBot_upserted_me",
+      "Maintenance:ColorwayProduct",
+      "Maintenance:Incident0223",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-woman-all",
+      "Mats",
+      "not_clearance",
+      "pricing:fullprice",
+      "Retail:Load0717",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:W7092R",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_W7092R"
+    ],
+    "shopifyCreatedAt": "2021-02-23T11:48:12-08:00",
+    "shopifyPublishedAt": "2020-06-04T18:05:33-07:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210,
+    "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3797,
+    "maxGrams": 3797,
+    "variantGramsValues": [
+      3797
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Smoky Quartz"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_02512.jpg?v=1679076834",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/W7192R_02512_1.jpg?v=1695420586",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_02512_b1_a2.jpg?v=1695420586",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_02512_b1_a3.jpg?v=1695420586",
+        "width": 930,
+        "height": 1395,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Smoky Quartz"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Warrior Mat - Jungle",
+    "slug": "aloyoga-w7092r-warrior-mat-jungle",
+    "titleOriginal": "Warrior Mat - Jungle",
+    "seriesKey": "aloyoga:warrior",
+    "seriesName": "Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session.",
+    "pvcFree": true,
+    "features": [],
+    "shopifyId": 4416008716406,
+    "shopifyHandle": "w7092r-warrior-mat-jungle",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Jungle:Color",
+      "ColorGroup:Green",
+      "Maintenance:CheckImages:not-enough-images-for-plp",
+      "Maintenance:ColorWayBot_mutate",
+      "Maintenance:ColorWayBot_upserted_me",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "Mats",
+      "not_clearance",
+      "pricing:fullprice",
+      "Retail:Load0717",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:W7092R",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_W7092R"
+    ],
+    "shopifyCreatedAt": "2020-02-17T15:30:47-08:00",
+    "shopifyPublishedAt": "2020-06-04T18:05:33-07:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210,
+    "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3797,
+    "maxGrams": 3797,
+    "variantGramsValues": [
+      3797
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Jungle"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_01664.jpg?v=1679076888",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_01664_b1_a2.jpg?v=1679076888",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      }
+    ],
+    "availableColors": [
+      "Jungle"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Grounded No-Slip Towel - Black",
+    "slug": "aloyoga-a0029u-grounded-no-slip-towel-black",
+    "titleOriginal": "Grounded No-Slip Towel - Black",
+    "description": "Find stillness in every asana with the Grounded No-Slip Mat Towel. Soft front absorbs sweat for maximum comfort and stability. A silicone grip pattern backing sticks to your mat for a slip-free practice.\n\nSoft & absorbent\nSilicone pattern backing for added grip\nCool ALO logo",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 4594792300662,
+    "shopifyHandle": "a0029u-grounded-no-slip-towel-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Black:Color",
+      "ColorGroup:Black",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "Status:Core",
+      "StyleId:A0029U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0029U"
+    ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:22-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 549,
+    "maxGrams": 549,
+    "variantGramsValues": [
+      549
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01_b1_a1.jpg?v=1679076522",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01_b1_a1_3.jpg?v=1679076522",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01_b1_a2.jpg?v=1679076522",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01_b1_a4_bddb2850-e11b-4502-aad6-69d713b4a60a.jpg?v=1681507907",
+        "width": 930,
+        "height": 1395,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Lightweight Warrior Mat - Smoky Quartz",
+    "slug": "aloyoga-a0779u-lightweight-warrior-mat-smoky-quartz",
+    "titleOriginal": "Lightweight Warrior Mat - Smoky Quartz",
+    "seriesKey": "aloyoga:lightweight-warrior",
+    "seriesName": "Lightweight Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class.",
+    "features": [
+      "Lightweight"
+    ],
+    "shopifyId": 7902722719924,
+    "shopifyHandle": "a0779u-lightweight-warrior-mat-smoky-quartz",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "BVCategory:Accessories",
+      "Color:Smoky Quartz:Color",
+      "ColorGroup:Brown",
+      "ColorwayType:Limited",
+      "Maintenance:ColorwayProduct",
+      "master-accessories-all",
+      "not_clearance",
+      "One Size",
+      "pricing:fullprice",
+      "SP25D5-family",
+      "SP25Drops-family",
+      "SP25DropsColors-Family",
+      "Status:Carryover",
+      "StyleId:A0779U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0779U"
+    ],
+    "shopifyCreatedAt": "2024-12-20T16:25:13-08:00",
+    "shopifyPublishedAt": "2025-03-21T15:14:23-07:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 180,
+    "maxPrice": 180,
+    "variantPriceValues": [
+      180
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2386,
+    "maxGrams": 2386,
+    "variantGramsValues": [
+      2386
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Smoky Quartz"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_02512_b1_s1_a1.jpg?v=1741700383",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_02512_b1_s1_a2.jpg?v=1741700625",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_02512_b1_s1_a3.jpg?v=1741700635",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Smoky Quartz"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Lightweight Warrior Mat - Black",
+    "slug": "aloyoga-a0779u-lightweight-warrior-mat-black",
+    "titleOriginal": "Lightweight Warrior Mat - Black",
+    "seriesKey": "aloyoga:lightweight-warrior",
+    "seriesName": "Lightweight Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class.",
+    "thickness": {
+      "value": 3,
+      "unit": "mm",
+      "source": "description",
+      "originalText": "3mm"
+    },
+    "length": {
+      "value": 188.976,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6.2ft x 2.2ft "
+    },
+    "width": {
+      "value": 67.05600000000001,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "6.2ft x 2.2ft "
+    },
+    "weight": {
+      "value": 2.267964547178199,
+      "unit": "kg",
+      "source": "description",
+      "originalText": "5 lbs"
+    },
+    "material": "Natural Rubber",
+    "materials": [
+      "Natural Rubber",
+      "PU Leather"
+    ],
+    "materialSource": "description",
+    "materialConfidence": 0.65,
+    "features": [
+      "Lightweight"
+    ],
+    "productPageSections": [
+      {
+        "heading": "Description",
+        "items": [
+          "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class."
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Fit",
+        "items": [
+          "Dimensions: 6.2ft x 2.2ft x 3mm",
+          "Weight: Approximately 5 lbs"
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Fabrication",
+        "items": [
+          "Base: Natural Rubber",
+          "Coating: Polyurethane"
+        ],
+        "confidence": 1
+      },
+      {
+        "heading": "Colors",
+        "items": [
+          "Black",
+          "Smoky Quartz"
+        ],
+        "confidence": 1
+      }
+    ],
+    "shopifyId": 7902722162868,
+    "shopifyHandle": "a0779u-lightweight-warrior-mat-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "BVCategory:Accessories",
+      "Color:Black:Color",
+      "ColorGroup:Black",
+      "Maintenance:ColorwayProduct",
+      "master-accessories-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "SP25D1-family",
+      "SP25Drops-family",
+      "Status:Carryover",
+      "StyleId:A0779U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0779U"
+    ],
+    "shopifyCreatedAt": "2024-12-20T16:25:13-08:00",
+    "shopifyPublishedAt": "2025-01-24T09:45:48-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 180,
+    "maxPrice": 180,
+    "variantPriceValues": [
+      180
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 2386,
+    "maxGrams": 2386,
+    "variantGramsValues": [
+      2386
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "thicknessMmMin": 3,
+    "thicknessMmMax": 3,
+    "lengthCmMin": 188.976,
+    "lengthCmMax": 188.976,
+    "widthCmMin": 67.05600000000001,
+    "widthCmMax": 67.05600000000001,
+    "thicknessMmx10Values": [
+      30
+    ],
+    "lengthCMx10Values": [
+      1890
+    ],
+    "widthCMx10Values": [
+      671
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1890,
+        "widthCMx10": 671
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_01_b1_s1_a1_1.jpg?v=1737055083",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_01_b1_s1_a2.jpg?v=1737055168",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0779U_01_b1_s1_a3.jpg?v=1737055168",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Black",
+      "Smoky Quartz"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 2,
+        "parsedCount": 1,
+        "unparsedCount": 1,
+        "coverage": 0.5,
+        "allUnparsed": false
+      },
+      "thicknessMm": [
+        {
+          "value": 3,
+          "sourceOptionName": "description",
+          "rawValue": "3mm",
+          "confidence": 0.62
+        }
+      ],
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Grounded No-Slip Towel - Smoky Quartz",
+    "slug": "aloyoga-a0029u-grounded-no-slip-towel-smoky-quartz",
+    "titleOriginal": "Grounded No-Slip Towel - Smoky Quartz",
+    "description": "Find stillness in every asana with the Grounded No-Slip Mat Towel. Soft front absorbs sweat for maximum comfort and stability. A silicone grip pattern backing sticks to your mat for a slip-free practice.\n\nSoft & absorbent\nSilicone pattern backing for added grip\nCool ALO logo",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 4594792169590,
+    "shopifyHandle": "a0029u-grounded-no-slip-towel-smoky-quartz",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Smoky Quartz:Color",
+      "ColorGroup:Brown",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:A0029U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0029U"
+    ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:21-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 549,
+    "maxGrams": 549,
+    "variantGramsValues": [
+      549
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Smoky Quartz"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02512_b1_a1.jpg?v=1679076705",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02512_b1_a2.jpg?v=1679076705",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02512_b1_a4.jpg?v=1681508037",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Smoky Quartz"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Warrior Mat - Eclipse",
+    "slug": "aloyoga-w7192r-warrior-mat-eclipse",
+    "titleOriginal": "Warrior Mat - Eclipse",
+    "seriesKey": "aloyoga:warrior",
+    "seriesName": "Warrior",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "This mat supports you literally and figuratively. Reach new levels of performance with our rigorously tested Warrior mat. Its luxe matte finish, oversized, slip-free design, and anti-odor & moisture-wicking qualities help you stay grounded through all your moves. It’s also 100% formaldehyde-free, non-toxic, and PVC-free, perfect for a clean practice and a peaceful movement session.",
+    "pvcFree": true,
+    "features": [],
+    "shopifyId": 4594792366198,
+    "shopifyHandle": "w7192r-warrior-mat-eclipse",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Mats",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Eclipse:Color",
+      "ColorGroup:Blue",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:W7092R",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_W7092R"
+    ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2023-10-10T09:57:50-07:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 210,
+    "maxPrice": 210,
+    "variantPriceValues": [
+      210
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 3797,
+    "maxGrams": 3797,
+    "variantGramsValues": [
+      3797
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Eclipse"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_02597_b1_a1.jpg?v=1679077173",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/W7192R_02597_b1_a1_66a766a5-4c44-4cf0-ab08-bf20ac3544db.jpg?v=1679077173",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      }
+    ],
+    "availableColors": [
+      "Eclipse"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Grounded No-Slip Mat Towel - Espresso",
+    "slug": "aloyoga-a0029u-grounded-no-slip-mat-towel-espresso",
+    "titleOriginal": "Grounded No-Slip Mat Towel - Espresso",
+    "description": "Find stillness in every asana with the Grounded No-Slip Mat Towel. Soft front absorbs sweat for maximum comfort and stability. A silicone grip pattern backing sticks to your mat for a slip-free practice.\n\nSoft & absorbent\nSilicone pattern backing for added grip\nCool ALO logo",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 7850770464948,
+    "shopifyHandle": "a0029u-grounded-no-slip-mat-towel-espresso",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
+    "shopifyTags": [
+      "BVCategory:Accessories",
+      "Color:Espresso:Color",
+      "ColorGroup:Brown",
+      "HO24",
+      "HO24D5-family",
+      "HO24Drops-family",
+      "Maintenance:ColorwayProduct",
+      "master-accessories-all",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "Status:Carryover",
+      "StyleId:A0029U",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0029U"
+    ],
+    "shopifyCreatedAt": "2024-09-19T15:04:35-07:00",
+    "shopifyPublishedAt": "2024-12-31T09:41:45-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 549,
+    "maxGrams": 549,
+    "variantGramsValues": [
+      549
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Espresso"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0029U_04064_b1_s1_a1.jpg?v=1734041976",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0029U_04064_b1_s1_a2.jpg?v=1734041976",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0029U_04064_b1_s1_a3.jpg?v=1734041977",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/files/A0029U_04064_b1_s1_a4.jpg?v=1734041977",
+        "width": 930,
+        "height": 1395,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Espresso"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Grounded No-Slip Towel - Eclipse",
+    "slug": "aloyoga-a0029u-grounded-no-slip-towel-eclipse",
+    "titleOriginal": "Grounded No-Slip Towel - Eclipse",
+    "description": "Find stillness in every asana with the Grounded No-Slip Mat Towel. Soft front absorbs sweat for maximum comfort and stability. A silicone grip pattern backing sticks to your mat for a slip-free practice.\n\nSoft & absorbent\nSilicone pattern backing for added grip\nCool ALO logo",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 4594792071286,
+    "shopifyHandle": "a0029u-grounded-no-slip-towel-eclipse",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Eclipse:Color",
+      "ColorGroup:Blue",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "Status:Core",
+      "StyleId:A0029U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0029U"
+    ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:20-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 549,
+    "maxGrams": 549,
+    "variantGramsValues": [
+      549
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Eclipse"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02597_b1_a1.jpg?v=1679076589",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02597_b1_a1_3.jpg?v=1679076589",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02597_b1_a2.jpg?v=1679076589",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_02597_b1_a4.jpg?v=1681507956",
+        "width": 930,
+        "height": 1395,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Eclipse"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Grounded No-Slip Towel - Jungle",
+    "slug": "aloyoga-a0029u-grounded-no-slip-towel-jungle",
+    "titleOriginal": "Grounded No-Slip Towel - Jungle",
+    "description": "Find stillness in every asana with the Grounded No-Slip Mat Towel. Soft front absorbs sweat for maximum comfort and stability. A silicone grip pattern backing sticks to your mat for a slip-free practice.\n\nSoft & absorbent\nSilicone pattern backing for added grip\nCool ALO logo",
+    "texture": "Grippy",
+    "textures": [
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Non-Slip"
+    ],
+    "shopifyId": 4594792136822,
+    "shopifyHandle": "a0029u-grounded-no-slip-towel-jungle",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Towels",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Jungle:Color",
+      "ColorGroup:Green",
+      "Maintenance:ColorwayProduct",
+      "maintenance:wasfullprice",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:A0029U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0029U"
+    ],
+    "shopifyCreatedAt": "2020-10-22T13:06:52-07:00",
+    "shopifyPublishedAt": "2020-11-17T12:44:21-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 110,
+    "maxPrice": 110,
+    "variantPriceValues": [
+      110
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 549,
+    "maxGrams": 549,
+    "variantGramsValues": [
+      549
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Jungle"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01664_b1_a1.jpg?v=1679076636",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01664_b1_a1_3.jpg?v=1679076636",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01664_b1_a2.jpg?v=1679076636",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0029U_01664_b1_a4.jpg?v=1681508009",
+        "width": 930,
+        "height": 1395,
+        "position": 4
+      }
+    ],
+    "availableColors": [
+      "Jungle"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  },
+  {
+    "brandId": "",
+    "brandSlug": "aloyoga",
+    "name": "Duality Yoga Strap - Black",
+    "slug": "aloyoga-a0023u-duality-yoga-strap-black",
+    "titleOriginal": "Duality Yoga Strap - Black",
+    "description": "Meet the ultimate strap for street and studio. The Duality Yoga Strap makes carrying your mat easier than ever, with two sleek elastic panels that add the perfect bounce and adjustable looped ends that fit any-sized mat. Plus, it offers awesome support in practice, so you can find more length in every stretch. Done and done.\n \n2-in-1 strap for mat-carrying and studio support\nLight bounce for easy carrying\nAdjustable looped ends fit any-sized mat",
+    "features": [],
+    "shopifyId": 4520939683958,
+    "shopifyHandle": "a0023u-duality-yoga-strap-black",
+    "shopifyVendor": "Alo Yoga",
+    "shopifyProductType": "Accessories:Equipment:Straps",
+    "shopifyTags": [
+      "aloversary20off",
+      "BVCategory:Accessories",
+      "Color:Black:Color",
+      "ColorGroup:Black",
+      "Maintenance:ColorwayProduct",
+      "Maintenance:Deletepocalypse20",
+      "Maintenance:KeepMaster",
+      "maintenance:wasfullprice",
+      "Maintenance:WasMasterBefore",
+      "master-accessories-all",
+      "master-accessories-men",
+      "master-man-all",
+      "master-woman-all",
+      "not_clearance",
+      "pricing:fullprice",
+      "Retail:Load0717",
+      "SellThru_AS_2025",
+      "Status:Core",
+      "StyleId:A0023U",
+      "SuppressModelInfo",
+      "X:IsPublishedToOnlineStore",
+      "YCRF_reviews:accessories",
+      "YGroup_A0023U"
+    ],
+    "shopifyCreatedAt": "2020-06-03T17:22:39-07:00",
+    "shopifyPublishedAt": "2019-12-19T09:59:08-08:00",
+    "shopifyUpdatedAt": "2026-01-19T17:18:14-08:00",
+    "variantsCount": 1,
+    "minPrice": 53,
+    "maxPrice": 53,
+    "variantPriceValues": [
+      53
+    ],
+    "priceCurrency": "USD",
+    "minGrams": 123,
+    "maxGrams": 123,
+    "variantGramsValues": [
+      123
+    ],
+    "variantGramsZeroOrMissingCount": 0,
+    "variantGramsCoverage": 1,
+    "variantGramsAllZeroOrMissing": false,
+    "isAvailable": true,
+    "shopifyOptions": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "position": 2,
+        "values": [
+          "One Size"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0023U_01_4.jpg?v=1616701649",
+        "width": 930,
+        "height": 1395,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0023U_01_1_4.jpg?v=1616701649",
+        "width": 930,
+        "height": 1395,
+        "position": 2
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/2185/2813/products/A0023U_01_3.jpg?v=1616701649",
+        "width": 930,
+        "height": 1395,
+        "position": 3
+      }
+    ],
+    "availableColors": [
+      "Black"
+    ],
+    "dimensionOptions": {
+      "sanity": {
+        "candidateCount": 1,
+        "parsedCount": 0,
+        "unparsedCount": 1,
+        "coverage": 0,
+        "allUnparsed": true
+      },
+      "rawUnparsed": [
+        {
+          "sourceOptionName": "Size",
+          "rawValue": "One Size"
+        }
+      ]
+    }
+  }
+]
