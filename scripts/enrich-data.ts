@@ -18,6 +18,7 @@ import {
   type BrandEnrichmentOutput,
   type EnrichmentConfig,
 } from './lib/product-page-enricher.js';
+import { describeBrandFilter, parseBrandFilterFromEnv } from './lib/brand-filter.js';
 
 interface BrandMeta {
   slug: string;
@@ -42,6 +43,72 @@ interface EnrichmentSummary {
     sectionsExtracted: string[];
     errors: number;
   }>;
+}
+
+function getManualEnrichmentPaths(brandSlug: string): string[] {
+  const slug = (brandSlug ?? '').toLowerCase().trim();
+  if (!slug) return [];
+  const noDashes = slug.replace(/-/g, '');
+  const underscore = slug.replace(/-/g, '_');
+  return Array.from(
+    new Set([
+      path.join(process.cwd(), 'data', 'enriched', 'manual', `${slug}.json`),
+      path.join(process.cwd(), 'data', 'enriched', 'manual', `${noDashes}.json`),
+      path.join(process.cwd(), 'data', 'enriched', 'manual', `${underscore}.json`),
+    ])
+  );
+}
+
+async function loadManualEnrichment(brandSlug: string): Promise<{ filepath: string; parsed: BrandEnrichmentOutput } | null> {
+  const candidates = getManualEnrichmentPaths(brandSlug);
+  for (const filepath of candidates) {
+    try {
+      await fs.access(filepath);
+      const rawFallback = await fs.readFile(filepath, 'utf-8');
+      const parsed = JSON.parse(rawFallback) as BrandEnrichmentOutput;
+      return { filepath, parsed };
+    } catch {
+      // continue
+    }
+  }
+  return null;
+}
+
+function collectColorsFromSections(sections: Array<{ heading: string; items: string[] }> | undefined): string[] {
+  if (!sections?.length) return [];
+  const colors = sections
+    .filter((s) => String(s.heading ?? '').trim().toLowerCase() === 'colors')
+    .flatMap((s) => s.items ?? [])
+    .map((v) => String(v ?? '').replace(/\s+/g, ' ').trim())
+    .filter(Boolean);
+  // Deduplicate case-insensitively.
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const value of colors) {
+    const key = value.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(value);
+  }
+  return out;
+}
+
+function ensureColorsSection(
+  sections: Array<{ heading: string; items: string[]; confidence: number }> | undefined,
+  brandColors: string[]
+): Array<{ heading: string; items: string[]; confidence: number }> | undefined {
+  if (!brandColors.length) return sections;
+
+  const existing = (sections ?? []).some((s) => String(s.heading ?? '').trim().toLowerCase() === 'colors');
+  if (existing) return sections;
+
+  const merged = [...(sections ?? [])];
+  merged.push({
+    heading: 'Colors',
+    items: brandColors,
+    confidence: 0.7,
+  });
+  return merged;
 }
 
 function parseArgs(argv: string[]) {
@@ -145,7 +212,6 @@ async function enrichBrand(params: {
   productsWithSections: number;
   sectionsExtracted: string[];
 }> {
-  const manualPath = path.join(process.cwd(), 'data', 'enriched', 'manual', `${params.brandSlug}.json`);
   const rawPath = path.join(process.cwd(), 'data', 'raw', params.date, `${params.brandSlug}.json`);
   const rawData = await fs.readFile(rawPath, 'utf-8');
   const shopifyData: ShopifyProductsResponse = JSON.parse(rawData);
@@ -171,21 +237,69 @@ async function enrichBrand(params: {
   // Strategy: manual-only (skip network fetch entirely)
   if (params.brandConfig.strategy === 'manual') {
     try {
-      await fs.access(manualPath);
-      const rawFallback = await fs.readFile(manualPath, 'utf-8');
-      const parsed = JSON.parse(rawFallback) as BrandEnrichmentOutput;
+      const manual = await loadManualEnrichment(params.brandSlug);
+      if (!manual) throw new Error('Missing manual enrichment file');
+      const parsed = manual.parsed;
       const nowIso = new Date().toISOString();
+
+      const manualByHandle = new Map<string, BrandEnrichmentOutput['products'][number]>();
+      for (const record of (Array.isArray(parsed.products) ? parsed.products : [])) {
+        if (record?.handle) manualByHandle.set(record.handle, record);
+      }
+
+      const brandColors = Array.from(
+        new Set(
+          (Array.isArray(parsed.products) ? parsed.products : [])
+            .flatMap((p) => collectColorsFromSections(p.sections))
+        )
+      );
+
+      const products = params.maxProducts != null
+        ? shopifyData.products.slice(0, params.maxProducts)
+        : shopifyData.products;
+
+      const records = products.map((product) => {
+        const url = buildProductUrl({
+          baseUrl: params.baseUrl,
+          productPathTemplate: params.brandConfig.productPathTemplate ?? getDefaultProductPageTemplate(),
+          handle: product.handle,
+        });
+
+        const existing = manualByHandle.get(product.handle);
+        if (existing) {
+          return {
+            ...existing,
+            brandSlug: params.brandSlug,
+            productUrl: existing.productUrl ?? url,
+            extractedAt: nowIso,
+            appendText: existing.appendText,
+            sections: ensureColorsSection(existing.sections, brandColors),
+          };
+        }
+
+        const record = createProductEnrichmentRecord({
+          product,
+          brandSlug: params.brandSlug,
+          productUrl: url,
+          coreFeatures: undefined,
+          appendText: undefined,
+          sections: ensureColorsSection(undefined, brandColors),
+          errors: [`Missing manual enrichment entry for handle: ${product.handle}`],
+          extractedAt: nowIso,
+        });
+
+        return record;
+      });
+
       const patched: BrandEnrichmentOutput = {
         ...parsed,
         brandSlug: params.brandSlug,
         extractedAt: nowIso,
-        products: Array.isArray(parsed.products)
-          ? parsed.products.map((p) => ({ ...p, extractedAt: nowIso }))
-          : [],
+        products: records,
       };
 
       await fs.writeFile(outPath, JSON.stringify(patched, null, 2), 'utf-8');
-      logger.success(`  Used manual enrichment (strategy=manual): data/enriched/manual/${params.brandSlug}.json`);
+      logger.success(`  Used manual enrichment (strategy=manual): ${path.relative(process.cwd(), manual.filepath)}`);
       const sectionsExtracted = new Set<string>();
       let productsWithAppendText = 0;
       let productsWithSections = 0;
@@ -201,7 +315,7 @@ async function enrichBrand(params: {
 
       return {
         output: patched,
-        errors: 0,
+        errors: patched.products.reduce((sum, p) => sum + (p.errors?.length ?? 0), 0),
         productsFetched: patched.products.length,
         productsWithCoreFeatures: patched.products.filter(p => p.coreFeatures?.items?.length).length,
         productsWithAppendText,
@@ -283,9 +397,9 @@ async function enrichBrand(params: {
 
   if (!hasAnyUsefulExtraction && errors > 0 && params.brandConfig.strategy !== 'fetch') {
     try {
-      await fs.access(manualPath);
-      const rawFallback = await fs.readFile(manualPath, 'utf-8');
-      const parsed = JSON.parse(rawFallback) as BrandEnrichmentOutput;
+      const manual = await loadManualEnrichment(params.brandSlug);
+      if (!manual) throw new Error('Missing manual enrichment file');
+      const parsed = manual.parsed;
       const nowIso = new Date().toISOString();
       const patched: BrandEnrichmentOutput = {
         ...parsed,
@@ -297,7 +411,7 @@ async function enrichBrand(params: {
       };
 
       await fs.writeFile(outPath, JSON.stringify(patched, null, 2), 'utf-8');
-      logger.success(`  Used manual enrichment fallback: data/enriched/manual/${params.brandSlug}.json`);
+      logger.success(`  Used manual enrichment fallback: ${path.relative(process.cwd(), manual.filepath)}`);
 
       return { output: patched, errors: 0, productsFetched, productsWithCoreFeatures: 0 };
     } catch {
@@ -419,7 +533,17 @@ async function main() {
 
   const rawFiles = await getRawBrandFiles(date);
   const allBrandSlugs = rawFiles.map(f => f.replace('.json', ''));
-  const targets = brandSlug ? allBrandSlugs.filter(s => s === brandSlug) : allBrandSlugs;
+
+  const envFilter = parseBrandFilterFromEnv();
+  if (envFilter && envFilter.size > 0) {
+    logger.info(`Brand filter: ${describeBrandFilter(envFilter)}`);
+  }
+
+  const targets = brandSlug
+    ? allBrandSlugs.filter((s) => s === brandSlug)
+    : envFilter
+      ? allBrandSlugs.filter((s) => envFilter.has(s))
+      : allBrandSlugs;
 
   const summary: EnrichmentSummary = {
     date,

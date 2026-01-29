@@ -1,0 +1,7 @@
+{
+  "usdPerUnit": {
+    "USD": 1,
+    "MYR": 0.21
+  },
+  "note": "Used for offline currency normalization (priceUsd = price * usdPerUnit[currency]). Update periodically; no network fetch is performed."
+}

@@ -45,6 +45,20 @@ npm run detect-changes # Phase 4: Detect changes (coming soon)
 npm run pipeline
 ```
 
+### Running the Pipeline for Specific Brands (local testing)
+
+Use `YML_BRANDS` (comma-separated brand slugs) to restrict pipeline steps to only those brands.
+
+```bash
+YML_BRANDS=aloyoga npm run pipeline
+# or multiple brands:
+YML_BRANDS=aloyoga,liforme npm run pipeline
+```
+
+Notes:
+- `fetch`, `enrich`, `normalize`, and `aggregate` will only process the filtered brands.
+- `detect-changes` and `update-symlinks` are global steps and will be skipped automatically when `YML_BRANDS` is set (to avoid updating `data/**/latest` from partial runs).
+
 ## Architecture
 
 See [CLAUDE.md](./CLAUDE.md) for detailed architecture and implementation notes.
@@ -202,7 +216,7 @@ This repository generates data that is consumed by YogaMatLabApp. See [INTEGRATI
    git submodule add https://github.com/productStripesAdmin/YogaMatLabData.git data/external
    ```
 
-2. **Create Import Script** in YogaMatLabApp to load `data/external/data/aggregated/latest/all-products.json` into Convex
+2. **Create Import Script** in YogaMatLabApp to load `data/external/data/aggregated/latest/all-products.json` into Convex (and optionally `data/external/data/aggregated/latest/brand-series-index.json` for per-series views)
 
 3. **Daily Updates**:
    ```bash

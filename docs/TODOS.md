@@ -9,6 +9,8 @@
 - [ ] How to handle sites with no products.json
 - [ ] Can product extract to weekly (from daily)
 - [ ] Address google search console
+- [ ] Deprecate product exclusions: [2026-01-20T01:13:58.772Z] ✓ Loaded 0 active product exclusions from Convex (productExclusions:getActive)
+[2026-01-20T01:13:58.772Z] ℹ Saved product exclusions to: /Users/kevin/_projects/PROJECTS/YogaMatLab/YogaMatLabData/data/raw/2026-01-20/_product-exclusions.json
 
 [1] If you're trying to fetch this for personal use or development, you can often get it to work by:
 

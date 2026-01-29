@@ -232,6 +232,22 @@
           "Description"
         ]
       }
-    }
+    },
+    "yuneyoga": {
+      "enabled": true,
+      "baseUrl": "https://yuneyoga.com",
+      "productPathTemplate": "/products/{handle}",
+      "coreFeatures": {
+        "heading": "🔍 Features That Matter",
+        "endHeadings": [
+          "Shipping",
+          "Shipping & Returns",
+          "Returns",
+          "FAQ",
+          "FAQs",
+          "Description"
+        ]
+      }
+    }    
   }
 }

@@ -32,6 +32,7 @@ export type YogaMatFeature =
   | "Extra Thick"
   | "Non-Slip"
   | "Lightweight"
+  | "Travel"
   | "Extra Long"
   | "Extra Wide"
   | "Alignment Marks"

@@ -20,9 +20,10 @@ import {
   checkDataChanged,
   updateHashRecord,
 } from './lib/hash-tracker.js';
+import { describeBrandFilter, parseBrandFilterFromEnv } from './lib/brand-filter.js';
 
 interface Brand {
-  _id: string;
+  _id?: string;
   name: string;
   slug: string;
   website: string;
@@ -65,6 +66,38 @@ interface ExtractionSummary {
     error?: string;
   }>;
 }
+
+type ProductExclusionRecord = {
+  brandSlug: string;
+  shopifyId: number;
+  remove?: boolean;
+  exclude?: boolean;
+  excludeFromPipeline?: boolean;
+  reason?: string;
+};
+
+type MinimalProductExclusion = {
+  brandSlug: string;
+  shopifyId: number;
+  remove: true;
+  reason?: string;
+};
+
+type ManualSeriesConfigFile = Array<{
+  slug: string;
+  series: Array<{
+    name?: string;
+    slug?: string;
+    description?: string;
+    matchAny?: string[];
+    matchTitleAny?: string[];
+    matchHandleAny?: string[];
+    matchProductTypeAny?: string[];
+    matchTagAny?: string[];
+    matchTitleRegex?: string[];
+    priority?: number;
+  }>;
+}>;
 
 function getManualRawFallbackPaths(brandSlug: string): string[] {
   const slug = (brandSlug ?? '').toLowerCase().trim();
@@ -135,6 +168,12 @@ async function removeExistingRawBrandFile(date: string, brandSlug: string): Prom
 
 async function cleanupRawDir(date: string, brands: Brand[]): Promise<void> {
   const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const filter = parseBrandFilterFromEnv();
+  if (filter && filter.size > 0) {
+    logger.info(`Brand filter active (${describeBrandFilter(filter)}); skipping raw dir cleanup.`);
+    return;
+  }
+
   const allowed = new Set(
     brands
       .filter(b => b.scrapingEnabled !== false)
@@ -178,6 +217,230 @@ async function saveBrandsMetadata(date: string, brands: Brand[]): Promise<void> 
 
   await fs.writeFile(filepath, JSON.stringify(minimal, null, 2), 'utf-8');
   logger.info(`Saved brands metadata to: ${filepath}`);
+}
+
+async function saveProductExclusions(date: string, exclusions: MinimalProductExclusion[]): Promise<void> {
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const filepath = path.join(rawDir, '_product-exclusions.json');
+  await fs.writeFile(filepath, JSON.stringify(exclusions, null, 2), 'utf-8');
+  logger.info(`Saved product exclusions to: ${filepath}`);
+}
+
+async function saveManualSeriesConfig(date: string, config: ManualSeriesConfigFile): Promise<void> {
+  const rawDir = path.join(process.cwd(), 'data', 'raw', date);
+  const filepath = path.join(rawDir, '_brand-series.json');
+  await fs.writeFile(filepath, JSON.stringify(config, null, 2), 'utf-8');
+  logger.info(`Saved series definitions to: ${filepath}`);
+}
+
+function isActiveExclusion(record: ProductExclusionRecord): boolean {
+  // Support multiple possible flag names to ease YogaMatLabApp integration.
+  if (record.remove === true) return true;
+  if (record.exclude === true) return true;
+  if (record.excludeFromPipeline === true) return true;
+  // If no flag is present, treat the record as active (YogaMatLabApp may return only active exclusions).
+  const hasAnyFlag =
+    typeof record.remove === 'boolean' ||
+    typeof record.exclude === 'boolean' ||
+    typeof record.excludeFromPipeline === 'boolean';
+  return !hasAnyFlag;
+}
+
+function normalizeStringArray(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value.map(v => String(v)).map(v => v.replace(/\s+/g, ' ').trim()).filter(Boolean);
+}
+
+function normalizeManualSeriesConfig(raw: unknown): ManualSeriesConfigFile | null {
+  if (!Array.isArray(raw)) return null;
+  const brands: ManualSeriesConfigFile = [];
+
+  for (const item of raw as any[]) {
+    const slug = String(item?.slug ?? '').toLowerCase().trim();
+    if (!slug) continue;
+    const series = Array.isArray(item?.series) ? item.series : [];
+
+    const outSeries: ManualSeriesConfigFile[number]['series'] = [];
+    for (const s of series) {
+      const name = typeof s?.name === 'string' ? s.name.replace(/\s+/g, ' ').trim() : '';
+      const seriesSlug = typeof s?.slug === 'string' ? s.slug.toLowerCase().trim() : '';
+      if (!name || !seriesSlug) continue;
+
+      outSeries.push({
+        name,
+        slug: seriesSlug,
+        description: typeof s?.description === 'string' ? s.description.trim() : undefined,
+        matchAny: normalizeStringArray(s?.matchAny),
+        matchTitleAny: normalizeStringArray(s?.matchTitleAny),
+        matchHandleAny: normalizeStringArray(s?.matchHandleAny),
+        matchProductTypeAny: normalizeStringArray(s?.matchProductTypeAny),
+        matchTagAny: normalizeStringArray(s?.matchTagAny),
+        matchTitleRegex: normalizeStringArray(s?.matchTitleRegex),
+        priority: typeof s?.priority === 'number' && Number.isFinite(s.priority) ? s.priority : undefined,
+      });
+    }
+
+    if (outSeries.length === 0) continue;
+    brands.push({ slug, series: outSeries });
+  }
+
+  return brands.length > 0 ? brands : [];
+}
+
+async function fetchActiveProductExclusions(client: ConvexHttpClient): Promise<MinimalProductExclusion[]> {
+  const configured = (process.env.CONVEX_PRODUCT_EXCLUSIONS_QUERY ?? '').trim();
+  const candidates = Array.from(
+    new Set(
+      [
+        configured,
+        'productExclusions:getActive',
+        'productExclusions:getForPipeline',
+        'productExclusions:listActive',
+      ].filter(Boolean)
+    )
+  );
+
+  let raw: unknown = null;
+  let usedQuery: string | null = null;
+
+  for (const name of candidates) {
+    try {
+      raw = await client.query(name as any);
+      usedQuery = name;
+      break;
+    } catch {
+      // try next
+    }
+  }
+
+  if (!usedQuery) {
+    logger.warn(
+      'No product exclusions query found in Convex (skipping exclusions). Set CONVEX_PRODUCT_EXCLUSIONS_QUERY or implement one of: productExclusions:getActive | productExclusions:getForPipeline | productExclusions:listActive'
+    );
+    return [];
+  }
+
+  const records = Array.isArray(raw) ? (raw as ProductExclusionRecord[]) : [];
+  const out: MinimalProductExclusion[] = [];
+
+  for (const item of records) {
+    const brandSlug = (item?.brandSlug ?? '').toString().trim();
+    const shopifyId = Number((item as any)?.shopifyId);
+    if (!brandSlug) continue;
+    if (!Number.isFinite(shopifyId)) continue;
+    if (!isActiveExclusion(item)) continue;
+
+    out.push({
+      brandSlug,
+      shopifyId,
+      remove: true,
+      reason: typeof item.reason === 'string' && item.reason.trim().length > 0 ? item.reason.trim() : undefined,
+    });
+  }
+
+  // Stable output for diffs/debugging
+  out.sort((a, b) => a.brandSlug.localeCompare(b.brandSlug) || a.shopifyId - b.shopifyId);
+
+  logger.success(`Loaded ${out.length} active product exclusions from Convex (${usedQuery})`);
+  return out;
+}
+
+async function fetchManualSeriesConfigFromConvex(client: ConvexHttpClient): Promise<ManualSeriesConfigFile | null> {
+  const configured = (process.env.CONVEX_SERIES_DEFINITIONS_QUERY ?? '').trim();
+  const candidates = Array.from(
+    new Set(
+      [
+        configured,
+        'seriesDefinitions:getActiveConfig',
+        'seriesDefinitions:getForPipeline',
+        'seriesDefinitions:listActive',
+        'series:getActiveConfig',
+        'series:listActive',
+      ].filter(Boolean)
+    )
+  );
+
+  let raw: unknown = null;
+  let usedQuery: string | null = null;
+
+  for (const name of candidates) {
+    try {
+      raw = await client.query(name as any);
+      usedQuery = name;
+      break;
+    } catch {
+      // try next
+    }
+  }
+
+  if (!usedQuery) {
+    logger.warn(
+      'No series definitions query found in Convex (skipping series config). Set CONVEX_SERIES_DEFINITIONS_QUERY or implement one of: seriesDefinitions:getActiveConfig | seriesDefinitions:getForPipeline | seriesDefinitions:listActive'
+    );
+    return null;
+  }
+
+  const normalized = normalizeManualSeriesConfig(raw);
+  if (!normalized) {
+    logger.warn(`Series definitions query returned unexpected shape (${usedQuery}); skipping.`);
+    return null;
+  }
+
+  logger.success(`Loaded series definitions from Convex (${usedQuery})`);
+  return normalized;
+}
+
+function shouldFetchSeriesConfigFromConvex(): boolean {
+  const value = (process.env.YML_SERIES_CONFIG_SOURCE ?? 'file').toLowerCase().trim();
+  return value === 'convex';
+}
+
+async function loadBrandsFromFile(): Promise<Brand[]> {
+  const configured = (process.env.YML_BRANDS_PATH ?? '').trim();
+  const candidates = Array.from(
+    new Set(
+      [
+        configured,
+        path.join(process.cwd(), 'config', 'brands.json'),
+        path.join(process.cwd(), 'brands.json'),
+      ].filter(Boolean)
+    )
+  );
+
+  let lastError: unknown = null;
+  for (const filepath of candidates) {
+    try {
+      await fs.access(filepath);
+      const raw = await fs.readFile(filepath, 'utf-8');
+      const parsed = JSON.parse(raw) as unknown;
+      if (!Array.isArray(parsed)) continue;
+
+      const brands = (parsed as any[]).map((b) => ({
+        _id: typeof b?._id === 'string' ? b._id : undefined,
+        name: String(b?.name ?? '').trim(),
+        slug: String(b?.slug ?? '').trim(),
+        website: String(b?.website ?? '').trim(),
+        scrapingEnabled: typeof b?.scrapingEnabled === 'boolean' ? b.scrapingEnabled : true,
+        productsJsonUrl: b?.productsJsonUrl == null ? null : String(b.productsJsonUrl),
+        platform: (b?.platform as Brand['platform']) ?? 'shopify',
+        platformConfig: b?.platformConfig,
+        rateLimit: b?.rateLimit,
+      })) as Brand[];
+
+      const filtered = brands.filter(b => b.name && b.slug && b.website);
+      if (filtered.length === 0) continue;
+
+      logger.success(`Loaded ${filtered.length} brands from file: ${filepath}`);
+      return filtered;
+    } catch (error) {
+      lastError = error;
+      continue;
+    }
+  }
+
+  throw new Error(
+    `Failed to load brands from file. Set YML_BRANDS_PATH or create config/brands.json. ${lastError instanceof Error ? lastError.message : ''}`.trim()
+  );
 }
 
 async function fetchBrandProducts(brand: Brand): Promise<ExtractionResult> {
@@ -493,36 +756,39 @@ async function main() {
   const startTime = Date.now();
   const date = new Date().toISOString().split('T')[0];
 
-  // Check for CONVEX_URL
+  const brandsSource = (process.env.YML_BRANDS_SOURCE ?? 'convex').toLowerCase().trim();
   const convexUrl = process.env.CONVEX_URL;
-  if (!convexUrl) {
+
+  const canUseConvex = Boolean(convexUrl && convexUrl.trim().length > 0);
+  const client = canUseConvex ? new ConvexHttpClient(convexUrl!) : null;
+  if (brandsSource !== 'file' && !client) {
     logger.error('CONVEX_URL environment variable is not set');
-    logger.info('Please set CONVEX_URL in your .env file');
+    logger.info('Please set CONVEX_URL in your .env file (or set YML_BRANDS_SOURCE=file to use config/brands.json)');
     process.exit(1);
   }
 
-  // Initialize Convex client
-  logger.info('Connecting to Convex...');
-  const client = new ConvexHttpClient(convexUrl);
-
-  // Query brands from Convex
-  logger.info('Fetching scrapable brands from Convex...');
   let brands: Brand[];
-  try {
-    // Note: This assumes api.brands.getScrapableBrands exists in YogaMatLabApp
-    const raw = await client.query('brands:getScrapableBrands' as any);
-    brands = (Array.isArray(raw) ? raw : []).map((b: Brand) => ({
-      ...b,
-      // Treat missing as enabled; disabled brands should return explicit `false`.
-      scrapingEnabled: b.scrapingEnabled ?? true,
-    }));
-    logger.success(`Found ${brands.length} brands from Convex`);
-  } catch (error) {
-    logger.error('Failed to fetch brands from Convex', error);
-    logger.info(
-      'Make sure api.brands.getScrapableBrands query exists in YogaMatLabApp'
-    );
-    process.exit(1);
+  if (brandsSource === 'file') {
+    brands = await loadBrandsFromFile();
+  } else {
+    logger.info('Connecting to Convex...');
+    logger.info('Fetching scrapable brands from Convex...');
+    try {
+      // Note: This assumes api.brands.getScrapableBrands exists in YogaMatLabApp
+      const raw = await client!.query('brands:getScrapableBrands' as any);
+      brands = (Array.isArray(raw) ? raw : []).map((b: Brand) => ({
+        ...b,
+        // Treat missing as enabled; disabled brands should return explicit `false`.
+        scrapingEnabled: b.scrapingEnabled ?? true,
+      }));
+      logger.success(`Found ${brands.length} brands from Convex`);
+    } catch (error) {
+      logger.error('Failed to fetch brands from Convex', error);
+      logger.info(
+        'Make sure api.brands.getScrapableBrands query exists in YogaMatLabApp'
+      );
+      process.exit(1);
+    }
   }
 
   if (brands.length === 0) {
@@ -530,10 +796,41 @@ async function main() {
     process.exit(0);
   }
 
+  const brandFilter = parseBrandFilterFromEnv();
+  if (brandFilter && brandFilter.size > 0) {
+    const before = brands.length;
+    brands = brands.filter((b) => brandFilter.has((b.slug ?? '').toLowerCase().trim()));
+    const after = brands.length;
+    logger.info(`Brand filter: ${describeBrandFilter(brandFilter)}`);
+    logger.info(`Filtered brands: ${after}/${before}`);
+
+    if (after === 0) {
+      logger.error('No matching brands found for filter', {
+        filter: describeBrandFilter(brandFilter),
+        availableBrands: before,
+      });
+      process.exit(1);
+    }
+  }
+
   // Ensure data directories exist
   await ensureDataDirectories(date);
   await saveBrandsMetadata(date, brands);
   await cleanupRawDir(date, brands);
+
+  if (client) {
+    // Fetch and persist active product exclusions for the day (used by normalization).
+    const exclusions = await fetchActiveProductExclusions(client);
+    await saveProductExclusions(date, exclusions);
+
+    // Series config is canonical in this repo (`config/brand-series.json`). Only fetch from Convex when explicitly enabled.
+    if (shouldFetchSeriesConfigFromConvex()) {
+      const seriesConfig = await fetchManualSeriesConfigFromConvex(client);
+      if (seriesConfig) await saveManualSeriesConfig(date, seriesConfig);
+    }
+  } else {
+    logger.warn('Convex not configured; skipping product exclusions + series definitions.');
+  }
 
   // Fetch products from each brand sequentially
   const results: ExtractionResult[] = [];
@@ -622,21 +919,12 @@ async function main() {
   if (summary.totalProducts === 0) {
     logger.error('PIPELINE FAILED: No products were successfully extracted from any brand');
     logger.info('Next step: Fix brand configurations or check for rate limiting');
-    try {
-      client.close();
-    } catch (e) {
-      // Ignore close errors
-    }
     process.exit(1);
   }
 
   logger.info('Next step: Run npm run normalize to transform data to YogaMat schema');
 
-  try {
-    client.close();
-  } catch (e) {
-    // Ignore close errors - not critical for pipeline success
-  }
+  // ConvexHttpClient does not require explicit teardown.
 }
 
 main().catch((error) => {

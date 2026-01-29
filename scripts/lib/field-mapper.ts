@@ -1,5 +1,7 @@
 import type { ShopifyProduct } from './fetch-products-json.js';
 import type { MaterialType, YogaMatFeature, TextureType } from '../../types/yogaMat.js';
+import { existsSync, readFileSync } from 'node:fs';
+import path from 'node:path';
 
 export interface NormalizedYogaMat {
   // Required fields
@@ -8,11 +10,17 @@ export interface NormalizedYogaMat {
   name: string;
   slug: string;
 
-  // Shadow titles (standardized display title support)
-  titleOriginal?: string; // Raw title from the pipeline (Shopify)
-  titleAuto?: string; // Auto-normalized title (derived)
-  titleAutoConfidence?: number; // 0..1
-  titleAutoVersion?: string; // e.g., "shadow-title-v1"
+  // Original title from pipeline (Shopify)
+  titleOriginal?: string;
+
+  // Series grouping (for brands that publish designs as separate products)
+  seriesKey?: string; // e.g. "yolohayoga:unity-pro-cork"
+  seriesName?: string; // e.g. "Unity Pro Cork"
+  seriesConfidence?: number; // 0..1
+  seriesVersion?: string; // e.g. "series-v1"
+  designName?: string; // e.g. "Mountain Magic"
+  designConfidence?: number; // 0..1
+  designVersion?: string; // e.g. "series-v1"
 
   // Optional fields with data from Shopify
   description?: string;
@@ -66,6 +74,7 @@ export interface NormalizedYogaMat {
   materials?: MaterialType[];
   materialSource?: 'title' | 'tags' | 'description';
   materialConfidence?: number; // 0..1
+  pvcFree?: boolean;
   texture?: TextureType;
   textures?: TextureType[];
   textureSource?: 'title' | 'tags' | 'description';
@@ -96,6 +105,11 @@ export interface NormalizedYogaMat {
   maxPrice?: number;
   variantPriceValues?: number[]; // Unique prices across variants (sorted asc)
   priceCurrency?: string; // default "USD"
+  priceCurrencyOriginal?: string; // e.g. "MYR" when source feed is not USD
+  minPriceOriginal?: number;
+  maxPriceOriginal?: number;
+  variantPriceValuesOriginal?: number[];
+  priceUsdRate?: number; // usdPerUnit used for conversion (if any)
   minGrams?: number;
   maxGrams?: number;
   variantGramsValues?: number[]; // Unique grams values across variants (sorted asc)
@@ -233,7 +247,350 @@ function clamp01(value: number): number {
   return value;
 }
 
-const TITLE_AUTO_VERSION = 'shadow-title-v1';
+const SERIES_VERSION = 'series-v1';
+const SERIES_MANUAL_VERSION = 'series-manual-v1';
+
+type ManualSeriesConfigFile = Array<{
+  slug: string;
+  series: Array<{
+    name?: string;
+    slug?: string;
+    description?: string;
+    // Optional matching rules (prefer these over inference).
+    matchAny?: string[];
+    matchTitleAny?: string[];
+    matchHandleAny?: string[];
+    matchProductTypeAny?: string[];
+    matchTagAny?: string[];
+    matchTitleRegex?: string[];
+    priority?: number;
+  }>;
+}>;
+
+type ManualSeriesRule = {
+  brandSlug: string;
+  seriesName: string;
+  seriesKeyPart: string;
+  matchAny: string[];
+  matchTitleAny: string[];
+  matchHandleAny: string[];
+  matchProductTypeAny: string[];
+  matchTagAny: string[];
+  matchTitleRegex: string[];
+  priority: number;
+};
+
+let cachedManualSeriesRules: Map<string, ManualSeriesRule[]> | null = null;
+
+// Product-level series overrides: productSlug → seriesKey
+type ProductSeriesOverride = {
+  productSlug: string;
+  seriesKey: string;
+  seriesName?: string;
+  reason?: string;
+};
+
+let cachedProductSeriesOverrides: Map<string, ProductSeriesOverride> | null = null;
+
+function loadProductSeriesOverrides(): Map<string, ProductSeriesOverride> {
+  if (cachedProductSeriesOverrides) return cachedProductSeriesOverrides;
+
+  const overrides = new Map<string, ProductSeriesOverride>();
+
+  const candidatePaths = Array.from(
+    new Set(
+      [
+        (process.env.YML_PRODUCT_SERIES_OVERRIDES_PATH ?? '').trim(),
+        path.join(process.cwd(), 'config', 'product-series-overrides.json'),
+      ].filter(Boolean)
+    )
+  );
+
+  for (const filepath of candidatePaths) {
+    try {
+      if (!existsSync(filepath)) continue;
+      const raw = readFileSync(filepath, 'utf-8');
+      const data = JSON.parse(raw) as unknown;
+      if (!Array.isArray(data)) continue;
+
+      for (const item of data as ProductSeriesOverride[]) {
+        const productSlug = (item?.productSlug ?? '').trim();
+        const seriesKey = (item?.seriesKey ?? '').trim();
+        if (!productSlug || !seriesKey) continue;
+
+        overrides.set(productSlug, {
+          productSlug,
+          seriesKey,
+          seriesName: item.seriesName?.trim() || undefined,
+          reason: item.reason?.trim() || undefined,
+        });
+      }
+      break; // Use first file found
+    } catch {
+      // ignore
+    }
+  }
+
+  cachedProductSeriesOverrides = overrides;
+  return overrides;
+}
+
+function normalizeMatchText(value: string): string {
+  return (value ?? '')
+    .toLowerCase()
+    .replace(/[’‘]/g, "'")
+    .replace(/[“”″]/g, '"')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function isBundleLikeText(text: string): boolean {
+  const normalized = (text ?? '').toLowerCase();
+  if (!normalized) return false;
+  // Avoid false positives like "Combo Yoga Mat" (a legitimate series name for some brands).
+  return /\b(bundle|bundles|kit|kits|set|sets|pack|packs)\b/i.test(normalized);
+}
+
+function loadManualSeriesRules(): Map<string, ManualSeriesRule[]> {
+  if (cachedManualSeriesRules) return cachedManualSeriesRules;
+
+  const rulesByBrand = new Map<string, ManualSeriesRule[]>();
+
+  const candidatePaths = Array.from(
+    new Set(
+      [
+        (process.env.YML_MANUAL_SERIES_PATH ?? '').trim(),
+        path.join(process.cwd(), 'config', 'brand-series.json'),
+        path.join(process.cwd(), 'config', 'manual-series.json'),
+        path.join(process.cwd(), 'manual-series.json'),
+        path.join(process.cwd(), 'brand-series.json'),
+      ].filter(Boolean)
+    )
+  );
+
+  let parsed: ManualSeriesConfigFile | null = null;
+  for (const filepath of candidatePaths) {
+    try {
+      if (!existsSync(filepath)) continue;
+      const raw = readFileSync(filepath, 'utf-8');
+      const data = JSON.parse(raw) as unknown;
+      if (Array.isArray(data)) {
+        parsed = data as ManualSeriesConfigFile;
+        break;
+      }
+    } catch {
+      // ignore
+    }
+  }
+
+  if (!parsed) {
+    cachedManualSeriesRules = rulesByBrand;
+    return rulesByBrand;
+  }
+
+  for (const brand of parsed) {
+    const brandSlug = (brand?.slug ?? '').toLowerCase().trim();
+    if (!brandSlug) continue;
+    const series = Array.isArray(brand.series) ? brand.series : [];
+
+    const rules: ManualSeriesRule[] = [];
+    for (const item of series) {
+      const seriesName = String(item?.name ?? '').replace(/\s+/g, ' ').trim();
+      if (!seriesName) continue;
+
+      const explicitKeyPart = String(item?.slug ?? '').toLowerCase().trim();
+      const seriesKeyPart = explicitKeyPart.length > 0 ? explicitKeyPart : slugifyKeyPart(seriesName);
+      if (!seriesKeyPart) continue;
+
+      const matchAny = Array.isArray(item?.matchAny) ? item.matchAny.map(String) : [];
+      const matchTitleAny = Array.isArray(item?.matchTitleAny) ? item.matchTitleAny.map(String) : [];
+      const matchHandleAny = Array.isArray(item?.matchHandleAny) ? item.matchHandleAny.map(String) : [];
+      const matchProductTypeAny = Array.isArray(item?.matchProductTypeAny) ? item.matchProductTypeAny.map(String) : [];
+      const matchTagAny = Array.isArray(item?.matchTagAny) ? item.matchTagAny.map(String) : [];
+      const matchTitleRegex = Array.isArray(item?.matchTitleRegex) ? item.matchTitleRegex.map(String) : [];
+      const priority = typeof item?.priority === 'number' && Number.isFinite(item.priority) ? item.priority : 0;
+
+      rules.push({
+        brandSlug,
+        seriesName,
+        seriesKeyPart,
+        matchAny,
+        matchTitleAny,
+        matchHandleAny,
+        matchProductTypeAny,
+        matchTagAny,
+        matchTitleRegex,
+        priority,
+      });
+    }
+
+    if (rules.length > 0) rulesByBrand.set(brandSlug, rules);
+  }
+
+  cachedManualSeriesRules = rulesByBrand;
+  return rulesByBrand;
+}
+
+function scoreManualSeriesRule(params: {
+  rule: ManualSeriesRule;
+  title: string;
+  handle: string;
+  productType: string;
+  tags: string[];
+}): { score: number; usedExplicitRules: boolean } {
+  const title = params.title;
+  const handle = params.handle;
+  const productType = params.productType;
+  const tags = params.tags.join(' ');
+
+  let score = 0;
+  let usedExplicitRules = false;
+
+  const matchAny = (needle: string, haystack: string): boolean => {
+    const n = normalizeMatchText(needle);
+    if (!n) return false;
+    const h = normalizeMatchText(haystack);
+    return h.includes(n);
+  };
+
+  const addAnyMatches = (needles: string[], haystack: string, points: number) => {
+    for (const needle of needles) {
+      if (matchAny(needle, haystack)) score += points;
+    }
+  };
+
+  // Explicit match rules (preferred).
+  if (
+    params.rule.matchAny.length > 0 ||
+    params.rule.matchTitleAny.length > 0 ||
+    params.rule.matchHandleAny.length > 0 ||
+    params.rule.matchProductTypeAny.length > 0 ||
+    params.rule.matchTagAny.length > 0 ||
+    params.rule.matchTitleRegex.length > 0
+  ) {
+    usedExplicitRules = true;
+    addAnyMatches(params.rule.matchAny, `${title} ${handle} ${productType} ${tags}`, 3);
+    addAnyMatches(params.rule.matchTitleAny, title, 3);
+    addAnyMatches(params.rule.matchHandleAny, handle, 4);
+    addAnyMatches(params.rule.matchProductTypeAny, productType, 3);
+    addAnyMatches(params.rule.matchTagAny, tags, 2);
+
+    for (const pattern of params.rule.matchTitleRegex) {
+      try {
+        const re = new RegExp(pattern, 'i');
+        if (re.test(title)) score += 4;
+      } catch {
+        // ignore invalid regex
+      }
+    }
+
+    return { score, usedExplicitRules };
+  }
+
+  // Inference fallback: prefer exact phrase matches for the series name.
+  const normalizedTitle = normalizeMatchText(title);
+  const normalizedHandle = normalizeMatchText(handle);
+  const normalizedType = normalizeMatchText(productType);
+  const normalizedTags = normalizeMatchText(tags);
+
+  const seriesNameNormalized = normalizeMatchText(params.rule.seriesName);
+  if (seriesNameNormalized && normalizedTitle.includes(seriesNameNormalized)) score += 6;
+  if (seriesNameNormalized && normalizedHandle.includes(seriesNameNormalized)) score += 4;
+
+  // Token-level matching (avoid very short tokens unless configured explicitly).
+  const allowedShortTokens = new Set(['xl', 'eko', 'grp', 'pro']);
+  const tokens = Array.from(
+    new Set(
+      seriesNameNormalized
+        .split(' ')
+        .map(t => t.trim())
+        .filter(Boolean)
+        .filter(t => t.length >= 3 || allowedShortTokens.has(t))
+        .filter(t => !['yoga', 'mat', 'mats', 'and', 'the', 'of', 'for', 'with'].includes(t))
+    )
+  );
+
+  for (const token of tokens) {
+    if (normalizedTitle.includes(token)) score += 2;
+    if (normalizedHandle.includes(token)) score += 2;
+    if (normalizedType.includes(token)) score += 1;
+    if (normalizedTags.includes(token)) score += 1;
+  }
+
+  return { score, usedExplicitRules };
+}
+
+function extractSeriesFromManualConfig(params: {
+  brandSlug: string;
+  titleOriginal: string;
+  handle?: string;
+  productType?: string;
+  tags?: string[];
+}): Pick<NormalizedYogaMat, 'seriesKey' | 'seriesName' | 'seriesConfidence' | 'seriesVersion'> {
+  const brandSlug = (params.brandSlug ?? '').toLowerCase().trim();
+  const title = (params.titleOriginal ?? '').replace(/\s+/g, ' ').trim();
+  const handle = (params.handle ?? '').toLowerCase().trim();
+  const productType = (params.productType ?? '').replace(/\s+/g, ' ').trim();
+  const tags = Array.isArray(params.tags) ? params.tags.map(String) : [];
+
+  if (!brandSlug || !title) return {};
+  // Avoid tags here: many stores add SEO tags containing "set"/"pack", which causes false positives.
+  if (isBundleLikeText(`${productType} ${title} ${handle}`)) return {};
+
+  const rulesByBrand = loadManualSeriesRules();
+  const rules = rulesByBrand.get(brandSlug);
+  if (!rules || rules.length === 0) return {};
+
+  let best: { rule: ManualSeriesRule; score: number; usedExplicitRules: boolean } | null = null;
+
+  for (const rule of rules) {
+    // Avoid overly generic series names unless explicit match rules are provided.
+    const nameNorm = normalizeMatchText(rule.seriesName);
+    const hasExplicit =
+      rule.matchAny.length > 0 ||
+      rule.matchTitleAny.length > 0 ||
+      rule.matchHandleAny.length > 0 ||
+      rule.matchProductTypeAny.length > 0 ||
+      rule.matchTagAny.length > 0 ||
+      rule.matchTitleRegex.length > 0;
+    if (!hasExplicit && nameNorm.length <= 3) continue;
+
+    const scored = scoreManualSeriesRule({
+      rule,
+      title,
+      handle,
+      productType,
+      tags,
+    });
+    if (scored.score <= 0) continue;
+
+    if (
+      !best ||
+      scored.score > best.score ||
+      (scored.score === best.score && rule.priority > best.rule.priority) ||
+      (scored.score === best.score && rule.priority === best.rule.priority && rule.seriesName.length > best.rule.seriesName.length)
+    ) {
+      best = { rule, score: scored.score, usedExplicitRules: scored.usedExplicitRules };
+    }
+  }
+
+  if (!best) return {};
+
+  // Apply a small threshold for inferred matches to avoid accidental assignment.
+  const threshold = best.usedExplicitRules ? 3 : 4;
+  if (best.score < threshold) return {};
+
+  const seriesKey = `${brandSlug}:${best.rule.seriesKeyPart}`;
+  const confidence = best.usedExplicitRules ? 0.95 : Math.min(0.92, 0.7 + best.score * 0.05);
+
+  return {
+    seriesKey,
+    seriesName: best.rule.seriesName,
+    seriesConfidence: clamp01(confidence),
+    seriesVersion: SERIES_MANUAL_VERSION,
+  };
+}
 
 function pushUnique<T>(arr: T[], item: T, keyFn: (item: T) => string): void {
   const key = keyFn(item);
@@ -262,127 +619,207 @@ function escapeForRegex(value: string): string {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function generateTitleAuto(params: {
-  titleOriginal: string;
-  vendor?: string;
-  availableColors?: string[];
-}): { titleAuto: string; confidence: number } {
-  const original = params.titleOriginal?.trim() ?? '';
-  if (!original) return { titleAuto: '', confidence: 0 };
-
-  let working = original;
-  const edits: string[] = [];
-
-  // Normalize common punctuation for easier matching.
-  working = working
-    .replace(/[–—]/g, '-')
-    .replace(/[“”″]/g, '"')
+function slugifyKeyPart(value: string): string {
+  return value
+    .toLowerCase()
     .replace(/[’‘]/g, "'")
-    .replace(/\s+/g, ' ')
-    .trim();
+    .replace(/[“”″]/g, '"')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
 
-  // Remove common sale markers.
-  working = working.replace(/\(\s*sale\s*\)/ig, '').replace(/\bSALE\b/ig, '').trim();
+function splitTitleOnDash(title: string): { prefix: string; suffix: string } | null {
+  const parts = title.split(' - ').map(s => s.trim()).filter(Boolean);
+  if (parts.length < 2) return null;
+  return { prefix: parts[0], suffix: parts.slice(1).join(' - ') };
+}
 
-  // Remove parentheticals that are clearly measurements (e.g., "(6mm)", "(180 cm)", "(3.2 kg)").
-  working = working.replace(/\(([^)]{0,40})\)/g, (match, inner) => {
-    const text = String(inner ?? '');
-    if (/\d/.test(text) && /(mm|cm|kg|\blb\b|\blbs\b|inch|in\.|\bft\b|["″])/i.test(text)) {
-      edits.push('drop-parenthetical-measurement');
-      return ' ';
+function extractSeriesInfoHeuristic(params: {
+  brandSlug: string;
+  titleOriginal: string;
+  handle?: string;
+}): Pick<NormalizedYogaMat, 'seriesKey' | 'seriesName' | 'seriesConfidence' | 'seriesVersion' | 'designName' | 'designConfidence' | 'designVersion'> {
+  const brandSlug = (params.brandSlug ?? '').toLowerCase().trim();
+  const title = (params.titleOriginal ?? '').replace(/\s+/g, ' ').trim();
+  const handle = (params.handle ?? '').toLowerCase().trim();
+
+  if (!brandSlug || !title) return {};
+
+  const make = (seriesName: string, designName: string | undefined, confidence: number) => {
+    const keyPart = slugifyKeyPart(seriesName);
+    if (!keyPart) return {};
+    return {
+      seriesKey: `${brandSlug}:${keyPart}`,
+      seriesName,
+      seriesConfidence: clamp01(confidence),
+      seriesVersion: SERIES_VERSION,
+      designName: designName && designName.trim().length > 0 ? designName.trim() : undefined,
+      designConfidence: designName ? clamp01(Math.min(0.95, confidence)) : undefined,
+      designVersion: designName ? SERIES_VERSION : undefined,
+    };
+  };
+
+  // YOLOHA: "Mountain Magic Aura Cork Yoga Mat" (design prefix + stable series suffix).
+  if (brandSlug === 'yolohayoga') {
+    const suffixes: Array<{ suffix: string; seriesName: string }> = [
+      { suffix: 'Unity Pro XL Cork Yoga Mat', seriesName: 'Unity Pro XL Cork' },
+      { suffix: 'Unity Pro Cork Yoga Mat', seriesName: 'Unity Pro Cork' },
+      { suffix: 'Nomad XL Cork Yoga Mat', seriesName: 'Nomad XL Cork' },
+      { suffix: 'Nomad Air Cork Yoga Mat', seriesName: 'Nomad Air Cork' },
+      { suffix: 'Nomad Cork Yoga Mat', seriesName: 'Nomad Cork' },
+      { suffix: 'Original Cork Yoga Mat', seriesName: 'Original Cork' },
+      { suffix: 'Kids Aura Cork Yoga Mat', seriesName: 'Kids Aura Cork' },
+      { suffix: 'Aura Cork Yoga Mat', seriesName: 'Aura Cork' },
+    ];
+
+    for (const item of suffixes) {
+      if (title.toLowerCase().endsWith(item.suffix.toLowerCase())) {
+        const design = title.slice(0, Math.max(0, title.length - item.suffix.length)).trim();
+        return make(item.seriesName, design.length > 0 ? design : undefined, 0.95);
+      }
     }
-    return match;
-  });
 
-  // Remove explicit dimension/measurement patterns.
-  const measurementPatterns: RegExp[] = [
-    /\b\d+(?:\.\d+)?\s*(?:mm|cm|kg)\b/ig,
-    /\b\d+(?:\.\d+)?\s*(?:lb|lbs|pounds?)\b/ig,
-    /\b\d+(?:\.\d+)?\s*(?:inches?|inch|in\.?|ft\.?|feet|foot)\b/ig,
-    /\b\d+\/\d+\s*(?:inches?|inch|in\.?|["″])/ig,
-    /\b\d+(?:\.\d+)?\s*(?:["″])\b/ig,
-    /\b\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])\s*[xX×]\s*\d+(?:\.\d+)?\s*(?:cm|mm|inches?|inch|in\.?|ft\.?|feet|foot|["'″”’′“‘])?/ig,
-  ];
-
-  for (const pattern of measurementPatterns) {
-    if (pattern.test(working)) edits.push('drop-measurement');
-    working = working.replace(pattern, ' ');
+    // Fallback: handle-based detection.
+    if (handle.includes('unity-pro-xl-cork-yoga-mat') || handle.includes('unity-xl-cork-yoga-mat')) return make('Unity Pro XL Cork', undefined, 0.9);
+    if (handle.includes('unity-pro-cork-yoga-mat')) return make('Unity Pro Cork', undefined, 0.9);
+    if (handle.includes('nomad-xl-cork-yoga-mat')) return make('Nomad XL Cork', undefined, 0.9);
+    if (handle.includes('travel-cork-yoga-mat') || title.toLowerCase().includes('nomad air')) return make('Nomad Air Cork', undefined, 0.88);
+    if (handle.includes('nomad-cork-yoga-mat')) return make('Nomad Cork', undefined, 0.9);
+    if (handle.includes('original-cork-yoga-mat')) return make('Original Cork', undefined, 0.9);
+    if (handle.includes('kids-cork-yoga-mat') || title.toLowerCase().startsWith('kids ')) return make('Kids Aura Cork', undefined, 0.85);
+    if (handle.includes('aura-cork-yoga-mat')) return make('Aura Cork', undefined, 0.9);
   }
 
-  // Remove leftover connector words commonly tied to measurements.
-  working = working.replace(/\b(?:thick|thickness)\b/ig, ' ');
-
-  // Remove repeated separators / formatting.
-  working = working
-    .replace(/\s*\|\s*/g, ' - ')
-    .replace(/\s*-\s*/g, ' - ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  const vendor = (params.vendor ?? '').trim();
-  const vendorKey = vendor ? normalizeTitleKey(vendor) : '';
-
-  // Remove vendor repeated at the end (e.g., "... - JadeYoga").
-  if (vendor && vendorKey) {
-    const vendorAtEndRe = new RegExp(`\\s*-\\s*${escapeForRegex(vendor)}\\s*$`, 'i');
-    if (vendorAtEndRe.test(working)) {
-      working = working.replace(vendorAtEndRe, '').trim();
-      edits.push('drop-vendor-suffix');
-    }
+  // Yoga Design Lab: "<Series> - <Design>"
+  if (brandSlug === 'yogadesignlab') {
+    const split = splitTitleOnDash(title);
+    if (split) return make(split.prefix, split.suffix, 0.92);
   }
 
-  // Remove trailing color/pattern only when it matches parsed availableColors.
-  const availableColors = (params.availableColors ?? [])
-    .map(c => c.replace(/\s+/g, ' ').trim())
-    .filter(Boolean);
-  const colorKeys = new Set(availableColors.map(c => normalizeTitleKey(c)).filter(Boolean));
-
-  if (colorKeys.size > 0) {
-    const suffixParts = working.split(' - ').map(s => s.trim()).filter(Boolean);
-    if (suffixParts.length > 1) {
-      const last = suffixParts[suffixParts.length - 1];
-      if (colorKeys.has(normalizeTitleKey(last))) {
-        suffixParts.pop();
-        working = suffixParts.join(' - ').trim();
-        edits.push('drop-color-suffix');
+  // House of Mats: "<Design> Yoga mat - <Collection> - <thickness>"
+  if (brandSlug === 'houseofmats') {
+    const parts = title.split(' - ').map(s => s.trim()).filter(Boolean);
+    if (parts.length >= 3) {
+      const thicknessIndex = parts.findIndex(p => /\b\d+(?:\.\d+)?\s*mm\b/i.test(p));
+      if (thicknessIndex > 0) {
+        const designRaw = parts[0];
+        const designName = designRaw.replace(/\byoga\s*mat\b/ig, '').replace(/\s+/g, ' ').trim() || undefined;
+        const seriesName = parts.slice(1, thicknessIndex + 1).join(' - ');
+        return make(seriesName, designName, 0.93);
       }
     }
   }
 
-  // If there are still multiple dash-separated segments, keep the first segment as the primary line name.
-  // (Colors / thickness / collection names tend to be appended after " - " in many stores.)
-  if (working.includes(' - ')) {
-    const parts = working.split(' - ').map(s => s.trim()).filter(Boolean);
-    if (parts.length > 1) {
-      working = parts[0];
-      edits.push('take-first-segment');
+  // Shakti Warrior: "<Series> - <Design>"
+  if (brandSlug === 'shaktiwarrior') {
+    const split = splitTitleOnDash(title);
+    if (split) return make(split.prefix, split.suffix, 0.88);
+  }
+
+  // Yogi Bare: "<Series> - <Design/Color>"
+  if (brandSlug === 'yogibare') {
+    const split = splitTitleOnDash(title);
+    if (split) return make(split.prefix, split.suffix, 0.85);
+  }
+
+  // Liforme: handle identifies Travel / XL lines.
+  if (brandSlug === 'liforme') {
+    const stripVendor = (value: string) =>
+      value.replace(/^liforme\s+/i, '').replace(/\s+/g, ' ').trim();
+
+    if (handle.endsWith('travel-yoga-mat')) {
+      const withoutVendor = stripVendor(title);
+      const suffix = 'Travel Yoga Mat';
+      const design = withoutVendor.toLowerCase().endsWith(suffix.toLowerCase())
+        ? withoutVendor.slice(0, Math.max(0, withoutVendor.length - suffix.length)).trim()
+        : '';
+      return make('Travel Yoga Mat', design || undefined, 0.86);
+    }
+
+    if (handle.endsWith('xl-yoga-mat')) {
+      const withoutVendor = stripVendor(title);
+      const suffix = 'XL Yoga Mat';
+      const design = withoutVendor.toLowerCase().endsWith(suffix.toLowerCase())
+        ? withoutVendor.slice(0, Math.max(0, withoutVendor.length - suffix.length)).trim()
+        : '';
+      return make('XL Yoga Mat', design || undefined, 0.86);
     }
   }
 
-  // Remove generic "Yoga Mat"/"Mat" suffix if we still have a descriptive line name.
-  const withoutMat = working.replace(/\bYoga\s+Mat(s)?\b/ig, '').replace(/\bMat(s)?\b/ig, '').replace(/\s+/g, ' ').trim();
-  const withoutMatWords = withoutMat.split(' ').filter(Boolean);
-  if (withoutMatWords.length >= 2) {
-    working = withoutMat;
-    edits.push('drop-mat-suffix');
+  return {};
+}
+
+const SERIES_OVERRIDE_VERSION = 'series-override-v1';
+
+function extractSeriesInfo(params: {
+  brandSlug: string;
+  titleOriginal: string;
+  handle?: string;
+  productType?: string;
+  tags?: string[];
+}): Pick<
+  NormalizedYogaMat,
+  | 'seriesKey'
+  | 'seriesName'
+  | 'seriesConfidence'
+  | 'seriesVersion'
+  | 'designName'
+  | 'designConfidence'
+  | 'designVersion'
+> {
+  const brandSlug = (params.brandSlug ?? '').toLowerCase().trim();
+  const title = (params.titleOriginal ?? '').replace(/\s+/g, ' ').trim();
+  const handle = (params.handle ?? '').toLowerCase().trim();
+  const productType = (params.productType ?? '').replace(/\s+/g, ' ').trim();
+  const tags = Array.isArray(params.tags) ? params.tags.map(String) : [];
+
+  if (!brandSlug || !title) return {};
+
+  // Check for product-level override first (highest priority)
+  const productSlug = `${brandSlug}-${handle}`;
+  const overrides = loadProductSeriesOverrides();
+  const override = overrides.get(productSlug);
+  if (override) {
+    // Derive seriesName from seriesKey if not provided
+    const seriesName = override.seriesName || override.seriesKey.split(':')[1]?.replace(/-/g, ' ') || override.seriesKey;
+    return {
+      seriesKey: override.seriesKey,
+      seriesName,
+      seriesConfidence: 1.0,
+      seriesVersion: SERIES_OVERRIDE_VERSION,
+    };
   }
 
-  // Final cleanup.
-  working = working
-    .replace(/\s*-\s*$/g, '')
-    .replace(/^\s*-\s*/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
+  // Prevent bundle/set products from being treated as a "series" regardless of naming.
+  // Avoid tags here: many stores add SEO tags containing "set"/"pack", which causes false positives.
+  if (isBundleLikeText(`${productType} ${title} ${handle}`)) return {};
 
-  if (!working) return { titleAuto: original, confidence: 0.3 };
+  const heuristic = extractSeriesInfoHeuristic({
+    brandSlug,
+    titleOriginal: params.titleOriginal,
+    handle: params.handle,
+  });
 
-  // Confidence heuristics.
-  let confidence = 0.55;
-  if (edits.length > 0) confidence += Math.min(0.35, edits.length * 0.05);
-  if (normalizeTitleKey(working) === normalizeTitleKey(original)) confidence = 0.4;
-  if (working.split(' ').filter(Boolean).length <= 1) confidence = Math.min(confidence, 0.45);
+  const manual = extractSeriesFromManualConfig({
+    brandSlug,
+    titleOriginal: params.titleOriginal,
+    handle: params.handle,
+    productType,
+    tags,
+  });
 
-  return { titleAuto: working, confidence: clamp01(confidence) };
+  if (manual.seriesKey) {
+    // Keep heuristic design parsing where it exists (it can still extract designName reliably for some brands).
+    return {
+      ...manual,
+      designName: heuristic.designName,
+      designConfidence: heuristic.designConfidence,
+      designVersion: heuristic.designVersion,
+    };
+  }
+
+  return heuristic;
 }
 
 /**
@@ -554,8 +991,15 @@ function linearToCm(value: number, unit: LinearUnit): number {
 function inferUnlabeledLinearUnit(text: string, ...numbers: number[]): LinearUnit {
   const lower = text.toLowerCase();
 
-  if (lower.includes("'") || lower.includes('′') || lower.includes('’') || lower.includes('‘')) return 'ft';
-  if (lower.includes('"') || lower.includes('″') || lower.includes('”') || lower.includes('“') || /\b(?:inch|in)\b/i.test(text)) return 'in';
+  // Only treat quote characters as measurement units when they are adjacent to a number.
+  // This avoids false positives from apostrophes in normal prose (e.g. "you’ll").
+  const hasFeetUnit =
+    /\b(?:ft|feet|foot)\b/i.test(text) || /\d\s*(?:'|′|’|‘)(?![a-z0-9])/i.test(text);
+  const hasInchUnit =
+    /\b(?:inch|in)\b/i.test(text) || /\d\s*(?:"|″|”|“)(?![a-z0-9])/i.test(text);
+
+  if (hasFeetUnit) return 'ft';
+  if (hasInchUnit) return 'in';
   if (lower.includes('cm')) return 'cm';
   if (lower.includes('mm')) return 'mm';
 
@@ -579,11 +1023,19 @@ function extractAllLinearMeasurements(text: string): Array<{ value: number; unit
 }
 
 function parseSingleLinearToCm(text: string): number | null {
-  const measurements = extractAllLinearMeasurements(text);
+  // For length/width/diameter parsing, millimeters usually represent thickness.
+  // Only treat `mm` as a linear unit when the value is large enough to plausibly
+  // represent a dimension (e.g., `1830mm` -> 183cm). Small `mm` values like `3.5mm`
+  // should not become `0.35cm`.
+  const measurements = extractAllLinearMeasurements(text).filter((m) => {
+    if (m.unit !== 'mm') return true;
+    return m.value >= 100;
+  });
   if (measurements.length === 0) return null;
 
-  const firstMetric = measurements.find(m => isMetricUnit(m.unit));
-  const selected = firstMetric ?? measurements[0];
+  const firstCm = measurements.find(m => m.unit === 'cm');
+  const firstNonMm = measurements.find(m => m.unit !== 'mm');
+  const selected = firstCm ?? firstNonMm ?? measurements[0];
   return linearToCm(selected.value, selected.unit);
 }
 
@@ -713,11 +1165,14 @@ function pickBestDimensionPairMatch(dimStr: string): { length: number; width: nu
       const leftUnit = unitTokenToLinearUnit(match[2]) ?? unitTokenToLinearUnit(match[4]) ?? inferred;
       const rightUnit = unitTokenToLinearUnit(match[4]) ?? unitTokenToLinearUnit(match[2]) ?? inferred;
 
-      const length = linearToCm(leftValue, leftUnit);
-      const width = linearToCm(rightValue, rightUnit);
-
-      const minDim = Math.min(length, width);
-      const maxDim = Math.max(length, width);
+      // For unlabeled pairs like `24" × 72"`, brands frequently use W×L ordering. We normalize
+      // to `length >= width` to keep product fields and sanity checks consistent.
+      const leftCm = linearToCm(leftValue, leftUnit);
+      const rightCm = linearToCm(rightValue, rightUnit);
+      const minDim = Math.min(leftCm, rightCm);
+      const maxDim = Math.max(leftCm, rightCm);
+      const length = maxDim;
+      const width = minDim;
 
       // Filter out "dimension pairs" that are really "width x thickness" (e.g., 24"W x 4mm).
       const looksLikeThicknessPair = minDim < 5 && maxDim > 25;
@@ -764,11 +1219,11 @@ function pickBestDimensionPairMatch(dimStr: string): { length: number; width: nu
     const leftUnit = unitTokenToLinearUnit(preferred[2]) ?? unitTokenToLinearUnit(preferred[4]) ?? inferred;
     const rightUnit = unitTokenToLinearUnit(preferred[4]) ?? unitTokenToLinearUnit(preferred[2]) ?? inferred;
 
-    return {
-      length: linearToCm(leftValue, leftUnit),
-      width: linearToCm(rightValue, rightUnit),
-      matchText: preferred[0],
-    };
+    const leftCm = linearToCm(leftValue, leftUnit);
+    const rightCm = linearToCm(rightValue, rightUnit);
+    const minDim = Math.min(leftCm, rightCm);
+    const maxDim = Math.max(leftCm, rightCm);
+    return { length: maxDim, width: minDim, matchText: preferred[0] };
   }
 
   candidates.sort((a, b) => b.score - a.score);
@@ -948,6 +1403,21 @@ function extractDimensions(product: ShopifyProduct, text: string): {
   };
 } {
   // First, try to extract from options
+  const fromOptions: {
+    length?: {
+      value: number;
+      unit: 'cm';
+      source: 'options';
+      originalText: string;
+    };
+    width?: {
+      value: number;
+      unit: 'cm';
+      source: 'options';
+      originalText: string;
+    };
+  } = {};
+
   if (product.options) {
     for (const option of product.options) {
       const optionName = option.name.toLowerCase();
@@ -960,6 +1430,7 @@ function extractDimensions(product: ShopifyProduct, text: string): {
             const length = parsedPair.length;
             const width = parsedPair.width;
 
+            // Full pair in options is highest priority; return immediately.
             return {
               length: {
                 value: length, // Normalized to cm
@@ -981,27 +1452,32 @@ function extractDimensions(product: ShopifyProduct, text: string): {
           if (parsedSingle && !('width' in parsedSingle)) {
             const numValue = parsedSingle.length;
 
+            // Avoid misclassifying thickness-only values like "3.5mm" as width/length.
+            if (numValue < 20) {
+              continue;
+            }
+
             // Classify as length or width
             const dimension = classifySingleDimension(value, numValue, 'cm');
 
             if (dimension === 'length') {
-              return {
-                length: {
+              if (!fromOptions.length) {
+                fromOptions.length = {
                   value: numValue, // Normalized to cm
                   unit: 'cm', // Normalized unit
                   source: 'options',
                   originalText: value,
-                }
-              };
+                };
+              }
             } else {
-              return {
-                width: {
+              if (!fromOptions.width) {
+                fromOptions.width = {
                   value: numValue, // Normalized to cm
                   unit: 'cm', // Normalized unit
                   source: 'options',
                   originalText: value,
-                }
-              };
+                };
+              }
             }
           }
         }
@@ -1009,26 +1485,48 @@ function extractDimensions(product: ShopifyProduct, text: string): {
     }
   }
 
+  if (fromOptions.length && fromOptions.width) {
+    return fromOptions;
+  }
+
   // Fallback: extract from text
   const cleanedText = stripHtml(text);
+
+  const merged: {
+    length?: {
+      value: number;
+      unit: 'cm';
+      source: 'options' | 'description';
+      originalText: string;
+    };
+    width?: {
+      value: number;
+      unit: 'cm';
+      source: 'options' | 'description';
+      originalText: string;
+    };
+  } = { ...fromOptions };
 
   // Pattern 0: Try explicit "long x wide" patterns (handles optional "(178 cm)" parentheticals).
   const labeledPair = extractLabeledDimensionPairFromText(cleanedText);
   if (labeledPair) {
-    return {
-      length: {
+    if (!merged.length) {
+      merged.length = {
         value: labeledPair.length,
         unit: 'cm',
         source: 'description',
         originalText: labeledPair.matchText,
-      },
-      width: {
+      };
+    }
+    if (!merged.width) {
+      merged.width = {
         value: labeledPair.width,
         unit: 'cm',
         source: 'description',
         originalText: labeledPair.matchText,
-      }
-    };
+      };
+    }
+    return merged;
   }
 
   // Pattern 1: Try L x W format first (e.g., "72\" x 26\"", "183cm x 61cm")
@@ -1038,20 +1536,23 @@ function extractDimensions(product: ShopifyProduct, text: string): {
     const width = parsedLxW.width;
     const originalText = parsedLxW.matchText ?? cleanedText;
 
-    return {
-      length: {
+    if (!merged.length) {
+      merged.length = {
         value: length, // Normalized to cm
         unit: 'cm', // Normalized unit
         source: 'description',
         originalText,
-      },
-      width: {
+      };
+    }
+    if (!merged.width) {
+      merged.width = {
         value: width, // Normalized to cm
         unit: 'cm', // Normalized unit
         source: 'description',
         originalText,
-      }
-    };
+      };
+    }
+    return merged;
   }
 
   // Pattern 2: Try separate "X\" Long" and "X\" Wide" patterns
@@ -1069,7 +1570,7 @@ function extractDimensions(product: ShopifyProduct, text: string): {
       source: 'options' | 'description';
       originalText: string; // Original text with original unit
     };
-  } = {};
+  } = merged;
 
   const maybeParen = String.raw`(?:\s*\([^)]{0,60}\))?`;
 
@@ -1153,10 +1654,7 @@ function extractDimensions(product: ShopifyProduct, text: string): {
   }
 
   // Return if we found at least length or width
-  if (result.length || result.width) {
-    return result;
-  }
-
+  if (result.length || result.width) return result;
   return {};
 }
 
@@ -1212,6 +1710,7 @@ function extractMaterialsMeta(title: string, description: string, tags: string[]
   materials?: MaterialType[];
   materialSource?: TextSource;
   materialConfidence?: number;
+  pvcFree?: boolean;
 } {
   const materialMap: Record<string, MaterialType> = {
     'natural rubber': 'Natural Rubber',
@@ -1232,9 +1731,29 @@ function extractMaterialsMeta(title: string, description: string, tags: string[]
   const negationRegex = /(?:free of|no|without|zero|non-|(?<!\d)0%)\s+[^.\,]+?(?=\s+is|base|gives|\.|\,|$)/g;
   const sortedKeys = Object.keys(materialMap).sort((a, b) => b.length - a.length);
 
+  const detectPvcFree = (text: string): boolean => {
+    const lower = text.toLowerCase();
+    return /\bpvc\s*[-–—]?\s*free\b/.test(lower) || /\bfree\s+of\s+pvc\b/.test(lower);
+  };
+
+  const pvcFree = detectPvcFree(title) || detectPvcFree(description) || detectPvcFree(tags.join(' '));
+
   const detectAllInText = (text: string): MaterialType[] => {
     let cleanText = text.toLowerCase();
     cleanText = cleanText.replace(negationRegex, '');
+    // Remove common "PVC-free" signals so we don't misclassify PVC-free mats as PVC.
+    cleanText = cleanText.replace(/\bpvc\s*[-–—]?\s*free\b/g, '');
+    cleanText = cleanText.replace(/\bfree\s+of\s+pvc\b/g, '');
+
+    // Cotton often appears in accessory copy (e.g. "cotton strap included") and should not
+    // be treated as the mat material unless explicitly tied to a mat/rug.
+    if (/\bcotton\b/i.test(cleanText)) {
+      const cottonMatRegex = /\bcotton\b[\s\S]{0,30}\b(?:yoga\s+)?(?:mat|rug)\b(?!\s*(?:strap|straps|carry|carrying|carrier|bag|bags|tote|sling|case|cover|pouch))|\b(?:yoga\s+)?(?:mat|rug)\b(?!\s*(?:strap|straps|carry|carrying|carrier|bag|bags|tote|sling|case|cover|pouch))[\s\S]{0,30}\bcotton\b/i;
+      const cottonAccessoryRegex = /\bcotton\b[\s\S]{0,80}\b(?:strap|straps|carry|carrying|carrier|bag|bags|tote|sling|case|cover|pouch)\b|\b(?:strap|straps|carry|carrying|carrier|bag|bags|tote|sling|case|cover|pouch)\b[\s\S]{0,80}\bcotton\b/i;
+      if (cottonAccessoryRegex.test(cleanText) && !cottonMatRegex.test(cleanText)) {
+        cleanText = cleanText.replace(/\bcotton\b/gi, '');
+      }
+    }
 
     const found: MaterialType[] = [];
     for (const key of sortedKeys) {
@@ -1288,6 +1807,7 @@ function extractMaterialsMeta(title: string, description: string, tags: string[]
     materials: allMaterials.length > 0 ? allMaterials : undefined,
     materialSource: primary.source,
     materialConfidence: primary.confidence,
+    pvcFree: pvcFree || undefined,
   };
 }
 
@@ -1350,13 +1870,12 @@ function extractFeatures(text: string, tags: string[]): YogaMatFeature[] {
   const features: YogaMatFeature[] = [];
 
   const featureKeywords: Record<YogaMatFeature, string[]> = {
-    'Eco-Friendly': ['eco', 'sustainable', 'planet friendly', 'recycled', 'biodegradable', 'pvc-free', 'pvc free', 'free of PVC', 'plant foam base', 'renewable'],
+    // Note: "PVC-free" is tracked separately via `pvcFree` and should not be treated as a material or a generic feature.
+    'Eco-Friendly': ['eco', 'sustainable', 'planet friendly', 'recycled', 'biodegradable', 'plant foam base', 'renewable'],
     'Reversible': ['reversible', 'two-sided', 'dual-sided'],
-    'Extra Thick': ['extra thick', 'cushioned', 'plush', '6mm', '7mm', '8mm'],
     'Non-Slip': ['non-slip', 'non slip', 'grippy', 'grip'],
-    'Lightweight': ['lightweight', 'light weight', 'travel', 'portable', 'extra light'],
-    'Extra Long': ['extra long', '85', '215cm'], // TODO update this
-    'Extra Wide': ['extra wide', 'wide', '26', '30'], // TODO update this
+    'Lightweight': ['lightweight', 'light weight', 'portable', 'extra light'],
+    'Travel': ['travel', 'travel mat', 'traveling', 'travelling', 'travel-friendly', 'travel friendly', 'foldable'],
     'Alignment Marks': ['alignment', 'alignment marks', 'markers', 'guide', 'alignforme'],
     'Antimicrobial': ['antimicrobial', 'antibacterial', 'hygienic'],
     'Closed-Cell': ['closed-cell', 'closed cell', 'moisture resistant'],
@@ -1369,7 +1888,9 @@ function extractFeatures(text: string, tags: string[]): YogaMatFeature[] {
     }
   }
 
-  return features;
+  // Guardrail: dimension-like labels belong in `sizeTags` + buckets, not `features`.
+  const blocked: Set<YogaMatFeature> = new Set(['Extra Thick', 'Extra Long', 'Extra Wide']);
+  return Array.from(new Set(features)).filter(f => !blocked.has(f));
 }
 
 /**
@@ -1391,6 +1912,93 @@ function getVariantPriceValues(product: ShopifyProduct): number[] | undefined {
   if (prices.length === 0) return undefined;
 
   return Array.from(new Set(prices)).sort((a, b) => a - b);
+}
+
+type ExchangeRatesConfig = {
+  usdPerUnit?: Record<string, number>;
+};
+
+let cachedBrandCurrency: Map<string, string> | null = null;
+let cachedExchangeRates: ExchangeRatesConfig | null = null;
+
+function loadBrandCurrency(): Map<string, string> {
+  if (cachedBrandCurrency) return cachedBrandCurrency;
+  const map = new Map<string, string>();
+  try {
+    const filepath = path.join(process.cwd(), 'config', 'brand-currency.json');
+    if (!existsSync(filepath)) {
+      cachedBrandCurrency = map;
+      return map;
+    }
+    const raw = readFileSync(filepath, 'utf-8');
+    const parsed = JSON.parse(raw) as unknown;
+    const record = (parsed as { brandCurrency?: Record<string, string> })?.brandCurrency;
+    if (record && typeof record === 'object') {
+      for (const [key, value] of Object.entries(record)) {
+        const brandSlug = String(key ?? '').toLowerCase().trim();
+        const currency = String(value ?? '').toUpperCase().trim();
+        if (!brandSlug || !currency) continue;
+        map.set(brandSlug, currency);
+      }
+    }
+  } catch {
+    // ignore
+  }
+  cachedBrandCurrency = map;
+  return map;
+}
+
+function loadExchangeRates(): ExchangeRatesConfig {
+  if (cachedExchangeRates) return cachedExchangeRates;
+  try {
+    const filepath = path.join(process.cwd(), 'config', 'exchange-rates.json');
+    if (!existsSync(filepath)) {
+      cachedExchangeRates = {};
+      return cachedExchangeRates;
+    }
+    const raw = readFileSync(filepath, 'utf-8');
+    const parsed = JSON.parse(raw) as ExchangeRatesConfig;
+    cachedExchangeRates = parsed && typeof parsed === 'object' ? parsed : {};
+    return cachedExchangeRates;
+  } catch {
+    cachedExchangeRates = {};
+    return cachedExchangeRates;
+  }
+}
+
+function getBrandPriceCurrency(brandSlug: string): string {
+  const slug = (brandSlug ?? '').toLowerCase().trim();
+  const map = loadBrandCurrency();
+  return map.get(slug) ?? 'USD';
+}
+
+function getUsdPerUnit(currency: string): number | undefined {
+  const cur = (currency ?? '').toUpperCase().trim();
+  if (!cur) return undefined;
+  const envKey = `YML_FX_USD_PER_${cur}`;
+  const envValue = (process.env as Record<string, string | undefined>)[envKey];
+  if (envValue) {
+    const parsed = parseFloat(envValue);
+    if (Number.isFinite(parsed) && parsed > 0) return parsed;
+  }
+  const config = loadExchangeRates();
+  const rate = config.usdPerUnit?.[cur];
+  return typeof rate === 'number' && Number.isFinite(rate) && rate > 0 ? rate : undefined;
+}
+
+function convertPricesToUsd(values: number[] | undefined, currency: string): { values?: number[]; rate?: number } {
+  const cur = (currency ?? '').toUpperCase().trim();
+  if (!values || values.length === 0) return {};
+  if (cur === 'USD') return { values, rate: 1 };
+  const usdPerUnit = getUsdPerUnit(cur);
+  if (!usdPerUnit) return {};
+  const converted = values
+    .map(v => v * usdPerUnit)
+    .filter(v => Number.isFinite(v) && v > 0)
+    // Round to cents for stable outputs.
+    .map(v => Math.round(v * 100) / 100);
+  if (converted.length === 0) return {};
+  return { values: Array.from(new Set(converted)).sort((a, b) => a - b), rate: usdPerUnit };
 }
 
 /**
@@ -2092,29 +2700,53 @@ export function mapShopifyToYogaMat(
     ? enrichment.coreFeatures.items.join(' ')
     : '';
   const appendedText = enrichment?.appendText?.trim() ?? '';
-  const allText = `${product.title} ${description} ${product.tags.join(' ')} ${coreFeaturesText} ${appendedText}`;
-  const priceRange = getPriceRange(product);
+  const sectionsText = enrichment?.productPageSections?.length
+    ? enrichment.productPageSections
+      .flatMap(section => section.items)
+      .filter(item => typeof item === 'string' && item.trim().length > 0)
+      .join(' ')
+    : '';
+  // Tags can contain unrelated size hints (e.g. "outdoor cushions 24 x 24") that pollute dimension parsing.
+  // Use tags for broad feature/material extraction, but exclude them from dimension-focused parsing.
+  const textForDimensions = `${product.title} ${description} ${sectionsText} ${coreFeaturesText} ${appendedText}`;
+  const allText = `${product.title} ${description} ${product.tags.join(' ')} ${sectionsText} ${coreFeaturesText} ${appendedText}`;
+  const priceCurrencyOriginal = getBrandPriceCurrency(brandSlug);
+  const priceRangeOriginal = getPriceRange(product);
+  const variantPriceValuesOriginal = getVariantPriceValues(product);
+  const pricesUsd = convertPricesToUsd(
+    variantPriceValuesOriginal ?? (Number.isFinite(priceRangeOriginal.min) && Number.isFinite(priceRangeOriginal.max)
+      ? [priceRangeOriginal.min, priceRangeOriginal.max]
+      : undefined),
+    priceCurrencyOriginal
+  );
+  const hasUsdConversion = priceCurrencyOriginal !== 'USD' && pricesUsd.values && pricesUsd.rate;
+  const priceRange = hasUsdConversion
+    ? { min: pricesUsd.values![0], max: pricesUsd.values![pricesUsd.values!.length - 1] }
+    : priceRangeOriginal;
   const gramsRange = getGramsRange(product);
   const gramsSanity = getVariantGramsSanity(product);
-  const dimensions = extractDimensions(product, allText);
+  const dimensions = extractDimensions(product, textForDimensions);
   const dimensionOptions = mergeDimensionOptions(
     extractDimensionOptions(product),
-    extractDimensionOptionsFromText(allText)
+    extractDimensionOptionsFromText(textForDimensions)
   );
   const thickness = extractThickness(product, allText);
-  const diameter = extractDiameter(product, allText);
-  const rolledDiameter = extractRolledDiameter(product, allText);
-  const materialsMeta = extractMaterialsMeta(product.title, description, product.tags);
+  const diameter = extractDiameter(product, textForDimensions);
+  const rolledDiameter = extractRolledDiameter(product, textForDimensions);
+  const descriptionForMaterials = `${description} ${sectionsText} ${coreFeaturesText} ${appendedText}`.trim();
+  const materialsMeta = extractMaterialsMeta(product.title, descriptionForMaterials, product.tags);
   const texturesMeta = extractTexturesMeta(product.title, description, product.tags);
   const optionColors = extractColors(product);
   const enrichedColors = brandSlug === 'aloyoga'
     ? extractEnrichedColorsFromSections(enrichment?.productPageSections)
     : undefined;
   const availableColors = mergeUniqueStrings(optionColors, enrichedColors);
-  const shadowTitle = generateTitleAuto({
+  const seriesInfo = extractSeriesInfo({
+    brandSlug,
     titleOriginal: product.title,
-    vendor: product.vendor,
-    availableColors,
+    handle: product.handle,
+    productType: product.product_type,
+    tags: product.tags,
   });
   const dimensionQueryFields = deriveDimensionQueryFields({
     thickness,
@@ -2132,11 +2764,10 @@ export function mapShopifyToYogaMat(
     name: product.title,
     slug: generateSlug(brandSlug, product.handle),
 
-    // Shadow titles
+    // Original title
     titleOriginal: product.title,
-    titleAuto: shadowTitle.titleAuto || undefined,
-    titleAutoConfidence: shadowTitle.titleAuto ? shadowTitle.confidence : undefined,
-    titleAutoVersion: shadowTitle.titleAuto ? TITLE_AUTO_VERSION : undefined,
+
+    ...seriesInfo,
 
     // Optional
     description: description || undefined,
@@ -2154,6 +2785,7 @@ export function mapShopifyToYogaMat(
     materials: materialsMeta.materials,
     materialSource: materialsMeta.materialSource,
     materialConfidence: materialsMeta.materialConfidence,
+    pvcFree: materialsMeta.pvcFree,
     texture: texturesMeta.texture,
     textures: texturesMeta.textures,
     textureSource: texturesMeta.textureSource,
@@ -2178,8 +2810,13 @@ export function mapShopifyToYogaMat(
     variantsCount: product.variants.length,
     minPrice: priceRange.min,
     maxPrice: priceRange.max,
-    variantPriceValues: getVariantPriceValues(product),
-    priceCurrency: 'USD', // Default to USD for Shopify products
+    variantPriceValues: hasUsdConversion ? pricesUsd.values : variantPriceValuesOriginal,
+    priceCurrency: hasUsdConversion ? 'USD' : (priceCurrencyOriginal || 'USD'),
+    priceCurrencyOriginal: hasUsdConversion ? priceCurrencyOriginal : undefined,
+    minPriceOriginal: hasUsdConversion ? priceRangeOriginal.min : undefined,
+    maxPriceOriginal: hasUsdConversion ? priceRangeOriginal.max : undefined,
+    variantPriceValuesOriginal: hasUsdConversion ? variantPriceValuesOriginal : undefined,
+    priceUsdRate: hasUsdConversion ? pricesUsd.rate : undefined,
     minGrams: gramsRange?.min,
     maxGrams: gramsRange?.max,
     variantGramsValues: getVariantGramsValues(product),

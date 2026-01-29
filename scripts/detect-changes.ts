@@ -2,6 +2,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { logger } from './lib/logger.js';
 import type { NormalizedYogaMat } from './lib/field-mapper.js';
+import { describeBrandFilter, parseBrandFilterFromEnv } from './lib/brand-filter.js';
 
 interface ProductChange {
   slug: string;
@@ -189,6 +190,14 @@ async function main() {
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   logger.info('YogaMatLab Data Pipeline - Detect Changes');
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+
+  const envFilter = parseBrandFilterFromEnv();
+  if (envFilter && envFilter.size > 0) {
+    logger.warn(
+      `Brand filter active (${describeBrandFilter(envFilter)}); skipping detect-changes (this step is global).`
+    );
+    return;
+  }
 
   const startTime = Date.now();
 

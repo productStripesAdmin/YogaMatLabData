@@ -60,8 +60,10 @@ The script will automatically:
 ## Current Manual Brands
 
 ### Alo Yoga
+
 - **Reason**: Cloudflare JavaScript challenge
-- **URL**: `https://www.aloyoga.com/collections/yoga/products.json`
+- **URL**: `https://www.aloyoga.com/collections/yoga/products.json` ❌
+- **URL**: `https://www.aloyoga.com/collections/yoga-gear/products.json` ✅
 - **File**: `alo-yoga.json`
 - **Update Frequency**: Weekly/Monthly (as needed)
 

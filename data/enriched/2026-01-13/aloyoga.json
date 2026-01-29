@@ -1,63 +1,174 @@
 {
   "brandSlug": "aloyoga",
-  "extractedAt": "2026-01-13T03:43:08.325Z",
+  "extractedAt": "2026-01-14T04:11:29.212Z",
   "products": [
     {
-      "shopifyId": 7902722162868,
-      "handle": "a0779u-lightweight-warrior-mat-black",
-      "slug": "aloyoga-a0779u-lightweight-warrior-mat-black",
-      "productUrl": "https://www.aloyoga.com/en-sg/products/a0779u-lightweight-warrior-mat-smoky-quartz",
-      "extractedAt": "2026-01-13T03:43:08.325Z",
+      "shopifyId": 6239914426548,
+      "handle": "w9327r-wild-thing-bra-white",
+      "slug": "aloyoga-w9327r-wild-thing-bra-white",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9327r-wild-thing-bra-white",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
       "sections": [
-        {
-          "heading": "Description",
-          "items": [
-            "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class."
-          ],
-          "confidence": 1
-        },
-        {
-          "heading": "Fit",
-          "items": [
-            "Dimensions: 6.2ft x 2.2ft x 3mm",
-            "Weight: Approximately 5 lbs"
-          ],
-          "confidence": 1
-        },
-        {
-          "heading": "Fabrication",
-          "items": [
-            "Base: Natural Rubber",
-            "Coating: Polyurethane"
-          ],
-          "confidence": 1
-        },
         {
           "heading": "Colors",
           "items": [
             "Black",
-            "Smoky Quartz"
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
           ],
-          "confidence": 1
+          "confidence": 0.7
         }
       ],
-      "appendText": {
-        "headings": [
-          "Description",
-          "Fit",
-          "Fabrication",
-          "Colors"
-        ],
-        "text": "Description: ... Fit: Dimensions: ... Weight: ... Fabrication: Base: ...",
-        "confidence": 1
-      }
+      "errors": [
+        "Missing manual enrichment entry for handle: w9327r-wild-thing-bra-white"
+      ]
+    },
+    {
+      "shopifyId": 6239910789300,
+      "handle": "w5473r-high-waist-airbrush-legging-white",
+      "slug": "aloyoga-w5473r-high-waist-airbrush-legging-white",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w5473r-high-waist-airbrush-legging-white",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w5473r-high-waist-airbrush-legging-white"
+      ]
+    },
+    {
+      "shopifyId": 7404211077300,
+      "handle": "w9680r-airbrush-heart-throb-bra-black-white",
+      "slug": "aloyoga-w9680r-airbrush-heart-throb-bra-black-white",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9680r-airbrush-heart-throb-bra-black-white",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9680r-airbrush-heart-throb-bra-black-white"
+      ]
+    },
+    {
+      "shopifyId": 7404209340596,
+      "handle": "w51298r-airbrush-high-waist-heart-throb-legging-black-white",
+      "slug": "aloyoga-w51298r-airbrush-high-waist-heart-throb-legging-black-white",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51298r-airbrush-high-waist-heart-throb-legging-black-white",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51298r-airbrush-high-waist-heart-throb-legging-black-white"
+      ]
+    },
+    {
+      "shopifyId": 7325040771252,
+      "handle": "w9587r-airbrush-real-bra-tank-black",
+      "slug": "aloyoga-w9587r-airbrush-real-bra-tank-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9587r-airbrush-real-bra-tank-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9587r-airbrush-real-bra-tank-black"
+      ]
+    },
+    {
+      "shopifyId": 6779614888116,
+      "handle": "w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
+      "slug": "aloyoga-w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51119r-airbrush-high-waist-7-8-bootcut-legging-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51119r-airbrush-high-waist-7-8-bootcut-legging-black"
+      ]
+    },
+    {
+      "shopifyId": 6718361862324,
+      "handle": "w1406r-alosoft-crop-finesse-short-sleeve-white",
+      "slug": "aloyoga-w1406r-alosoft-crop-finesse-short-sleeve-white",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w1406r-alosoft-crop-finesse-short-sleeve-white",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w1406r-alosoft-crop-finesse-short-sleeve-white"
+      ]
     },
     {
       "shopifyId": 4520937521270,
       "handle": "w7092r-warrior-mat-black",
       "slug": "aloyoga-w7092r-warrior-mat-black",
       "productUrl": "https://www.aloyoga.com/en-sg/products/w7092r-warrior-mat-black",
-      "extractedAt": "2026-01-13T03:43:08.325Z",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
       "sections": [
         {
           "heading": "Description",
@@ -103,7 +214,542 @@
         ],
         "text": "Description: ... Fit: Dimensions: ... Weight: ... Fabrication: Base: ...",
         "confidence": 1
-      }
+      },
+      "brandSlug": "aloyoga"
+    },
+    {
+      "shopifyId": 7569581572276,
+      "handle": "w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy",
+      "slug": "aloyoga-w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51361r-airlift-strength-extreme-high-waist-7-8-legging-navy"
+      ]
+    },
+    {
+      "shopifyId": 7900117893300,
+      "handle": "w9681r-airlift-line-up-bra-black",
+      "slug": "aloyoga-w9681r-airlift-line-up-bra-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9681r-airlift-line-up-bra-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9681r-airlift-line-up-bra-black"
+      ]
+    },
+    {
+      "shopifyId": 7900116353204,
+      "handle": "w51154r-airlift-high-waist-7-8-line-up-legging-black",
+      "slug": "aloyoga-w51154r-airlift-high-waist-7-8-line-up-legging-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51154r-airlift-high-waist-7-8-line-up-legging-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51154r-airlift-high-waist-7-8-line-up-legging-black"
+      ]
+    },
+    {
+      "shopifyId": 7404214354100,
+      "handle": "a0326u-yoga-strap-black-anthracite",
+      "slug": "aloyoga-a0326u-yoga-strap-black-anthracite",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0326u-yoga-strap-black-anthracite",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0326u-yoga-strap-black-anthracite"
+      ]
+    },
+    {
+      "shopifyId": 4594791841910,
+      "handle": "a0084u-uplifting-yoga-block-black-silver",
+      "slug": "aloyoga-a0084u-uplifting-yoga-block-black-silver",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0084u-uplifting-yoga-block-black-silver",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0084u-uplifting-yoga-block-black-silver"
+      ]
+    },
+    {
+      "shopifyId": 6239914033332,
+      "handle": "w9327r-wild-thing-bra-black",
+      "slug": "aloyoga-w9327r-wild-thing-bra-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9327r-wild-thing-bra-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9327r-wild-thing-bra-black"
+      ]
+    },
+    {
+      "shopifyId": 7902722162868,
+      "handle": "a0779u-lightweight-warrior-mat-black",
+      "slug": "aloyoga-a0779u-lightweight-warrior-mat-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0779u-lightweight-warrior-mat-smoky-quartz",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Description",
+          "items": [
+            "You asked and we answered. The Warrior Mat now comes in a new lighter weight. It has the thickness and comfort of the classic Warrior Mat that you know and love, but it now comes in a lighter weight that makes it easy to go from car to class."
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fit",
+          "items": [
+            "Dimensions: 6.2ft x 2.2ft x 3mm",
+            "Weight: Approximately 5 lbs"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Fabrication",
+          "items": [
+            "Base: Natural Rubber",
+            "Coating: Polyurethane"
+          ],
+          "confidence": 1
+        },
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz"
+          ],
+          "confidence": 1
+        }
+      ],
+      "appendText": {
+        "headings": [
+          "Description",
+          "Fit",
+          "Fabrication",
+          "Colors"
+        ],
+        "text": "Description: ... Fit: Dimensions: ... Weight: ... Fabrication: Base: ...",
+        "confidence": 1
+      },
+      "brandSlug": "aloyoga"
+    },
+    {
+      "shopifyId": 4594792300662,
+      "handle": "a0029u-grounded-no-slip-towel-black",
+      "slug": "aloyoga-a0029u-grounded-no-slip-towel-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0029u-grounded-no-slip-towel-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0029u-grounded-no-slip-towel-black"
+      ]
+    },
+    {
+      "shopifyId": 7900116943028,
+      "handle": "w9679r-airlift-intrigue-bra-espresso",
+      "slug": "aloyoga-w9679r-airlift-intrigue-bra-espresso",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9679r-airlift-intrigue-bra-espresso",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9679r-airlift-intrigue-bra-espresso"
+      ]
+    },
+    {
+      "shopifyId": 7900115271860,
+      "handle": "w51314r-7-8-high-waist-airlift-legging-espresso",
+      "slug": "aloyoga-w51314r-7-8-high-waist-airlift-legging-espresso",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51314r-7-8-high-waist-airlift-legging-espresso",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51314r-7-8-high-waist-airlift-legging-espresso"
+      ]
+    },
+    {
+      "shopifyId": 7850803429556,
+      "handle": "w7192r-warrior-mat-espresso",
+      "slug": "aloyoga-w7192r-warrior-mat-espresso",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w7192r-warrior-mat-espresso",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w7192r-warrior-mat-espresso"
+      ]
+    },
+    {
+      "shopifyId": 7850770464948,
+      "handle": "a0029u-grounded-no-slip-mat-towel-espresso",
+      "slug": "aloyoga-a0029u-grounded-no-slip-mat-towel-espresso",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0029u-grounded-no-slip-mat-towel-espresso",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0029u-grounded-no-slip-mat-towel-espresso"
+      ]
+    },
+    {
+      "shopifyId": 6789727355060,
+      "handle": "a0094-pivot-barre-sock-black",
+      "slug": "aloyoga-a0094-pivot-barre-sock-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0094-pivot-barre-sock-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0094-pivot-barre-sock-black"
+      ]
+    },
+    {
+      "shopifyId": 7850809557172,
+      "handle": "a0326u-yoga-strap-jungle",
+      "slug": "aloyoga-a0326u-yoga-strap-jungle",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0326u-yoga-strap-jungle",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0326u-yoga-strap-jungle"
+      ]
+    },
+    {
+      "shopifyId": 7325042868404,
+      "handle": "w9679r-airlift-intrigue-bra-black",
+      "slug": "aloyoga-w9679r-airlift-intrigue-bra-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w9679r-airlift-intrigue-bra-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w9679r-airlift-intrigue-bra-black"
+      ]
+    },
+    {
+      "shopifyId": 7325039034548,
+      "handle": "w6363r-high-waist-airlift-short-black",
+      "slug": "aloyoga-w6363r-high-waist-airlift-short-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w6363r-high-waist-airlift-short-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w6363r-high-waist-airlift-short-black"
+      ]
+    },
+    {
+      "shopifyId": 6718360944820,
+      "handle": "w3601r-alosoft-crop-finesse-long-sleeve-black",
+      "slug": "aloyoga-w3601r-alosoft-crop-finesse-long-sleeve-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w3601r-alosoft-crop-finesse-long-sleeve-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w3601r-alosoft-crop-finesse-long-sleeve-black"
+      ]
+    },
+    {
+      "shopifyId": 6718362779828,
+      "handle": "w51104r-alosoft-high-waist-7-8-highlight-legging-black",
+      "slug": "aloyoga-w51104r-alosoft-high-waist-7-8-highlight-legging-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w51104r-alosoft-high-waist-7-8-highlight-legging-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w51104r-alosoft-high-waist-7-8-highlight-legging-black"
+      ]
+    },
+    {
+      "shopifyId": 7902720590004,
+      "handle": "a0503u-alo-water-bottle-black",
+      "slug": "aloyoga-a0503u-alo-water-bottle-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/a0503u-alo-water-bottle-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: a0503u-alo-water-bottle-black"
+      ]
+    },
+    {
+      "shopifyId": 7902732878004,
+      "handle": "w54178r-airlift-high-waist-7-8-rebel-legging-black",
+      "slug": "aloyoga-w54178r-airlift-high-waist-7-8-rebel-legging-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w54178r-airlift-high-waist-7-8-rebel-legging-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w54178r-airlift-high-waist-7-8-rebel-legging-black"
+      ]
+    },
+    {
+      "shopifyId": 6239911346356,
+      "handle": "w5604r-7-8-high-waist-airbrush-legging-black",
+      "slug": "aloyoga-w5604r-7-8-high-waist-airbrush-legging-black",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w5604r-7-8-high-waist-airbrush-legging-black",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w5604r-7-8-high-waist-airbrush-legging-black"
+      ]
+    },
+    {
+      "shopifyId": 6695201439924,
+      "handle": "w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey",
+      "slug": "aloyoga-w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey",
+      "productUrl": "https://www.aloyoga.com/en-sg/products/w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey",
+      "extractedAt": "2026-01-14T04:11:29.212Z",
+      "sections": [
+        {
+          "heading": "Colors",
+          "items": [
+            "Black",
+            "Smoky Quartz",
+            "Jungle",
+            "Eclipse",
+            "Espresso"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "errors": [
+        "Missing manual enrichment entry for handle: w5762r-high-waist-alosoft-lounge-legging-athletic-heather-grey"
+      ]
     }
   ]
 }

@@ -1,6 +1,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import { logger } from './lib/logger.js';
+import { describeBrandFilter, parseBrandFilterFromEnv } from './lib/brand-filter.js';
 
 async function createSymlink(target: string, linkPath: string): Promise<void> {
   try {
@@ -66,6 +67,14 @@ async function main() {
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   logger.info('YogaMatLab Data Pipeline - Update Latest Symlinks');
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+
+  const envFilter = parseBrandFilterFromEnv();
+  if (envFilter && envFilter.size > 0) {
+    logger.warn(
+      `Brand filter active (${describeBrandFilter(envFilter)}); skipping update-symlinks (this step is global).`
+    );
+    return;
+  }
 
   // Use today's date or accept date argument
   const date = process.argv[2] || new Date().toISOString().split('T')[0];

@@ -2,6 +2,8 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { logger } from './lib/logger.js';
 import type { NormalizedYogaMat } from './lib/field-mapper.js';
+import { buildSeriesIndex } from './lib/brand-series-index.js';
+import { describeBrandFilter, parseBrandFilterFromEnv } from './lib/brand-filter.js';
 
 type BrandsMetadata = Array<{
   slug: string;
@@ -14,6 +16,7 @@ interface AggregationSummary {
   totalProducts: number;
   uniqueSlugs: number;
   duplicateSlugs: number;
+  totalSeries: number;
   brands: Array<{
     brandSlug: string;
     productCount: number;
@@ -34,6 +37,69 @@ async function ensureAggregatedDirectory(date: string) {
   logger.info(`Created aggregated directory: ${aggregatedDir}`);
 }
 
+async function existsDir(filepath: string): Promise<boolean> {
+  try {
+    const stat = await fs.stat(filepath);
+    return stat.isDirectory();
+  } catch {
+    return false;
+  }
+}
+
+async function resolveLatestNormalizedDate(): Promise<string | null> {
+  const normalizedRoot = path.join(process.cwd(), 'data', 'normalized');
+  const latestLink = path.join(normalizedRoot, 'latest');
+
+  try {
+    const linkTarget = await fs.readlink(latestLink);
+    const resolved = path.resolve(path.dirname(latestLink), linkTarget);
+    if (await existsDir(resolved)) {
+      return path.basename(resolved);
+    }
+  } catch {
+    // ignore
+  }
+
+  try {
+    const entries = await fs.readdir(normalizedRoot, { withFileTypes: true });
+    const candidates = entries
+      .filter((e) => e.isDirectory())
+      .map((e) => e.name)
+      .filter((name) => /^\d{4}-\d{2}-\d{2}$/.test(name))
+      .sort();
+    return candidates.length > 0 ? candidates[candidates.length - 1] : null;
+  } catch {
+    return null;
+  }
+}
+
+async function resolveAggregationDate(arg?: string): Promise<string> {
+  const normalizedRoot = path.join(process.cwd(), 'data', 'normalized');
+
+  if (arg && arg !== 'latest') {
+    return arg;
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+  if (!arg) {
+    const todayDir = path.join(normalizedRoot, today);
+    if (await existsDir(todayDir)) return today;
+  }
+
+  const latest = await resolveLatestNormalizedDate();
+  if (latest) {
+    if (arg === 'latest') {
+      logger.info(`Using latest normalized date: ${latest}`);
+    } else {
+      logger.warn(`No normalized data for today; using latest normalized date: ${latest}`);
+    }
+    return latest;
+  }
+
+  // Fall back to today; downstream will print a helpful error.
+  return today;
+}
+
 async function getNormalizedFiles(date: string): Promise<string[]> {
   const normalizedDir = path.join(process.cwd(), 'data', 'normalized', date);
 
@@ -42,7 +108,15 @@ async function getNormalizedFiles(date: string): Promise<string[]> {
     // Filter out summary file and only get JSON files
     return files.filter(f => f.endsWith('.json') && !f.startsWith('_'));
   } catch (error) {
-    throw new Error(`Failed to read normalized data directory: ${normalizedDir}`);
+    const err = error as NodeJS.ErrnoException;
+    if (err?.code === 'ENOENT') {
+      throw new Error(
+        `No normalized data found for date ${date}. Expected directory: ${normalizedDir}. Run \`npm run normalize ${date}\` or use \`npm run aggregate latest\`.`
+      );
+    }
+    throw new Error(
+      `Failed to read normalized data directory: ${normalizedDir}. ${err?.message ?? ''}`.trim()
+    );
   }
 }
 
@@ -71,9 +145,14 @@ async function loadEnabledBrandSlugs(date: string): Promise<{ enabled: Set<strin
 async function loadNormalizedData(date: string): Promise<NormalizedYogaMat[]> {
   const enabledBrandsMeta = await loadEnabledBrandSlugs(date);
   const filesAll = await getNormalizedFiles(date);
-  const files = enabledBrandsMeta
-    ? filesAll.filter((file) => enabledBrandsMeta.enabled.has(file.replace('.json', '')))
-    : filesAll;
+  const envFilter = parseBrandFilterFromEnv();
+  if (envFilter && envFilter.size > 0) {
+    logger.info(`Brand filter: ${describeBrandFilter(envFilter)}`);
+  }
+
+  const files = filesAll
+    .filter((file) => (enabledBrandsMeta ? enabledBrandsMeta.enabled.has(file.replace('.json', '')) : true))
+    .filter((file) => (envFilter ? envFilter.has(file.replace('.json', '')) : true));
 
   if (enabledBrandsMeta) {
     const ignored = filesAll.length - files.length;
@@ -198,7 +277,7 @@ async function saveAggregatedData(
   date: string,
   products: NormalizedYogaMat[],
   stats: ReturnType<typeof calculateStats>
-): Promise<void> {
+): Promise<{ seriesCount: number }> {
   const aggregatedDir = path.join(process.cwd(), 'data', 'aggregated', date);
 
   // 1. Save all-products.json (main file with full NormalizedYogaMat objects)
@@ -207,16 +286,13 @@ async function saveAggregatedData(
   await fs.writeFile(allProductsPath, JSON.stringify(products, null, 2), 'utf-8');
   logger.success(`Saved ${products.length} products to all-products.json`);
 
-  // 2. Save brands-index.json (brand metadata)
-  const brandsIndex = Object.entries(stats.brandCounts).map(([slug, count]) => ({
-    slug,
-    productCount: count,
-  }));
-  const brandsIndexPath = path.join(aggregatedDir, 'brands-index.json');
-  await fs.writeFile(brandsIndexPath, JSON.stringify(brandsIndex, null, 2), 'utf-8');
-  logger.success(`Saved brands index with ${brandsIndex.length} brands`);
+  // 1b. Save brand-series-index.json (derived per-series summary)
+  const seriesIndex = buildSeriesIndex(products);
+  const seriesIndexPath = path.join(aggregatedDir, 'brand-series-index.json');
+  await fs.writeFile(seriesIndexPath, JSON.stringify(seriesIndex, null, 2), 'utf-8');
+  logger.success(`Saved series index with ${seriesIndex.length} series`);
 
-  // 3. Save stats.json (statistics)
+  // 2. Save stats.json (statistics)
   const statsPath = path.join(aggregatedDir, 'stats.json');
   await fs.writeFile(
     statsPath,
@@ -224,7 +300,8 @@ async function saveAggregatedData(
       {
         date,
         totalProducts: products.length,
-        totalBrands: brandsIndex.length,
+        totalSeries: seriesIndex.length,
+        totalBrands: Object.keys(stats.brandCounts).length,
         priceStats: stats.priceStats,
         materialBreakdown: stats.materialBreakdown,
         featureBreakdown: stats.featureBreakdown,
@@ -325,6 +402,8 @@ async function saveAggregatedData(
   const csvPath = path.join(aggregatedDir, 'all-products.csv');
   await fs.writeFile(csvPath, csv, 'utf-8');
   logger.success('Saved CSV export');
+
+  return { seriesCount: seriesIndex.length };
 }
 
 /**
@@ -334,7 +413,8 @@ async function generateSummary(
   date: string,
   products: NormalizedYogaMat[],
   duplicateCount: number,
-  stats: ReturnType<typeof calculateStats>
+  stats: ReturnType<typeof calculateStats>,
+  totalSeries: number
 ): Promise<AggregationSummary> {
   const summary: AggregationSummary = {
     date,
@@ -342,6 +422,7 @@ async function generateSummary(
     totalProducts: products.length,
     uniqueSlugs: products.length,
     duplicateSlugs: duplicateCount,
+    totalSeries,
     brands: Object.entries(stats.brandCounts).map(([brandSlug, productCount]) => ({
       brandSlug,
       productCount,
@@ -371,8 +452,8 @@ async function main() {
 
   const startTime = Date.now();
 
-  // Use today's date or accept date argument
-  const date = process.argv[2] || new Date().toISOString().split('T')[0];
+  // Use provided date, or resolve to the latest normalized date when missing.
+  const date = await resolveAggregationDate(process.argv[2]);
   logger.info(`Processing date: ${date}`);
 
   // Ensure aggregated directory exists
@@ -401,10 +482,10 @@ async function main() {
 
   // Save aggregated data
   logger.info('Saving aggregated data...');
-  await saveAggregatedData(date, products, stats);
+  const { seriesCount } = await saveAggregatedData(date, products, stats);
 
   // Generate summary
-  const summary = await generateSummary(date, products, duplicateCount, stats);
+  const summary = await generateSummary(date, products, duplicateCount, stats, seriesCount);
 
   const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
@@ -413,6 +494,7 @@ async function main() {
   logger.info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   logger.success(`Total brands: ${summary.totalBrands}`);
   logger.success(`Total products: ${summary.totalProducts}`);
+  logger.success(`Total series: ${summary.totalSeries}`);
   logger.success(`Unique slugs: ${summary.uniqueSlugs}`);
   if (summary.duplicateSlugs > 0) {
     logger.warn(`Duplicate slugs resolved: ${summary.duplicateSlugs}`);
@@ -448,6 +530,14 @@ async function main() {
 }
 
 main().catch((error) => {
-  logger.error('Fatal error in aggregation', error);
+  const err = error as unknown;
+  if (err instanceof Error) {
+    logger.error('Fatal error in aggregation', {
+      message: err.message,
+      stack: err.stack,
+    });
+  } else {
+    logger.error('Fatal error in aggregation', err);
+  }
   process.exit(1);
 });

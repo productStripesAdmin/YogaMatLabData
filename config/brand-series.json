@@ -1,0 +1,2264 @@
+[
+  {
+    "slug": "42birds",
+    "series": [
+      {
+        "name": "\"The Woodpecker\" 100% Cork",
+        "slug": "woodpecker",
+        "tagline": "Minimalist all-cork mat line (no blends).",
+        "description": "Cork mat with non-slip grip, antimicrobial properties, and eco-minded materials.",
+        "matchTitleAny": [
+          "Woodpecker",
+          "100% Cork Yoga Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "\"The Robin\" Cork Lightweight",
+        "slug": "robin",
+        "tagline": "Lightweight cork mat line; includes standard and extra-long variants.",
+        "description": "Cork mat with non-slip grip, antimicrobial properties, and lightweight carry. Available in extra-long sizing. PVC-free.",
+        "matchTitleAny": [
+          "The Robin",
+          "Cork Lightweight"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "\"The Imperial Eagle\" Cork Industrial",
+        "slug": "imperial-eagle",
+        "tagline": "Durable cork mat line geared toward heavier use; includes extra-long variants.",
+        "description": "Cork + natural rubber mat with non-slip grip, antimicrobial properties, and eco-minded materials. Available in extra-long sizing. PVC-free.",
+        "matchTitleAny": [
+          "Imperial Eagle",
+          "Yoga Industrial",
+          "Industrial Mat"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "aloyoga",
+    "series": [
+      {
+        "name": "Warrior",
+        "slug": "warrior",
+        "tagline": "Core mat line sold as “Warrior Mat”.",
+        "description": "Natural rubber + PU leather mat with eco-minded materials. PVC-free.",
+        "matchTitleAny": [
+          "Warrior Mat"
+        ],
+        "matchAny": [
+          "Warrior Mat"
+        ],
+        "priority": 10
+      },
+      {
+        "name": "Lightweight Warrior",
+        "slug": "lightweight-warrior",
+        "tagline": "Lighter-weight variant of the Warrior Mat line.",
+        "description": "Natural rubber + PU leather mat with lightweight carry.",
+        "matchTitleAny": [
+          "Lightweight Warrior Mat"
+        ],
+        "matchAny": [
+          "Lightweight Warrior Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Air Mat",
+        "slug": "air-mat",
+        "tagline": "Air Mat line (lighter-weight mat variant).",
+        "description": "",
+        "matchTitleAny": [
+          "Air Mat"
+        ],
+        "matchAny": [
+          "Air Mat"
+        ],
+        "priority": 15
+      }
+    ]
+  },
+  {
+    "slug": "ananday",
+    "series": [
+      {
+        "name": "Standard Cork",
+        "slug": "standard-cork",
+        "tagline": "Standard cork yoga mat line.",
+        "description": "Cork + natural rubber mat with non-slip grip, antimicrobial properties, and reversible design.",
+        "matchTitleAny": [
+          "Ananday Cork Yoga Mat",
+          "Cork Yoga Mat"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "gaiam",
+    "series": [
+      {
+        "name": "Kids",
+        "slug": "kids",
+        "tagline": "Kids-sized mats and playful designs.",
+        "description": "PVC mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Kids"
+        ],
+        "matchAny": [
+          "Kids Yoga Mat"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Foldable",
+        "slug": "foldable",
+        "tagline": "Foldable travel-friendly mats designed to pack flat.",
+        "description": "PVC mat with lightweight carry and eco-minded materials.",
+        "matchTitleAny": [
+          "Foldable Yoga Mat"
+        ],
+        "matchAny": [
+          "Foldable Yoga Mat"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "Dry-Grip",
+        "slug": "dry-grip",
+        "tagline": "Dry-Grip mat line (grip-focused).",
+        "description": "Natural rubber + PVC mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Dry-Grip"
+        ],
+        "matchAny": [
+          "Dry-Grip"
+        ],
+        "priority": 45
+      },
+      {
+        "name": "Performance",
+        "slug": "performance",
+        "tagline": "Higher-grip “Performance” mats (often marketed for sweat/traction).",
+        "description": "",
+        "matchTitleAny": [
+          "Performance"
+        ],
+        "matchAny": [
+          "Performance"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Premium",
+        "slug": "premium",
+        "tagline": "Cushier “Premium” mats (often thicker and patterned).",
+        "description": "PVC + natural rubber mat with non-slip grip, alignment marks, and reversible design.",
+        "matchTitleAny": [
+          "Premium"
+        ],
+        "matchAny": [
+          "Premium"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Premium Reversible",
+        "slug": "premium-reverisble",
+        "tagline": "Cushier “Premium” two-sided reversible mats.",
+        "description": "PVC mat with non-slip grip, reversible design, and lightweight carry.",
+        "matchTitleAny": [
+          "Premium Reversible"
+        ],
+        "matchAny": [
+          "Premium Reversible"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Classic",
+        "slug": "classic",
+        "tagline": "Entry-level “Classic” mats (often thinner, lightweight options).",
+        "description": "PVC mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Classic Yoga Mat",
+          " Classic Yoga Mat",
+          "Navy Fleur Marrakesh"
+        ],
+        "matchAny": [
+          "Classic"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Reversible",
+        "slug": "reversible",
+        "tagline": "Two-sided reversible mats (pattern/style varies by product).",
+        "description": "PVC mat with non-slip grip, reversible design, and lightweight carry.",
+        "matchTitleAny": [
+          "Reversible"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "gayo",
+    "series": [
+      {
+        "name": "Balance Pro",
+        "slug": "balance-pro",
+        "tagline": "Eco Balance Pro line (a more premium balance mat variant).",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "Eco Balance Pro Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Balance Pro"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Balance",
+        "slug": "balance",
+        "tagline": "Eco Balance mat line (standard thickness).",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "Eco Balance Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Balance"
+        ],
+        "priority": 10
+      },
+      {
+        "name": "Cork",
+        "slug": "cork",
+        "tagline": "Cork mat line.",
+        "description": "Cork + natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Eco-Friendly Cork Yoga Mat",
+          "Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 10
+      },
+      {
+        "name": "Cotton",
+        "slug": "cotton",
+        "tagline": "Cotton mat/rug line.",
+        "description": "Cotton mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Cotton Yoga Mat"
+        ],
+        "matchAny": [
+          "Cotton Yoga Mat"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "heathyoga",
+    "series": [
+      {
+        "name": "Alignment",
+        "slug": "alignment",
+        "tagline": "“Body Alignment System” mat line.",
+        "description": "TPE + PVC mat with alignment marks.",
+        "matchTitleAny": [
+          "Body Alignment System"
+        ],
+        "matchAny": [
+          "Body Alignment System"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "houseofmats",
+    "series": [
+      {
+        "name": "Travel (Foldable)",
+        "slug": "travel",
+        "tagline": "Foldable travel line labeled “Travel Collection”.",
+        "description": "Yoga mat with alignment marks and lightweight carry.",
+        "matchTitleAny": [
+          "Travel Collection",
+          "Foldable",
+          "Colección de viaje",
+          "Plegable"
+        ],
+        "matchAny": [
+          "Travel Collection"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Lab Limited Edition",
+        "slug": "lab-limited-edition",
+        "tagline": "Limited-edition drops labeled “Laboratory Limited Edition”.",
+        "description": "Yoga mat.",
+        "matchTitleAny": [
+          "Laboratory Limited Edition"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Art",
+        "slug": "art",
+        "tagline": "Artist-collaboration mats labeled “Art Collection”.",
+        "description": "Yoga mat.",
+        "matchTitleAny": [
+          "Art Collection"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Studio",
+        "slug": "studio",
+        "tagline": "Core “Studio Collection” mats (standard line).",
+        "description": "Yoga mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Studio Collection"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "jadeyoga",
+    "series": [
+      {
+        "name": "Voyager",
+        "slug": "voyager",
+        "tagline": "Lightweight travel-focused mat line (often marketed for portability).",
+        "description": "Natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Voyager Mat",
+          "Travel Yoga Mat"
+        ],
+        "matchAny": [
+          "Voyager"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Elite S",
+        "slug": "elite-s",
+        "tagline": "Elite S mat line (supportive/durable natural rubber).",
+        "description": "Natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Elite S"
+        ],
+        "matchAny": [
+          "Elite S"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Cork Topped",
+        "slug": "cork-topped",
+        "tagline": "Cork-topped mat line.",
+        "description": "Cork + natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Harmony 2.0",
+        "slug": "harmony-2-0",
+        "tagline": "Harmony 2.0 mat line. All the grip and comfort the Harmony mat, plus more!",
+        "description": "Natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Harmony 2.0"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Harmony",
+        "slug": "harmony",
+        "tagline": "Signature Harmony mat line.",
+        "description": "Natural rubber mat with non-slip grip, eco-minded materials, and premium feel. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Harmony"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Fusion",
+        "slug": "fusion",
+        "tagline": "Extra-cushioned Fusion line (yoga & pilates positioning).",
+        "description": "Natural rubber mat with non-slip grip and eco-minded materials. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "Fusion"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Level One",
+        "slug": "level-one",
+        "tagline": "Beginner-friendly Level One mat line.",
+        "description": "Natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Level One"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Extra Cushioning",
+        "slug": "extra-cushioning",
+        "tagline": "Thicker “Extra” line for more cushioning.",
+        "description": "Natural rubber + PU leather mat with non-slip grip and antimicrobial properties.",
+        "matchTitleAny": [
+          "Extra Yoga Mat"
+        ],
+        "matchAny": [
+          "Jade Extra"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Mushroom Theme",
+        "slug": "mushroom-theme",
+        "tagline": "Mushroom-themed mat line.",
+        "description": "Natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Mushroom Mat"
+        ],
+        "priority": 15
+      },
+      {
+        "name": "Yoga Rugs",
+        "slug": "yoga-rugs",
+        "tagline": "Yoga rugs (cotton/sari) sold alongside mats.",
+        "description": "Cotton mat with lightweight carry and eco-minded materials.",
+        "matchTitleAny": [
+          "Yoga Rug",
+          "Yoga Rugs",
+          "Mysore Yoga Rug",
+          "Recycled Sari Yoga Rug"
+        ],
+        "priority": 10
+      },
+      {
+        "name": "Meditation",
+        "slug": "meditation",
+        "tagline": "Meditation mats (handwoven/natural material styles).",
+        "description": "Cotton mat.",
+        "matchTitleAny": [
+          "Meditation Mats"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "liforme",
+    "series": [
+      {
+        "name": "Liforme x You (Custom)",
+        "slug": "x-you",
+        "tagline": "Customizable “x You” mat product.",
+        "description": "Yoga mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Liforme x You"
+        ],
+        "matchAny": [
+          "x You"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Kids",
+        "slug": "kids",
+        "tagline": "Kids-sized yoga mats (kids collection).",
+        "description": "",
+        "matchTitleAny": [
+          "Kids Yoga Mat"
+        ],
+        "matchAny": [
+          "Kids Yoga Mat"
+        ],
+        "priority": 55
+      },
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Travel mat line (travel mats collection).",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and lightweight carry. PVC-free.",
+        "matchTitleAny": [
+          "Travel Yoga Mat",
+          "Travel"
+        ],
+        "matchAny": [
+          "Travel Yoga Mat"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "Evolve",
+        "slug": "evolve",
+        "tagline": "Distinct “Evolve” mat line.",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and eco-minded materials. PVC-free.",
+        "matchTitleAny": [
+          "Evolve Yoga Mat"
+        ],
+        "matchAny": [
+          "Evolve Yoga Mat"
+        ],
+        "priority": 45
+      },
+      {
+        "name": "XL",
+        "slug": "xl",
+        "tagline": "Extra-long/large mats labeled “XL”.",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and eco-minded materials. Available in extra-long, extra-wide sizing. PVC-free.",
+        "matchTitleAny": [
+          "XL Yoga Mat",
+          " XL Yoga Mat",
+          " XL "
+        ],
+        "matchAny": [
+          "XL Yoga Mat"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Standard",
+        "slug": "standard",
+        "tagline": "Standard/full-size yoga mat line (the core “Original” mat).",
+        "description": "Natural rubber + PU leather mat with non-slip grip, alignment marks, and eco-minded materials. PVC-free.",
+        "matchTitleAny": [
+          "Liforme Yoga Mat",
+          "Original Yoga Mat",
+          "Original",
+          "Classic",
+          "Magic Galaxy"
+        ],
+        "matchTitleRegex": [
+          "^Liforme .* Yoga Mat$"
+        ],
+        "priority": 0
+      }
+    ]
+  },
+  {
+    "slug": "manduka",
+    "series": [
+      {
+        "name": "eKO® Superlite Travel",
+        "slug": "eko-superlite-travel",
+        "tagline": "Superlite travel mat line in the eKO family.",
+        "description": "Natural rubber mat with non-slip grip, closed-cell build, and lightweight carry. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "eKO® Superlite",
+          "eKO Superlite"
+        ],
+        "matchAny": [
+          "Superlite Travel"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "GRP® Adapt Travel",
+        "slug": "grp-adapt-travel",
+        "tagline": "Travel version within the GRP Adapt line.",
+        "description": "Yoga mat with non-slip grip and lightweight carry.",
+        "matchTitleAny": [
+          "GRP® Adapt Travel",
+          "GRP Adapt Travel"
+        ],
+        "matchAny": [
+          "Adapt Travel"
+        ],
+        "priority": 65
+      },
+      {
+        "name": "PRO Travel",
+        "slug": "pro-travel",
+        "tagline": "Travel version within the PRO family.",
+        "description": "PVC mat with non-slip grip, closed-cell build, and lightweight carry. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "PRO Travel"
+        ],
+        "matchAny": [
+          "PRO Travel"
+        ],
+        "matchTitleRegex": [
+          "\\bPRO\\s+Travel\\b"
+        ],
+        "priority": 55
+      },
+      {
+        "name": "GRP® Adapt Lite 2.0",
+        "slug": "grp-adapt-lite-2-0",
+        "tagline": "Lite version of GRP Adapt 2.0.",
+        "description": "Natural rubber + PU leather mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "GRP® Adapt Lite 2.0",
+          "GRP Adapt Lite 2.0"
+        ],
+        "matchAny": [
+          "Adapt Lite"
+        ],
+        "priority": 55
+      },
+      {
+        "name": "GRP® Adapt 2.0",
+        "slug": "grp-adapt-2-0",
+        "tagline": "GRP Adapt 2.0 mat line (high-grip “GRP” family).",
+        "description": "Natural rubber + PU leather mat with non-slip grip and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "GRP® Adapt 2.0",
+          "GRP Adapt 2.0"
+        ],
+        "matchAny": [
+          "GRP Adapt"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "GRP® Hot Yoga",
+        "slug": "grp-hot-yoga",
+        "tagline": "GRP Hot Yoga mat line (high-grip for sweaty practice).",
+        "description": "",
+        "matchTitleAny": [
+          "GRP® Hot Yoga Mat",
+          "GRP Hot Yoga Mat",
+          "GRP Hot Yoga"
+        ],
+        "matchAny": [
+          "GRP Hot Yoga"
+        ],
+        "priority": 52
+      },
+      {
+        "name": "eKO® lite",
+        "slug": "eko-lite",
+        "tagline": "eKO lite mat line (lighter feel within the eKO family).",
+        "description": "Natural rubber mat with non-slip grip, closed-cell build, and lightweight carry. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "eKO® lite",
+          "eKO lite"
+        ],
+        "matchAny": [
+          "eKO lite"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "PROlite®",
+        "slug": "prolite",
+        "tagline": "PROlite mat line (lighter take on the PRO family).",
+        "description": "PVC mat with closed-cell build, antimicrobial properties, and eco-minded materials. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "PROlite"
+        ],
+        "matchAny": [
+          "PROlite"
+        ],
+        "priority": 35
+      },
+      {
+        "name": "eKO®",
+        "slug": "eko",
+        "tagline": "eKO mat line (natural-rubber focused family).",
+        "description": "Natural rubber mat with non-slip grip, closed-cell build, and alignment marks. Available in extra-long sizing.",
+        "matchTitleRegex": [
+          "\\beKO(?!.*lite)(?!.*Superlite)"
+        ],
+        "matchAny": [
+          "eKO Yoga Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "PRO™",
+        "slug": "pro",
+        "tagline": "Flagship PRO family (dense, durable, studio-style mats).",
+        "description": "PVC mat with closed-cell build and antimicrobial properties. Available in extra-long, extra-wide sizing.",
+        "matchTitleRegex": [
+          "\\bPRO(?!lite)"
+        ],
+        "matchAny": [
+          "Manduka PRO"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "X General Purpose",
+        "slug": "x-general-purpose",
+        "tagline": "X mat line (general-purpose training/yoga mat family).",
+        "description": "Yoga mat with non-slip grip and closed-cell build.",
+        "matchTitleAny": [
+          "Manduka X"
+        ],
+        "matchAny": [
+          "Manduka X"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Begin®",
+        "slug": "begin",
+        "tagline": "Begin mat line (entry-level, grippy and cushioned).",
+        "description": "Yoga mat with closed-cell build, alignment marks, and reversible design.",
+        "matchTitleAny": [
+          "Begin Yoga Mat",
+          "Begin® Yoga Mat",
+          "Begin"
+        ],
+        "matchAny": [
+          "Begin Yoga Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Yoga Rugs",
+        "slug": "yoga-rugs",
+        "tagline": "Manduka Shala Yoga Rug",
+        "description": "Cotton mat with lightweight carry and eco-minded materials.",
+        "matchTitleAny": [
+          "Rug"
+        ],
+        "matchAny": [
+          "Rug"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "okoliving",
+    "series": [
+      {
+        "name": "Jade & Jute",
+        "slug": "jade-and-jute",
+        "tagline": "Jute-blend line labeled “Jade & Jute”.",
+        "description": "Jute + PVC mat with non-slip grip, antimicrobial properties, and lightweight carry.",
+        "matchTitleAny": [
+          "Jade & Jute"
+        ],
+        "matchAny": [
+          "Jade & Jute"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Travel-sized yoga mats labeled “Travel Yoga Mat”.",
+        "description": "PVC + jute mat with non-slip grip, antimicrobial properties, and lightweight carry.",
+        "matchTitleAny": [
+          "Travel Yoga Mat"
+        ],
+        "matchAny": [
+          "Travel Yoga Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Organic Cotton Herbal",
+        "slug": "organic-cotton-herbal",
+        "tagline": "Cotton variant within the herbal mat lineup.",
+        "description": "PVC mat with non-slip grip, antimicrobial properties, and lightweight carry.",
+        "matchTitleAny": [
+          "Organic Cotton Herbal Yoga Mat"
+        ],
+        "matchAny": [
+          "Organic Cotton"
+        ],
+        "priority": 22
+      },
+      {
+        "name": "Diamond",
+        "slug": "diamond",
+        "tagline": "Diamond Yoga Mat line.",
+        "description": "Natural rubber + PVC mat with non-slip grip, antimicrobial properties, and eco-minded materials.",
+        "matchTitleAny": [
+          "Diamond Yoga Mat"
+        ],
+        "matchAny": [
+          "Diamond Yoga Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Herbal",
+        "slug": "herbal",
+        "tagline": "Core “Herbal Yoga Mat” line (includes naturally dyed variants).",
+        "description": "PVC mat with antimicrobial properties and eco-minded materials.",
+        "matchTitleAny": [
+          "Herbal Yoga Mat",
+          "Third Eye",
+          "Chakra"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "scoria",
+    "series": [
+      {
+        "name": "Kids",
+        "slug": "kids",
+        "tagline": "Kids-focused “Play & Cork” mats.",
+        "description": "Cork blend mat with non-slip grip and antimicrobial properties.",
+        "matchTitleAny": [
+          "Kids",
+          "Play & Cork"
+        ],
+        "matchAny": [
+          "Kids Play"
+        ],
+        "priority": 70
+      },
+      {
+        "name": "Round",
+        "slug": "round",
+        "tagline": "Round/circular cork mats (incl. baby mats), typically listed with diameter.",
+        "description": "Cork blend mat with non-slip grip, antimicrobial properties, and lightweight carry. Round format.",
+        "matchTitleAny": [
+          "Round Cork Yoga Mat",
+          "Round Baby Mat"
+        ],
+        "matchAny": [
+          "Round Cork"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Travel cork mats (thin/portable variants).",
+        "description": "Cork blend mat with non-slip grip, antimicrobial properties, and lightweight carry.",
+        "matchTitleAny": [
+          "Travel"
+        ],
+        "matchAny": [
+          "Travel Cork Yoga Mat"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "X-Thick",
+        "slug": "x-thick",
+        "tagline": "Extra-thick variants (X-Thick).",
+        "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "X-THICK",
+          "X-Thick"
+        ],
+        "matchAny": [
+          "X-Thick"
+        ],
+        "priority": 47
+      },
+      {
+        "name": "X-Tall",
+        "slug": "x-tall",
+        "tagline": "Extra-long variants (X-TALL).",
+        "description": "Cork blend mat with non-slip grip and antimicrobial properties. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "X-TALL",
+          "X-Tall"
+        ],
+        "matchAny": [
+          "X-Tall"
+        ],
+        "priority": 46
+      },
+      {
+        "name": "X-Wide",
+        "slug": "x-wide",
+        "tagline": "Extra-wide variants (X-WIDE).",
+        "description": "Cork blend mat with non-slip grip and antimicrobial properties. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "X-WIDE",
+          "X-Wide",
+          "Biggest"
+        ],
+        "matchAny": [
+          "X-Wide"
+        ],
+        "priority": 45
+      },
+      {
+        "name": "Alignment",
+        "slug": "alignment",
+        "tagline": "Alignment-marked cork mats.",
+        "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "Alignment"
+        ],
+        "matchAny": [
+          "Alignment Cork Yoga Mat"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Standard Cork",
+        "slug": "standard-cork",
+        "tagline": "Standard cork mats (catch-all when not Travel/Round/Kids/Alignment/X-variants).",
+        "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 0
+      }
+    ]
+  },
+  {
+    "slug": "shaktiwarrior",
+    "series": [
+      {
+        "name": "Recycled PU",
+        "slug": "recycled-pu",
+        "tagline": "Recycled PU yoga mat line.",
+        "description": "PU leather blend mat with non-slip grip, alignment marks, and eco-minded materials. Available in extra-wide sizing.",
+        "matchTitleAny": [
+          "Recycled PU Yoga Mat"
+        ],
+        "matchAny": [
+          "Recycled PU Yoga Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Recycled Suede",
+        "slug": "recycled-suede",
+        "tagline": "Recycled suede yoga mat line.",
+        "description": "Natural rubber + PVC mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Recycled Suede Yoga Mat"
+        ],
+        "matchAny": [
+          "Recycled Suede Yoga Mat"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Cork",
+        "slug": "cork",
+        "tagline": "Cork yoga mat line.",
+        "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Hemp",
+        "slug": "hemp",
+        "tagline": "Hemp yoga mat line.",
+        "description": "Natural rubber blend mat with non-slip grip, alignment marks, and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Hemp Yoga Mat"
+        ],
+        "matchAny": [
+          "Hemp Yoga Mat"
+        ],
+        "priority": 15
+      },
+      {
+        "name": "TPE",
+        "slug": "tpe",
+        "tagline": "TPE yoga mat line.",
+        "description": "TPE mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "TPE Yoga Mat"
+        ],
+        "matchAny": [
+          "TPE Yoga Mat"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "stakt",
+    "series": [
+      {
+        "name": "Pro XL",
+        "slug": "pro-xl",
+        "tagline": "XL size/version of the Mat Pro.",
+        "description": "PVC mat with eco-minded materials and premium feel. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "Pro XL"
+        ],
+        "matchAny": [
+          "Pro XL"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Pro",
+        "slug": "pro",
+        "tagline": "“Pro” version of the folding mat.",
+        "description": "PVC mat with non-slip grip, eco-minded materials, and premium feel.",
+        "matchTitleRegex": [
+          "^The Stakt Mat Pro$"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Foldable",
+        "slug": "foldable",
+        "tagline": "Core folding mat product.",
+        "description": "PVC mat with lightweight carry and eco-minded materials.",
+        "matchTitleRegex": [
+          "^The Stakt Mat$"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "thesatoriconcept",
+    "series": [
+      {
+        "name": "Vegan Suede",
+        "slug": "vegan-suede",
+        "tagline": "Vegan suede top-layer mat line (design-focused).",
+        "description": "Yoga mat with lightweight carry, eco-minded materials, and premium feel.",
+        "matchHandleAny": [
+          "vegan-suede"
+        ],
+        "matchTagAny": [
+          "suede",
+          "vegan"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "XL Cork",
+        "slug": "xl",
+        "tagline": "XL size variants of their cork mat lineup.",
+        "description": "Cork + natural rubber mat with alignment marks and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "XL"
+        ],
+        "matchAny": [
+          "XL"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Standard Cork",
+        "slug": "standard-cork",
+        "tagline": "Standard-size mats (design varies).",
+        "description": "Cork + natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Cork Yoga Mat",
+          "Original Cork Yoga Mat"
+        ],
+        "priority": 0
+      }
+    ]
+  },
+  {
+    "slug": "woloyoga",
+    "series": [
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Travel mat line (Away Travel Mat).",
+        "description": "Natural rubber mat with non-slip grip and lightweight carry.",
+        "matchTitleAny": [
+          "Away Travel Mat"
+        ],
+        "matchAny": [
+          "Away Travel"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Ascend",
+        "slug": "ascend",
+        "tagline": "Ascend mat line.",
+        "description": "Natural rubber mat with non-slip grip and reversible design.",
+        "matchTitleAny": [
+          "Ascend Mat"
+        ],
+        "matchAny": [
+          "Ascend"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Mastery",
+        "slug": "mastery",
+        "tagline": "Mastery mat line.",
+        "description": "Natural rubber mat with non-slip grip.",
+        "matchTitleAny": [
+          "Mastery Mat"
+        ],
+        "matchAny": [
+          "Mastery"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "yogadesignlab",
+    "series": [
+      {
+        "name": "Kids Combo",
+        "slug": "kids-combo",
+        "tagline": "Kids-sized mats in the Combo line.",
+        "description": "Natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. Available in extra-wide sizing.",
+        "matchTitleAny": [
+          "Kids Combo Yoga Mat"
+        ],
+        "matchAny": [
+          "Kids Combo"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Travel Combo",
+        "slug": "travel-combo",
+        "tagline": "Travel version of the Combo mat line.",
+        "description": "Natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Travel Combo Yoga Mat"
+        ],
+        "matchAny": [
+          "Travel Combo"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "Travel Cork",
+        "slug": "travel-cork",
+        "tagline": "Travel version of the cork mat line.",
+        "description": "Cork blend mat with non-slip grip, closed-cell build, and alignment marks.",
+        "matchTitleAny": [
+          "Travel Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Travel Cork"
+        ],
+        "priority": 45
+      },
+      {
+        "name": "Infinity",
+        "slug": "infinity",
+        "tagline": "Infinity mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Infinity Yoga Mat"
+        ],
+        "matchAny": [
+          "Infinity"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Combo",
+        "slug": "combo",
+        "tagline": "Core “Combo Yoga Mat” line (standard and XL variants).",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and lightweight carry. Available in extra-wide sizing.",
+        "matchTitleAny": [
+          "Combo Yoga Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Standard Cork",
+        "slug": "standard-cork",
+        "tagline": "Cork mat line.",
+        "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 15
+      }
+    ]
+  },
+  {
+    "slug": "yogamatters",
+    "series": [
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Eco Travel mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "Yogamatters Eco Travel Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Travel"
+        ],
+        "priority": 35
+      },
+      {
+        "name": "Sticky",
+        "slug": "sticky",
+        "tagline": "“Sticky Yoga Mat” line.",
+        "description": "PVC mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "Yogamatters Sticky Yoga Mat"
+        ],
+        "matchAny": [
+          "Sticky Yoga Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Signature Studio",
+        "slug": "signature-studio",
+        "tagline": "Signature Studio mat line.",
+        "description": "PVC mat with non-slip grip, closed-cell build, and alignment marks. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Yogamatters Signature Studio Yoga Mat"
+        ],
+        "matchAny": [
+          "Signature Studio"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Rise",
+        "slug": "rise",
+        "tagline": "Eco Rise mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "Yogamatters Eco Rise Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Rise"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Everyday",
+        "slug": "everyday",
+        "tagline": "Eco Everyday mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Yogamatters Eco Everyday Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Everyday"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Organic Cotton",
+        "slug": "organic-cotton",
+        "tagline": "Organic cotton mat/rug-style restorative products.",
+        "description": "Cotton mat with non-slip grip, alignment marks, and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Yogamatters Organic Cotton",
+          "Restorative",
+          "Cotton Mat"
+        ],
+        "matchAny": [
+          "Organic Cotton Yoga Mat",
+          "Restorative"
+        ],
+        "priority": 22
+      },
+      {
+        "name": "Eco Cork",
+        "slug": "eco-cork",
+        "tagline": "Eco Cork mat line.",
+        "description": "Cork + natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Yogamatters Eco Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Cork"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Thrive PU",
+        "slug": "thrive-pu",
+        "tagline": "Thrive PU mat line.",
+        "description": "Natural rubber blend mat with non-slip grip and premium feel.",
+        "matchTitleAny": [
+          "Yogamatters Thrive PU Yoga Mat"
+        ],
+        "matchAny": [
+          "Thrive PU"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Aqua Evolve",
+        "slug": "aqua-evolve",
+        "tagline": "Aqua Evolve mat line.",
+        "description": "PVC mat with alignment marks, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Yogamatters Aqua Evolve Yoga Mat"
+        ],
+        "matchAny": [
+          "Aqua Evolve"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Eco Flow",
+        "slug": "eco-flow",
+        "tagline": "Eco Flow mat line.",
+        "description": "Natural rubber mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Yogamatters Eco Flow Yoga Mat"
+        ],
+        "matchAny": [
+          "Eco Flow"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Revive",
+        "slug": "revive",
+        "tagline": "Revive mat line.",
+        "description": "",
+        "matchTitleAny": [
+          "Revive Mat"
+        ],
+        "matchAny": [
+          "Revive Mat"
+        ],
+        "priority": 18
+      },
+      {
+        "name": "Ultra Lightweight",
+        "slug": "ultra-lightweight",
+        "tagline": "Ultra Lightweight Exercise Mat line.",
+        "description": "Natural rubber + NBR mat with non-slip grip, closed-cell build, and alignment marks.",
+        "matchTitleAny": [
+          "Yogamatters Ultra Lightweight Exercise Mat"
+        ],
+        "matchAny": [
+          "Ultra Lightweight"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Wellness Pilates",
+        "slug": "wellness-pilates",
+        "tagline": "Wellness Pilates Mat line.",
+        "description": "TPE mat with non-slip grip, alignment marks, and reversible design.",
+        "matchTitleAny": [
+          "Yogamatters Wellness Pilates Mat"
+        ],
+        "matchAny": [
+          "Wellness Pilates"
+        ],
+        "priority": 15
+      }
+    ]
+  },
+  {
+    "slug": "yogibare",
+    "series": [
+      {
+        "name": "EverGrip",
+        "slug": "evergrip",
+        "tagline": "EverGrip non-slip mat line (grip-focused).",
+        "description": "Natural rubber blend mat with non-slip grip, alignment marks, and eco-minded materials. PVC-free.",
+        "matchTitleAny": [
+          "EverGrip"
+        ],
+        "matchAny": [
+          "EverGrip"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Bare Paws (The Original)",
+        "slug": "bare-paws-original",
+        "tagline": "Original Paws sticky grip mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "The Original Paws",
+          "Original Paws"
+        ],
+        "matchAny": [
+          "Original Paws"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Flow Paws",
+        "slug": "flow-paws",
+        "tagline": "Flow Paws extreme grip natural rubber mat line.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and eco-minded materials.",
+        "matchTitleAny": [
+          "Flow Paws"
+        ],
+        "matchAny": [
+          "Flow Paws"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Performance Pilates",
+        "slug": "performance-pilates",
+        "tagline": "Performance/Pilates-focused mats (incl. arch mat products).",
+        "description": "Natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. PVC-free.",
+        "matchTitleAny": [
+          "Performance Pilates",
+          "Pilates Arch Mat"
+        ],
+        "matchAny": [
+          "Pilates Arch Mat"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "yolohayoga",
+    "series": [
+      {
+        "name": "Kids Aura",
+        "slug": "kids-aura",
+        "tagline": "Kids-sized mats in the Aura cork line.",
+        "description": "Cork blend mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Kids Aura"
+        ],
+        "matchAny": [
+          "Kids Aura"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Unity Pro",
+        "slug": "unity-pro",
+        "tagline": "Unity Pro cork mat line (includes XL variants).",
+        "description": "Cork + natural rubber mat with non-slip grip and eco-minded materials. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "Unity Cork",
+          "Unity Pro Cork Yoga Mat",
+          "Unity Pro XL"
+        ],
+        "matchHandleAny": [
+          "unity-cork",
+          "unity-cork-yoga-mat",
+          "unity-pro-cork-yoga-mat"
+        ],
+        "matchAny": [
+          "Unity",
+          "Unity Pro"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Nomad",
+        "slug": "nomad",
+        "tagline": "Nomad travel-focused cork mat line (incl. Air and XL variants).",
+        "description": "Cork + natural rubber mat with non-slip grip, antimicrobial properties, and lightweight carry. Available in extra-long, extra-wide sizing. PVC-free.",
+        "matchTitleAny": [
+          "Nomad Cork Yoga Mat",
+          "Nomad XL",
+          "Nomad Air"
+        ],
+        "matchAny": [
+          "Nomad"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Aura",
+        "slug": "aura",
+        "tagline": "Aura cork mat line (design variants share the Aura base).",
+        "description": "Cork + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Aura Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Aura Cork"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Original",
+        "slug": "original",
+        "tagline": "Original cork mat line.",
+        "description": "Cork + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. Available in extra-long sizing.",
+        "matchTitleAny": [
+          "Original Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Original Cork"
+        ],
+        "priority": 15
+      }
+    ]
+  },
+  {
+    "slug": "yuneyoga",
+    "series": [
+      {
+        "name": "Trekk Travel",
+        "slug": "trekk-travel",
+        "tagline": "Trekk Travel mat line from Yune’s high-performance travel collection.",
+        "description": "PVC mat with non-slip grip, closed-cell build, and reversible design.",
+        "matchTitleAny": [
+          "Trekk Travel Yoga Mat",
+          "Trekk Travel Mat",
+          "Trekk Travel"
+        ],
+        "matchHandleAny": [
+          "trekk-travel"
+        ],
+        "priority": 70
+      },
+      {
+        "name": "Foldable",
+        "slug": "foldable",
+        "tagline": "Foldable travel mats designed to pack down for on-the-go practice.",
+        "description": "Natural rubber + PVC mat with non-slip grip, alignment marks, and antimicrobial properties. PVC-free.",
+        "matchTitleAny": [
+          "Foldable Yoga Mat",
+          "Foldable Travel Yoga Mat",
+          "Foldable Travel"
+        ],
+        "matchHandleAny": [
+          "foldable-yoga-mat"
+        ],
+        "matchTagAny": [
+          "foldable yoga mat"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Foundational (Lightweight)",
+        "slug": "foundational",
+        "tagline": "Foundational collection (often titled “Lightweight Yoga Mat”).",
+        "description": "PVC mat with non-slip grip, alignment marks, and antimicrobial properties. PVC-free.",
+        "matchTitleAny": [
+          "Lightweight Yoga Mat"
+        ],
+        "matchHandleAny": [
+          "lightweight"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Natural Rubber",
+        "slug": "natural-rubber",
+        "tagline": "Natural rubber yoga mat line (material-focused collection).",
+        "description": "Natural rubber + PVC mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "Natural Rubber Yoga Mat"
+        ],
+        "matchHandleAny": [
+          "natural-rubber-yoga-mat"
+        ],
+        "matchTagAny": [
+          "rubber yoga mat"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Standard",
+        "slug": "standard",
+        "tagline": "Standard Yune yoga mats (general collection; designs vary).",
+        "description": "Natural rubber blend mat with non-slip grip, closed-cell build, and alignment marks. PVC-free.",
+        "matchTitleAny": [
+          "Yoga Mat",
+          "Tattoo",
+          "Warrior Design",
+          "Warrior Series",
+          "Airstream",
+          "Zodiac-Inspired",
+          "Zodiac"
+        ],
+        "matchAny": [
+          "Yoga Mat",
+          "tattoo",
+          "warrior",
+          "airstream",
+          "Zodiac-Inspired",
+          "Zodiac"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "Airstream",
+        "slug": "airstream",
+        "tagline": "The Airstream x Yune Yoga Mats Collection is an exclusive, limited-edition collaboration that blends iconic National Park landscapes with high-performance yoga gear—bringing the spirit of wanderlust and mindful movement to your practice.",
+        "description": "",
+        "matchTitleAny": [
+          "AIRSTREAM",
+          "Airstream"
+        ],
+        "matchAny": [
+          "Airstream"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "Camo",
+        "slug": "camo",
+        "tagline": "Camouflage-inspired prints that bring the outdoors to your practice while delivering thoughtful design and reliable functionality.",
+        "description": "Natural rubber mat with non-slip grip, alignment marks, and antimicrobial properties.",
+        "matchTitleAny": [
+          "CAMO",
+          "Camo"
+        ],
+        "matchAny": [
+          "Camo"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "Realtree",
+        "slug": "realtree",
+        "tagline": "Combining iconic Realtree camouflage patterns with high-performance yoga functionality, each mat reflects the spirit of the wild—even when you’re practicing indoors.",
+        "description": "PVC mat with non-slip grip, alignment marks, and lightweight carry.",
+        "matchTitleAny": [
+          "REALTREE",
+          "Realtree"
+        ],
+        "matchAny": [
+          "Realtree"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "Zodiac",
+        "slug": "zodiac",
+        "tagline": "Unearth deeper meaning in your movement with the Zodiac Collection. Each mat embodies the essence of your sun sign—bridging ancient archetypes, self-discovery, and mindful movement into one beautifully designed practice space.",
+        "description": "",
+        "matchTitleAny": [
+          "ZODIAC",
+          "Zodiac"
+        ],
+        "matchAny": [
+          "Zodiac"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "High Performance",
+        "slug": "high-performance",
+        "tagline": "Collection of all Yune Yoga High Performance Mats",
+        "description": "",
+        "matchTitleAny": [
+          "HIGH PERFORMANCE",
+          "High Performance"
+        ],
+        "matchAny": [
+          "High Performance"
+        ],
+        "priority": 0
+      },
+      {
+        "name": "Collaboration",
+        "slug": "collaboration",
+        "tagline": "Each mat in this collection is the result of a creative partnership between Yune Yoga and talented artists, illustrators, and cultural creatives.",
+        "description": "",
+        "matchTitleAny": [
+          "COLLABORATION",
+          "Collaboration"
+        ],
+        "matchAny": [
+          "Collaboration"
+        ],
+        "priority": 0
+      }
+    ]
+  },
+  {
+    "slug": "yogakargha",
+    "series": [
+      {
+        "name": "Kids",
+        "slug": "kids",
+        "tagline": "Kids-sized yoga mats and play mats.",
+        "description": "",
+        "matchTitleAny": [
+          "For Kids",
+          "Kids Yoga Mat",
+          "Play Mat for Kids"
+        ],
+        "matchHandleAny": [
+          "kids"
+        ],
+        "priority": 70
+      },
+      {
+        "name": "Travel",
+        "slug": "travel",
+        "tagline": "Travel/foldable yoga mats designed for portability.",
+        "description": "Cotton + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Travel Yoga Mat",
+          "Travel Yoga & Meditation Mat",
+          "Travel Yoga",
+          "Foldable"
+        ],
+        "matchHandleAny": [
+          "travel"
+        ],
+        "priority": 60
+      },
+      {
+        "name": "Cork",
+        "slug": "cork",
+        "tagline": "Cork yoga mats (hand-block printed cork variants).",
+        "description": "Cork blend mat with non-slip grip, antimicrobial properties, and eco-minded materials.",
+        "matchTitleAny": [
+          "Cork Yoga Mat"
+        ],
+        "matchAny": [
+          "Cork Yoga Mat"
+        ],
+        "priority": 55
+      },
+      {
+        "name": "Banana Fiber",
+        "slug": "banana-fiber",
+        "tagline": "Banana fiber yoga mats (handwoven natural fiber).",
+        "description": "Cotton + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. Available in extra-wide sizing.",
+        "matchTitleAny": [
+          "Banana Fiber"
+        ],
+        "matchAny": [
+          "Banana Fiber"
+        ],
+        "priority": 50
+      },
+      {
+        "name": "Grass",
+        "slug": "grass",
+        "tagline": "Grass fiber yoga/meditation mats (e.g., vetiver/khus, darbha).",
+        "description": "Cotton + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials.",
+        "matchTitleAny": [
+          "Grass Yoga Mat",
+          "Vetiver",
+          "Khus",
+          "Darbha",
+          "Grass Fiber"
+        ],
+        "matchAny": [
+          "Grass"
+        ],
+        "priority": 45
+      },
+      {
+        "name": "Meditation",
+        "slug": "meditation",
+        "tagline": "Meditation mats and cushions (e.g., zabuton, futon styles).",
+        "description": "",
+        "matchTitleAny": [
+          "Meditation Mat",
+          "Zabuton",
+          "Shikibuton",
+          "Futon"
+        ],
+        "matchTagAny": [
+          "meditation mats"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Organic Cotton",
+        "slug": "organic-cotton",
+        "tagline": "Organic cotton yoga mats (handwoven, washable options).",
+        "description": "Cotton + natural rubber mat with non-slip grip, alignment marks, and lightweight carry. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "Organic Cotton"
+        ],
+        "matchAny": [
+          "Organic Cotton"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Cotton",
+        "slug": "cotton",
+        "tagline": "Cotton yoga and meditation mats/rugs (including handwoven cotton).",
+        "description": "Cotton + natural rubber mat with non-slip grip, lightweight carry, and eco-minded materials. Available in extra-long, extra-wide sizing.",
+        "matchTitleAny": [
+          "Cotton"
+        ],
+        "matchAny": [
+          "Cotton"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "bala",
+    "series": [
+      {
+        "name": "Compact",
+        "slug": "compact",
+        "tagline": "Compact-size mat line (smaller footprint).",
+        "description": "",
+        "matchTitleAny": [
+          "The Compact Mat",
+          "Compact Mat"
+        ],
+        "matchAny": [
+          "Compact Mat"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Play",
+        "slug": "play",
+        "tagline": "Play Mat line (general-purpose yoga mat).",
+        "description": "",
+        "matchTitleAny": [
+          "The Play Mat",
+          "Play Mat"
+        ],
+        "matchAny": [
+          "Play Mat"
+        ],
+        "priority": 35
+      },
+      {
+        "name": "Wavy",
+        "slug": "wavy",
+        "tagline": "Wavy Mat line (wavy-texture variant).",
+        "description": "",
+        "matchTitleAny": [
+          "The Wavy Mat",
+          "Wavy Mat"
+        ],
+        "matchAny": [
+          "Wavy Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Deco",
+        "slug": "deco",
+        "tagline": "Deco Mat line (decorative/patterned variants).",
+        "description": "",
+        "matchTitleAny": [
+          "The Deco Mat",
+          "Deco Mat"
+        ],
+        "matchAny": [
+          "Deco Mat"
+        ],
+        "priority": 25
+      }
+    ]
+  },
+  {
+    "slug": "keep",
+    "series": [
+      {
+        "name": "Extra Large",
+        "slug": "extra-large",
+        "tagline": "Extra-large mat variants for home workouts.",
+        "description": "",
+        "matchTitleAny": [
+          "Extra Large"
+        ],
+        "matchTitleRegex": [
+          "\\bExtra\\s+Large\\b"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Position Lines",
+        "slug": "position-lines",
+        "tagline": "Mats with alignment/position lines for beginners.",
+        "description": "",
+        "matchTitleAny": [
+          "Position Lines",
+          "Position Line"
+        ],
+        "matchAny": [
+          "Position Lines"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Pro Training",
+        "slug": "pro-training",
+        "tagline": "Pro training mats (TPE and high-elasticity variants).",
+        "description": "",
+        "matchTitleAny": [
+          "Pro Training",
+          "Pro Training Mat"
+        ],
+        "matchAny": [
+          "Pro Training"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Jump Rope",
+        "slug": "jump-rope",
+        "tagline": "Jump rope floor mat products.",
+        "description": "",
+        "matchTitleAny": [
+          "Jump Rope Mat"
+        ],
+        "matchAny": [
+          "Jump Rope Mat"
+        ],
+        "priority": 10
+      },
+      {
+        "name": "Classic Exercise",
+        "slug": "classic-exercise",
+        "tagline": "Classic exercise mats (general-purpose).",
+        "description": "",
+        "matchTitleAny": [
+          "Classic Exercise Mat"
+        ],
+        "matchAny": [
+          "Classic Exercise Mat"
+        ],
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "slug": "sensu",
+    "series": [
+      {
+        "name": "Large",
+        "slug": "large",
+        "tagline": "Large-format yoga/exercise mat products.",
+        "description": "",
+        "matchTitleAny": [
+          "Large Exercise Mat",
+          "Large Yoga Mat",
+          "Large Mat"
+        ],
+        "matchAny": [
+          "Large Yoga Mat",
+          "Large Exercise Mat"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "lululemon",
+    "series": [
+      {
+        "name": "The Mat",
+        "slug": "the-mat",
+        "tagline": "Core “The Mat” line (often sold in multiple sizes and finishes).",
+        "description": "",
+        "matchTitleAny": [
+          "The Mat"
+        ],
+        "matchAny": [
+          "The Mat"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "The Reversible Mat",
+        "slug": "the-reversible-mat",
+        "tagline": "Two-sided reversible mat line.",
+        "description": "",
+        "matchTitleAny": [
+          "The Reversible Mat",
+          "Reversible Mat"
+        ],
+        "matchAny": [
+          "Reversible Mat"
+        ],
+        "priority": 35
+      },
+      {
+        "name": "The Big Mat",
+        "slug": "the-big-mat",
+        "tagline": "Oversized “Big Mat” line (extra length/width).",
+        "description": "",
+        "matchTitleAny": [
+          "The Big Mat",
+          "The (Big) Mat"
+        ],
+        "matchAny": [
+          "Big Mat"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Take Form Mat",
+        "slug": "take-form",
+        "tagline": "Alignment-focused “Take Form” mat line.",
+        "description": "",
+        "matchTitleAny": [
+          "Take Form Mat",
+          "Take Form"
+        ],
+        "matchAny": [
+          "Take Form"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "The Workout Mat",
+        "slug": "the-workout-mat",
+        "tagline": "Workout/training mat line for studio/home workouts.",
+        "description": "",
+        "matchTitleAny": [
+          "The Workout Mat",
+          "Workout Mat"
+        ],
+        "matchAny": [
+          "Workout Mat"
+        ],
+        "priority": 20
+      },
+      {
+        "name": "The (Un) Mat",
+        "slug": "the-un-mat",
+        "tagline": "Lightweight “(Un) Mat” line (packable/travel leaning).",
+        "description": "",
+        "matchTitleAny": [
+          "The (Un) Mat",
+          "The Un Mat",
+          "(Un) Mat",
+          "Un Mat"
+        ],
+        "matchAny": [
+          "Un Mat"
+        ],
+        "priority": 15
+      }
+    ]
+  },
+  {
+    "slug": "huggermugger",
+    "series": [
+      {
+        "name": "Earth Elements",
+        "slug": "earth-elements",
+        "tagline": "Earth Elements mat line.",
+        "description": "",
+        "matchTitleAny": [
+          "Earth Elements"
+        ],
+        "matchAny": [
+          "Earth Elements"
+        ],
+        "priority": 40
+      },
+      {
+        "name": "Tapas",
+        "slug": "tapas",
+        "tagline": "Tapas mat line (often sold as “Tapas Original”).",
+        "description": "",
+        "matchTitleAny": [
+          "Tapas",
+          "Tapas Original"
+        ],
+        "matchAny": [
+          "Tapas"
+        ],
+        "priority": 35
+      },
+      {
+        "name": "Para Rubber",
+        "slug": "para-rubber",
+        "tagline": "Para Rubber mat line (natural rubber).",
+        "description": "",
+        "matchTitleAny": [
+          "Para Rubber",
+          "Para Rubber Mat"
+        ],
+        "matchAny": [
+          "Para Rubber"
+        ],
+        "priority": 30
+      },
+      {
+        "name": "Nature Ultra",
+        "slug": "nature-ultra",
+        "tagline": "Nature Ultra mat line.",
+        "description": "",
+        "matchTitleAny": [
+          "Nature Ultra"
+        ],
+        "matchAny": [
+          "Nature Ultra"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Gallery Ultra",
+        "slug": "gallery-ultra",
+        "tagline": "Gallery Ultra mat line (printed/artist-style variants).",
+        "description": "",
+        "matchTitleAny": [
+          "Gallery Ultra"
+        ],
+        "matchAny": [
+          "Gallery Ultra"
+        ],
+        "priority": 25
+      },
+      {
+        "name": "Sattva Jute",
+        "slug": "sattva-jute",
+        "tagline": "Sattva Jute mat line (jute blend).",
+        "description": "",
+        "matchTitleAny": [
+          "Sattva Jute"
+        ],
+        "matchAny": [
+          "Sattva Jute"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "sumoyoga",
+    "series": [
+      {
+        "name": "Tatami",
+        "slug": "tatami",
+        "tagline": "Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.",
+        "description": "Yoga mat with non-slip grip and eco-minded materials.",
+        "matchTitleAny": [
+          "Tatami"
+        ],
+        "matchAny": [
+          "Tatami"
+        ],
+        "priority": 20
+      }
+    ]
+  },
+  {
+    "slug": "moonholi",
+    "series": [
+      {
+        "name": "Natural Rubber",
+        "slug": "natural-rubber",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Suede",
+        "slug": "suede",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Microfiber",
+        "slug": "microfiber",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Non-Slip",
+        "slug": "non-slip",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "PU",
+        "slug": "pu",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Eco",
+        "slug": "eco",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "Printed",
+        "slug": "printed",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      },
+      {
+        "name": "One Color",
+        "slug": "one-color",
+        "tagline": "",
+        "description": "",
+        "matchTitleAny": [
+          ""
+        ],
+        "matchAny": [
+          ""
+        ],
+        "priority": 20
+      }
+    ]
+  }
+]

@@ -18,6 +18,13 @@ These fields are useful for basic display/sorting when a product clearly has a s
 - `diameter?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }` (round/circular mats)
 - `rolledDiameter?: { value: number; unit: 'cm'; source: 'options' | 'description'; originalText: string }` (diameter when rolled, e.g. `6 in. diameter rolled`)
 
+Notes:
+- When parsing an unlabeled pair like `24" × 72"`, the pipeline normalizes to `length >= width` (many brands publish W×L).
+- If options only provide partial information (e.g., length options but no width), the missing dimension can be filled from the description fallback.
+- `mm` values are treated as thickness by default; they are only treated as linear dimensions when they are large enough to be plausible (e.g., `1830mm`).
+- Dimension extraction from text intentionally ignores Shopify tags, since tags often contain unrelated sizing (e.g. “outdoor cushions 24 x 24”).
+- If enrichment is available (`data/enriched/**`), dimension extraction also considers extracted product-page sections (e.g. “Fit”, “Specs”, “Details”).
+
 ## Option-derived extractions
 
 Some option-derived convenience fields exist, but dimension-related ones are now centralized in `dimensionOptions` + query-friendly summaries.
@@ -104,6 +111,7 @@ This pipeline also captures per-variant weight signals without persisting full v
 - `material`: primary material (title → tags → description)
 - `materials?: MaterialType[]`: all detected material components (e.g., cork + natural rubber blends)
 - `materialSource?: 'title' | 'tags' | 'description'` and `materialConfidence?: number` (0..1) for QA
+- `pvcFree?: boolean`: true when text explicitly indicates PVC-free (e.g. `PVC-free`, `free of PVC`)
 - `texture`: primary texture (if detected)
 - `textures?: TextureType[]`: all detected texture signals
 - `textureSource?: 'title' | 'tags' | 'description'` and `textureConfidence?: number` (0..1) for QA

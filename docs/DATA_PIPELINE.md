@@ -95,7 +95,8 @@ YogaMatLabData/
 │   ├── raw/{date}/              # Daily Shopify extractions
 │   ├── normalized/{date}/       # Transformed to YogaMat schema
 │   ├── aggregated/{date}/       # Combined datasets
-│   │   └── all-products.json        # Single file with all mats
+│   │   ├── all-products.json        # Single file with all products
+│   │   └── brand-series-index.json   # One record per derived series
 │   └── changes/                 # Changeset logs
 └── .github/workflows/
     └── fetch-products.yml     # GitHub Actions automation
@@ -200,6 +201,7 @@ Files to create:
     - Ensure unique slugs (handle collisions with -2, -3 suffix)
     - Generate supporting files:
           - all-products.json - Combined array
+      - brand-series-index.json - Per-series index (designs as products)
       - all-products.csv - CSV export
       - brands-index.json - Brand metadata + counts
       - stats.json - Extraction statistics
