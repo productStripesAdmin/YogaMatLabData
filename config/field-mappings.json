@@ -1,0 +1,430 @@
+{
+  "comment": "Maps Shopify products.json format to YogaMat schema. All measurements stored in metric units (mm, cm, kg).",
+  "requiredFields": {
+    "brandId": {
+      "description": "Convex brand ID - resolved by looking up brand slug",
+      "type": "string"
+    },
+    "name": {
+      "source": "title",
+      "type": "string",
+      "description": "Product title from Shopify"
+    },
+    "slug": {
+      "source": "handle",
+      "type": "string",
+      "description": "URL-safe slug from Shopify handle"
+    },
+    "minPrice": {
+      "source": "variants[].price",
+      "type": "number",
+      "description": "Minimum price across all variants",
+      "transform": "Math.min"
+    }
+  },
+  "optionalFields": {
+    "description": {
+      "source": "body_html",
+      "type": "string",
+      "description": "HTML description from Shopify",
+      "transform": "stripHtml"
+    },
+    "shopifyId": {
+      "source": "id",
+      "type": "number",
+      "description": "Original Shopify product ID"
+    },
+    "shopifyHandle": {
+      "source": "handle",
+      "type": "string",
+      "description": "Original Shopify handle"
+    },
+    "shopifyTags": {
+      "source": "tags",
+      "type": "array",
+      "description": "Shopify tags for features/materials extraction"
+    },
+    "shopifyCreatedAt": {
+      "source": "created_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was created in Shopify"
+    },
+    "shopifyPublishedAt": {
+      "source": "published_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was published in Shopify"
+    },
+    "shopifyUpdatedAt": {
+      "source": "updated_at",
+      "type": "string",
+      "description": "ISO 8601 timestamp when product was last updated in Shopify"
+    },
+    "shopifyOptions": {
+      "source": "options",
+      "type": "array",
+      "description": "Product options (color, size, thickness, etc.) - PRIORITY source for dimensions and colors"
+    },
+    "images": {
+      "source": "images",
+      "type": "array",
+      "description": "Product images array with src, alt, width, height, position"
+    },
+    "minPrice": {
+      "computed": true,
+      "description": "Minimum price across all variants (USD)"
+    },
+    "maxPrice": {
+      "computed": true,
+      "description": "Maximum price across all variants (USD)"
+    },
+    "variantPriceValues": {
+      "computed": true,
+      "description": "Unique variant price values (sorted asc). Useful for understanding price tiers without storing full variant data."
+    },
+    "minGrams": {
+      "computed": true,
+      "description": "Minimum weight in grams from variants"
+    },
+    "maxGrams": {
+      "computed": true,
+      "description": "Maximum weight in grams from variants"
+    },
+    "variantGramsValues": {
+      "computed": true,
+      "description": "Unique grams values across Shopify variants (sorted asc). Useful for mat weight ranges without storing full variant data."
+    },
+    "variantGramsZeroOrMissingCount": {
+      "computed": true,
+      "description": "Count of variants where Shopify grams is missing/invalid/0 (<= 0 or not finite)"
+    },
+    "variantGramsCoverage": {
+      "computed": true,
+      "description": "Share of variants with positive grams: (variantsCount - variantGramsZeroOrMissingCount) / variantsCount"
+    },
+    "variantGramsAllZeroOrMissing": {
+      "computed": true,
+      "description": "True if no variant has a positive grams value"
+    },
+    "isAvailable": {
+      "computed": true,
+      "description": "True if any variant is available for purchase"
+    },
+    "availableColors": {
+      "computed": true,
+      "description": "Normalized color options extracted from Color/Colour options only (e.g., ['Blue', 'Green', 'Purple'])"
+    },
+    "materials": {
+      "computed": true,
+      "description": "All detected material components (e.g., ['Cork', 'Natural Rubber']) derived from title/tags/description; `material` remains the primary material."
+    },
+    "materialSource": {
+      "computed": true,
+      "description": "Where the primary `material` was detected: title, tags, or description"
+    },
+    "materialConfidence": {
+      "computed": true,
+      "description": "Heuristic confidence (0..1) for `material` detection"
+    },
+    "texture": {
+      "computed": true,
+      "description": "Primary detected texture (e.g., 'Grippy', 'Textured', 'Smooth', 'Suede-like')"
+    },
+    "textures": {
+      "computed": true,
+      "description": "All detected texture signals (multi-value), derived from title/tags/description"
+    },
+    "textureSource": {
+      "computed": true,
+      "description": "Where the primary `texture` was detected: title, tags, or description"
+    },
+    "textureConfidence": {
+      "computed": true,
+      "description": "Heuristic confidence (0..1) for `texture` detection"
+    },
+    "diameter": {
+      "computed": true,
+      "description": "Extracted diameter for circular/round mats in cm with unit and original text (options first, then description fallback)"
+    },
+    "rolledDiameter": {
+      "computed": true,
+      "description": "Extracted diameter when rolled (portability) in cm with unit and original text (e.g., '6 in. diameter rolled')"
+    },
+    "availableDiameters": {
+      "computed": true,
+      "description": "Normalized diameter options in cm with unit and original strings (e.g., [{value: 91.44, unit: 'cm', originalString: '36\\\" Diameter'}, {value: 182.88, unit: 'cm', originalString: \"Round 6'\"}])"
+    },
+    "dimensionOptions": {
+      "computed": true,
+      "description": "Canonical, provenance-preserving dimension option parsing from Shopify options. Stores numeric values in metric units with sourceOptionName, rawValue, and confidence (0..1), includes sanity coverage metrics, and keeps rawUnparsed for dimension-related option values that could not be parsed."
+    },
+    "thicknessMmMin": {
+      "computed": true,
+      "description": "Minimum thickness across parsed dimension options (mm), falling back to single extracted thickness when options are missing"
+    },
+    "thicknessMmMax": {
+      "computed": true,
+      "description": "Maximum thickness across parsed dimension options (mm), falling back to single extracted thickness when options are missing"
+    },
+    "lengthCmMin": {
+      "computed": true,
+      "description": "Minimum length across parsed dimension options (cm), including L×W pairs, falling back to single extracted length when options are missing"
+    },
+    "lengthCmMax": {
+      "computed": true,
+      "description": "Maximum length across parsed dimension options (cm), including L×W pairs, falling back to single extracted length when options are missing"
+    },
+    "widthCmMin": {
+      "computed": true,
+      "description": "Minimum width across parsed dimension options (cm), including L×W pairs, falling back to single extracted width when options are missing"
+    },
+    "widthCmMax": {
+      "computed": true,
+      "description": "Maximum width across parsed dimension options (cm), including L×W pairs, falling back to single extracted width when options are missing"
+    },
+    "diameterCmMin": {
+      "computed": true,
+      "description": "Minimum diameter across parsed dimension options (cm), falling back to single extracted diameter when options are missing"
+    },
+    "diameterCmMax": {
+      "computed": true,
+      "description": "Maximum diameter across parsed dimension options (cm), falling back to single extracted diameter when options are missing"
+    },
+    "rolledDiameterCmMin": {
+      "computed": true,
+      "description": "Minimum rolled diameter across parsed dimension options (cm), falling back to single extracted rolledDiameter when options are missing"
+    },
+    "rolledDiameterCmMax": {
+      "computed": true,
+      "description": "Maximum rolled diameter across parsed dimension options (cm), falling back to single extracted rolledDiameter when options are missing"
+    },
+    "thicknessMmx10Values": {
+      "computed": true,
+      "description": "Unique thickness option values encoded as integer tenths of a mm (mm * 10), derived from dimensionOptions (fallback to single extracted thickness)"
+    },
+    "lengthCMx10Values": {
+      "computed": true,
+      "description": "Unique length option values encoded as integer tenths of a cm (cm * 10), including L×W pairs (fallback to single extracted length)"
+    },
+    "widthCMx10Values": {
+      "computed": true,
+      "description": "Unique width option values encoded as integer tenths of a cm (cm * 10), including L×W pairs (fallback to single extracted width)"
+    },
+    "diameterCMx10Values": {
+      "computed": true,
+      "description": "Unique diameter option values encoded as integer tenths of a cm (cm * 10), derived from dimensionOptions (fallback to single extracted diameter)"
+    },
+    "rolledDiameterCMx10Values": {
+      "computed": true,
+      "description": "Unique rolled diameter values encoded as integer tenths of a cm (cm * 10), derived from dimensionOptions (fallback to single extracted rolledDiameter)"
+    },
+    "sizePairsCMx10Values": {
+      "computed": true,
+      "description": "Unique L×W size pairs encoded as integer tenths of a cm ({lengthCMx10, widthCMx10}), derived from dimensionOptions.sizePairsCm"
+    }
+  },
+  "extractionPriority": {
+    "description": "Extraction follows this priority order: options FIRST, then description/tags as fallback",
+    "order": ["options", "description", "tags"]
+  },
+  "extractFromOptions": {
+    "thickness": {
+      "optionNames": ["size", "thickness"],
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*mm",
+        "^(\\d+(?:\\.\\d+)?)$"
+      ],
+      "unit": "mm",
+      "description": "Extract from options like 'Size: 5 MM' or 'Thickness: 8 MM'",
+      "structure": {
+        "value": "number (normalized to mm)",
+        "unit": "'mm' (always mm - normalized unit)",
+        "source": "'options' (when extracted from product options)",
+        "originalText": "string with original unit (e.g., '5 MM', '1/4 inch thick')"
+      }
+    },
+    "dimensions": {
+      "optionNames": ["size", "dimensions", "dimension"],
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?\\s*[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*(?:inch|\"|cm)?"
+      ],
+      "units": "cm",
+      "description": "Extract from options like 'Size: 72\" x 26\"' or 'Size: 80\" x 26\"'",
+      "structure": {
+        "length": {
+          "value": "number (normalized to cm)",
+          "unit": "'cm' (always cm - normalized unit)",
+          "source": "'options' | 'description'",
+          "originalText": "string with original unit (e.g., '72\" x 26\"', '80\" Long')"
+        },
+        "width": {
+          "value": "number (normalized to cm)",
+          "unit": "'cm' (always cm - normalized unit)",
+          "source": "'options' | 'description'",
+          "originalText": "string with original unit (e.g., '72\" x 26\"', '28\" Wide')"
+        }
+      }
+    },
+    "diameter": {
+      "optionNames": ["diameter", "dia", "size"],
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*(?:cm|mm|in|inch|\"|ft|'|feet).*?(?:diam(?:eter)?|dia\\.?|ø|round)"
+      ],
+      "units": "cm",
+      "description": "Extract diameter for circular/round mats from options like '36\" Diameter' or \"Round 6'\" (converted to cm)"
+    },
+    "colors": {
+      "optionNames": ["color", "colour", "color/pattern"],
+      "description": "Extract color options directly from values"
+    }
+  },
+  "extractFromDescription": {
+    "thickness": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*mm",
+        "(\\d+(?:\\.\\d+)?)\\s*millimeter",
+        "(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?",
+        "(\\d+/\\d+)\\s*inch"
+      ],
+      "unit": "mm",
+      "description": "Fallback: Extract thickness from description with unit conversion",
+      "structure": {
+        "value": "number (normalized to mm)",
+        "unit": "'mm' (always mm - normalized unit)",
+        "source": "'description' (when extracted from product description)",
+        "originalText": "string with original unit (e.g., '5mm', '1/4 inch thick')"
+      }
+    },
+    "length": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?\\s*(?:long|length|L)",
+        "(\\d+(?:\\.\\d+)?)\\s*cm\\s*(?:long|length|L)",
+        "(\\d+)\"\\s*[xX×]"
+      ],
+      "unit": "cm",
+      "description": "Fallback: Extract length (converted to cm)",
+      "structure": {
+        "value": "number (normalized to cm)",
+        "unit": "'cm' (always cm - normalized unit)",
+        "source": "'description'",
+        "originalText": "string with original unit (e.g., '80\" Long', '72\" x')"
+      }
+    },
+    "width": {
+      "patterns": [
+        "[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*inch(?:es)?",
+        "[xX×]\\s*(\\d+(?:\\.\\d+)?)\\s*cm",
+        "[xX×]\\s*(\\d+)\""
+      ],
+      "unit": "cm",
+      "description": "Fallback: Extract width (converted to cm)",
+      "structure": {
+        "value": "number (normalized to cm)",
+        "unit": "'cm' (always cm - normalized unit)",
+        "source": "'description'",
+        "originalText": "string with original unit (e.g., 'x 26\"', '28\" Wide')"
+      }
+    },
+    "diameter": {
+      "patterns": [
+        "(?:diam(?:eter)?|dia\\.?|ø|round)\\s*[:\\-]?\\s*(\\d+(?:\\.\\d+)?)\\s*(?:cm|mm|in|inch|\"|ft|'|feet)",
+        "(\\d+(?:\\.\\d+)?)\\s*(?:cm|mm|in|inch|\"|ft|'|feet)\\s*(?:diam(?:eter)?|dia\\.?|ø)"
+      ],
+      "unit": "cm",
+      "description": "Fallback: Extract diameter for circular/round mats (converted to cm)"
+    },
+    "weight": {
+      "patterns": [
+        "(\\d+(?:\\.\\d+)?)\\s*kg",
+        "(\\d+(?:\\.\\d+)?)\\s*(?:lbs?|pounds?)",
+        "(\\d+)\\s*grams"
+      ],
+      "unit": "kg",
+      "description": "Fallback: Extract weight from description (converted to kg)",
+      "structure": {
+        "value": "number (normalized to kg)",
+        "unit": "'kg' (always kg - normalized unit)",
+        "source": "'description' | 'variants'",
+        "originalText": "string with original unit (e.g., '2.5kg', '5.5 lbs', '2500 grams')"
+      }
+    },
+    "material": {
+      "keywords": [
+        "PVC",
+        "TPE",
+        "Natural Rubber",
+        "Cork",
+        "Jute",
+        "Cotton",
+        "Polyurethane",
+        "PU",
+        "EVA",
+        "NBR"
+      ],
+      "description": "Extract material type from description/tags"
+    },
+    "features": {
+      "keywords": {
+        "Eco-Friendly": ["eco", "sustainable", "planet friendly", "recycled", "biodegradable"],
+        "Reversible": ["reversible", "two-sided", "dual-sided"],
+        "Extra Thick": ["extra thick", "cushioned", "plush"],
+        "Non-Slip": ["non-slip", "non slip", "grippy", "grip"],
+        "Lightweight": ["lightweight", "light weight", "travel", "portable"],
+        "Extra Long": ["extra long", "long", "tall"],
+        "Extra Wide": ["extra wide", "wide"],
+        "Alignment Marks": ["alignment", "alignment marks", "markers", "guide"],
+        "Antimicrobial": ["antimicrobial", "antibacterial", "hygienic"],
+        "Closed-Cell": ["closed-cell", "closed cell", "moisture resistant"]
+      },
+      "description": "Extract features from description and tags"
+    },
+    "coreFeatures": {
+      "source": "product page HTML (enrichment step)",
+      "type": "array",
+      "description": "Raw product-page 'Core Features' bullets/lines (often rendered from metafields/theme blocks and missing from products.json)"
+    },
+    "coreFeaturesSource": {
+      "computed": true,
+      "type": "string",
+      "description": "Provenance for coreFeatures (currently 'productPage' when present)"
+    },
+    "coreFeaturesConfidence": {
+      "computed": true,
+      "type": "number",
+      "description": "0..1 parse confidence for coreFeatures extraction"
+    }
+  },
+  "defaults": {
+    "thickness": 5,
+    "length": 172.72,
+    "width": 60.96,
+    "gripDry": 5,
+    "gripWet": 5,
+    "cushioning": 5,
+    "durability": 5,
+    "ecoRating": 5,
+    "description": "Yoga mat"
+  },
+  "unitConversions": {
+    "thickness": {
+      "mm_to_mm": 1,
+      "cm_to_mm": 10,
+      "inch_to_mm": 25.4
+    },
+    "length": {
+      "cm_to_cm": 1,
+      "inch_to_cm": 2.54,
+      "mm_to_cm": 0.1
+    },
+    "width": {
+      "cm_to_cm": 1,
+      "inch_to_cm": 2.54,
+      "mm_to_cm": 0.1
+    },
+    "weight": {
+      "kg_to_kg": 1,
+      "lbs_to_kg": 0.453592,
+      "oz_to_kg": 0.0283495,
+      "g_to_kg": 0.001
+    }
+  }
+}

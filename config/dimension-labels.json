@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Standard dimension labels for yoga mats. Values are in cm for length/width, mm for thickness.",
+  "length": {
+    "mini": {
+      "max": 100,
+      "label": "Mini",
+      "description": "Small mats for targeted practice or travel"
+    },
+    "travel": {
+      "min": 100,
+      "max": 160,
+      "label": "Travel",
+      "description": "Compact mats for travel or kids"
+    },
+    "standard": {
+      "min": 160,
+      "max": 185,
+      "label": "Standard",
+      "description": "Standard length for most practitioners"
+    },
+    "long": {
+      "min": 185,
+      "max": 200,
+      "label": "Long",
+      "description": "Extended length for taller practitioners"
+    },
+    "extra-long": {
+      "min": 200,
+      "label": "Extra Long",
+      "description": "Maximum length for very tall practitioners"
+    }
+  },
+  "width": {
+    "narrow": {
+      "max": 60,
+      "label": "Narrow",
+      "description": "Compact width for travel or storage"
+    },
+    "standard": {
+      "min": 60,
+      "max": 68,
+      "label": "Standard",
+      "description": "Standard width for most practitioners"
+    },
+    "wide": {
+      "min": 68,
+      "max": 85,
+      "label": "Wide",
+      "description": "Extra room for broader shoulders or more space"
+    },
+    "extra-wide": {
+      "min": 85,
+      "label": "Extra Wide",
+      "description": "Maximum width for maximum comfort"
+    }
+  },
+  "thickness": {
+    "thin": {
+      "max": 2,
+      "label": "Thin",
+      "description": "Minimal cushioning, maximum stability and ground feel"
+    },
+    "standard": {
+      "min": 2,
+      "max": 5,
+      "label": "Standard",
+      "description": "Balanced cushioning and stability"
+    },
+    "thick": {
+      "min": 5,
+      "max": 8,
+      "label": "Thick",
+      "description": "Extra cushioning for joint protection"
+    },
+    "extra-thick": {
+      "min": 8,
+      "label": "Extra Thick",
+      "description": "Maximum cushioning for sensitive joints or restorative practice"
+    }
+  },
+  "shape": {
+    "rectangular": {
+      "label": "Rectangular",
+      "description": "Standard rectangular shape"
+    },
+    "square": {
+      "label": "Square",
+      "description": "Equal length and width for meditation or multi-directional practice"
+    },
+    "round": {
+      "label": "Round",
+      "description": "Circular shape for meditation or 360-degree movement"
+    }
+  }
+}
