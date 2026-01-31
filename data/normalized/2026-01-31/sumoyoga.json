@@ -1,0 +1,585 @@
+[
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Black Tatami Yoga Mat",
+    "slug": "sumoyoga-black-tatami-yoga-mat",
+    "titleOriginal": "Black Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Textured"
+    ],
+    "textureSource": "tags",
+    "textureConfidence": 0.75,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088769425627,
+    "shopifyHandle": "black-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "Yogamat",
+    "shopifyTags": [
+      "Comfort",
+      "Igusa Grass",
+      "Mindful Clothing",
+      "Non-Slip",
+      "Sustainable",
+      "Unisex",
+      "Wellness",
+      "Yoga Wear"
+    ],
+    "shopifyCreatedAt": "2026-01-07T19:39:47-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:19-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/blacka.png?v=1767843518",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/blackc.png?v=1767843518",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Gray Tatami Yoga Mat",
+    "slug": "sumoyoga-gray-tatami-yoga-mat",
+    "titleOriginal": "Gray Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088769294555,
+    "shopifyHandle": "gray-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "Yogamat",
+    "shopifyTags": [
+      "Comfort",
+      "Igusa Grass",
+      "Mindful Clothing",
+      "Sustainable"
+    ],
+    "shopifyCreatedAt": "2026-01-07T19:37:31-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:18-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/graya.png?v=1767843391",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/grayc.png?v=1767843391",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Matcha Tatami Yoga Mat",
+    "slug": "sumoyoga-matcha-tatami-yoga-mat",
+    "titleOriginal": "Matcha Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088767885531,
+    "shopifyHandle": "matcha-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2026-01-07T19:25:36-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:17-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/matchaa.png?v=1767842656",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/matcha_c.png?v=1767842682",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Mustard Tatami Yoga Mat",
+    "slug": "sumoyoga-mustard-tatami-yoga-mat",
+    "titleOriginal": "Mustard Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Grippy",
+    "textures": [
+      "Grippy",
+      "Textured"
+    ],
+    "textureSource": "tags",
+    "textureConfidence": 0.75,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088769589467,
+    "shopifyHandle": "mustard-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "Yogamat",
+    "shopifyTags": [
+      "Comfort",
+      "Igusa Grass",
+      "Mindful Clothing",
+      "Non-Slip",
+      "Sustainable"
+    ],
+    "shopifyCreatedAt": "2026-01-07T19:43:14-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:20-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/mustarda.png?v=1767843736",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/mustardc.png?v=1767843736",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Nude Tatami Yoga Mat",
+    "slug": "sumoyoga-nude-tatami-yoga-mat",
+    "titleOriginal": "Nude Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088766214363,
+    "shopifyHandle": "nude-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "",
+    "shopifyTags": [],
+    "shopifyCreatedAt": "2026-01-07T19:22:08-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:16-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/nudea.png?v=1767843127",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/nudec.png?v=1767843127",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  },
+  {
+    "brandId": "",
+    "brandSlug": "sumoyoga",
+    "name": "Olive Tatami Yoga Mat",
+    "slug": "sumoyoga-olive-tatami-yoga-mat",
+    "titleOriginal": "Olive Tatami Yoga Mat",
+    "seriesKey": "sumoyoga:tatami",
+    "seriesName": "Tatami",
+    "seriesConfidence": 0.95,
+    "seriesVersion": "series-manual-v1",
+    "description": "Experience the ancient tranquility of Japan with our Tatami Yoga Mat(26x72inch), the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nSumo Yoga: Tatami Yoga MatExperience the ancient tranquility of Japan with our Tatami Yoga Mat, the perfect fusion of tradition and modern wellness. Handcrafted from 100% natural Igusa rush grass, this mat offers an authentic and serene surface for your yoga practice. Igusa grass is not only sustainable but also provides a host of natural benefits to enhance your practice.\nKey Features and Benefits\nNatural Air Purifier: Igusa grass is known for its natural ability to purify the air by absorbing nitrogen dioxide, helping to create a cleaner, more refreshing environment for your practice.Optimal Temperature Regulation: The unique cellular structure of the grass provides a natural cooling effect in warmer weather and retains warmth in cooler temperatures, keeping you comfortable year-round.Naturally Deodorizing: Say goodbye to lingering odors. The mat's Igusa grass naturally absorbs and neutralizes common smells like sweat, leaving your mat fresh and clean.Stain and Flame Retardant: The dense, natural fibers of Igusa grass are inherently resistant to stains and flames, making your mat both easy to maintain and durable for long-term use.Authentic Tatami Feel: The firm, woven texture of the rush grass offers a naturally non-slip surface, giving you a stable and grounding foundation for every pose.Superior Grip and Stability: Unlike conventional mats, the Tatami Yoga Mat's firm surface helps you build strength and balance, especially in standing poses, by encouraging proper muscle engagement.Elevate Your PracticeThe Tatami Yoga Mat is more than just a piece of equipment; it's a sensory experience that deepens your connection to your practice. The subtle, earthy fragrance of Igusa grass is known for its calming properties, helping you find focus and relaxation during meditation and breathwork.Embrace the serene art of Sumo Yoga and elevate your practice with the timeless elegance of our Tatami Yoga Mat. It's a piece of nature that brings peace, balance, and authenticity to your every move.",
+    "length": {
+      "value": 182.88,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "width": {
+      "value": 66.04,
+      "unit": "cm",
+      "source": "description",
+      "originalText": "26x72inch"
+    },
+    "texture": "Textured",
+    "textures": [
+      "Textured",
+      "Grippy"
+    ],
+    "textureSource": "description",
+    "textureConfidence": 0.65,
+    "features": [
+      "Eco-Friendly",
+      "Non-Slip"
+    ],
+    "shopifyId": 9088769163483,
+    "shopifyHandle": "olive-tatami-yoga-mat",
+    "shopifyVendor": "Sumo Yoga",
+    "shopifyProductType": "Yogamat",
+    "shopifyTags": [
+      "Comfort",
+      "Igusa Grass",
+      "Mindful Clothing",
+      "Sustainable"
+    ],
+    "shopifyCreatedAt": "2026-01-07T19:34:58-08:00",
+    "shopifyPublishedAt": "2026-01-07T19:45:18-08:00",
+    "shopifyUpdatedAt": "2026-01-30T21:30:57-08:00",
+    "variantsCount": 1,
+    "minPrice": 199,
+    "maxPrice": 199,
+    "variantPriceValues": [
+      199
+    ],
+    "priceCurrency": "USD",
+    "variantGramsZeroOrMissingCount": 1,
+    "variantGramsCoverage": 0,
+    "variantGramsAllZeroOrMissing": true,
+    "isAvailable": true,
+    "lengthCmMin": 182.88,
+    "lengthCmMax": 182.88,
+    "widthCmMin": 66.04,
+    "widthCmMax": 66.04,
+    "lengthCMx10Values": [
+      1829
+    ],
+    "widthCMx10Values": [
+      660
+    ],
+    "sizePairsCMx10Values": [
+      {
+        "lengthCMx10": 1829,
+        "widthCMx10": 660
+      }
+    ],
+    "shopifyOptions": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/olivea.png?v=1767843197",
+        "width": 1080,
+        "height": 1080,
+        "position": 1
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0749/7754/2363/files/olivec.png?v=1767843197",
+        "width": 1080,
+        "height": 1080,
+        "position": 2
+      }
+    ]
+  }
+]
