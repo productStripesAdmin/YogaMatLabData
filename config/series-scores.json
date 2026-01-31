@@ -1,0 +1,33 @@
+[
+  {
+    "seriesKey": "manduka:pro",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 6.5,
+      "durability": 10.0,
+      "cushioning": 10.0,
+      "ecoRating": 8.0,
+      "portability": 4.0,
+      "easeOfCleaning": 9.5,
+      "stability": 10.0,
+      "initialOdor": 6.0,
+      "value": 7.5,
+      "performance": 9.0,
+      "overall": 9.1
+    },
+    "review": {
+      "overview": "The Manduka PRO is the gold standard for studio yoga mats, offering exceptional durability with a lifetime guarantee. Its dense 6mm cushioning provides joint-friendly support while maintaining stability for inversions.",
+      "pros": ["Exceptional durability with lifetime warranty", "Dense cushioning perfect for joint protection", "Easy to clean and maintain"],
+      "cons": ["Heavy at 7.5 lbs", "Slippery when wet", "Premium price"],
+      "bestFor": "Serious practitioners who want a mat that lasts decades",
+      "notIdealFor": "Hot yoga, travel, beginners on a budget",
+      "lastUpdated": "2026-01-29"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Hatha", "Yin"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.manduka.com/products/manduka-pro-yoga-mat"
+    }
+  }
+]
