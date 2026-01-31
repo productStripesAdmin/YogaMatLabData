@@ -21,13 +21,590 @@
       "cons": ["Heavy at 7.5 lbs", "Slippery when wet", "Premium price"],
       "bestFor": "Serious practitioners who want a mat that lasts decades",
       "notIdealFor": "Hot yoga, travel, beginners on a budget",
-      "lastUpdated": "2026-01-29"
+      "lastUpdated": "2026-01-31"
     },
     "isReviewed": true,
     "yogaStyles": ["Vinyasa", "Power Yoga", "Hatha", "Yin"],
     "useCases": ["Studio", "Home"],
     "affiliateLinks": {
       "brandWebsite": "https://www.manduka.com/products/manduka-pro-yoga-mat"
+    }
+  },
+  {
+    "seriesKey": "manduka:eko",
+    "scores": {
+      "gripDry": 9.0,
+      "gripWet": 6.0,
+      "durability": 8.5,
+      "cushioning": 9.0,
+      "ecoRating": 9.5,
+      "portability": 3.5,
+      "easeOfCleaning": 8.5,
+      "stability": 9.0,
+      "initialOdor": 5.5,
+      "value": 8.5,
+      "performance": 8.5,
+      "overall": 8.7
+    },
+    "review": {
+      "overview": "The Manduka eKO offers natural tree rubber construction with excellent dry traction. No break-in period needed, making it ready to use right out of the box with a textured surface for enhanced grip.",
+      "pros": ["Strong dry traction with no break-in", "Eco-friendly natural rubber", "Stable on various surfaces"],
+      "cons": ["Heavy at 6.3 lbs", "Creases easily", "Slippery when wet"],
+      "bestFor": "Eco-conscious yogis who primarily practice dry styles",
+      "notIdealFor": "Hot yoga, travel, those with latex allergies",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Hatha", "Restorative"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.manduka.com/products/eko-yoga-mat-5mm"
+    }
+  },
+  {
+    "seriesKey": "lululemon:the-mat",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 7.5,
+      "durability": 7.0,
+      "cushioning": 10.0,
+      "ecoRating": 6.0,
+      "portability": 5.5,
+      "easeOfCleaning": 6.0,
+      "stability": 8.5,
+      "initialOdor": 6.5,
+      "value": 8.0,
+      "performance": 8.5,
+      "overall": 8.4
+    },
+    "review": {
+      "overview": "Lululemon's The Mat delivers excellent cushion with a grippy, sweat-absorbent surface. Versatile across multiple yoga styles, though it may lose grip over time and stains more easily than closed-cell alternatives.",
+      "pros": ["Exceptional cushioning comfort", "Grippy and sweat-absorbent surface", "Versatile for multiple yoga styles"],
+      "cons": ["Contains latex", "Stains easily", "Grip may diminish over time"],
+      "bestFor": "Yogis who prioritize cushioning and comfort across various practice styles",
+      "notIdealFor": "Those with latex allergies, anyone seeking ultra-durable mats",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Hatha", "Yin"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://shop.lululemon.com/p/yoga-mats/The-Mat-5mm/"
+    }
+  },
+  {
+    "seriesKey": "liforme:original",
+    "scores": {
+      "gripDry": 8.5,
+      "gripWet": 8.5,
+      "durability": 6.5,
+      "cushioning": 7.0,
+      "ecoRating": 7.5,
+      "portability": 5.0,
+      "easeOfCleaning": 9.0,
+      "stability": 7.5,
+      "initialOdor": 8.0,
+      "value": 5.5,
+      "performance": 8.0,
+      "overall": 7.6
+    },
+    "review": {
+      "overview": "The Liforme Original features unique alignment markers with tutorial integration and excellent wet/dry grip. Premium features include wider design and included travel bag, though durability concerns and high price are notable.",
+      "pros": ["Alignment cues with tutorials", "Excellent wet and dry grip", "Wider design (27 inches)", "Travel bag included"],
+      "cons": ["Expensive at $160", "Potential staining issues", "Less durable than competitors"],
+      "bestFor": "Yogis who value alignment guidance and grip performance",
+      "notIdealFor": "Budget-conscious buyers, those seeking maximum durability",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Hot Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://us.liforme.com/products/liforme-yoga-mat-grey"
+    }
+  },
+  {
+    "seriesKey": "iuga:eco-friendly-non-slip",
+    "scores": {
+      "gripDry": 7.0,
+      "gripWet": 6.5,
+      "durability": 6.0,
+      "cushioning": 8.0,
+      "ecoRating": 7.0,
+      "portability": 8.5,
+      "easeOfCleaning": 7.0,
+      "stability": 7.5,
+      "initialOdor": 4.0,
+      "value": 9.0,
+      "performance": 7.0,
+      "overall": 7.5
+    },
+    "review": {
+      "overview": "The Iuga Eco Friendly mat provides excellent value with extra-wide dimensions (72x26) and lightweight construction. Good cushion and grip for the price, though open-cell design shortens lifespan and initial odor is strong.",
+      "pros": ["Extra wide and long dimensions", "Lightweight at 2.1 lbs with carry strap", "Good cushion and grip for the price"],
+      "cons": ["Open-cell design reduces durability", "Initial strong smell", "Less durable than premium options"],
+      "bestFor": "Budget-conscious beginners who want extra space",
+      "notIdealFor": "Advanced practitioners seeking long-term durability, hot yoga",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Gentle Yoga", "Restorative"],
+    "useCases": ["Home", "Studio"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "yoloha:unity-cork",
+    "scores": {
+      "gripDry": 5.5,
+      "gripWet": 9.0,
+      "durability": 8.0,
+      "cushioning": 7.0,
+      "ecoRating": 8.5,
+      "portability": 4.5,
+      "easeOfCleaning": 9.0,
+      "stability": 9.5,
+      "initialOdor": 8.5,
+      "value": 6.0,
+      "performance": 7.5,
+      "overall": 7.5
+    },
+    "review": {
+      "overview": "The Yoloha Unity Cork mat features thick, firm construction ideal for hot yoga with antimicrobial cork surface. Excellent wet grip improves with moisture, though dry grip requires break-in period.",
+      "pros": ["Thick and firm for excellent support", "Great wet grip for hot yoga", "Antimicrobial and eco-friendly cork"],
+      "cons": ["Needs break-in period", "Slippery when dry", "Expensive and heavy at 6.1 lbs"],
+      "bestFor": "Hot yoga practitioners and those who sweat heavily",
+      "notIdealFor": "Dry yoga styles, travel, those on a budget",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hot Yoga", "Bikram", "Power Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://yolohayoga.com/products/unity-cork-yoga-mat"
+    }
+  },
+  {
+    "seriesKey": "prana:verde",
+    "scores": {
+      "gripDry": 9.0,
+      "gripWet": 6.5,
+      "durability": 6.5,
+      "cushioning": 8.0,
+      "ecoRating": 8.0,
+      "portability": 4.0,
+      "easeOfCleaning": 5.5,
+      "stability": 8.0,
+      "initialOdor": 6.5,
+      "value": 7.5,
+      "performance": 7.5,
+      "overall": 7.3
+    },
+    "review": {
+      "overview": "The Prana Verde combines FSC-certified rubber with organic cotton for eco-friendly construction. Super grippy dry performance with traction pattern, though it attracts dirt and hair easily.",
+      "pros": ["Good cushion with eco-friendly materials", "Super grippy for dry practice", "Textured traction pattern"],
+      "cons": ["Attracts dirt and hair", "Dye may bleed", "Too grippy for transition slides"],
+      "bestFor": "Eco-conscious yogis practicing primarily dry styles",
+      "notIdealFor": "Hot yoga, those wanting easy-clean surfaces, vinyasa with lots of transitions",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Yin", "Restorative"],
+    "useCases": ["Home", "Studio"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "hugger-mugger:earth-elements",
+    "scores": {
+      "gripDry": 6.5,
+      "gripWet": 5.5,
+      "durability": 6.0,
+      "cushioning": 7.0,
+      "ecoRating": 7.5,
+      "portability": 8.5,
+      "easeOfCleaning": 8.5,
+      "stability": 6.0,
+      "initialOdor": 8.0,
+      "value": 8.5,
+      "performance": 6.5,
+      "overall": 7.0
+    },
+    "review": {
+      "overview": "The Hugger Mugger Earth Elements is a plush TPE mat perfect for beginners. Lightweight at 2.2 lbs with easy cleaning and budget-friendly price, though it's too squishy for balance poses.",
+      "pros": ["Plush comfort for beginners", "Lightweight and portable", "Easy to clean", "Budget-friendly at $74"],
+      "cons": ["Too squishy for balance poses", "Mediocre wet grip", "Durability concerns with TPE"],
+      "bestFor": "Beginners who prioritize comfort and affordability",
+      "notIdealFor": "Advanced practitioners, hot yoga, balance-intensive practices",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga", "Restorative", "Beginner Classes"],
+    "useCases": ["Home", "Studio"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.huggermugger.com/earth-elements-5-mm-yoga-mat/"
+    }
+  },
+  {
+    "seriesKey": "gaiam:premium-6mm",
+    "scores": {
+      "gripDry": 5.5,
+      "gripWet": 4.0,
+      "durability": 5.5,
+      "cushioning": 6.5,
+      "ecoRating": 5.0,
+      "portability": 7.0,
+      "easeOfCleaning": 7.5,
+      "stability": 6.5,
+      "initialOdor": 4.5,
+      "value": 9.5,
+      "performance": 5.5,
+      "overall": 6.2
+    },
+    "review": {
+      "overview": "The Gaiam Premium 6mm offers decent cushion and adequate dry grip for beginners at an unbeatable price point. Available in many patterns, though it's slippery when wet and smaller than standard.",
+      "pros": ["Affordable at $35", "Decent cushion for beginners", "Many pattern options available"],
+      "cons": ["Slippery when wet", "Smaller size (68x24)", "Initial chemical smell"],
+      "bestFor": "Budget-conscious beginners starting their yoga journey",
+      "notIdealFor": "Hot yoga, tall practitioners, those seeking long-term durability",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga", "Beginner Classes"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gaiam.com/collections/premium-yoga-mats"
+    }
+  },
+  {
+    "seriesKey": "gaiam:performance-dry-grip",
+    "scores": {
+      "gripDry": 6.0,
+      "gripWet": 4.0,
+      "durability": 4.5,
+      "cushioning": 8.0,
+      "ecoRating": 4.0,
+      "portability": 5.0,
+      "easeOfCleaning": 5.0,
+      "stability": 7.0,
+      "initialOdor": 5.0,
+      "value": 6.5,
+      "performance": 5.5,
+      "overall": 6.2
+    },
+    "review": {
+      "overview": "The Gaiam Performance Dry-Grip features elegant patterns and good dry grip, but falls short on durability and wet performance. Stains easily and doesn't hold up to intensive use.",
+      "pros": ["Good dry grip", "Elegant pattern designs", "Decent cushioning"],
+      "cons": ["Not durable", "Stains easily", "Very slippery when wet"],
+      "bestFor": "Casual practitioners who want attractive aesthetics",
+      "notIdealFor": "Hot yoga, intensive daily practice, those seeking value",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga", "Hatha"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gaiam.com/collections/performance-yoga-mats"
+    }
+  },
+  {
+    "seriesKey": "alo-yoga:warrior-mat",
+    "scores": {
+      "gripDry": 6.5,
+      "gripWet": 3.0,
+      "durability": 5.5,
+      "cushioning": 7.0,
+      "ecoRating": 6.0,
+      "portability": 2.5,
+      "easeOfCleaning": 5.0,
+      "stability": 7.0,
+      "initialOdor": 7.0,
+      "value": 4.5,
+      "performance": 5.5,
+      "overall": 6.2
+    },
+    "review": {
+      "overview": "The Alo Yoga Warrior Mat offers extra-wide dimensions and soft polyurethane leather surface. Non-slip when dry, but extremely slippery when wet and very heavy at 8.1 lbs.",
+      "pros": ["Non-slip dry performance", "Extra wide at 26 inches", "Soft, comfortable surface"],
+      "cons": ["Very slippery when wet", "Stains easily", "Heavy at 8.1 lbs", "Durability concerns"],
+      "bestFor": "Tall practitioners doing dry, gentle yoga styles",
+      "notIdealFor": "Hot yoga, travel, sweaty practices, those on a budget",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga", "Restorative"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.aloyoga.com/products/w7092r-warrior-mat-smoky-quartz"
+    }
+  },
+  {
+    "seriesKey": "jade:harmony",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 6.0,
+      "durability": 5.5,
+      "cushioning": 6.0,
+      "ecoRating": 8.0,
+      "portability": 6.0,
+      "easeOfCleaning": 6.5,
+      "stability": 6.5,
+      "initialOdor": 6.0,
+      "value": 7.0,
+      "performance": 6.5,
+      "overall": 5.9
+    },
+    "review": {
+      "overview": "The Jade Harmony offers natural rubber construction with great dry grip and eco-friendly credentials. Available in attractive patterns, though wet grip performance is inconsistent.",
+      "pros": ["Great dry grip", "Natural rubber eco-friendly", "Available patterns", "Moderate weight"],
+      "cons": ["Inconsistent wet grip", "Rubber smell initially", "Standard durability for natural rubber"],
+      "bestFor": "Eco-conscious yogis practicing primarily dry styles",
+      "notIdealFor": "Hot yoga, those with latex allergies",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Vinyasa", "Gentle Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/harmony-mat"
+    }
+  },
+  {
+    "seriesKey": "gaiam:premium-reversible",
+    "scores": {
+      "gripDry": 4.5,
+      "gripWet": 3.0,
+      "durability": 4.5,
+      "cushioning": 6.0,
+      "ecoRating": 5.5,
+      "portability": 7.0,
+      "easeOfCleaning": 5.0,
+      "stability": 6.0,
+      "initialOdor": 6.0,
+      "value": 7.0,
+      "performance": 4.5,
+      "overall": 5.4
+    },
+    "review": {
+      "overview": "The Gaiam Premium Reversible features beautiful patterns and lays flat immediately. However, poor cushion and slippery wet performance limit its functionality.",
+      "pros": ["Beautiful pattern designs", "Lays flat without curling", "Reversible for variety"],
+      "cons": ["Poor cushioning", "Very slippery when wet", "May stain clothing"],
+      "bestFor": "Casual yogis who prioritize aesthetics over performance",
+      "notIdealFor": "Hot yoga, intensive practice, those needing cushioning",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga"],
+    "useCases": ["Home"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "yoga-design-lab:combo",
+    "scores": {
+      "gripDry": 4.0,
+      "gripWet": 4.5,
+      "durability": 5.0,
+      "cushioning": 6.0,
+      "ecoRating": 6.0,
+      "portability": 6.0,
+      "easeOfCleaning": 8.0,
+      "stability": 5.5,
+      "initialOdor": 7.0,
+      "value": 5.0,
+      "performance": 4.5,
+      "overall": 5.2
+    },
+    "review": {
+      "overview": "The Yoga Design Lab Combo is machine washable and absorbs sweat, but struggles with grip performance both dry and wet. The narrow width and lint collection are additional drawbacks.",
+      "pros": ["Machine washable", "Absorbs sweat well", "Attractive designs"],
+      "cons": ["Slippery both dry and wet", "Collects lint and debris", "Narrow at 24 inches"],
+      "bestFor": "Those who prioritize easy washing and sweat absorption",
+      "notIdealFor": "Anyone needing reliable grip, tall practitioners",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hot Yoga", "Gentle Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "manduka:eko-superlite",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 4.5,
+      "durability": 6.5,
+      "cushioning": 2.0,
+      "ecoRating": 9.0,
+      "portability": 9.5,
+      "easeOfCleaning": 8.0,
+      "stability": 5.0,
+      "initialOdor": 6.0,
+      "value": 7.5,
+      "performance": 5.5,
+      "overall": 4.8
+    },
+    "review": {
+      "overview": "The Manduka eKO SuperLite is ultra-portable at 2.3 lbs with excellent dry grip and foldable design. However, minimal cushioning at 1.5mm limits comfort for floor poses.",
+      "pros": ["Excellent dry grip", "Foldable and ultra-portable", "Sustainable tree rubber"],
+      "cons": ["Minimal cushioning", "Slippery when wet", "Not suitable for floor poses"],
+      "bestFor": "Travelers who need a lightweight travel mat",
+      "notIdealFor": "Primary mat use, hot yoga, those needing cushioning",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga"],
+    "useCases": ["Travel", "Outdoor"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.manduka.com/products/eko-superlite-travel-yoga-mat"
+    }
+  },
+  {
+    "seriesKey": "lululemon:the-workout-mat",
+    "scores": {
+      "gripDry": 6.0,
+      "gripWet": 4.0,
+      "durability": 4.5,
+      "cushioning": 5.0,
+      "ecoRating": 6.5,
+      "portability": 6.5,
+      "easeOfCleaning": 6.0,
+      "stability": 5.5,
+      "initialOdor": 7.0,
+      "value": 4.0,
+      "performance": 5.0,
+      "overall": 4.7
+    },
+    "review": {
+      "overview": "The Lululemon Workout Mat is designed for multi-purpose gym use with good dry grip. However, the texture is distracting for yoga, and wet grip plus durability are concerns.",
+      "pros": ["Multi-purpose for gym workouts", "Good dry grip", "Recycled materials"],
+      "cons": ["Texture distracting for yoga", "Slippery when wet", "Not durable for intensive use"],
+      "bestFor": "Gym-goers who occasionally practice yoga",
+      "notIdealFor": "Dedicated yoga practice, hot yoga, those seeking durability",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Power Yoga"],
+    "useCases": ["Home"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "jade:voyager",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 7.0,
+      "durability": 4.0,
+      "cushioning": 2.0,
+      "ecoRating": 7.5,
+      "portability": 9.0,
+      "easeOfCleaning": 6.5,
+      "stability": 4.5,
+      "initialOdor": 6.0,
+      "value": 7.0,
+      "performance": 5.5,
+      "overall": 4.5
+    },
+    "review": {
+      "overview": "The Jade Voyager excels at hand grip in both dry and wet conditions while being ultra-lightweight at 1.8 lbs. However, minimal cushioning and shifting during use limit its effectiveness.",
+      "pros": ["Excellent hand grip dry and wet", "Lightweight for travel", "Natural rubber"],
+      "cons": ["Too thin for comfort", "Not durable", "Shifts during use"],
+      "bestFor": "Travelers needing minimal weight",
+      "notIdealFor": "Primary mat use, those needing cushioning or stability",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa"],
+    "useCases": ["Travel", "Outdoor"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/voyager-mat"
+    }
+  },
+  {
+    "seriesKey": "primasole:foldable",
+    "scores": {
+      "gripDry": 3.5,
+      "gripWet": 3.0,
+      "durability": 3.5,
+      "cushioning": 3.0,
+      "ecoRating": 5.0,
+      "portability": 9.5,
+      "easeOfCleaning": 7.0,
+      "stability": 3.5,
+      "initialOdor": 6.0,
+      "value": 6.5,
+      "performance": 3.5,
+      "overall": 3.8
+    },
+    "review": {
+      "overview": "The Primasole Foldable is designed for outdoor yoga and travel with ultra-portable folding design. However, limited cushion and grip make it suitable only for occasional outdoor use.",
+      "pros": ["Lightweight and foldable", "Portable for travel and outdoor use"],
+      "cons": ["Limited cushion", "Limited grip", "Not suitable for regular practice"],
+      "bestFor": "Outdoor yoga and park sessions",
+      "notIdealFor": "Regular studio practice, hot yoga, anyone wanting a primary mat",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga"],
+    "useCases": ["Outdoor", "Travel"],
+    "affiliateLinks": {}
+  },
+  {
+    "seriesKey": "manduka:prolite",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 6.0,
+      "durability": 9.5,
+      "cushioning": 7.5,
+      "ecoRating": 8.0,
+      "portability": 6.5,
+      "easeOfCleaning": 9.5,
+      "stability": 9.5,
+      "initialOdor": 6.0,
+      "value": 8.0,
+      "performance": 8.5,
+      "overall": 8.5
+    },
+    "review": {
+      "overview": "The Manduka ProLite offers the legendary PRO durability and stability in a lighter 4.7mm package. Perfect for studios and frequent practitioners who want excellent performance without the PRO's weight.",
+      "pros": ["Exceptional durability with lifetime warranty", "Lighter than PRO at 4 lbs", "Easy to clean closed-cell surface", "Excellent stability"],
+      "cons": ["Less cushioning than 6mm PRO", "Requires break-in period", "Not ideal for wet practices"],
+      "bestFor": "Frequent practitioners wanting PRO quality with better portability",
+      "notIdealFor": "Hot yoga, those needing maximum cushioning, budget buyers",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Hatha"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.manduka.com/products/prolite-yoga-mat"
+    }
+  },
+  {
+    "seriesKey": "jade:fusion",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 7.0,
+      "durability": 7.5,
+      "cushioning": 9.5,
+      "ecoRating": 8.5,
+      "portability": 2.0,
+      "easeOfCleaning": 7.0,
+      "stability": 7.0,
+      "initialOdor": 5.5,
+      "value": 6.5,
+      "performance": 7.5,
+      "overall": 7.8
+    },
+    "review": {
+      "overview": "The Jade Fusion is extra thick at 8mm for maximum cushioning, making it ideal for exercises beyond yoga. Natural tree rubber provides good traction, though it's very heavy at 8.5 lbs.",
+      "pros": ["Extra thick cushioning", "Natural rubber eco-friendly", "Good for multi-purpose exercise"],
+      "cons": ["Very heavy at 8.5 lbs", "Not portable", "Premium price at $145"],
+      "bestFor": "Home studios needing maximum cushioning for yoga and fitness",
+      "notIdealFor": "Travel, those wanting lightweight mats, hot yoga",
+      "lastUpdated": "2026-01-31"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Restorative", "Yin", "Gentle Yoga"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/fusion-mat"
     }
   }
 ]

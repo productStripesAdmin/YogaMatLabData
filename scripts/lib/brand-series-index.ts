@@ -270,6 +270,40 @@ export interface SeriesIndexRecord {
     width: number;
     height: number;
   }>;
+
+  // Scoring and review data
+  scores?: {
+    gripDry: number;
+    gripWet: number;
+    durability: number;
+    cushioning: number;
+    ecoRating: number;
+    portability: number;
+    easeOfCleaning: number;
+    stability: number;
+    initialOdor: number;
+    value: number;
+    performance: number;
+    overall: number;
+  } | null;
+
+  review?: {
+    overview: string;
+    pros: string[];
+    cons: string[];
+    bestFor: string;
+    notIdealFor: string;
+    lastUpdated: string;
+  } | null;
+
+  isReviewed?: boolean;
+  yogaStyles?: string[];
+  useCases?: string[];
+  affiliateLinks?: {
+    brandWebsite?: string;
+    amazon?: string;
+    [key: string]: string | undefined;
+  };
 }
 
 function isBundleLike(text: string): boolean {
@@ -679,5 +713,43 @@ export function buildSeriesIndex(products: NormalizedYogaMat[]): SeriesIndexReco
     a.seriesName.localeCompare(b.seriesName)
   );
 
-  return out;
+  return enrichWithScores(out);
+}
+
+// Enrich series index with scoring data
+interface SeriesScore {
+  seriesKey: string;
+  scores: any;
+  review: any;
+  isReviewed: boolean;
+  yogaStyles: string[];
+  useCases: string[];
+  affiliateLinks: any;
+}
+
+function enrichWithScores(seriesIndex: SeriesIndexRecord[]): SeriesIndexRecord[] {
+  let seriesScores: SeriesScore[] = [];
+
+  try {
+    const configPath = path.join(process.cwd(), 'config', 'series-scores.json');
+    const raw = readFileSync(configPath, 'utf-8');
+    seriesScores = JSON.parse(raw);
+  } catch {
+    // If no scoring file, return original data
+    return seriesIndex;
+  }
+
+  return seriesIndex.map(series => {
+    const scoreData = seriesScores.find(s => s.seriesKey === series.seriesKey);
+
+    return {
+      ...series,
+      scores: scoreData?.scores || null,
+      review: scoreData?.review || null,
+      isReviewed: scoreData?.isReviewed || false,
+      yogaStyles: scoreData?.yogaStyles || [],
+      useCases: scoreData?.useCases || [],
+      affiliateLinks: scoreData?.affiliateLinks || {}
+    };
+  });
 }
