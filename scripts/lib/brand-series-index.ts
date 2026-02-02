@@ -731,7 +731,7 @@ function enrichWithScores(seriesIndex: SeriesIndexRecord[]): SeriesIndexRecord[]
   let seriesScores: SeriesScore[] = [];
 
   try {
-    const configPath = path.join(process.cwd(), 'config', 'series-scores.json');
+    const configPath = path.join(process.cwd(), 'data', 'scores', 'series-scores.json');
     const raw = readFileSync(configPath, 'utf-8');
     seriesScores = JSON.parse(raw);
   } catch {
