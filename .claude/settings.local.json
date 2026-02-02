@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:yogadesignlab.com)",
+      "Bash(python3:*)",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:www.yogaalignmentguide.com)",
+      "WebFetch(domain:www.theyoganomads.com)",
+      "Bash(grep:*)",
+      "WebFetch(domain:moonholi.com)",
+      "WebFetch(domain:www.outdoorgearlab.com)"
+    ]
+  }
+}

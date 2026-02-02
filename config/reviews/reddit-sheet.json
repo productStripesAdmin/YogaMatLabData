@@ -1,5 +1,6 @@
 [
   {
+    "seriesKey": "jadeyoga:fusion",
     "Name": "Fusion",
     "Company": "Jade",
     "Link": "https://jadeyoga.com/collections/yoga-mats/products/fusion-mat",
@@ -12,6 +13,7 @@
     "Notes": "extra thick; also for exercises besides yoga"
   },
   {
+    "seriesKey": "yoloha:unity",
     "Name": "Unity",
     "Company": "Yoloha",
     "Link": "https://yolohayoga.com/products/unity-cork-yoga-mat?variant=40699707261116",
@@ -24,6 +26,7 @@
     "Notes": "Created for intense sweating and virgorous practices"
   },
   {
+    "seriesKey": "huggermugger:para-rubber-mat",
     "Name": "Para Rubber Mat",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/para-rubber-yoga-mat/",
@@ -36,6 +39,7 @@
     "Notes": "two different dry-grip textures"
   },
   {
+    "seriesKey": "huggermugger:gallery-ultra",
     "Name": "Gallery Ultra",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/gallery-collection-ultra-yoga-mat/",
@@ -48,6 +52,7 @@
     "Notes": "cute printed patterns"
   },
   {
+    "seriesKey": "huggermugger:nature-ultra",
     "Name": "Nature Ultra",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/nature-collection-ultra-yoga-mat/",
@@ -60,6 +65,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "b-yoga:strong",
     "Name": "B Mat Strong",
     "Company": "B Yoga",
     "Link": "https://byoganow.com/collections/b-mat-strong/products/the-b-mat-strong-6mm?variant=39424600899687",
@@ -72,6 +78,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "gaiam:premium-mat",
     "Name": "Premium Mat",
     "Company": "Gaiam",
     "Link": "https://www.gaiam.com/collections/premium-yoga-mats",
@@ -84,6 +91,7 @@
     "Notes": "Lots of patterns and surface textures available"
   },
   {
+    "seriesKey": "lululemon:take-form-mat",
     "Name": "Take Form Mat",
     "Company": "Lululemon",
     "Link": "https://shop.lululemon.com/p/yoga-mats/Take-Form-Yoga-Mat-5mm/_/prod10370187?icid=cdp-cdp%3Ayoga-mats%3B3%3Bcollectioncard%3Bpdp%3Atake-form-yoga-mat-5mm%3Belevatedexperience&sz=ONESIZE",
@@ -96,7 +104,8 @@
     "Notes": "3D texture on surface to guide you without looking"
   },
   {
-    "Name": "Manduka pro",
+    "seriesKey": "manduka:pro",
+    "Name": "PRO™",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/manduka-pro-yoga-mat?variant=31221554184250",
     "Price (USD)": "$129.00",
@@ -108,6 +117,7 @@
     "Notes": "closed cell material, easy to clean; longer sizes available"
   },
   {
+    "seriesKey": "manduka:grp-hot-yoga-mat",
     "Name": "GRP Hot Yoga Mat",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/grp-hot-yoga-mat?variant=23736466473018",
@@ -120,6 +130,7 @@
     "Notes": "designed for hot yoga, absorbs liquid; special cleaning protocol; top layer materials are unknown"
   },
   {
+    "seriesKey": "yoloha:aura",
     "Name": "Aura",
     "Company": "Yoloha",
     "Link": "https://yolohayoga.com/products/aura-cork-yoga-mat-plant-foam?variant=40884571668668",
@@ -132,6 +143,7 @@
     "Notes": "70% renewable materials"
   },
   {
+    "seriesKey": "yoloha:original-cork-mat",
     "Name": "Original Cork Mat",
     "Company": "Yoloha",
     "Link": "https://yolohayoga.com/products/original-cork-yoga-mat?variant=42559154094292",
@@ -144,6 +156,7 @@
     "Notes": "Not sure how it's different than the Aura"
   },
   {
+    "seriesKey": "jollie:the-plush-mat",
     "Name": "The Plush mat",
     "Company": "Jollie",
     "Link": "https://www.bejollie.com/collections/mats/products/the-plush-yoga-mat-palm",
@@ -156,6 +169,7 @@
     "Notes": "pretty patterns available; grip increases when moist"
   },
   {
+    "seriesKey": "gaiam:performance-mat",
     "Name": "Performance Mat",
     "Company": "Gaiam",
     "Link": "https://www.gaiam.com/collections/performance-yoga-mats",
@@ -168,6 +182,7 @@
     "Notes": "Many material, thickness, and pattern options"
   },
   {
+    "seriesKey": "ajna:eco-jute-mat",
     "Name": "Eco Jute Mat",
     "Company": "Ajna",
     "Link": "https://www.ajnawellbeing.com/collections/yoga-accessories/products/organic-jute-yoga-mat",
@@ -180,6 +195,7 @@
     "Notes": "I guess they thought dimensions weren't important to mention"
   },
   {
+    "seriesKey": "aloyoga:warrior-mat",
     "Name": "Warrior Mat",
     "Company": "Alo",
     "Link": "https://www.aloyoga.com/products/w7092r-warrior-mat-smoky-quartz",
@@ -192,6 +208,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "lululemon:the-mat",
     "Name": "The Mat",
     "Company": "Lululemon",
     "Link": "https://shop.lululemon.com/p/yoga-mats/The-Mat-5mm/_/prod10990033?icid=cdp-cdp%3Ayoga-mats%3B1%3Bcollectioncard%3Bpdp%3Athe-mat-5mm%3Belevatedexperience&sz=ONESIZE",
@@ -204,7 +221,8 @@
     "Notes": "slight smell that will fade over time"
   },
   {
-    "Name": "The (Big) Mat",
+    "seriesKey": "lululemon:the-big-mat",
+    "Name": "The Big Mat",
     "Company": "Lululemon",
     "Link": "https://shop.lululemon.com/p/yoga-mats/The-Big-Mat/_/prod1720355?icid=cdp-cdp%3Ayoga-mats%3B4%3Bcollectioncard%3Bpdp%3Athe-big-mat%3Belevatedexperience&sz=ONESIZE",
     "Price (USD)": "$124",
@@ -216,6 +234,7 @@
     "Notes": "large"
   },
   {
+    "seriesKey": "lululemon:the-reversible-mat",
     "Name": "The Reversible Mat",
     "Company": "Lululemon",
     "Link": "https://shop.lululemon.com/p/yoga-accessories/The-Reversible-Mat-5mm/_/prod6750166?color=50548&sz=ONESIZE",
@@ -228,6 +247,7 @@
     "Notes": "grippy top layer"
   },
   {
+    "seriesKey": "manduka:grp-adapt",
     "Name": "GRP Adapt",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/grp-adapt-yoga-mat?variant=31926021849146",
@@ -240,6 +260,7 @@
     "Notes": "for hot yoga; special cleaning protocol"
   },
   {
+    "seriesKey": "manduka:begin",
     "Name": "Begin",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/begin-yoga-mat-5mm?variant=23736522899514",
@@ -252,6 +273,7 @@
     "Notes": "for beginners; reversible; alignment stripe"
   },
   {
+    "seriesKey": "manduka:x",
     "Name": "Manduka X",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/manduka-x-yoga-mat-5mm?variant=39697499750458",
@@ -264,6 +286,7 @@
     "Notes": "multi-purpose workouts, not just for yoga"
   },
   {
+    "seriesKey": "manduka:eko",
     "Name": "EKO",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/eko-yoga-mat-5mm?variant=39328297287738",
@@ -276,6 +299,7 @@
     "Notes": "non-Amazon harvested rubber trees; closed cell material"
   },
   {
+    "seriesKey": "yogamatters:aqua-evolve-mat",
     "Name": "Aqua Evolve Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-aqua-evolve-yoga-mat",
@@ -288,6 +312,7 @@
     "Notes": "Our partners at BLOOM have found an innovative way of helping the environment by turning algae blooms into eco-foams for use in products."
   },
   {
+    "seriesKey": "yogamatters:revive-mat",
     "Name": "Revive Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-revive-yoga-mat",
@@ -300,6 +325,7 @@
     "Notes": "A versatile mat for a range of fitness activities"
   },
   {
+    "seriesKey": "huggermugger:earth-elements",
     "Name": "Earth Elements",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/earth-elements-5-mm-yoga-mat/",
@@ -312,6 +338,7 @@
     "Notes": "Biodegradable, not designed to last forever"
   },
   {
+    "seriesKey": "jadeyoga:harmony",
     "Name": "Harmony",
     "Company": "Jade",
     "Link": "https://jadeyoga.com/collections/yoga-mats/products/harmony-mat",
@@ -324,6 +351,7 @@
     "Notes": "longer sizes available"
   },
   {
+    "seriesKey": "jadeyoga:elite-s",
     "Name": "Elite S",
     "Company": "Jade",
     "Link": "https://jadeyoga.com/collections/yoga-mats/products/elite-s",
@@ -336,6 +364,7 @@
     "Notes": "designed for vigorous practice/professionals; extra durable"
   },
   {
+    "seriesKey": "manduka:prolite",
     "Name": "Prolite",
     "Company": "Manduka",
     "Link": "https://www.manduka.com/products/prolite-yoga-mat?variant=31221553332282",
@@ -348,6 +377,7 @@
     "Notes": "closed cell material, easy to clean; longer sizes available"
   },
   {
+    "seriesKey": "yogamatters:sticky-mat",
     "Name": "Sticky Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-sticky-yoga-mat",
@@ -360,6 +390,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "liforme:liforme-yoga-mat",
     "Name": "Liforme Yoga Mat",
     "Company": "Liforme",
     "Link": "https://us.liforme.com/products/liforme-yoga-mat-grey",
@@ -372,6 +403,7 @@
     "Notes": "Alignment marks on mat; Certified B Corp"
   },
   {
+    "seriesKey": "gaiam:classic-mat",
     "Name": "Classic Mat",
     "Company": "Gaiam",
     "Link": "https://www.gaiam.com/collections/classic-yoga-mats",
@@ -384,6 +416,7 @@
     "Notes": "Some patterns and colors available"
   },
   {
+    "seriesKey": "b-yoga:everyday",
     "Name": "B Mat Everyday",
     "Company": "B Yoga",
     "Link": "https://byoganow.com/collections/b-mat-everyday/products/the-b-mat-everyday-4mm?variant=39424600866919",
@@ -396,6 +429,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "b-yoga:cork",
     "Name": "B Mat Cork",
     "Company": "B Yoga",
     "Link": "https://byoganow.com/collections/specialized-mats/products/the-b-mat-cork",
@@ -408,6 +442,7 @@
     "Notes": "grippy when damp"
   },
   {
+    "seriesKey": "b-yoga:luxe",
     "Name": "B Mat Luxe",
     "Company": "B Yoga",
     "Link": "https://byoganow.com/collections/specialized-mats/products/the-b-mat-luxe?variant=39342861975655",
@@ -420,6 +455,7 @@
     "Notes": "vegan leather\"; less grippy"
   },
   {
+    "seriesKey": "yogamatters:reclaim-sticky-mat",
     "Name": "Reclaim Sticky Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-reclaim-sticky-yoga-mat-1",
@@ -432,6 +468,7 @@
     "Notes": "Made from 50% post-production waste"
   },
   {
+    "seriesKey": "yogamatters:eco-cork-mat",
     "Name": "Eco Cork Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-eco-cork-yoga-mat",
@@ -444,6 +481,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "yogamatters:eco-everyday-mat",
     "Name": "Eco Everyday Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-eco-everyday-yoga-mat",
@@ -456,6 +494,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "huggermugger:tapas-original",
     "Name": "Tapas Original",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/tapas-original-68-in-yoga-mat/",
@@ -468,6 +507,7 @@
     "Notes": "The first USA-made yoga mat (they claim)"
   },
   {
+    "seriesKey": "huggermugger:sattva-jute-mat",
     "Name": "Sattva Jute Mat",
     "Company": "Hugger Mugger",
     "Link": "https://www.huggermugger.com/sattva-jute-yoga-mat/",
@@ -480,6 +520,7 @@
     "Notes": "Absorbs moisture, good for hot yoga"
   },
   {
+    "seriesKey": "aloyoga:air-mat",
     "Name": "Air Mat",
     "Company": "Alo",
     "Link": "https://www.aloyoga.com/products/w7123r-air-mat-black",
@@ -492,6 +533,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "lululemon:the-un-mat",
     "Name": "The (Un) Mat",
     "Company": "Lululemon",
     "Link": "https://shop.lululemon.com/p/yoga-mats/The-Un-Mat/_/prod10990032?icid=cdp-cdp%3Ayoga-mats%3B5%3Bcollectioncard%3Bpdp%3Athe-un-mat%3Belevatedexperience&sz=ONESIZE",
@@ -504,6 +546,7 @@
     "Notes": "super lightweight"
   },
   {
+    "seriesKey": "ajna:pro-mat",
     "Name": "Pro Mat",
     "Company": "Ajna",
     "Link": "https://www.ajnawellbeing.com/collections/yoga-accessories/products/natural-rubber-yoga-mat",
@@ -516,6 +559,7 @@
     "Notes": ""
   },
   {
+    "seriesKey": "yogamatters:cotton-mat",
     "Name": "Cotton Mat",
     "Company": "Yogamatters",
     "Link": "https://www.yogamatters.com/collections/yoga-mats/products/yogamatters-organic-cotton-yoga-mat-1",

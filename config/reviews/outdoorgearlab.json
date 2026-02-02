@@ -1,5 +1,6 @@
 [
   {
+    "seriesKey": "manduka:pro",
     "Brand": "Manduka",
     "Series": "PRO",
     "Overall Score": 91,
@@ -18,6 +19,7 @@
     "Awards": "Best Overall Yoga Mat"
   },
   {
+    "seriesKey": "manduka:eko",
     "Brand": "Manduka",
     "Series": "eKO",
     "Overall Score": 87,
@@ -36,6 +38,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "lululemon:the-mat",
     "Brand": "Lululemon",
     "Series": "The Mat",
     "Overall Score": 84,
@@ -54,6 +57,7 @@
     "Awards": "Most Comfortable for Every Style"
   },
   {
+    "seriesKey": "liforme:original",
     "Brand": "Liforme",
     "Series": "Original",
     "Overall Score": 76,
@@ -72,6 +76,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "iuga:eco-friendly-non-slip",
     "Brand": "Iuga",
     "Series": "Eco Friendly Non Slip",
     "Overall Score": 75,
@@ -90,6 +95,7 @@
     "Awards": "Great Value for Versatility"
   },
   {
+    "seriesKey": "yoloha:unity-cork",
     "Brand": "Yoloha",
     "Series": "Unity Cork",
     "Overall Score": 75,
@@ -108,6 +114,7 @@
     "Awards": "Most Firm and Grounding"
   },
   {
+    "seriesKey": "prana:verde",
     "Brand": "Prana Verde",
     "Series": "Verde",
     "Overall Score": 73,
@@ -126,6 +133,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "huggermugger:earth-elements",
     "Brand": "Hugger Mugger",
     "Series": "Earth Elements",
     "Overall Score": 70,
@@ -144,6 +152,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "gaiam:premium-6mm",
     "Brand": "Gaiam",
     "Series": "Premium 6mm",
     "Overall Score": 62,
@@ -162,6 +171,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "gaiam:performance-dry-grip",
     "Brand": "Gaiam",
     "Series": "Performance Dry-Grip",
     "Overall Score": 62,
@@ -180,6 +190,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "aloyoga:warrior-mat",
     "Brand": "Alo Yoga",
     "Series": "Warrior Mat",
     "Overall Score": 62,
@@ -198,6 +209,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "jadeyoga:harmony",
     "Brand": "Jade",
     "Series": "Harmony",
     "Overall Score": 59,
@@ -216,6 +228,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "gaiam:premium-reversible",
     "Brand": "Gaiam",
     "Series": "Premium Reversible",
     "Overall Score": 54,
@@ -234,6 +247,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "yogadesignlab:combo",
     "Brand": "Yoga Design Lab",
     "Series": "Combo",
     "Overall Score": 52,
@@ -252,6 +266,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "manduka:eko-superlite",
     "Brand": "Manduka",
     "Series": "eKO SuperLite",
     "Overall Score": 48,
@@ -270,6 +285,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "lululemon:the-workout-mat",
     "Brand": "Lululemon",
     "Series": "The Workout Mat",
     "Overall Score": 47,
@@ -288,6 +304,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "jadeyoga:voyager",
     "Brand": "Jade",
     "Series": "Voyager",
     "Overall Score": 45,
@@ -306,6 +323,7 @@
     "Awards": "-"
   },
   {
+    "seriesKey": "primasole:foldable",
     "Brand": "Primasole",
     "Series": "Foldable",
     "Overall Score": 38,
