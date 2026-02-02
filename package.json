@@ -13,6 +13,7 @@
     "download-images": "tsx scripts/download-images.ts",
     "update-symlinks": "tsx scripts/update-latest-symlinks.ts",
     "check-series-sources": "tsx scripts/check-series-sources.ts",
+    "check-name-mismatches": "node scripts/check-name-mismatches.cjs",
     "find-series-gaps": "node scripts/find-series-gaps.cjs",
     "pipeline": "npm run fetch && npm run enrich && npm run normalize && npm run aggregate && npm run detect-changes && npm run update-symlinks"
   },
