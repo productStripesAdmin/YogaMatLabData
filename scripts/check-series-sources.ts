@@ -132,8 +132,8 @@ async function readJsonFile<T>(filepath: string): Promise<T> {
 async function main(): Promise<void> {
   const brandsPath = path.join(process.cwd(), 'config', 'brands.json');
   const seriesPath = path.join(process.cwd(), 'config', 'brand-series.json');
-  const redditPath = path.join(process.cwd(), 'config', 'reddit-sheet.json');
-  const outdoorgearlabPath = path.join(process.cwd(), 'config', 'outdoorgearlab.json');
+  const redditPath = path.join(process.cwd(), 'data', 'reviews', 'reddit-sheet.json');
+  const outdoorgearlabPath = path.join(process.cwd(), 'data', 'reviews', 'outdoorgearlab.json');
 
   const brandsFile = await readJsonFile<BrandConfigFile>(brandsPath);
   const seriesFile = await readJsonFile<BrandSeriesConfigFile>(seriesPath);
