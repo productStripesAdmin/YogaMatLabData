@@ -80,60 +80,44 @@ These scripts analyze data quality and consistency across sources.
 **Usage:** `npx tsx scripts/check-enabled-brands.ts`
 **Details:** Shows Shopify, Lululemon, and BigCommerce brands with their configuration. Use to verify brand setup before running pipeline.
 
-### `check-series-sources.ts`
-**Purpose:** Validate series naming alignment between config and review sources
+### `check-series-alignment.ts`
+**Purpose:** Validate series alignment and naming consistency between config and review sources
 
-**Inputs:** 
+**Inputs:**
 - `config/brand-series.json` (config)
 - `data/reviews/reddit-sheet.json` (community data)
 - `data/reviews/outdoorgearlab.json` (professional reviews)
-**Outputs:** Console report of mismatches
-**Usage:** `npx tsx scripts/check-series-sources.ts`
-**Details:** Checks if series in Reddit and OutdoorGearLab reviews match config entries. Supports brand aliases and partial name matching.
+**Outputs:** Console report with two checks
+**Usage:** `npm run check-series-alignment` or `npx tsx scripts/check-series-alignment.ts`
+**Details:**
+- **Check 1: Series Alignment** - Verifies all series in review sources have config entries (catches missing series)
+- **Check 2: Name Variations** - Identifies series names that differ between config and sources (minor variations OK)
+- Supports brand aliases and partial name matching
+- Exits with error code 1 if critical alignment issues found
 
 ---
 
-## Analysis & Report Generation Scripts
+## Report Generation Scripts
 
-These scripts generate comprehensive gap and consistency reports.
+These scripts generate comprehensive gap analysis reports.
 
 ### `find-series-gaps.cjs`
 **Purpose:** Analyze series coverage gaps across config, reviews, and scoring data
 
-**Inputs:** 
+**Inputs:**
 - `config/brand-series.json` (configuration)
 - `data/reviews/reddit-sheet.json` (community feedback)
 - `data/reviews/outdoorgearlab.json` (professional reviews)
 - `data/scores/series-scores.json` (scoring data)
-**Outputs:** 
+**Outputs:**
 - Console report with detailed analysis
 - `data/scores/series-gaps-report.json` (detailed report)
 **Usage:** `npm run find-series-gaps`
-**Details:** 
+**Details:**
 - Identifies series in reviews but missing from config
 - Identifies series in config lacking review/scoring data
 - Shows brand-by-brand coverage percentages
 - Highlights priority gaps
-
-### `check-name-mismatches.cjs`
-**Purpose:** Validate series naming consistency across all data sources
-
-**Inputs:** 
-- `config/brand-series.json` (config)
-- `data/reviews/reddit-sheet.json` (community data)
-- `data/reviews/outdoorgearlab.json` (professional reviews)
-**Outputs:** 
-- Console report with findings
-- `data/scores/name-mismatches-report.json` (detailed report)
-**Usage:** `npm run check-name-mismatches`
-**Details:** 
-- Compares series names with smart normalization
-- Identifies major (critical) vs minor (formatting) mismatches
-- Handles typos, special characters, and variations
-- Generates detailed report for review
-
-### `check-series-sources.ts`
-**Purpose:** (See Analysis & Validation Scripts section above)
 
 ---
 
@@ -200,10 +184,9 @@ These are utility scripts for development and debugging.
 
 ### Quick Analysis Suite
 ```bash
-npm run check-enabled-brands        # Verify brand config
-npm run check-series-sources        # Validate series names
-npm run check-name-mismatches       # Find naming inconsistencies
-npm run find-series-gaps            # Analyze coverage gaps
+npm run check-enabled-brands        # Verify brand config in Convex
+npm run check-series-alignment      # Validate series alignment & naming (2 checks)
+npm run find-series-gaps            # Analyze coverage gaps across sources
 ```
 
 ---

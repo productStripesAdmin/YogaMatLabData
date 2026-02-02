@@ -34,12 +34,23 @@ type OutdoorGearLabRow = {
   Series?: string;
 };
 
+// Normalize text for loose matching (with special characters removed)
 function normalizeText(value: string): string {
   return (value ?? '')
     .toLowerCase()
-    .replace(/[’‘]/g, "'")
-    .replace(/[“”″]/g, '"')
+    .replace(/['']/g, "'")
+    .replace(/[""″]/g, '"')
     .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// Normalize text for strict matching (preserving word order)
+function normalizeTextStrict(value: string): string {
+  return (value ?? '')
+    .toLowerCase()
+    .replace(/['']/g, "'")
+    .replace(/[""″]/g, '"')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -149,11 +160,31 @@ async function main(): Promise<void> {
     byNormalizedBrandSlug.set(normalizeText(brand.slug), brand.slug);
   }
 
+  // Build config index for name matching
+  const configIndex = new Map<string, { configName: string; configSlug: string; brandSlug: string }>();
+  for (const brand of seriesFile) {
+    for (const series of brand.series) {
+      const seriesKey = `${brand.slug}:${series.slug}`;
+      configIndex.set(seriesKey, {
+        configName: series.name,
+        configSlug: series.slug,
+        brandSlug: brand.slug
+      });
+    }
+  }
+
   const missing: Array<{
     source: 'reddit-sheet' | 'outdoorgearlab';
     brandName: string;
     brandSlug: string;
     seriesName: string;
+  }> = [];
+
+  const nameVariations: Array<{
+    seriesKey: string;
+    configName: string;
+    sourceNames: string[];
+    source: 'reddit-sheet' | 'outdoorgearlab';
   }> = [];
 
   const processRow = (
@@ -169,14 +200,34 @@ async function main(): Promise<void> {
 
     const candidate = stripBrandPrefix(seriesName, brandName);
 
-    const matched = brandSeries.series.some((s) => seriesMatchesSource(s, candidate));
-    if (!matched) {
+    const matchedSeries = brandSeries.series.find((s) => seriesMatchesSource(s, candidate));
+    if (!matchedSeries) {
       missing.push({
         source,
         brandName,
         brandSlug: slug,
         seriesName,
       });
+      return;
+    }
+
+    // Check for name variations in matched series
+    const seriesKey = `${slug}:${matchedSeries.slug}`;
+    const configEntry = configIndex.get(seriesKey);
+    if (configEntry && normalizeTextStrict(configEntry.configName) !== normalizeTextStrict(seriesName)) {
+      const existing = nameVariations.find((v) => v.seriesKey === seriesKey);
+      if (existing) {
+        if (!existing.sourceNames.includes(seriesName)) {
+          existing.sourceNames.push(seriesName);
+        }
+      } else {
+        nameVariations.push({
+          seriesKey,
+          configName: configEntry.configName,
+          sourceNames: [seriesName],
+          source
+        });
+      }
     }
   };
 
@@ -198,19 +249,49 @@ async function main(): Promise<void> {
     missing.map((m) => `${m.source}::${m.brandSlug}::${m.seriesName}`)
   ).map((key) => missing.find((m) => `${m.source}::${m.brandSlug}::${m.seriesName}` === key)!);
 
+  // Output section
+  console.log('\n===============================================================');
+  console.log('SERIES ALIGNMENT & NAME VALIDATION CHECK');
+  console.log('===============================================================\n');
+
+  // Check 1: Series alignment (config completeness)
   if (missingUnique.length === 0) {
-    console.log('✓ Series config aligns with reddit/outdoorgearlab sources (for known brands).');
-    return;
+    console.log('✓ Check 1: Series config aligns with reddit/outdoorgearlab sources');
+    console.log('  All series in review sources have matching config entries.\n');
+  } else {
+    console.log('✗ Check 1: Series config mismatches found (for known brands):');
+    console.log(`  Found ${missingUnique.length} series in reviews without config matches:\n`);
+    for (const item of missingUnique) {
+      console.log(
+        `  - [${item.source}] ${item.brandSlug}: missing match for "${item.seriesName}" (source brand: "${item.brandName}")`
+      );
+    }
+    console.log('');
   }
 
-  console.log('⚠ Series config mismatches found (for known brands):');
-  for (const item of missingUnique) {
-    console.log(
-      `- [${item.source}] ${item.brandSlug}: missing match for "${item.seriesName}" (source brand: "${item.brandName}")`
-    );
+  // Check 2: Name variations (naming consistency)
+  if (nameVariations.length === 0) {
+    console.log('✓ Check 2: Series names are consistent');
+    console.log('  All series names match exactly across config and review sources.\n');
+  } else {
+    console.log(`✓ Check 2: Found ${nameVariations.length} name variation(s) (acceptable):`);
+    console.log('  These series match but have minor name differences:\n');
+    for (const variation of nameVariations.slice(0, 10)) {
+      console.log(`  - ${variation.seriesKey}`);
+      console.log(`    Config: "${variation.configName}"`);
+      console.log(`    Found: "${variation.sourceNames.join('", "')}"`);
+      console.log(`    From: ${variation.source}\n`);
+    }
+    if (nameVariations.length > 10) {
+      console.log(`  ... and ${nameVariations.length - 10} more name variations\n`);
+    }
   }
 
-  process.exitCode = 1;
+  console.log('===============================================================\n');
+
+  if (missingUnique.length > 0) {
+    process.exitCode = 1;
+  }
 }
 
 main().catch((error) => {
