@@ -16,7 +16,7 @@ new_series = [
   {"seriesKey": "42birds:imperial-eagle", "scores": {"gripDry": 8.5, "gripWet": 9.0, "durability": 8.2, "cushioning": 7.5, "ecoRating": 9.0, "portability": 5.5, "easeOfCleaning": 8.0, "stability": 8.8, "initialOdor": 8.5, "value": 7.5, "performance": 8.5, "overall": 8.3}, "review": {"overview": "Premium cork yoga mat with industrial-grade construction. Features 100% sustainable cork top with natural rubber base. 6mm thickness provides excellent grip in wet conditions.", "pros": ["Superior wet grip performance", "Naturally antimicrobial", "Quick drying", "Excellent stability", "Eco-friendly materials", "Quality construction"], "cons": ["Heavy at 5.5 lbs", "Higher price point", "Limited portability", "Can delaminate with heavy use"], "bestFor": "Hot yoga practitioners, eco-conscious yogis, experienced practitioners", "notIdealFor": "Travelers, budget-conscious beginners, those seeking lightweight mats", "lastUpdated": "2026-02-01"}, "isReviewed": True, "yogaStyles": ["Hot Yoga", "Vinyasa", "Power Yoga"], "useCases": ["Studio practice", "Dedicated home practice"], "affiliateLinks": {"42birds": "https://42birds.com/products/industrial-mat-the-imperial-eagle", "freepeople": "https://www.freepeople.com/shop/42-birds-the-imperial-eagle-cork-yoga-mat/"}},
 ]
 
-output_file = Path("/Users/kevin/_projects/PROJECTS/YogaMatLab/YogaMatLabData/config/series-scores.json")
+output_file = Path(__file__).parent.parent / "data/scores/series-scores.json"
 
 # Read existing file
 with open(output_file) as f:

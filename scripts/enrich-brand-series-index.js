@@ -68,7 +68,7 @@ function main() {
   // Paths
   const inputDir = path.join(__dirname, '../data/aggregated', inputDate);
   const outputDir = path.join(__dirname, '../data/aggregated', outputDate);
-  const scoresPath = path.join(__dirname, '../config/series-scores.json');
+  const scoresPath = path.join(__dirname, '../data/scores/series-scores.json');
 
   const inputPath = path.join(inputDir, 'brand-series-index.json');
   const outputPath = path.join(outputDir, 'brand-series-index.json');

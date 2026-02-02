@@ -66,7 +66,7 @@ echo -e "${GREEN}✅ Copied series-scores.types.ts${NC}"
 # Optionally copy raw scores file
 if [ "$2" == "--with-raw-scores" ]; then
     echo -e "\n📝 Copying raw series-scores.json..."
-    cp "$YOGAMATLAB_DATA_DIR/config/series-scores.json" \
+    cp "$YOGAMATLAB_DATA_DIR/data/scores/series-scores.json" \
        "$YML_APP_DIR/public/data/series-scores.json"
     echo -e "${GREEN}✅ Copied series-scores.json${NC}"
 fi
