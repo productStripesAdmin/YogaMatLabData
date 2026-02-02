@@ -1,18 +1,38 @@
 {
-  "timestamp": "2026-02-01T03:09:02.559Z",
+  "timestamp": "2026-02-02T07:06:59.921Z",
   "summary": {
     "configTotal": 196,
-    "reviewTotal": 121,
-    "inReviewsNotConfig": 0,
-    "inConfigNotReviews": 75
+    "reviewTotal": 133,
+    "inReviewsNotConfig": 3,
+    "inConfigNotReviews": 66
   },
-  "missingFromConfig": [],
-  "missingReviewData": [
+  "missingFromConfig": [
     {
-      "seriesKey": "aloyoga:warrior",
-      "name": "Warrior",
-      "tagline": "Core mat line sold as “Warrior Mat”."
+      "seriesKey": "thesatoriconcept:original-cork",
+      "brand": "",
+      "series": "",
+      "sources": [
+        "Scored"
+      ]
     },
+    {
+      "seriesKey": "yogadesignlab:cork-3.5mm",
+      "brand": "",
+      "series": "",
+      "sources": [
+        "Scored"
+      ]
+    },
+    {
+      "seriesKey": "yogadesignlab:infinity-5mm",
+      "brand": "",
+      "series": "",
+      "sources": [
+        "Scored"
+      ]
+    }
+  ],
+  "missingReviewData": [
     {
       "seriesKey": "bala:compact",
       "name": "Compact",
@@ -104,11 +124,6 @@
       "tagline": "Large-format yoga/exercise mat products."
     },
     {
-      "seriesKey": "stakt:pro-xl",
-      "name": "Pro XL",
-      "tagline": "XL size/version of the Mat Pro."
-    },
-    {
       "seriesKey": "stakt:pro",
       "name": "Pro",
       "tagline": "“Pro” version of the folding mat."
@@ -142,31 +157,6 @@
       "seriesKey": "woloyoga:travel",
       "name": "Travel",
       "tagline": "Travel mat line (Away Travel Mat)."
-    },
-    {
-      "seriesKey": "woloyoga:ascend",
-      "name": "Ascend",
-      "tagline": "Ascend mat line."
-    },
-    {
-      "seriesKey": "woloyoga:mastery",
-      "name": "Mastery",
-      "tagline": "Mastery mat line."
-    },
-    {
-      "seriesKey": "yogadesignlab:kids-combo",
-      "name": "Kids Combo",
-      "tagline": "Kids-sized mats in the Combo line."
-    },
-    {
-      "seriesKey": "yogadesignlab:travel-combo",
-      "name": "Travel Combo",
-      "tagline": "Travel version of the Combo mat line."
-    },
-    {
-      "seriesKey": "yogadesignlab:travel-cork",
-      "name": "Travel Cork",
-      "tagline": "Travel version of the cork mat line."
     },
     {
       "seriesKey": "yogadesignlab:infinity",
@@ -222,16 +212,6 @@
       "seriesKey": "yogamatters:travel",
       "name": "Travel",
       "tagline": "Eco Travel mat line."
-    },
-    {
-      "seriesKey": "yogamatters:sticky",
-      "name": "Sticky",
-      "tagline": "“Sticky Yoga Mat” line."
-    },
-    {
-      "seriesKey": "yogamatters:signature-studio",
-      "name": "Signature Studio",
-      "tagline": "Signature Studio mat line."
     },
     {
       "seriesKey": "yogamatters:rise",
