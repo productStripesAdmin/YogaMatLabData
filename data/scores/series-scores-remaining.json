@@ -1,0 +1,914 @@
+[
+  {
+    "seriesKey": "jadeyoga:cork-topped",
+    "scores": {
+      "gripDry": 8.5,
+      "gripWet": 9.0,
+      "durability": 8.5,
+      "cushioning": 7.0,
+      "ecoRating": 9.0,
+      "portability": 4.5,
+      "easeOfCleaning": 9.0,
+      "stability": 9.0,
+      "initialOdor": 8.0,
+      "value": 7.5,
+      "performance": 8.5,
+      "overall": 8.3
+    },
+    "review": {
+      "overview": "Jade's Cork-Topped mat combines premium natural rubber with a cork surface for exceptional wet grip performance. Ideal for hot yoga practitioners and those who sweat heavily, with antimicrobial cork that improves traction as moisture increases.",
+      "pros": [
+        "Outstanding wet grip with natural cork surface",
+        "Excellent dry grip with rubber base",
+        "Antimicrobial cork prevents odor and bacteria",
+        "Eco-friendly natural materials throughout",
+        "Durable construction with proper care"
+      ],
+      "cons": [
+        "Moderately heavy at 5.8 lbs",
+        "Higher price point at $120",
+        "Requires break-in period for cork",
+        "Cork can show wear patterns over time"
+      ],
+      "bestFor": "Hot yoga practitioners, those who sweat heavily, eco-conscious yogis seeking premium materials",
+      "notIdealFor": "Travel, budget-conscious buyers, those with latex allergies",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hot Yoga", "Bikram", "Vinyasa", "Power Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/cork-topped-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Cork+Topped",
+      "rei": "https://www.rei.com/s?q=Jade+Yoga+Cork"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:elite-s",
+    "scores": {
+      "gripDry": 9.0,
+      "gripWet": 7.5,
+      "durability": 9.5,
+      "cushioning": 8.5,
+      "ecoRating": 9.0,
+      "portability": 5.0,
+      "easeOfCleaning": 8.5,
+      "stability": 9.5,
+      "initialOdor": 7.0,
+      "value": 8.0,
+      "performance": 9.0,
+      "overall": 8.7
+    },
+    "review": {
+      "overview": "Jade's Elite S represents premium natural rubber craftsmanship with superior durability and stability. Built for serious practitioners who demand exceptional grip and longevity comparable to Manduka Pro but with natural rubber's eco-friendly advantages.",
+      "pros": [
+        "Exceptional dry grip from premium natural rubber",
+        "Outstanding durability and longevity",
+        "Excellent stability for inversions and arm balances",
+        "Eco-friendly natural rubber construction",
+        "Minimal odor from natural materials"
+      ],
+      "cons": [
+        "Premium pricing at $150+",
+        "Moderate weight at 5.5 lbs",
+        "Break-in period needed for optimal grip",
+        "Slippery when wet without absorption"
+      ],
+      "bestFor": "Committed practitioners, those practicing inversions, eco-conscious yogis seeking durability",
+      "notIdealFor": "Hot yoga, budget buyers, those needing wet-grip performance",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Ashtanga", "Yin"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/elite-s-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Elite+S",
+      "rei": "https://www.rei.com/s?q=Jade+Elite+S"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:extra-cushioning",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 6.5,
+      "durability": 8.0,
+      "cushioning": 10.0,
+      "ecoRating": 8.5,
+      "portability": 3.0,
+      "easeOfCleaning": 7.5,
+      "stability": 7.5,
+      "initialOdor": 6.5,
+      "value": 7.0,
+      "performance": 8.5,
+      "overall": 8.1
+    },
+    "review": {
+      "overview": "Jade's Extra-Cushioning mat provides maximum padding at 8mm thickness with natural rubber and PU leather blend. Perfect for joint protection during restorative practices and home yoga, though the extra thickness compromises portability and wet-grip performance.",
+      "pros": [
+        "Maximum cushioning at 8mm thickness",
+        "Excellent joint protection",
+        "Durable natural rubber base",
+        "Great for restorative and gentle styles",
+        "Eco-friendly construction"
+      ],
+      "cons": [
+        "Very heavy at 7.8 lbs",
+        "Not portable for travel",
+        "Slippery when wet",
+        "Premium price at $140+",
+        "Curling edges possible over time"
+      ],
+      "bestFor": "Home studios, restorative practices, those with joint concerns",
+      "notIdealFor": "Travel, hot yoga, balance-focused practices, portability needs",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Restorative", "Yin", "Gentle Yoga", "Prenatal"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/extra-cushioning-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Extra+Cushioning",
+      "rei": "https://www.rei.com/s?q=Jade+Extra+Cushioning"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:fusion",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 7.0,
+      "durability": 7.5,
+      "cushioning": 9.5,
+      "ecoRating": 8.5,
+      "portability": 2.0,
+      "easeOfCleaning": 7.0,
+      "stability": 7.0,
+      "initialOdor": 5.5,
+      "value": 6.5,
+      "performance": 7.5,
+      "overall": 7.8
+    },
+    "review": {
+      "overview": "Jade's Fusion combines premium natural rubber with multi-layered cushioning for a comfortable mat suited to both yoga and pilates. While it excels at comfort, its weight and cost make it a home-only investment rather than a travel companion.",
+      "pros": [
+        "Excellent cushioning for comfort",
+        "Natural rubber eco-friendly materials",
+        "Works well for yoga and pilates hybrid",
+        "Available in extra-long and extra-wide options",
+        "Good grip on stable surface"
+      ],
+      "cons": [
+        "Very heavy at 8.5 lbs",
+        "Not suitable for travel",
+        "Premium pricing at $145",
+        "Less ideal for inversions due to thickness",
+        "Can trap sweat with open-cell layers"
+      ],
+      "bestFor": "Home studios, yoga-pilates hybrids, those prioritizing comfort",
+      "notIdealFor": "Travel, hot yoga, advanced practitioners, budget-conscious buyers",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Pilates", "Gentle Yoga", "Restorative", "Hatha"],
+    "useCases": ["Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/fusion-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Fusion",
+      "rei": "https://www.rei.com/s?q=Jade+Fusion"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:harmony",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 6.0,
+      "durability": 5.5,
+      "cushioning": 6.0,
+      "ecoRating": 8.0,
+      "portability": 6.0,
+      "easeOfCleaning": 6.5,
+      "stability": 6.5,
+      "initialOdor": 6.0,
+      "value": 7.0,
+      "performance": 6.5,
+      "overall": 5.9
+    },
+    "review": {
+      "overview": "Jade's signature Harmony mat offers natural rubber construction with great dry grip and eco-friendly credentials. As an entry-to-intermediate option in Jade's lineup, it provides quality at a more accessible price point, though durability and wet performance show limitations.",
+      "pros": [
+        "Great dry grip from natural rubber",
+        "Eco-friendly materials throughout",
+        "Available in attractive patterns",
+        "Moderate weight around 4.5 lbs",
+        "Good balance of performance and price"
+      ],
+      "cons": [
+        "Inconsistent wet grip performance",
+        "Rubber odor present initially",
+        "Standard durability for natural rubber mats",
+        "Not ideal for intensive daily use",
+        "Break-in period required"
+      ],
+      "bestFor": "Intermediate practitioners, eco-conscious yogis, pattern enthusiasts",
+      "notIdealFor": "Hot yoga, intensive daily practice, wet-grip priority",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Vinyasa", "Gentle Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/harmony-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Harmony",
+      "rei": "https://www.rei.com/s?q=Jade+Harmony"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:harmony-2-0",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 6.5,
+      "durability": 6.5,
+      "cushioning": 7.0,
+      "ecoRating": 8.5,
+      "portability": 5.5,
+      "easeOfCleaning": 7.0,
+      "stability": 7.0,
+      "initialOdor": 6.5,
+      "value": 7.5,
+      "performance": 7.5,
+      "overall": 7.3
+    },
+    "review": {
+      "overview": "Jade's Harmony 2.0 improves upon the original with enhanced natural rubber formulation for better grip and durability. An excellent mid-range option offering superior performance to the original without reaching Elite S pricing.",
+      "pros": [
+        "Improved dry grip versus original Harmony",
+        "Better durability with refined rubber formula",
+        "Eco-friendly natural rubber",
+        "More cushioning than original (6mm)",
+        "Better value proposition at $99"
+      ],
+      "cons": [
+        "Wet grip still inconsistent",
+        "Moderate weight at 4.8 lbs",
+        "Break-in period still required",
+        "Not suitable for hot yoga",
+        "Odor present initially"
+      ],
+      "bestFor": "Intermediate yogis wanting improved Harmony, eco-conscious practitioners",
+      "notIdealFor": "Hot yoga, travel, intensive use",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Hatha", "Power Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/harmony-2-0-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Harmony+2.0",
+      "rei": "https://www.rei.com/s?q=Jade+Harmony+2.0"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:level-one",
+    "scores": {
+      "gripDry": 7.0,
+      "gripWet": 5.5,
+      "durability": 5.0,
+      "cushioning": 6.5,
+      "ecoRating": 7.5,
+      "portability": 8.5,
+      "easeOfCleaning": 6.5,
+      "stability": 6.0,
+      "initialOdor": 6.0,
+      "value": 8.5,
+      "performance": 6.5,
+      "overall": 6.8
+    },
+    "review": {
+      "overview": "Jade's Level One is designed for beginners with a lightweight, eco-friendly natural rubber construction and affordable pricing. Excellent for starting yoga practice, though it sacrifices durability and wet-grip performance for portability and value.",
+      "pros": [
+        "Lightweight at 3.2 lbs for easy portability",
+        "Affordable price around $65",
+        "Eco-friendly natural rubber",
+        "Good dry grip for beginners",
+        "Adequate cushioning at 4mm"
+      ],
+      "cons": [
+        "Limited durability for long-term use",
+        "Slippery when wet",
+        "Thin construction not ideal for joint support",
+        "May need replacement within 1-2 years",
+        "Moderate odor initially"
+      ],
+      "bestFor": "Beginners, budget-conscious students, those trying yoga",
+      "notIdealFor": "Hot yoga, intensive daily practice, long-term investment",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Beginner Classes", "Gentle Yoga", "Hatha"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/level-one-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Level+One",
+      "rei": "https://www.rei.com/s?q=Jade+Level+One"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:meditation",
+    "scores": {
+      "gripDry": 5.0,
+      "gripWet": 4.0,
+      "durability": 4.5,
+      "cushioning": 5.5,
+      "ecoRating": 9.0,
+      "portability": 9.0,
+      "easeOfCleaning": 8.5,
+      "stability": 5.0,
+      "initialOdor": 8.5,
+      "value": 7.5,
+      "performance": 4.5,
+      "overall": 6.3
+    },
+    "review": {
+      "overview": "Jade's Meditation mats feature handwoven cotton and natural materials designed for seated practices. Lightweight and washable, they excel for meditation and yin yoga but lack the grip and cushioning needed for dynamic practices.",
+      "pros": [
+        "100% natural cotton fibers",
+        "Lightweight and portable at 1.5 lbs",
+        "Machine washable for easy care",
+        "Excellent for meditation and seated work",
+        "Eco-friendly and biodegradable",
+        "Authentic, artisanal aesthetic"
+      ],
+      "cons": [
+        "Minimal grip for standing poses",
+        "Limited cushioning for joints",
+        "Can bunch or shift during practice",
+        "Cotton absorbs odors and moisture",
+        "Not suitable for vigorous practice"
+      ],
+      "bestFor": "Meditation practitioners, yin yoga, seated practices, spiritual work",
+      "notIdealFor": "Dynamic yoga, hot yoga, balance-intensive practices",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Meditation", "Yin", "Restorative", "Pranayama"],
+    "useCases": ["Home", "Meditation Space"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/meditation-mats",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Meditation+Mat"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:mushroom-theme",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 6.0,
+      "durability": 5.5,
+      "cushioning": 6.0,
+      "ecoRating": 8.0,
+      "portability": 6.0,
+      "easeOfCleaning": 6.5,
+      "stability": 6.5,
+      "initialOdor": 6.0,
+      "value": 6.5,
+      "performance": 6.5,
+      "overall": 6.5
+    },
+    "review": {
+      "overview": "Jade's Mushroom-Theme mat combines eco-friendly natural rubber with whimsical mushroom artwork. A niche offering for nature-loving yogis seeking performance and aesthetics, though it maintains the standard limitations of Jade's natural rubber construction.",
+      "pros": [
+        "Unique, attractive mushroom-themed design",
+        "Natural rubber eco-friendly construction",
+        "Good dry grip performance",
+        "Moderately lightweight at 4.3 lbs",
+        "Great for nature enthusiasts"
+      ],
+      "cons": [
+        "Limited design appeal for some practitioners",
+        "Inconsistent wet grip",
+        "Standard durability concerns",
+        "Print may fade with heavy use",
+        "Moderate pricing without performance premium"
+      ],
+      "bestFor": "Nature-loving yogis, unique design seekers, gift recipients",
+      "notIdealFor": "Hot yoga, intensive daily use, performance-prioritized practitioners",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Vinyasa", "Gentle Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Mushroom",
+      "rei": "https://www.rei.com/s?q=Jade+Mushroom"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:voyager",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 7.0,
+      "durability": 4.0,
+      "cushioning": 2.0,
+      "ecoRating": 7.5,
+      "portability": 9.0,
+      "easeOfCleaning": 6.5,
+      "stability": 4.5,
+      "initialOdor": 6.0,
+      "value": 7.0,
+      "performance": 5.5,
+      "overall": 4.5
+    },
+    "review": {
+      "overview": "Jade's Voyager is a lightweight travel mat at 1.8 lbs featuring natural rubber for both dry and wet grip. Designed for portability, it sacrifices cushioning and stability, making it suitable only for short trips or supplementary practice.",
+      "pros": [
+        "Ultra-lightweight at 1.8 lbs for travel",
+        "Good hand grip in dry and wet conditions",
+        "Eco-friendly natural rubber",
+        "Compact roll for backpack storage",
+        "Affordable travel option at $45"
+      ],
+      "cons": [
+        "Too thin for comfort (1.5mm)",
+        "Lacks cushioning for joint protection",
+        "Poor stability for standing poses",
+        "Shifts easily during practice",
+        "Not suitable for primary mat use"
+      ],
+      "bestFor": "Frequent travelers, park yoga, weekend trips",
+      "notIdealFor": "Primary mat use, cushioning needs, balance-intensive poses",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa"],
+    "useCases": ["Travel", "Outdoor"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-mats/products/voyager-mat",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Voyager",
+      "rei": "https://www.rei.com/s?q=Jade+Voyager"
+    }
+  },
+  {
+    "seriesKey": "jadeyoga:yoga-rugs",
+    "scores": {
+      "gripDry": 4.0,
+      "gripWet": 3.5,
+      "durability": 6.0,
+      "cushioning": 4.0,
+      "ecoRating": 9.5,
+      "portability": 8.5,
+      "easeOfCleaning": 7.0,
+      "stability": 4.0,
+      "initialOdor": 9.0,
+      "value": 8.0,
+      "performance": 3.5,
+      "overall": 6.0
+    },
+    "review": {
+      "overview": "Jade's Yoga Rugs, crafted from recycled cotton sari materials, offer a sustainable, authentic option for yoga practice. Handwoven and unique, these rugs excel for meditation and gentle practices but lack the grip and stability for dynamic styles.",
+      "pros": [
+        "Highly sustainable recycled materials",
+        "Handwoven with authentic aesthetics",
+        "Lightweight at 1.8-2.2 lbs",
+        "Easy to clean and machine washable",
+        "Supports traditional yoga heritage",
+        "Unique, one-of-a-kind patterns"
+      ],
+      "cons": [
+        "Very minimal grip performance",
+        "No cushioning or padding",
+        "Bunches and shifts easily",
+        "Not suitable for vigorous practice",
+        "Can absorb sweat and odors",
+        "Durability concerns with cotton"
+      ],
+      "bestFor": "Meditation, yin yoga, spiritual practice, aesthetic seekers",
+      "notIdealFor": "Dynamic yoga, hot yoga, balance poses, intensive practice",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Meditation", "Yin", "Restorative"],
+    "useCases": ["Home", "Meditation Space"],
+    "affiliateLinks": {
+      "brandWebsite": "https://jadeyoga.com/collections/yoga-rugs",
+      "amazon": "https://www.amazon.com/s?k=Jade+Yoga+Rug",
+      "rei": "https://www.rei.com/s?q=Jade+Yoga+Rug"
+    }
+  },
+  {
+    "seriesKey": "heathyoga:alignment",
+    "scores": {
+      "gripDry": 6.5,
+      "gripWet": 5.5,
+      "durability": 5.5,
+      "cushioning": 7.0,
+      "ecoRating": 4.0,
+      "portability": 7.0,
+      "easeOfCleaning": 7.5,
+      "stability": 7.0,
+      "initialOdor": 5.0,
+      "value": 8.5,
+      "performance": 6.5,
+      "overall": 6.4
+    },
+    "review": {
+      "overview": "HeathyYoga's Alignment mat uses TPE material with an integrated Body Alignment System marked with visual cues. Budget-friendly and lightweight, it's designed for beginners learning proper form, though alignment markers receive mixed reviews for effectiveness.",
+      "pros": [
+        "Integrated alignment system for form guidance",
+        "Affordable at $35-45",
+        "Lightweight at 2.8 lbs",
+        "Adequate cushioning for beginners",
+        "Easy to clean TPE surface",
+        "Good stability on flat surfaces"
+      ],
+      "cons": [
+        "Contains PVC and TPE (not eco-friendly)",
+        "Moderate initial odor",
+        "Alignment markers too subtle for some",
+        "Slippery when wet",
+        "Limited durability (1-2 years typical)",
+        "Moderate grip performance"
+      ],
+      "bestFor": "Budget-conscious beginners, alignment-focused learners",
+      "notIdealFor": "Eco-conscious practitioners, hot yoga, advanced students",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Beginner Classes", "Hatha", "Gentle Yoga"],
+    "useCases": ["Home", "Studio"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.heathyoga.com",
+      "amazon": "https://www.amazon.com/s?k=HeathyYoga+Alignment+Mat"
+    }
+  },
+  {
+    "seriesKey": "gayo:balance",
+    "scores": {
+      "gripDry": 7.5,
+      "gripWet": 8.0,
+      "durability": 6.5,
+      "cushioning": 7.0,
+      "ecoRating": 7.5,
+      "portability": 7.5,
+      "easeOfCleaning": 7.5,
+      "stability": 7.5,
+      "initialOdor": 6.0,
+      "value": 8.5,
+      "performance": 7.5,
+      "overall": 7.5
+    },
+    "review": {
+      "overview": "Gayo's Balance mat combines natural rubber with PU leather in a versatile, eco-conscious design. With excellent balance between grip performance and weight, it's a solid mid-range option from a premium brand emphasizing sustainability and alignment support.",
+      "pros": [
+        "Excellent grip both dry and wet",
+        "Natural rubber + PU leather blend",
+        "Integrated alignment marks",
+        "Lightweight at 3.5 lbs",
+        "Eco-conscious construction",
+        "Great value at $85"
+      ],
+      "cons": [
+        "Moderate durability expectations",
+        "Initial rubber odor present",
+        "Alignment markers subtle",
+        "Not ideal for intensive daily use",
+        "Some reports of uneven surface"
+      ],
+      "bestFor": "Intermediate yogis, balance-focused practitioners, value seekers",
+      "notIdealFor": "Hot yoga intensive, budget minimization, durability priority",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Hatha", "Alignment-focused"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gayoyoga.com",
+      "amazon": "https://www.amazon.com/s?k=Gayo+Eco+Balance+Yoga+Mat",
+      "rei": "https://www.rei.com/s?q=Gayo+Balance"
+    }
+  },
+  {
+    "seriesKey": "gayo:balance-pro",
+    "scores": {
+      "gripDry": 8.0,
+      "gripWet": 8.5,
+      "durability": 7.5,
+      "cushioning": 7.5,
+      "ecoRating": 8.0,
+      "portability": 6.5,
+      "easeOfCleaning": 8.0,
+      "stability": 8.0,
+      "initialOdor": 6.5,
+      "value": 7.5,
+      "performance": 8.0,
+      "overall": 8.0
+    },
+    "review": {
+      "overview": "Gayo's Balance Pro elevates the standard Balance mat with improved materials and performance. A premium mid-range offering with excellent grip and stability, it bridges the gap between budget and luxury options effectively.",
+      "pros": [
+        "Superior grip performance both dry and wet",
+        "Reinforced natural rubber construction",
+        "Enhanced durability versus standard Balance",
+        "Integrated alignment markers",
+        "Moderate weight at 4.2 lbs",
+        "Excellent stability features"
+      ],
+      "cons": [
+        "Higher price at $125",
+        "Initial odor from materials",
+        "Less portable than standard Balance",
+        "Alignment markers still subtle",
+        "Not ideal for hot yoga intensive use"
+      ],
+      "bestFor": "Serious yoga practitioners, alignment seekers, performance prioritization",
+      "notIdealFor": "Budget minimization, travel, hot yoga intensive",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Power Yoga", "Alignment-focused"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gayoyoga.com",
+      "amazon": "https://www.amazon.com/s?k=Gayo+Balance+Pro+Yoga+Mat",
+      "rei": "https://www.rei.com/s?q=Gayo+Balance+Pro"
+    }
+  },
+  {
+    "seriesKey": "gayo:cork",
+    "scores": {
+      "gripDry": 7.0,
+      "gripWet": 9.5,
+      "durability": 8.0,
+      "cushioning": 6.5,
+      "ecoRating": 9.5,
+      "portability": 5.0,
+      "easeOfCleaning": 9.0,
+      "stability": 9.0,
+      "initialOdor": 8.0,
+      "value": 7.0,
+      "performance": 8.5,
+      "overall": 8.2
+    },
+    "review": {
+      "overview": "Gayo's Cork mat features premium cork layered over natural rubber for exceptional wet-grip performance. Ideal for hot yoga and sweaty practices, with antimicrobial properties and excellent stability that improve with moisture.",
+      "pros": [
+        "Outstanding wet grip from cork surface",
+        "Antimicrobial cork layer prevents odor",
+        "Excellent stability for inversions",
+        "Natural, eco-friendly materials",
+        "Improves with use and moisture",
+        "Easy to maintain and clean"
+      ],
+      "cons": [
+        "Moderate dry grip requiring break-in",
+        "Heavy at 5.9 lbs",
+        "Premium pricing at $130",
+        "Cork can show wear patterns",
+        "Not ideal for dry practices"
+      ],
+      "bestFor": "Hot yoga practitioners, those who sweat heavily, eco-conscious performers",
+      "notIdealFor": "Dry yoga intensive, travel, budget-conscious buyers",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hot Yoga", "Bikram", "Power Yoga", "Vinyasa"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gayoyoga.com",
+      "amazon": "https://www.amazon.com/s?k=Gayo+Cork+Yoga+Mat",
+      "rei": "https://www.rei.com/s?q=Gayo+Cork"
+    }
+  },
+  {
+    "seriesKey": "gayo:cotton",
+    "scores": {
+      "gripDry": 5.5,
+      "gripWet": 6.0,
+      "durability": 5.0,
+      "cushioning": 4.5,
+      "ecoRating": 9.5,
+      "portability": 8.5,
+      "easeOfCleaning": 8.5,
+      "stability": 5.0,
+      "initialOdor": 8.5,
+      "value": 8.0,
+      "performance": 5.5,
+      "overall": 6.7
+    },
+    "review": {
+      "overview": "Gayo's Cotton mat is a sustainable rug-style option made from natural cotton for meditation and gentle practices. Lightweight and washable, it prioritizes environmental impact over performance metrics suitable for dynamic yoga styles.",
+      "pros": [
+        "100% natural cotton construction",
+        "Highly sustainable and biodegradable",
+        "Lightweight at 1.6 lbs",
+        "Machine washable for easy care",
+        "Affordable at $50",
+        "Eco-friendly manufacturing",
+        "Good for meditation and gentle styles"
+      ],
+      "cons": [
+        "Minimal grip for standing poses",
+        "No cushioning provided",
+        "Bunches and shifts during practice",
+        "Absorbs sweat and retains odors",
+        "Not suitable for vigorous practice",
+        "Limited longevity (1-2 years)"
+      ],
+      "bestFor": "Eco-conscious practitioners, meditation, yin yoga, gentle styles",
+      "notIdealFor": "Dynamic yoga, hot yoga, balance-focused practices",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Meditation", "Yin", "Restorative", "Gentle Yoga"],
+    "useCases": ["Home", "Meditation Space"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.gayoyoga.com",
+      "amazon": "https://www.amazon.com/s?k=Gayo+Cotton+Yoga+Mat",
+      "rei": "https://www.rei.com/s?q=Gayo+Cotton"
+    }
+  },
+  {
+    "seriesKey": "houseofmats:art",
+    "scores": {
+      "gripDry": 6.5,
+      "gripWet": 5.5,
+      "durability": 5.5,
+      "cushioning": 6.5,
+      "ecoRating": 6.0,
+      "portability": 6.5,
+      "easeOfCleaning": 6.0,
+      "stability": 6.0,
+      "initialOdor": 6.5,
+      "value": 6.5,
+      "performance": 6.0,
+      "overall": 6.1
+    },
+    "review": {
+      "overview": "House of Mats' Art Collection features artist collaborations with unique designs. While visually striking and serving as functional art, performance metrics are moderate and primarily appeal to design-focused yogis.",
+      "pros": [
+        "Stunning artist-designed visuals",
+        "Limited-edition aesthetic collectibles",
+        "Functional as both mat and art",
+        "Good for gift-giving enthusiasts",
+        "Decent basic performance",
+        "Lightweight carry option"
+      ],
+      "cons": [
+        "Moderate grip performance",
+        "Limited durability concerns",
+        "Premium pricing for art ($95-120)",
+        "Print quality may fade",
+        "Not optimal for performance seekers",
+        "Standard cushioning only"
+      ],
+      "bestFor": "Art enthusiasts, design-focused yogis, unique gift seekers",
+      "notIdealFor": "Performance-priority practitioners, long-term durability seekers",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Hatha", "Gentle Yoga", "Vinyasa"],
+    "useCases": ["Home", "Studio"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.houseofmats.com",
+      "amazon": "https://www.amazon.com/s?k=House+of+Mats+Art+Collection"
+    }
+  },
+  {
+    "seriesKey": "houseofmats:lab-limited-edition",
+    "scores": {
+      "gripDry": 7.0,
+      "gripWet": 6.0,
+      "durability": 6.0,
+      "cushioning": 7.0,
+      "ecoRating": 6.5,
+      "portability": 6.5,
+      "easeOfCleaning": 7.0,
+      "stability": 6.5,
+      "initialOdor": 6.5,
+      "value": 5.5,
+      "performance": 6.5,
+      "overall": 6.6
+    },
+    "review": {
+      "overview": "House of Mats' Laboratory Limited Edition releases feature experimental designs and premium materials tested in controlled conditions. Exclusive and collectible, these drops appeal to enthusiasts willing to pay premium for exclusivity.",
+      "pros": [
+        "Exclusive limited-edition releases",
+        "Experimental design exploration",
+        "Premium material testing",
+        "Collectible for enthusiasts",
+        "Good basic performance",
+        "Strong community following"
+      ],
+      "cons": [
+        "Very expensive ($120-150+)",
+        "Limited availability (inventory stress)",
+        "Experimental materials may be unproven",
+        "No long-term durability data",
+        "Not ideal for conservative buyers",
+        "Performance varies by release"
+      ],
+      "bestFor": "Collectors, enthusiasts, early adopters, unique seekers",
+      "notIdealFor": "Budget-conscious buyers, durability assurance seekers",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Hatha"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.houseofmats.com",
+      "amazon": "https://www.amazon.com/s?k=House+of+Mats+Laboratory+Limited+Edition"
+    }
+  },
+  {
+    "seriesKey": "houseofmats:studio",
+    "scores": {
+      "gripDry": 7.0,
+      "gripWet": 6.5,
+      "durability": 6.5,
+      "cushioning": 7.5,
+      "ecoRating": 7.0,
+      "portability": 5.5,
+      "easeOfCleaning": 7.0,
+      "stability": 7.0,
+      "initialOdor": 6.0,
+      "value": 8.0,
+      "performance": 7.0,
+      "overall": 7.0
+    },
+    "review": {
+      "overview": "House of Mats' Studio Collection is the core line emphasizing balanced performance and eco-friendly materials. A reliable all-around option for yogis seeking professional-grade performance without experimental or art-focused positioning.",
+      "pros": [
+        "Well-balanced performance across metrics",
+        "Eco-friendly materials",
+        "Good grip and stability",
+        "Decent cushioning at 6mm",
+        "Lightweight at 4.1 lbs",
+        "Good value at $75-85"
+      ],
+      "cons": [
+        "Moderate wet grip",
+        "Standard durability expectations",
+        "Initial odor present",
+        "Not specialized for specific styles",
+        "Moderate break-in period"
+      ],
+      "bestFor": "All-around practitioners, eco-conscious yogis, value seekers",
+      "notIdealFor": "Hot yoga intensive, specialized style performance",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Vinyasa", "Hatha", "Gentle Yoga"],
+    "useCases": ["Studio", "Home"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.houseofmats.com",
+      "amazon": "https://www.amazon.com/s?k=House+of+Mats+Studio+Collection",
+      "rei": "https://www.rei.com/s?q=House+of+Mats+Studio"
+    }
+  },
+  {
+    "seriesKey": "houseofmats:travel",
+    "scores": {
+      "gripDry": 6.5,
+      "gripWet": 6.0,
+      "durability": 4.5,
+      "cushioning": 3.0,
+      "ecoRating": 6.5,
+      "portability": 10.0,
+      "easeOfCleaning": 8.0,
+      "stability": 4.0,
+      "initialOdor": 7.0,
+      "value": 8.5,
+      "performance": 4.5,
+      "overall": 6.3
+    },
+    "review": {
+      "overview": "House of Mats' Travel Collection features a foldable design optimized for portability at under 2 lbs. Lightweight and packable, it's designed for travelers and those prioritizing luggage space over performance metrics.",
+      "pros": [
+        "Foldable design fits in backpacks",
+        "Ultra-lightweight at 1.9 lbs",
+        "Easy to clean",
+        "Good value at $45-55",
+        "Compact travel companion",
+        "Reasonable grip for travel"
+      ],
+      "cons": [
+        "Minimal cushioning at 1.5mm",
+        "Poor stability for standing poses",
+        "Limited durability (1-2 years)",
+        "Folds can crease and wear",
+        "Not suitable for primary mat use",
+        "Shifts during vigorous practice"
+      ],
+      "bestFor": "Frequent travelers, park yoga, weekend trips, budget travelers",
+      "notIdealFor": "Primary mat use, cushioning needs, intensive practice",
+      "lastUpdated": "2026-02-01"
+    },
+    "isReviewed": true,
+    "yogaStyles": ["Gentle Yoga", "Vinyasa"],
+    "useCases": ["Travel", "Outdoor"],
+    "affiliateLinks": {
+      "brandWebsite": "https://www.houseofmats.com",
+      "amazon": "https://www.amazon.com/s?k=House+of+Mats+Travel+Foldable",
+      "rei": "https://www.rei.com/s?q=House+of+Mats+Travel"
+    }
+  }
+]
