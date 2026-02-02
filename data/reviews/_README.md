@@ -1,5 +1,7 @@
 # README
 
+Folder to capture external review data
+
 ## Reddit Sheet
 
 [](/config/reddit-sheet.json)
