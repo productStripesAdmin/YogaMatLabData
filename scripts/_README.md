@@ -104,22 +104,28 @@ These scripts analyze data quality and consistency across sources.
 These scripts generate comprehensive gap analysis reports.
 
 ### `find-series-gaps.cjs`
-**Purpose:** Analyze series coverage gaps across config, reviews, and scoring data
+**Purpose:** Analyze series and brand coverage gaps across config, reviews, and scoring data
 
 **Inputs:**
-- `config/brand-series.json` (configuration)
+- `config/brands.json` (brand publication status)
+- `config/brand-series.json` (series configuration)
 - `data/reviews/reddit-sheet.json` (community feedback)
 - `data/reviews/outdoorgearlab.json` (professional reviews)
+- `data/reviews/research-sources.json` (research documentation)
 - `data/scores/series-scores.json` (scoring data)
 **Outputs:**
-- Console report with detailed analysis
-- `data/scores/series-gaps-report.json` (detailed report)
+- Console report with detailed analysis including brand alignment
+- `data/scores/series-gaps-report.json` (detailed JSON report)
 **Usage:** `npm run find-series-gaps`
 **Details:**
-- Identifies series in reviews but missing from config
-- Identifies series in config lacking review/scoring data
-- Shows brand-by-brand coverage percentages
-- Highlights priority gaps
+- **Brand Alignment Analysis**: Shows which brands in review data are published vs unpublished in config
+  - Published brands: Have review data AND are active in config
+  - Unpublished brands: Have review data BUT are marked inactive in config
+  - Missing brands: Appear in reviews but not in config at all
+- **Series Gaps**: Identifies series in reviews missing from config
+- **Review Coverage**: Shows series in config lacking review/scoring data
+- **Brand Coverage**: Breaks down series availability by brand
+- Only analyzes published brands for series gaps (unpublished brands excluded)
 
 ---
 

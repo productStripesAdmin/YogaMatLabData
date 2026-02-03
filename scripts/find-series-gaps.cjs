@@ -92,6 +92,103 @@ console.log('  Scored series:                 ' + scoresKeys.size + ' series');
 console.log('  Research sources documented:   ' + researchKeys.size + ' series');
 console.log('  Total unique in reviews:       ' + allReviewKeys.size + ' series\n');
 
+// First, analyze brand alignment across review sources
+console.log('BRAND ALIGNMENT ANALYSIS:');
+console.log('---------------------------------------------------------------');
+
+const reviewBrands = new Set();
+[...outdoorGearLab, ...redditSheet].forEach(entry => {
+  const brandName = entry.Brand || entry.Company;
+  if (brandName && brandName.trim()) {
+    reviewBrands.add(brandName.trim());
+  }
+});
+
+const brandStatus = {};
+
+// Create multiple lookup keys for fuzzy matching
+const brandLookup = new Map();
+const brandAliases = {
+  'jade': 'jadeyoga',
+  'alo': 'aloyoga',
+  'ajna': 'ajna',
+  'b yoga': 'b-yoga',
+  'yoloha': 'yoloha',
+  'lululemon': 'lululemon',
+  'yoga design lab': 'yogadesignlab',
+  'yogamatters': 'yogamatters',
+  'primasole': 'primasole',
+  'hugger mugger': 'huggermugger',
+  'iuga': 'iuga',
+  'prana verde': 'pranaverde',
+  'jollie': 'jollie',
+  'gaiam': 'gaiam',
+  'liforme': 'liforme',
+  'manduka': 'manduka'
+};
+
+// Build lookup maps
+brands.brands.forEach(b => {
+  brandLookup.set(b.name.toLowerCase(), b);
+  brandLookup.set(b.slug.toLowerCase(), b);
+});
+
+reviewBrands.forEach(brandName => {
+  const normalized = brandName.toLowerCase().trim();
+
+  // Try direct match
+  let configBrand = brandLookup.get(normalized);
+
+  // Try alias
+  if (!configBrand) {
+    const aliasSlug = brandAliases[normalized];
+    if (aliasSlug) {
+      configBrand = brandLookup.get(aliasSlug);
+    }
+  }
+
+  // Try partial match (if no spaces match with spaces)
+  if (!configBrand) {
+    for (const [key, brand] of brandLookup) {
+      if (key.includes(normalized) || normalized.includes(key.replace(/\s+/g, ''))) {
+        configBrand = brand;
+        break;
+      }
+    }
+  }
+
+  if (configBrand) {
+    const status = configBrand.isPublished ? 'published' : 'unpublished';
+    if (!brandStatus[status]) brandStatus[status] = [];
+    brandStatus[status].push({
+      name: brandName,
+      slug: configBrand.slug,
+      isPublished: configBrand.isPublished
+    });
+  } else {
+    if (!brandStatus['not-in-config']) brandStatus['not-in-config'] = [];
+    brandStatus['not-in-config'].push({
+      name: brandName,
+      slug: null,
+      isPublished: null
+    });
+  }
+});
+
+if (brandStatus['published']) {
+  console.log('  Published brands in reviews: ' + brandStatus['published'].length);
+  brandStatus['published'].forEach(b => console.log('    ✓ ' + b.name + ' (' + b.slug + ')'));
+}
+if (brandStatus['unpublished']) {
+  console.log('  Unpublished brands in reviews: ' + brandStatus['unpublished'].length);
+  brandStatus['unpublished'].forEach(b => console.log('    ✗ ' + b.name + ' (' + b.slug + ') - not published'));
+}
+if (brandStatus['not-in-config']) {
+  console.log('  Brands missing from config: ' + brandStatus['not-in-config'].length);
+  brandStatus['not-in-config'].forEach(b => console.log('    ? ' + b.name + ' - needs to be added'));
+}
+console.log('');
+
 // Gap 1: In reviews but NOT in config
 const inReviewsNotConfig = [...allReviewKeys].filter(key => !configSeriesKeys.has(key));
 console.log('IN REVIEW DATA BUT MISSING FROM CONFIG:');
@@ -209,6 +306,22 @@ const report = {
     reviewTotal: allReviewKeys.size,
     inReviewsNotConfig: inReviewsNotConfig.length,
     inConfigNotReviews: inConfigNotReviews.length
+  },
+  brandAlignment: {
+    publishedBrandsInReviews: (brandStatus['published'] || []).map(b => ({
+      name: b.name,
+      slug: b.slug,
+      isPublished: true
+    })),
+    unpublishedBrandsInReviews: (brandStatus['unpublished'] || []).map(b => ({
+      name: b.name,
+      slug: b.slug,
+      isPublished: false
+    })),
+    brandsMissingFromConfig: (brandStatus['not-in-config'] || []).map(b => ({
+      name: b.name,
+      status: 'missing-from-config'
+    }))
   },
   missingFromConfig: inReviewsNotConfig.map(key => {
     const sources = [];

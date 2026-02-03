@@ -45,7 +45,8 @@
       "scrapingEnabled": false,
       "productsJsonUrl": "",
       "platform": "",
-      "source": "gap analysis"
+      "source": "gap analysis",
+      "notes": "Sorry, this store is currently unavailable."
     },
     {
       "slug": "aloyoga",
@@ -95,7 +96,7 @@
     },
     {
       "slug": "b-yoga",
-      "name": "B Yoga",
+      "name": "B Yoga / Halfmoon",
       "tagline": "High-Performance Grip",
       "description": "B Yoga (known for the iconic B MAT) creates durable, grippy yoga mats designed for intense practices like hot yoga and Pilates. The brand emphasizes superior performance, comfort, and eco-conscious materials such as sustainably sourced rubber with Oeko-Tex certification. Their mats are favored for stability, longevity, and support in studio or home settings.",
       "founded": 2014,
@@ -109,12 +110,12 @@
       "sustainability": "Uses sustainably sourced rubber and Oeko-Tex certified materials; focuses on long-lasting products to reduce waste.",
       "bestKnownFor": "The B MAT series with exceptional grip and performance, even in sweaty conditions",
       "targetAudience": "Serious yogis, hot yoga practitioners, and those seeking reliable, high-performance mats",
-      "website": "https://byogamat.com/",
+      "website": "https://bhalfmoon.com/",
       "isEcoFocused": true,
-      "isPublished": false,
-      "scrapingEnabled": false,
-      "productsJsonUrl": "",
-      "platform": "",
+      "isPublished": true,
+      "scrapingEnabled": true,
+      "productsJsonUrl": "https://bhalfmoon.com/collections/all-products/products.json",
+      "platform": "shopify",
       "source": "gap analysis"
     },
     {
@@ -248,8 +249,8 @@
       "targetAudience": "Yoga teachers, studio owners, and practitioners who value proven reliability over trends",
       "website": "https://www.huggermugger.com/",
       "isEcoFocused": true,
-      "isPublished": false,
-      "scrapingEnabled": false,
+      "isPublished": true,
+      "scrapingEnabled": true,
       "platform": "bigcommerce",
       "platformConfig": {
         "bigcommerceCollectionUrl": "https://www.huggermugger.com/yoga-mats/"
@@ -277,7 +278,8 @@
       "scrapingEnabled": false,
       "productsJsonUrl": "https://www.theiuga.com/collections/yoga-mats/products.json",
       "platform": "",
-      "source": "gap analysis"
+      "source": "gap analysis",
+      "notes": "Excluding - sells low budget options and isn't focused on Yoga mats."
     },
     {
       "slug": "jadeyoga",
@@ -324,7 +326,8 @@
       "scrapingEnabled": false,
       "productsJsonUrl": "https://www.bejollie.com/collections/mats/products.json",
       "platform": "",
-      "source": "gap analysis"
+      "source": "gap analysis",
+      "notes": "Sorry, this store is currently unavailable."
     },
     {
       "slug": "keep",
@@ -389,8 +392,8 @@
       "targetAudience": "Fashion-forward yogis, Lululemon loyalists, hot yoga practitioners, and those who value brand aesthetic",
       "website": "https://www.lululemon.com",
       "isEcoFocused": true,
-      "isPublished": false,
-      "scrapingEnabled": false,
+      "isPublished": true,
+      "scrapingEnabled": true,
       "platform": "lululemon",
       "platformConfig": {
         "lululemonCategoryId": "8s6"
@@ -508,13 +511,14 @@
       "sustainability": "Eco-friendly materials with recycled components; part of prAna's broader sustainability commitment.",
       "bestKnownFor": "Dense, springy feel with strong grip — praised in reviews as a top sustainable mid-range option",
       "targetAudience": "Practitioners wanting extra cushion without sacrificing grip or eco-values",
-      "website": "https://www.prana.com/accessories/yoga-mats.html",
+      "website": "https://www.prana.com/",
       "isEcoFocused": true,
       "isPublished": false,
       "scrapingEnabled": false,
       "productsJsonUrl": "",
       "platform": "",
-      "source": "gap analysis - outdoorgearlab"
+      "source": "gap analysis - outdoorgearlab",
+      "notes": "Excluding - sells two yoga mats and they don't look great. Duplicate of slug prana above."
     },
     {
       "slug": "primasole",
@@ -538,7 +542,8 @@
       "scrapingEnabled": false,
       "productsJsonUrl": "",
       "platform": "",
-      "source": "gap analysis"
+      "source": "gap analysis",
+      "notes": "Excluding - sells low budget options."
     },
     {
       "slug": "scoria",

@@ -1,13 +1,120 @@
 {
-  "timestamp": "2026-02-03T03:16:43.714Z",
+  "timestamp": "2026-02-03T06:48:01.319Z",
   "summary": {
-    "configTotal": 144,
-    "reviewTotal": 110,
+    "configTotal": 164,
+    "reviewTotal": 127,
     "inReviewsNotConfig": 0,
-    "inConfigNotReviews": 34
+    "inConfigNotReviews": 37
+  },
+  "brandAlignment": {
+    "publishedBrandsInReviews": [
+      {
+        "name": "Manduka",
+        "slug": "manduka",
+        "isPublished": true
+      },
+      {
+        "name": "Lululemon",
+        "slug": "lululemon",
+        "isPublished": true
+      },
+      {
+        "name": "Liforme",
+        "slug": "liforme",
+        "isPublished": true
+      },
+      {
+        "name": "Yoloha",
+        "slug": "yoloha",
+        "isPublished": true
+      },
+      {
+        "name": "Hugger Mugger",
+        "slug": "huggermugger",
+        "isPublished": true
+      },
+      {
+        "name": "Gaiam",
+        "slug": "gaiam",
+        "isPublished": true
+      },
+      {
+        "name": "Alo Yoga",
+        "slug": "aloyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Jade",
+        "slug": "jadeyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Yoga Design Lab",
+        "slug": "yogadesignlab",
+        "isPublished": true
+      },
+      {
+        "name": "B Yoga",
+        "slug": "b-yoga",
+        "isPublished": true
+      },
+      {
+        "name": "Alo",
+        "slug": "aloyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Yogamatters",
+        "slug": "yogamatters",
+        "isPublished": true
+      }
+    ],
+    "unpublishedBrandsInReviews": [
+      {
+        "name": "Iuga",
+        "slug": "iuga",
+        "isPublished": false
+      },
+      {
+        "name": "Prana Verde",
+        "slug": "pranaverde",
+        "isPublished": false
+      },
+      {
+        "name": "Primasole",
+        "slug": "primasole",
+        "isPublished": false
+      },
+      {
+        "name": "Jollie",
+        "slug": "jollie",
+        "isPublished": false
+      },
+      {
+        "name": "Ajna",
+        "slug": "ajna",
+        "isPublished": false
+      }
+    ],
+    "brandsMissingFromConfig": []
   },
   "missingFromConfig": [],
   "missingReviewData": [
+    {
+      "seriesKey": "huggermugger:tapas",
+      "name": "Tapas",
+      "tagline": "Tapas mat line (often sold as “Tapas Original”)."
+    },
+    {
+      "seriesKey": "huggermugger:para-rubber",
+      "name": "Para Rubber",
+      "tagline": "Para Rubber mat line (natural rubber)."
+    },
+    {
+      "seriesKey": "huggermugger:sattva-jute",
+      "name": "Sattva Jute",
+      "tagline": "Sattva Jute mat line (jute blend)."
+    },
     {
       "seriesKey": "okoliving:jade-and-jute",
       "name": "Jade & Jute",
