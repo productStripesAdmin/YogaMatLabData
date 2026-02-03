@@ -392,8 +392,8 @@
       "targetAudience": "Fashion-forward yogis, Lululemon loyalists, hot yoga practitioners, and those who value brand aesthetic",
       "website": "https://www.lululemon.com",
       "isEcoFocused": true,
-      "isPublished": true,
-      "scrapingEnabled": true,
+      "isPublished": false,
+      "scrapingEnabled": false,
       "platform": "lululemon",
       "platformConfig": {
         "lululemonCategoryId": "8s6"
