@@ -393,7 +393,7 @@
       "website": "https://www.lululemon.com",
       "isEcoFocused": true,
       "isPublished": false,
-      "scrapingEnabled": true,
+      "scrapingEnabled": false,
       "platform": "lululemon",
       "platformConfig": {
         "lululemonCategoryId": "8s6"
