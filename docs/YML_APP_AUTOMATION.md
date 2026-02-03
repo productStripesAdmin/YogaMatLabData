@@ -26,7 +26,7 @@ git commit -m "chore: track YogaMatLabData data branch"
 
 ## 2) Add a workflow in YML_app to update the submodule on dispatch
 
-YogaMatLabData dispatches repository events to YML_app when its `data` branch changes (config updates or weekly pipeline runs).
+YogaMatLabData dispatches repository events to YML_app after its `data` branch is updated (config syncs or weekly pipeline runs).
 
 Create this in `YML_app`:
 

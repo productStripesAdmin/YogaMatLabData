@@ -64,7 +64,10 @@ This repo includes `.github/workflows/sync-config-to-data-branch.yml`, which syn
 
 ## YML_app Notifications
 
-This repo includes `.github/workflows/notify-yml-app.yml`, which sends a `repository_dispatch` event to YML_app whenever the `data` branch changes (either config syncs or weekly data pipeline updates).
+This repo includes `.github/workflows/notify-yml-app.yml`, which sends a `repository_dispatch` event to YML_app after the `data` branch is updated by:
+
+- the weekly pipeline workflow, or
+- the config→data sync workflow
 
 To complete the setup, add a receiver workflow in YML_app that updates the YogaMatLabData submodule and runs your brand/series sync. See `docs/YML_APP_AUTOMATION.md`.
 

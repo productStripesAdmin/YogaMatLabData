@@ -1,16 +1,17 @@
-name: Notify YML_app on data branch updates
+name: Notify YML_app after data updates
 
 on:
-  push:
-    branches:
-      - data
-    paths:
-      - 'config/**'
-      - 'data/**'
+  workflow_run:
+    workflows:
+      - Fetch from products.json endpoints
+      - Sync config/ to data branch
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
   notify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -39,30 +40,25 @@ jobs:
             const owner = process.env.TARGET_OWNER;
             const repo = process.env.TARGET_REPO;
 
-            const commits = context.payload.commits ?? [];
-            const changedFiles = new Set();
-            for (const commit of commits) {
-              for (const key of ['added', 'modified', 'removed']) {
-                for (const file of commit?.[key] ?? []) changedFiles.add(file);
-              }
-            }
-
-            const configChanged = Array.from(changedFiles).some((f) => f.startsWith('config/'));
-            const dataChanged = Array.from(changedFiles).some((f) => f.startsWith('data/'));
+            const run = context.payload.workflow_run;
+            const workflowName = run?.name ?? '(manual)';
 
             let eventType = 'yml-repo-updated';
-            if (configChanged && !dataChanged) eventType = 'yml-config-updated';
-            if (dataChanged && !configChanged) eventType = 'yml-data-updated';
-            if (dataChanged && configChanged) eventType = 'yml-repo-updated';
+            if (workflowName === 'Sync config/ to data branch') eventType = 'yml-config-updated';
+            if (workflowName === 'Fetch from products.json endpoints') eventType = 'yml-data-updated';
 
             const payload = {
               source_repo: process.env.GITHUB_REPOSITORY,
               source_ref: process.env.GITHUB_REF,
               source_sha: process.env.GITHUB_SHA,
               data_branch: 'data',
-              configChanged,
-              dataChanged,
-              changedFiles: Array.from(changedFiles).slice(0, 200),
+              workflow: {
+                name: workflowName,
+                conclusion: run?.conclusion ?? null,
+                run_id: run?.id ?? null,
+                run_number: run?.run_number ?? null,
+                html_url: run?.html_url ?? null,
+              },
             };
 
             await github.request('POST /repos/{owner}/{repo}/dispatches', {
@@ -77,7 +73,6 @@ jobs:
               `Target: ${owner}/${repo}`,
               `Event: ${eventType}`,
               `Source: ${payload.source_repo}@${payload.source_sha}`,
-              `configChanged: ${configChanged}`,
-              `dataChanged: ${dataChanged}`,
+              `Workflow: ${payload.workflow.name}`,
             ]);
             await core.summary.write();
