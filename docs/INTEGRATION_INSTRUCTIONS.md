@@ -6,7 +6,7 @@ This document provides step-by-step instructions for integrating the YogaMatLabD
 
 ## Overview
 
-YogaMatLabData is now generating daily product data from Shopify brands. This integration will:
+YogaMatLabData generates product data from Shopify brands. This integration will:
 1. Add YogaMatLabData as a git submodule
 2. Create a Convex mutation for bulk upserting yoga mats
 3. Create an import script to load data into Convex
@@ -24,7 +24,7 @@ Before starting, ensure:
 Add YogaMatLabData as a git submodule in the `data/external` directory:
 
 ```bash
-git submodule add https://github.com/productStripesAdmin/YogaMatLabData.git data/external
+git submodule add -b data https://github.com/productStripesAdmin/YogaMatLabData.git data/external
 git commit -m "Add YogaMatLabData as submodule for automated product data"
 ```
 
@@ -325,7 +325,7 @@ npm run import-mats
 
 ### Daily Workflow
 
-The YogaMatLabData repository automatically runs daily at 2 AM UTC via GitHub Actions. To get the latest data:
+The YogaMatLabData repository runs weekly (Wednesday 15:00 UTC) via GitHub Actions. To get the latest data:
 
 ```bash
 npm run update-data
@@ -381,8 +381,10 @@ The aggregated data file (`all-products.json`) contains:
 After completing this integration:
 
 1. **Test the import**: Run `npm run update-data` and verify products appear in Convex dashboard
-2. **Set up automation** (optional): Create a GitHub Action in YogaMatLabApp to automatically pull and import data daily
+2. **Set up automation** (optional): Create a GitHub Action in YogaMatLabApp to automatically pull and import data after YogaMatLabData updates
 3. **Update your app**: Ensure your frontend queries the `yogaMats` table to display products
+
+For event-driven automation (recommended), see `docs/YML_APP_AUTOMATION.md`.
 
 ## Support
 

@@ -11,15 +11,21 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: data-branch-writer
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN || github.token }}
+          token: ${{ env.PAT_TOKEN != '' && env.PAT_TOKEN || github.token }}
 
       - name: Sync config/ into data branch
         run: |

@@ -59,6 +59,13 @@ Notes:
 - `fetch`, `enrich`, `normalize`, and `aggregate` will only process the filtered brands.
 - `detect-changes` and `update-symlinks` are global steps and will be skipped automatically when `YML_BRANDS` is set (to avoid updating `data/**/latest` from partial runs).
 
+## Branches (important)
+
+- `main`: source code + `config/**` (safe to run locally). Local pipeline outputs under `data/` are ignored by git, so they won’t be pushed unless you explicitly force-add them.
+- `data`: CI-managed branch containing generated `data/**` and a mirrored copy of `config/**` for production consumers via submodule.
+
+For YML_app event-driven submodule updates, see `docs/YML_APP_AUTOMATION.md`.
+
 ## Architecture
 
 See [CLAUDE.md](./CLAUDE.md) for detailed architecture and implementation notes.
@@ -116,7 +123,7 @@ YogaMatLabData/
 - [x] Detect changes script (tracks new/removed/changed products)
 
 ### Phase 3: Automation ✅
-- [x] GitHub Actions workflow (daily at 2 AM UTC)
+- [x] GitHub Actions workflow (weekly)
 - [x] Latest symlinks updater
 - [x] Automatic commits with changeset summary
 - [x] Failure notifications (creates GitHub issues)
@@ -154,7 +161,7 @@ Brands are configured in YogaMatLabApp's Convex `brands` table:
 
 ## GitHub Actions Automation
 
-The pipeline runs automatically every day at 2 AM UTC via GitHub Actions.
+The pipeline runs automatically weekly (Wednesday 15:00 UTC) via GitHub Actions.
 
 ### Required Secrets
 
@@ -166,7 +173,7 @@ Set these in your GitHub repository settings (Settings → Secrets and variables
 ### Manual Trigger
 
 You can manually trigger the workflow from the Actions tab:
-1. Go to Actions → Daily Product Extraction
+1. Go to Actions → Fetch from products.json endpoints
 2. Click "Run workflow"
 3. Select branch and run
 
@@ -223,7 +230,7 @@ This repository generates data that is consumed by YogaMatLabApp. See [INTEGRATI
    npm run update-data  # Pulls latest data and imports to Convex
    ```
 
-The data pipeline runs automatically daily at 2 AM UTC. YogaMatLabApp can pull and import the latest data whenever needed.
+The data pipeline runs automatically weekly (Wednesday 15:00 UTC). YogaMatLabApp can pull and import the latest data whenever needed.
 
 ## Related Repositories
 

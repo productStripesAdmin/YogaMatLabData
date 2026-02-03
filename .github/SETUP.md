@@ -15,7 +15,7 @@ Before the automated pipeline can run, you need to configure the following secre
 
 ### 2. (Optional) Set up PAT_TOKEN
 
-Only needed if you want cross-repo commits (e.g., pushing to YogaMatLabApp).
+Only needed if you want cross-repo GitHub API access (e.g. dispatching to YML_app) or if your repo settings restrict the default `GITHUB_TOKEN`.
 
 1. Create a Personal Access Token:
    - Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
@@ -32,11 +32,11 @@ Only needed if you want cross-repo commits (e.g., pushing to YogaMatLabApp).
    - Value: Your personal access token
    - Click **Add secret**
 
-### 3. (Optional, recommended) Set up BRANDS_SYNC_TOKEN
+### 3. (Optional, recommended) Set up YML_APP_DISPATCH_TOKEN
 
-Only needed if you want `config/brands.json` changes to automatically sync into your app repo via `.github/workflows/update-brands.yml`.
+Only needed if you want YogaMatLabData to notify YML_app whenever the `data` branch updates (config changes or weekly data pipeline updates).
 
-This token must have access to the *target repo* (by default `productStripesAdmin/YogaMatLabApp`).
+This token must have access to the *target repo* (by default `productStripesAdmin/YML_app`).
 
 1. Create a Personal Access Token:
    - Recommended: **Tokens (classic)** with scope `repo` (private repos)
@@ -45,31 +45,35 @@ This token must have access to the *target repo* (by default `productStripesAdmi
 2. Add to this repository:
    - Go to repository Settings → Secrets and variables → Actions
    - Click **New repository secret**
-   - Name: `BRANDS_SYNC_TOKEN`
+   - Name: `YML_APP_DISPATCH_TOKEN`
    - Value: Your token
    - Click **Add secret**
 
 ### 4. (Optional) Configure target repo variables
 
-If the app repo is not `productStripesAdmin/YogaMatLabApp`, set these repository variables (Settings → Secrets and variables → Actions → **Variables**):
+If the app repo is not `productStripesAdmin/YML_app`, set these repository variables (Settings → Secrets and variables → Actions → **Variables**):
 
-- `BRANDS_SYNC_TARGET_OWNER` (defaults to this repo owner)
-- `BRANDS_SYNC_TARGET_REPO` (defaults to `YogaMatLabApp`)
-- `BRANDS_SYNC_TARGET_BRANCH` (defaults to `main`)
-- `BRANDS_SYNC_TARGET_PATH` (defaults to `config/brands.json`)
+- `YML_APP_OWNER` (defaults to this repo owner)
+- `YML_APP_REPO` (defaults to `YML_app`)
 
 ## Config Sync to data branch
 
-If YogaMatLabApp consumes this repo via a submodule tracking the `data` branch (common for production), the `config/` directory also needs to be kept up to date there.
+If your app consumes this repo via a submodule tracking the `data` branch (common for production), the `config/` directory also needs to be kept up to date there.
 
 This repo includes `.github/workflows/sync-config-to-data-branch.yml`, which syncs `config/**` from `main` → `data` on every config change.
+
+## YML_app Notifications
+
+This repo includes `.github/workflows/notify-yml-app.yml`, which sends a `repository_dispatch` event to YML_app whenever the `data` branch changes (either config syncs or weekly data pipeline updates).
+
+To complete the setup, add a receiver workflow in YML_app that updates the YogaMatLabData submodule and runs your brand/series sync. See `docs/YML_APP_AUTOMATION.md`.
 
 ## Testing the Workflow
 
 ### Manual Trigger
 
 1. Go to the **Actions** tab in your repository
-2. Click on **Daily Product Extraction** workflow
+2. Click on **Fetch from products.json endpoints** workflow
 3. Click **Run workflow** button
 4. Select the branch (usually `main`)
 5. Click **Run workflow**
@@ -112,7 +116,7 @@ After successful execution:
 ## Schedule
 
 The workflow runs automatically:
-- **Daily** at 2:00 AM UTC
+- **Weekly** on Wednesday at 15:00 UTC (7 AM PST / 8 AM PDT)
 - Can be triggered **manually** anytime from Actions tab
 
 To change the schedule, edit `.github/workflows/fetch-products.yml` and modify the `cron` expression.

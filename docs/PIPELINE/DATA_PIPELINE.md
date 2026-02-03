@@ -69,7 +69,7 @@ YogaMatLabApp.
 Strategy:
 - Use existing Shopify scraper (fast, free, no API costs)
 - Separate YogaMatLabData repository for data storage
-- GitHub Actions for daily automated extraction (2 AM UTC)
+- GitHub Actions for weekly automated extraction
 - File-based change detection for redirect management
 - Git submodule integration with YogaMatLabApp
 
@@ -227,8 +227,8 @@ Phase 3: Automation (Priority 3)
 Files to create:
 
 1. .github/workflows/fetch-products.yml
-  - Purpose: GitHub Actions workflow for daily automation
-  - Trigger: Cron schedule 0 2 * * * (2 AM UTC daily)
+  - Purpose: GitHub Actions workflow for weekly automation
+  - Trigger: Cron schedule 0 15 * * 3 (Wednesday 15:00 UTC)
   - Also: Manual trigger via workflow_dispatch
   - Steps:
       - Checkout YogaMatLabData repo

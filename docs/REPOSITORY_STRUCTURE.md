@@ -111,7 +111,7 @@ YogaMatLabData/
 ## GitHub Workflows
 
 **.github/workflows/fetch-products.yml**
-- Runs daily at 2 AM UTC
+- Runs weekly on Wednesday at 15:00 UTC (7 AM PST / 8 AM PDT)
 - Orchestrates full pipeline
 - Detects changes and commits results
 - Creates issues on failure

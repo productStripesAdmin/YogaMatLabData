@@ -1,0 +1,83 @@
+name: Notify YML_app on data branch updates
+
+on:
+  push:
+    branches:
+      - data
+    paths:
+      - 'config/**'
+      - 'data/**'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      YML_APP_DISPATCH_TOKEN: ${{ secrets.YML_APP_DISPATCH_TOKEN }}
+
+    steps:
+      - name: Preflight (ensure token configured)
+        run: |
+          if [ -z "${YML_APP_DISPATCH_TOKEN}" ] && [ -z "${PAT_TOKEN}" ]; then
+            echo "Missing required token." >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Set YML_APP_DISPATCH_TOKEN (recommended) or PAT_TOKEN with access to the YML_app repo." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+
+      - name: Dispatch to YML_app
+        uses: actions/github-script@v7
+        env:
+          TARGET_OWNER: ${{ vars.YML_APP_OWNER || github.repository_owner }}
+          TARGET_REPO: ${{ vars.YML_APP_REPO || 'YML_app' }}
+        with:
+          github-token: ${{ env.YML_APP_DISPATCH_TOKEN != '' && env.YML_APP_DISPATCH_TOKEN || env.PAT_TOKEN }}
+          script: |
+            const owner = process.env.TARGET_OWNER;
+            const repo = process.env.TARGET_REPO;
+
+            const commits = context.payload.commits ?? [];
+            const changedFiles = new Set();
+            for (const commit of commits) {
+              for (const key of ['added', 'modified', 'removed']) {
+                for (const file of commit?.[key] ?? []) changedFiles.add(file);
+              }
+            }
+
+            const configChanged = Array.from(changedFiles).some((f) => f.startsWith('config/'));
+            const dataChanged = Array.from(changedFiles).some((f) => f.startsWith('data/'));
+
+            let eventType = 'yml-repo-updated';
+            if (configChanged && !dataChanged) eventType = 'yml-config-updated';
+            if (dataChanged && !configChanged) eventType = 'yml-data-updated';
+            if (dataChanged && configChanged) eventType = 'yml-repo-updated';
+
+            const payload = {
+              source_repo: process.env.GITHUB_REPOSITORY,
+              source_ref: process.env.GITHUB_REF,
+              source_sha: process.env.GITHUB_SHA,
+              data_branch: 'data',
+              configChanged,
+              dataChanged,
+              changedFiles: Array.from(changedFiles).slice(0, 200),
+            };
+
+            await github.request('POST /repos/{owner}/{repo}/dispatches', {
+              owner,
+              repo,
+              event_type: eventType,
+              client_payload: payload,
+            });
+
+            core.summary.addHeading('✅ Dispatched to YML_app');
+            core.summary.addList([
+              `Target: ${owner}/${repo}`,
+              `Event: ${eventType}`,
+              `Source: ${payload.source_repo}@${payload.source_sha}`,
+              `configChanged: ${configChanged}`,
+              `dataChanged: ${dataChanged}`,
+            ]);
+            await core.summary.write();

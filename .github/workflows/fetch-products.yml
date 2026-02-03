@@ -1,8 +1,7 @@
 name: Fetch from products.json endpoints
 
 on:
-  # Run weekly on Wednesday at 8 AM US Pacific (4 PM UTC in winter, 3 PM UTC in summer)
-  # Using 3 PM UTC to account for daylight saving time
+  # Run weekly on Wednesday at 15:00 UTC (7 AM PST / 8 AM PDT)
   schedule:
     - cron: '0 15 * * 3'
 
@@ -13,15 +12,21 @@ permissions:
   contents: write  # Required for committing changes
   issues: write    # Required for creating issues on failure
 
+concurrency:
+  group: data-branch-writer
+  cancel-in-progress: false
+
 jobs:
   extract-and-process:
     runs-on: ubuntu-latest
+    env:
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN || github.token }}
+          token: ${{ env.PAT_TOKEN != '' && env.PAT_TOKEN || github.token }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
