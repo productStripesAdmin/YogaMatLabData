@@ -1832,8 +1832,8 @@
         "priority": 30
       },
       {
-        "name": "Standard Cork",
-        "slug": "standard-cork",
+        "name": "Original Cork",
+        "slug": "original-cork",
         "tagline": "Standard-size mats (design varies).",
         "description": "Cork + natural rubber mat with non-slip grip and eco-minded materials.",
         "matchTitleAny": [
@@ -1954,8 +1954,8 @@
         "priority": 20
       },
       {
-        "name": "Standard Cork",
-        "slug": "standard-cork",
+        "name": "Original Cork",
+        "slug": "original-cork",
         "tagline": "Cork mat line.",
         "description": "Cork blend mat with non-slip grip, alignment marks, and antimicrobial properties.",
         "matchTitleAny": [
@@ -2700,6 +2700,23 @@
           "Collaboration"
         ],
         "priority": 0
+      }
+    ]
+  },
+  {
+    "slug": "pranaverde",
+    "series": [
+      {
+        "name": "Verde",
+        "slug": "verde",
+        "tagline": "Prana Verde Verde series",
+        "description": "",
+        "matchTitleAny": [
+          "Verde"
+        ],
+        "matchAny": [
+          "Verde"
+        ]
       }
     ]
   }

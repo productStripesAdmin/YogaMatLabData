@@ -81,19 +81,21 @@ These scripts analyze data quality and consistency across sources.
 **Details:** Shows Shopify, Lululemon, and BigCommerce brands with their configuration. Use to verify brand setup before running pipeline.
 
 ### `check-series-alignment.ts`
-**Purpose:** Validate series alignment and naming consistency between config and review sources
+**Purpose:** Validate brand alignment, series alignment, and naming consistency between config and review sources
 
 **Inputs:**
-- `config/brand-series.json` (config)
+- `config/brands.json` (brand config)
+- `config/brand-series.json` (series config)
 - `data/reviews/reddit-sheet.json` (community data)
 - `data/reviews/outdoorgearlab.json` (professional reviews)
-**Outputs:** Console report with two checks
+**Outputs:** Console report with three checks
 **Usage:** `npm run check-series-alignment` or `npx tsx scripts/check-series-alignment.ts`
 **Details:**
-- **Check 1: Series Alignment** - Verifies all series in review sources have config entries (catches missing series)
-- **Check 2: Name Variations** - Identifies series names that differ between config and sources (minor variations OK)
-- Supports brand aliases and partial name matching
-- Exits with error code 1 if critical alignment issues found
+- **Check 1: Brand Alignment** - Verifies all brands in review sources exist in config/brands.json (catches missing brands)
+- **Check 2: Series Alignment** - Verifies all series in review sources have config entries for known brands (catches missing series)
+- **Check 3: Name Variations** - Identifies series names that differ between config and sources (minor variations are acceptable)
+- Supports brand aliases (e.g., "Alo" → "Alo Yoga", "Jade" → "JadeYoga", "Yoloha" → "Yolohayoga") and partial name matching
+- Exits with error code 1 if critical alignment issues found (brand or series mismatches)
 
 ---
 

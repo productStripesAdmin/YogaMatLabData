@@ -4214,7 +4214,8 @@
     }
   },
   {
-    "seriesKey": "yogadesignlab:cork-3.5mm",
+    "seriesKey": "yogadesignlab:original-cork",
+    "otherSeriesKey": "yogadesignlab:cork-3.5mm",
     "scores": {
       "gripDry": 8,
       "gripWet": 9,
@@ -4265,7 +4266,8 @@
     }
   },
   {
-    "seriesKey": "yogadesignlab:infinity-5mm",
+    "seriesKey": "yogadesignlab:infinity",
+    "otherSeriesKey": "yogadesignlab:infinity-5mm",
     "scores": {
       "gripDry": 8,
       "gripWet": 8,

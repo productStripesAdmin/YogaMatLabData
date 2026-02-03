@@ -18,26 +18,65 @@ const path = require('path');
 // Load all data files
 const baseDir = '/Users/kevin/_projects/PROJECTS/YogaMatLab/YogaMatLabData';
 const brandSeries = JSON.parse(fs.readFileSync(path.join(baseDir, 'config/brand-series.json'), 'utf-8'));
+const brands = JSON.parse(fs.readFileSync(path.join(baseDir, 'config/brands.json'), 'utf-8'));
 const outdoorGearLab = JSON.parse(fs.readFileSync(path.join(baseDir, 'data/reviews/outdoorgearlab.json'), 'utf-8'));
 const redditSheet = JSON.parse(fs.readFileSync(path.join(baseDir, 'data/reviews/reddit-sheet.json'), 'utf-8'));
 const seriesScores = JSON.parse(fs.readFileSync(path.join(baseDir, 'data/scores/series-scores.json'), 'utf-8'));
+const researchSources = JSON.parse(fs.readFileSync(path.join(baseDir, 'data/reviews/research-sources.json'), 'utf-8'));
 
-// Extract all seriesKeys from brand-series.json
+// Create set of published brand slugs
+const publishedBrands = new Set(
+  brands.brands
+    .filter(b => b.isPublished === true)
+    .map(b => b.slug)
+);
+
+// Extract all seriesKeys from brand-series.json (only for published brands)
 const configSeriesKeys = new Set();
 brandSeries.forEach(brand => {
+  if (!publishedBrands.has(brand.slug)) return;
   brand.series.forEach(series => {
     const seriesKey = `${brand.slug}:${series.slug}`;
     configSeriesKeys.add(seriesKey);
   });
 });
 
-// Extract all seriesKeys from review data
-const oglKeys = new Set(outdoorGearLab.filter(x => x.seriesKey).map(x => x.seriesKey));
-const redditKeys = new Set(redditSheet.filter(x => x.seriesKey).map(x => x.seriesKey));
-const scoresKeys = new Set(seriesScores.map(x => x.seriesKey));
+// Extract brand slugs from review data to filter by published status
+const getReviewBrandSlugs = (entries) => {
+  const slugs = new Set();
+  entries.forEach(entry => {
+    if (entry.seriesKey) {
+      const [brandSlug] = entry.seriesKey.split(':');
+      slugs.add(brandSlug);
+    }
+  });
+  return slugs;
+};
+
+// Extract all seriesKeys from review data (only for published brands)
+const oglKeys = new Set(
+  outdoorGearLab
+    .filter(x => x.seriesKey && publishedBrands.has(x.seriesKey.split(':')[0]))
+    .map(x => x.seriesKey)
+);
+const redditKeys = new Set(
+  redditSheet
+    .filter(x => x.seriesKey && publishedBrands.has(x.seriesKey.split(':')[0]))
+    .map(x => x.seriesKey)
+);
+const scoresKeys = new Set(
+  seriesScores
+    .filter(x => publishedBrands.has(x.seriesKey.split(':')[0]))
+    .map(x => x.seriesKey)
+);
+const researchKeys = new Set(
+  researchSources
+    .filter(x => publishedBrands.has(x.seriesKey.split(':')[0]))
+    .map(x => x.seriesKey)
+);
 
 // Combine all review sources
-const allReviewKeys = new Set([...oglKeys, ...redditKeys, ...scoresKeys]);
+const allReviewKeys = new Set([...oglKeys, ...redditKeys, ...scoresKeys, ...researchKeys]);
 
 // Find gaps
 console.log('===============================================================');
@@ -50,6 +89,7 @@ console.log('  Config (brand-series.json):    ' + configSeriesKeys.size + ' seri
 console.log('  OutdoorGearLab reviews:        ' + oglKeys.size + ' series');
 console.log('  Reddit community data:         ' + redditKeys.size + ' series');
 console.log('  Scored series:                 ' + scoresKeys.size + ' series');
+console.log('  Research sources documented:   ' + researchKeys.size + ' series');
 console.log('  Total unique in reviews:       ' + allReviewKeys.size + ' series\n');
 
 // Gap 1: In reviews but NOT in config
@@ -66,21 +106,33 @@ if (inReviewsNotConfig.length === 0) {
     if (oglKeys.has(key)) sources.push('OGL');
     if (redditKeys.has(key)) sources.push('Reddit');
     if (scoresKeys.has(key)) sources.push('Scored');
-    
+    if (researchKeys.has(key)) sources.push('Research');
+
     // Get brand and series from first occurrence
     let brandName = '';
     let seriesName = '';
     const oglEntry = outdoorGearLab.find(x => x.seriesKey === key);
     const redditEntry = redditSheet.find(x => x.seriesKey === key);
-    
+    const researchEntry = researchSources.find(x => x.seriesKey === key);
+
     if (oglEntry) {
       brandName = oglEntry.Brand;
       seriesName = oglEntry.Series;
     } else if (redditEntry) {
       brandName = redditEntry.Company;
       seriesName = redditEntry.Name;
+    } else if (researchEntry) {
+      const parts = researchEntry.seriesKey.split(':');
+      const brand = brandSeries.find(b => b.slug === parts[0]);
+      if (brand) {
+        const series = brand.series.find(s => s.slug === parts[1]);
+        if (series) {
+          brandName = brand.slug;
+          seriesName = series.name;
+        }
+      }
     }
-    
+
     console.log('  - ' + key);
     console.log('    Brand: ' + brandName + ', Series: ' + seriesName);
     console.log('    Sources: ' + sources.join(', '));
@@ -163,10 +215,12 @@ const report = {
     if (oglKeys.has(key)) sources.push('OutdoorGearLab');
     if (redditKeys.has(key)) sources.push('Reddit');
     if (scoresKeys.has(key)) sources.push('Scored');
-    
+    if (researchKeys.has(key)) sources.push('Research');
+
     const oglEntry = outdoorGearLab.find(x => x.seriesKey === key);
     const redditEntry = redditSheet.find(x => x.seriesKey === key);
-    
+    const researchEntry = researchSources.find(x => x.seriesKey === key);
+
     return {
       seriesKey: key,
       brand: (oglEntry ? oglEntry.Brand : (redditEntry ? redditEntry.Company : '')),

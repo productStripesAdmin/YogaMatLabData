@@ -152,6 +152,7 @@ async function main(): Promise<void> {
   const ogl = await readJsonFile<OutdoorGearLabRow[]>(outdoorgearlabPath);
 
   const byBrandSlug = new Map(seriesFile.map((b) => [b.slug, b]));
+  const configBrandSlugs = new Set(brandsFile.brands.map((b) => b.slug));
 
   const byNormalizedBrandName = new Map<string, string>();
   const byNormalizedBrandSlug = new Map<string, string>();
@@ -187,13 +188,36 @@ async function main(): Promise<void> {
     source: 'reddit-sheet' | 'outdoorgearlab';
   }> = [];
 
+  const brandMismatches: Array<{
+    source: 'reddit-sheet' | 'outdoorgearlab';
+    brandName: string;
+    resolvedSlug: string | null;
+    configExists: boolean;
+  }> = [];
+
   const processRow = (
     source: 'reddit-sheet' | 'outdoorgearlab',
     brandName: string,
     seriesName: string
   ) => {
     const slug = resolveBrandSlug(brandName, byNormalizedBrandName, byNormalizedBrandSlug);
-    if (!slug) return;
+
+    // Check brand alignment
+    const brandExists = slug ? configBrandSlugs.has(slug) : false;
+    if (!slug || !brandExists) {
+      const existing = brandMismatches.find(
+        (m) => m.source === source && m.brandName === brandName
+      );
+      if (!existing) {
+        brandMismatches.push({
+          source,
+          brandName,
+          resolvedSlug: slug,
+          configExists: brandExists,
+        });
+      }
+      return;
+    }
 
     const brandSeries = byBrandSlug.get(slug);
     if (!brandSeries) return;
@@ -249,17 +273,41 @@ async function main(): Promise<void> {
     missing.map((m) => `${m.source}::${m.brandSlug}::${m.seriesName}`)
   ).map((key) => missing.find((m) => `${m.source}::${m.brandSlug}::${m.seriesName}` === key)!);
 
+  const brandMismatchesUnique = uniq(
+    brandMismatches.map((m) => `${m.source}::${m.brandName}`)
+  ).map((key) => brandMismatches.find((m) => `${m.source}::${m.brandName}` === key)!);
+
   // Output section
   console.log('\n===============================================================');
   console.log('SERIES ALIGNMENT & NAME VALIDATION CHECK');
   console.log('===============================================================\n');
 
-  // Check 1: Series alignment (config completeness)
+  // Check 1: Brand alignment (brand config completeness)
+  if (brandMismatchesUnique.length === 0) {
+    console.log('✓ Check 1: Brand alignment verified');
+    console.log('  All brands in review sources have config entries.\n');
+  } else {
+    console.log('✗ Check 1: Brand alignment issues found:');
+    console.log(`  Found ${brandMismatchesUnique.length} brand(s) in reviews without config matches:\n`);
+    for (const item of brandMismatchesUnique) {
+      const status = item.resolvedSlug && item.configExists
+        ? 'exists in config'
+        : item.resolvedSlug
+        ? 'slug resolved but not in config'
+        : 'no slug resolution';
+      console.log(
+        `  - [${item.source}] "${item.brandName}" (${status})`
+      );
+    }
+    console.log('');
+  }
+
+  // Check 2: Series alignment (config completeness)
   if (missingUnique.length === 0) {
-    console.log('✓ Check 1: Series config aligns with reddit/outdoorgearlab sources');
+    console.log('✓ Check 2: Series config aligns with reddit/outdoorgearlab sources');
     console.log('  All series in review sources have matching config entries.\n');
   } else {
-    console.log('✗ Check 1: Series config mismatches found (for known brands):');
+    console.log('✗ Check 2: Series config mismatches found (for known brands):');
     console.log(`  Found ${missingUnique.length} series in reviews without config matches:\n`);
     for (const item of missingUnique) {
       console.log(
@@ -269,12 +317,12 @@ async function main(): Promise<void> {
     console.log('');
   }
 
-  // Check 2: Name variations (naming consistency)
+  // Check 3: Name variations (naming consistency)
   if (nameVariations.length === 0) {
-    console.log('✓ Check 2: Series names are consistent');
+    console.log('✓ Check 3: Series names are consistent');
     console.log('  All series names match exactly across config and review sources.\n');
   } else {
-    console.log(`✓ Check 2: Found ${nameVariations.length} name variation(s) (acceptable):`);
+    console.log(`✓ Check 3: Found ${nameVariations.length} name variation(s) (acceptable):`);
     console.log('  These series match but have minor name differences:\n');
     for (const variation of nameVariations.slice(0, 10)) {
       console.log(`  - ${variation.seriesKey}`);
@@ -289,7 +337,7 @@ async function main(): Promise<void> {
 
   console.log('===============================================================\n');
 
-  if (missingUnique.length > 0) {
+  if (brandMismatchesUnique.length > 0 || missingUnique.length > 0) {
     process.exitCode = 1;
   }
 }
