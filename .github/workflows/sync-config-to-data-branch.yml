@@ -1,0 +1,60 @@
+name: Sync config/ to data branch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'config/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN || github.token }}
+
+      - name: Sync config/ into data branch
+        run: |
+          set -euo pipefail
+
+          DATA_BRANCH="data"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Prepare a separate worktree for the data branch so main stays clean.
+          git fetch origin "${DATA_BRANCH}" || true
+          rm -rf ../data-branch
+
+          if git show-ref --verify --quiet "refs/remotes/origin/${DATA_BRANCH}"; then
+            git worktree add ../data-branch "origin/${DATA_BRANCH}"
+          else
+            git worktree add ../data-branch --detach
+            cd ../data-branch
+            git checkout --orphan "${DATA_BRANCH}"
+            git rm -rf . || true
+            cd -
+          fi
+
+          rsync -a --delete --exclude '.git' config/ ../data-branch/config/
+
+          cd ../data-branch
+          git add -A config/
+
+          if git diff --staged --quiet; then
+            echo "## ✅ config/ already up to date on ${DATA_BRANCH}" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          git commit -m "chore: sync config into data branch (${GITHUB_SHA::7})"
+          git push origin HEAD:"${DATA_BRANCH}"
+
+          echo "## ✅ Synced config/ to ${DATA_BRANCH} branch" >> "$GITHUB_STEP_SUMMARY"

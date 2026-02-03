@@ -32,6 +32,38 @@ Only needed if you want cross-repo commits (e.g., pushing to YogaMatLabApp).
    - Value: Your personal access token
    - Click **Add secret**
 
+### 3. (Optional, recommended) Set up BRANDS_SYNC_TOKEN
+
+Only needed if you want `config/brands.json` changes to automatically sync into your app repo via `.github/workflows/update-brands.yml`.
+
+This token must have access to the *target repo* (by default `productStripesAdmin/YogaMatLabApp`).
+
+1. Create a Personal Access Token:
+   - Recommended: **Tokens (classic)** with scope `repo` (private repos)
+   - Alternative: fine-grained token that has access to the target repo and can trigger workflows / dispatch events
+
+2. Add to this repository:
+   - Go to repository Settings → Secrets and variables → Actions
+   - Click **New repository secret**
+   - Name: `BRANDS_SYNC_TOKEN`
+   - Value: Your token
+   - Click **Add secret**
+
+### 4. (Optional) Configure target repo variables
+
+If the app repo is not `productStripesAdmin/YogaMatLabApp`, set these repository variables (Settings → Secrets and variables → Actions → **Variables**):
+
+- `BRANDS_SYNC_TARGET_OWNER` (defaults to this repo owner)
+- `BRANDS_SYNC_TARGET_REPO` (defaults to `YogaMatLabApp`)
+- `BRANDS_SYNC_TARGET_BRANCH` (defaults to `main`)
+- `BRANDS_SYNC_TARGET_PATH` (defaults to `config/brands.json`)
+
+## Config Sync to data branch
+
+If YogaMatLabApp consumes this repo via a submodule tracking the `data` branch (common for production), the `config/` directory also needs to be kept up to date there.
+
+This repo includes `.github/workflows/sync-config-to-data-branch.yml`, which syncs `config/**` from `main` → `data` on every config change.
+
 ## Testing the Workflow
 
 ### Manual Trigger
