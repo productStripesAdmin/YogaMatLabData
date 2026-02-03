@@ -13,15 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+    env:
+      BRANDS_SYNC_TOKEN: ${{ secrets.BRANDS_SYNC_TOKEN }}
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
     steps:
       - name: Preflight (ensure token configured)
-        if: ${{ !secrets.BRANDS_SYNC_TOKEN && !secrets.PAT_TOKEN }}
         run: |
-          echo "Missing required token." >> "$GITHUB_STEP_SUMMARY"
-          echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "Set BRANDS_SYNC_TOKEN (recommended) or PAT_TOKEN with access to the target repo." >> "$GITHUB_STEP_SUMMARY"
-          exit 1
+          if [ -z "${BRANDS_SYNC_TOKEN}" ] && [ -z "${PAT_TOKEN}" ]; then
+            echo "Missing required token." >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Set BRANDS_SYNC_TOKEN (recommended) or PAT_TOKEN with access to the target repo." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
 
       - name: Checkout YogaMatLabData
         uses: actions/checkout@v4
@@ -33,7 +37,7 @@ jobs:
         with:
           repository: ${{ format('{0}/{1}', vars.BRANDS_SYNC_TARGET_OWNER || github.repository_owner, vars.BRANDS_SYNC_TARGET_REPO || 'YogaMatLabApp') }}
           ref: ${{ vars.BRANDS_SYNC_TARGET_BRANCH || 'main' }}
-          token: ${{ secrets.BRANDS_SYNC_TOKEN || secrets.PAT_TOKEN }}
+          token: ${{ env.BRANDS_SYNC_TOKEN != '' && env.BRANDS_SYNC_TOKEN || env.PAT_TOKEN }}
           path: target
 
       - name: Copy brands.json into target repo
