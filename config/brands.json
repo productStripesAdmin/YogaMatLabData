@@ -24,6 +24,31 @@
       "platform": "shopify"
     },
     {
+      "slug": "ajna",
+      "name": "Ajna Wellbeing",
+      "tagline": "Sustainable & Non-Toxic Wellness",
+      "description": "Ajna Wellbeing specializes in holistic health products, including organic and eco-friendly yoga mats made from natural fibers like jute and recycled suede. The brand emphasizes sustainability, non-toxicity, and support for mind-body balance, with products designed to be durable, odor-resistant, and hygienic.",
+      "founded": null,
+      "headquarters": "USA (online-focused)",
+      "specialty": [
+        "Organic Fibers",
+        "Eco Suede & Jute Mats",
+        "Non-Toxic",
+        "Holistic Wellness"
+      ],
+      "sustainability": "Prioritizes organic, recycled, and non-toxic materials; eco-friendly and sustainable production.",
+      "bestKnownFor": "Natural jute and eco suede yoga mats with antibacterial properties and odor resistance",
+      "targetAudience": "Eco-conscious practitioners seeking non-toxic, sustainable alternatives for yoga and wellness",
+      "website": "https://www.ajnawellbeing.com/",
+      "isEcoFocused": true,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "",
+      "platform": "",
+      "source": "gap analysis",
+      "notes": "Sorry, this store is currently unavailable."
+    },
+    {
       "slug": "aloyoga",
       "name": "Alo Yoga",
       "tagline": "Mindful Movement",
@@ -68,6 +93,30 @@
       "scrapingEnabled": true,
       "productsJsonUrl": "https://ananday.com/collections/yoga-mats/products.json",
       "platform": "shopify"
+    },
+    {
+      "slug": "b-yoga",
+      "name": "B Yoga / Halfmoon",
+      "tagline": "High-Performance Grip",
+      "description": "B Yoga (known for the iconic B MAT) creates durable, grippy yoga mats designed for intense practices like hot yoga and Pilates. The brand emphasizes superior performance, comfort, and eco-conscious materials such as sustainably sourced rubber with Oeko-Tex certification. Their mats are favored for stability, longevity, and support in studio or home settings.",
+      "founded": 2014,
+      "headquarters": "Ontario, Canada",
+      "specialty": [
+        "Superior Grip",
+        "Durable Construction",
+        "Eco-Conscious Rubber",
+        "Studio & Home Use"
+      ],
+      "sustainability": "Uses sustainably sourced rubber and Oeko-Tex certified materials; focuses on long-lasting products to reduce waste.",
+      "bestKnownFor": "The B MAT series with exceptional grip and performance, even in sweaty conditions",
+      "targetAudience": "Serious yogis, hot yoga practitioners, and those seeking reliable, high-performance mats",
+      "website": "https://bhalfmoon.com/",
+      "isEcoFocused": true,
+      "isPublished": true,
+      "scrapingEnabled": true,
+      "productsJsonUrl": "https://bhalfmoon.com/collections/all-products/products.json",
+      "platform": "shopify",
+      "source": "gap analysis"
     },
     {
       "slug": "bala",
@@ -200,12 +249,37 @@
       "targetAudience": "Yoga teachers, studio owners, and practitioners who value proven reliability over trends",
       "website": "https://www.huggermugger.com/",
       "isEcoFocused": true,
-      "isPublished": false,
-      "scrapingEnabled": false,
+      "isPublished": true,
+      "scrapingEnabled": true,
       "platform": "bigcommerce",
       "platformConfig": {
         "bigcommerceCollectionUrl": "https://www.huggermugger.com/yoga-mats/"
       }
+    },
+    {
+      "slug": "iuga",
+      "name": "IUGA",
+      "tagline": "Affordable High-Performance Activewear & Mats",
+      "description": "IUGA offers budget-friendly yet feature-packed yoga mats with excellent non-slip surfaces, eco-friendly materials like TPE and PU, and options for alignment lines and extra thickness. The brand combines comfort, durability, and value, making professional-grade features accessible for everyday practitioners, including hot yoga and Pilates.",
+      "founded": null,
+      "headquarters": "Online-First Brand (global)",
+      "specialty": [
+        "Non-Slip Textured Surface",
+        "Eco-Friendly TPE/PU",
+        "Alignment Lines",
+        "Value Performance"
+      ],
+      "sustainability": "Uses eco-friendly, non-toxic TPE and PU materials that are free from harmful chemicals; recyclable options emphasized.",
+      "bestKnownFor": "Grippy, durable mats with superior traction at accessible prices, popular for hot yoga and home workouts",
+      "targetAudience": "Budget-conscious yogis, beginners to intermediate practitioners, home workout enthusiasts",
+      "website": "https://www.theiuga.com/",
+      "isEcoFocused": true,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "https://www.theiuga.com/collections/yoga-mats/products.json",
+      "platform": "",
+      "source": "gap analysis",
+      "notes": "Excluding - sells low budget options and isn't focused on Yoga mats."
     },
     {
       "slug": "jadeyoga",
@@ -229,6 +303,31 @@
       "scrapingEnabled": true,
       "productsJsonUrl": "https://jadeyoga.com/collections/yoga-mats/products.json",
       "platform": "shopify"
+    },
+    {
+      "slug": "jollie",
+      "name": "Jollie",
+      "tagline": "Mindful Movement with Purpose",
+      "description": "Jollie creates cushioned, non-slip yoga mats with a strong social mission: for every mat purchased, they donate one to a child with pediatric cancer. The brand focuses on supportive, comfortable designs that make movement accessible and fun, often featuring playful patterns and collaborations (e.g., with Tuckernuck). Their mats prioritize extra cushioning and grip for various practices.",
+      "founded": null,
+      "headquarters": "USA (women-owned startup)",
+      "specialty": [
+        "Extra Cushioning",
+        "Non-Slip Performance",
+        "Social Impact",
+        "Playful Designs"
+      ],
+      "sustainability": "Focuses on durable, high-quality materials; mission-driven rather than heavily eco-focused.",
+      "bestKnownFor": "Buy-one-give-one model supporting pediatric cancer patients and comfortable, supportive mats",
+      "targetAudience": "Compassionate practitioners, families, beginners, and those who value purpose-driven brands",
+      "website": "https://www.bejollie.com/",
+      "isEcoFocused": false,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "https://www.bejollie.com/collections/mats/products.json",
+      "platform": "",
+      "source": "gap analysis",
+      "notes": "Sorry, this store is currently unavailable."
     },
     {
       "slug": "keep",
@@ -294,7 +393,7 @@
       "website": "https://www.lululemon.com",
       "isEcoFocused": true,
       "isPublished": false,
-      "scrapingEnabled": false,
+      "scrapingEnabled": true,
       "platform": "lululemon",
       "platformConfig": {
         "lululemonCategoryId": "8s6"
@@ -326,6 +425,30 @@
       "platform": "shopify"
     },
     {
+      "slug": "moonholi",
+      "name": "MoonHoli",
+      "tagline": "Premium yoga mats made with love, and a touch of magic",
+      "description": "MoonHoli creates premium yoga and fitness mats, clothing, and accessories designed in resonance with the Universe. Their products feature sacred geometry, cosmic vibes, spiritual symbolism, and beautiful artistic prints. Mats are made from eco-friendly materials like natural rubber, microfiber, or eco-polyurethane, with non-slip technology and non-toxic, water-based paints. The brand blends high-quality craftsmanship, environmental care, and a touch of magic to enhance yoga, pilates, meditation, and fitness practices for body, mind, and soul.",
+      "founded": 2018,
+      "headquarters": "Warsaw, Poland",
+      "specialty": [
+        "Eco-friendly natural rubber yoga mats",
+        "Spiritually inspired designs with sacred geometry and cosmic themes",
+        "Non-slip professional studio mats",
+        "Microfiber and eco-polyurethane options",
+        "Travel and mini yoga mats"
+      ],
+      "sustainability": "Strong focus on eco-friendliness: uses natural rubber (no PVC or toxic materials), water-based paints derived from fruits and vegetables, ethical production processes that prioritize environmental safety and non-toxicity for both users and the planet.",
+      "bestKnownFor": "Beautiful, spiritually designed premium yoga mats considered among the most aesthetically pleasing and high-quality on the market, popular among yogis seeking both performance and cosmic/magical energy in their practice.",
+      "targetAudience": "Yoga practitioners (beginners to advanced), pilates and fitness enthusiasts, spiritually-minded individuals, eco-conscious consumers, and those who value aesthetic beauty combined with functionality in wellness products.",
+      "website": "https://moonholi.com",
+      "isEcoFocused": true,
+      "isPublished": true,
+      "scrapingEnabled": true,
+      "productsJsonUrl": "https://moonholi.com/collections/yoga-mats/products.json",
+      "platform": "shopify"
+    },
+    {
       "slug": "okoliving",
       "name": "Öko Living",
       "tagline": "Pure Eco Performance",
@@ -347,6 +470,80 @@
       "scrapingEnabled": true,
       "productsJsonUrl": "https://okoliving.com/collections/mats/products.json",
       "platform": "shopify"
+    },
+    {
+      "slug": "prana",
+      "name": "prAna",
+      "tagline": "Sustainable Adventure & Yoga Gear",
+      "description": "prAna is a leading sustainable active lifestyle brand offering yoga mats alongside apparel for yoga, climbing, and outdoor activities. Their mats emphasize eco-friendly materials like recycled content and natural elasticity, with excellent grip, cushioning, and durability for versatile practices. The brand integrates sustainability across their entire line.",
+      "founded": 1992,
+      "headquarters": "Carlsbad, CA, USA",
+      "specialty": [
+        "Sustainable Materials",
+        "Versatile Performance",
+        "Anti-Slip Grip",
+        "Outdoor-Ready"
+      ],
+      "sustainability": "Uses recycled materials, organic content, and eco-conscious manufacturing; committed to reducing environmental impact.",
+      "bestKnownFor": "The Verde Yoga Mat series with thick cushioning, rebound, and sustainable design",
+      "targetAudience": "Eco-aware yogis, outdoor enthusiasts, and practitioners seeking durable, ethical gear",
+      "website": "https://www.prana.com/",
+      "isEcoFocused": true,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "",
+      "platform": "",
+      "source": "gap analysis"
+    },
+    {
+      "slug": "pranaverde",
+      "name": "prAna Verde",
+      "tagline": "Sustainable Cushioned Performance",
+      "description": "The prAna Verde is a standout yoga mat line known for its thick, firm cushioning (around 4mm), excellent rebound, anti-slip grip, and eco-friendly construction using sustainable and recycled materials. It balances comfort for joints with performance for various yoga styles, earning high marks in independent reviews for durability and sustainability.",
+      "founded": null,
+      "headquarters": "Carlsbad, CA, USA (prAna brand)",
+      "specialty": [
+        "Thick Cushioning",
+        "Rebound & Grip",
+        "Sustainable Build",
+        "Joint Support"
+      ],
+      "sustainability": "Eco-friendly materials with recycled components; part of prAna's broader sustainability commitment.",
+      "bestKnownFor": "Dense, springy feel with strong grip — praised in reviews as a top sustainable mid-range option",
+      "targetAudience": "Practitioners wanting extra cushion without sacrificing grip or eco-values",
+      "website": "https://www.prana.com/",
+      "isEcoFocused": true,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "",
+      "platform": "",
+      "source": "gap analysis - outdoorgearlab",
+      "notes": "Excluding - sells two yoga mats and they don't look great. Duplicate of slug prana above."
+    },
+    {
+      "slug": "primasole",
+      "name": "Primasole",
+      "tagline": "Portable & Practical Yoga Mats",
+      "description": "Primasole specializes in functional, affordable yoga mats including foldable travel options, thick cushioning models (up to 10mm+), and non-slip designs for yoga, Pilates, and floor exercises. Known for lightweight portability, carry straps, and color variety, they offer practical solutions for home, gym, or on-the-go use.",
+      "founded": null,
+      "headquarters": "Japan (Decathlon-affiliated brand)",
+      "specialty": [
+        "Foldable Travel Mats",
+        "Extra Thick Options",
+        "Non-Slip Surface",
+        "Lightweight & Portable"
+      ],
+      "sustainability": "Focuses on durable, functional materials; limited emphasis on eco-certifications compared to dedicated sustainable brands.",
+      "bestKnownFor": "Foldable yoga mats ideal for travel and thick, cushioned options for joint support",
+      "targetAudience": "Travelers, beginners, home users seeking affordable and portable mats",
+      "website": "",
+      "isEcoFocused": false,
+      "isPublished": false,
+      "scrapingEnabled": false,
+      "productsJsonUrl": "",
+      "platform": "",
+      "source": "gap analysis",
+      "notes": "Excluding - sells low budget options."
     },
     {
       "slug": "scoria",
@@ -437,6 +634,30 @@
       "isPublished": true,
       "scrapingEnabled": true,
       "productsJsonUrl": "https://shopstakt.com/collections/stakt-mats/products.json",
+      "platform": "shopify"
+    },
+    {
+      "slug": "sumoyoga",
+      "name": "Sumo Yoga",
+      "tagline": "Wabi-sabi (侘寂) - find beauty in imperfection, impermanence, and simplicity",
+      "description": "Sumo Yoga is a mindful movement brand and practice that fuses the grounding strength and mobility of traditional sumo wrestling (including shiko squats for hip opening and emotional release) with the fluid flow of yoga. Rooted in Japanese heritage and the wabi-sabi philosophy, it promotes self-acceptance, body positivity, and freedom from judgment, celebrating 'perfect imperfections' and every unique body.",
+      "founded": 2025,
+      "headquarters": "Los Angeles, California, USA",
+      "specialty": [
+        "Tatami Yoga Mats",
+        "Sustainable Handmade Yoga Products",
+        "Sumo-Inspired Hip-Opening and Emotional Release Practices",
+        "Shiko squat (for core strength, hip flexibility, and emotional release)",
+        "Tatami yoga mats and handmade accessories"
+      ],
+      "sustainability": "Committed to conscious commerce through the Sumo Cares Project; products are sustainably sourced and meticulously handmade in Japan to support local communities, preserve traditions, and address Japan's population challenges while emphasizing natural, durable materials.",
+      "bestKnownFor": "Unique fusion of sumo wrestling strength with yoga flow for physical power, emotional liberation, and self-love; high-quality tatami yoga mats; promoting authenticity and body acceptance through the wabi-sabi lens.",
+      "targetAudience": "Individuals seeking a strength-based, mindful yoga practice focused on hip-opening for emotional release, self-acceptance, body positivity, and Japanese-inspired wellness—regardless of body type or experience level.",
+      "website": "https://sumo-yoga.com/",
+      "isEcoFocused": true,
+      "isPublished": true,
+      "scrapingEnabled": true,
+      "productsJsonUrl": "https://sumo-yoga.com/collections/all/products.json",
       "platform": "shopify"
     },
     {
@@ -571,7 +792,7 @@
       "platform": "shopify"
     },
     {
-      "slug": "yolohayoga",
+      "slug": "yoloha",
       "name": "Yoloha",
       "tagline": "Cork Yoga Mats",
       "description": "Yoloha specializes exclusively in cork yoga mats, bringing a unique material to the yoga mat market. Founded by two yoga-teaching brothers in California, Yoloha discovered that cork's natural antimicrobial properties and incredible grip (especially when wet) made it ideal for yoga. Cork is also sustainably harvested from the bark of cork oak trees without harming the tree, making it one of the most eco-friendly mat materials available. The natural aesthetic and feel of cork has created a loyal following among yogis looking for something different from traditional rubber or PVC mats.",
@@ -615,54 +836,6 @@
       "scrapingEnabled": false,
       "productsJsonUrl": "https://yuneyoga.com/collections/yune-yoga-mats/products.json|https://yuneyoga.com/collections/natural-rubber-yoga-mats/products.json|https://yuneyoga.com/collections/foundational-yoga-mats/products.json|https://yuneyoga.com/collections/airstream-yoga-mats/products.json|https://yuneyoga.com/collections/camo-yoga-mats/products.json|https://yuneyoga.com/collections/collaboration-yoga-mats/products.json|https://yuneyoga.com/collections/realtree-yoga-mats/products.json|https://yuneyoga.com/collections/zodiac-yoga-mats|https://yuneyoga.com/collections/high-performance-yoga-mat/products.json|https://yuneyoga.com/collections/foldable-yoga-mats/products.json|https://yuneyoga.com/collections/collaboration-yoga-mats/products.json",
       "platform": "shopify"
-    },
-    {
-      "slug": "sumoyoga",
-      "name": "Sumo Yoga",
-      "tagline": "Wabi-sabi (侘寂) - find beauty in imperfection, impermanence, and simplicity",
-      "description": "Sumo Yoga is a mindful movement brand and practice that fuses the grounding strength and mobility of traditional sumo wrestling (including shiko squats for hip opening and emotional release) with the fluid flow of yoga. Rooted in Japanese heritage and the wabi-sabi philosophy, it promotes self-acceptance, body positivity, and freedom from judgment, celebrating 'perfect imperfections' and every unique body.",
-      "founded": 2025,
-      "headquarters": "Los Angeles, California, USA",
-      "specialty": [
-        "Tatami Yoga Mats",
-        "Sustainable Handmade Yoga Products",
-        "Sumo-Inspired Hip-Opening and Emotional Release Practices",
-        "Shiko squat (for core strength, hip flexibility, and emotional release)",
-        "Tatami yoga mats and handmade accessories"
-      ],
-      "sustainability": "Committed to conscious commerce through the Sumo Cares Project; products are sustainably sourced and meticulously handmade in Japan to support local communities, preserve traditions, and address Japan's population challenges while emphasizing natural, durable materials.",
-      "bestKnownFor": "Unique fusion of sumo wrestling strength with yoga flow for physical power, emotional liberation, and self-love; high-quality tatami yoga mats; promoting authenticity and body acceptance through the wabi-sabi lens.",
-      "targetAudience": "Individuals seeking a strength-based, mindful yoga practice focused on hip-opening for emotional release, self-acceptance, body positivity, and Japanese-inspired wellness—regardless of body type or experience level.",
-      "website": "https://sumo-yoga.com/",
-      "isEcoFocused": true,
-      "isPublished": true,
-      "scrapingEnabled": true,
-      "productsJsonUrl": "https://sumo-yoga.com/collections/all/products.json",
-      "platform": "shopify"
-    },
-    {
-      "slug": "moonholi",
-      "name": "MoonHoli",
-      "tagline": "Premium yoga mats made with love, and a touch of magic",
-      "description": "MoonHoli creates premium yoga and fitness mats, clothing, and accessories designed in resonance with the Universe. Their products feature sacred geometry, cosmic vibes, spiritual symbolism, and beautiful artistic prints. Mats are made from eco-friendly materials like natural rubber, microfiber, or eco-polyurethane, with non-slip technology and non-toxic, water-based paints. The brand blends high-quality craftsmanship, environmental care, and a touch of magic to enhance yoga, pilates, meditation, and fitness practices for body, mind, and soul.",
-      "founded": 2018,
-      "headquarters": "Warsaw, Poland",
-      "specialty": [
-        "Eco-friendly natural rubber yoga mats",
-        "Spiritually inspired designs with sacred geometry and cosmic themes",
-        "Non-slip professional studio mats",
-        "Microfiber and eco-polyurethane options",
-        "Travel and mini yoga mats"
-      ],
-      "sustainability": "Strong focus on eco-friendliness: uses natural rubber (no PVC or toxic materials), water-based paints derived from fruits and vegetables, ethical production processes that prioritize environmental safety and non-toxicity for both users and the planet.",
-      "bestKnownFor": "Beautiful, spiritually designed premium yoga mats considered among the most aesthetically pleasing and high-quality on the market, popular among yogis seeking both performance and cosmic/magical energy in their practice.",
-      "targetAudience": "Yoga practitioners (beginners to advanced), pilates and fitness enthusiasts, spiritually-minded individuals, eco-conscious consumers, and those who value aesthetic beauty combined with functionality in wellness products.",
-      "website": "https://moonholi.com",
-      "isEcoFocused": true,
-      "isPublished": true,
-      "scrapingEnabled": true,
-      "productsJsonUrl": "https://moonholi.com/collections/yoga-mats/products.json",
-      "platform": "shopify"
-    }       
+    }
   ]
 }
