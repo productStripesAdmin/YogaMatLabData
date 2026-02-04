@@ -1,58 +1,105 @@
 {
-  "timestamp": "2026-02-02T07:06:59.921Z",
+  "timestamp": "2026-02-03T06:48:01.319Z",
   "summary": {
-    "configTotal": 196,
-    "reviewTotal": 133,
-    "inReviewsNotConfig": 3,
-    "inConfigNotReviews": 66
+    "configTotal": 164,
+    "reviewTotal": 127,
+    "inReviewsNotConfig": 0,
+    "inConfigNotReviews": 37
   },
-  "missingFromConfig": [
-    {
-      "seriesKey": "thesatoriconcept:original-cork",
-      "brand": "",
-      "series": "",
-      "sources": [
-        "Scored"
-      ]
-    },
-    {
-      "seriesKey": "yogadesignlab:cork-3.5mm",
-      "brand": "",
-      "series": "",
-      "sources": [
-        "Scored"
-      ]
-    },
-    {
-      "seriesKey": "yogadesignlab:infinity-5mm",
-      "brand": "",
-      "series": "",
-      "sources": [
-        "Scored"
-      ]
-    }
-  ],
+  "brandAlignment": {
+    "publishedBrandsInReviews": [
+      {
+        "name": "Manduka",
+        "slug": "manduka",
+        "isPublished": true
+      },
+      {
+        "name": "Lululemon",
+        "slug": "lululemon",
+        "isPublished": true
+      },
+      {
+        "name": "Liforme",
+        "slug": "liforme",
+        "isPublished": true
+      },
+      {
+        "name": "Yoloha",
+        "slug": "yoloha",
+        "isPublished": true
+      },
+      {
+        "name": "Hugger Mugger",
+        "slug": "huggermugger",
+        "isPublished": true
+      },
+      {
+        "name": "Gaiam",
+        "slug": "gaiam",
+        "isPublished": true
+      },
+      {
+        "name": "Alo Yoga",
+        "slug": "aloyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Jade",
+        "slug": "jadeyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Yoga Design Lab",
+        "slug": "yogadesignlab",
+        "isPublished": true
+      },
+      {
+        "name": "B Yoga",
+        "slug": "b-yoga",
+        "isPublished": true
+      },
+      {
+        "name": "Alo",
+        "slug": "aloyoga",
+        "isPublished": true
+      },
+      {
+        "name": "Yogamatters",
+        "slug": "yogamatters",
+        "isPublished": true
+      }
+    ],
+    "unpublishedBrandsInReviews": [
+      {
+        "name": "Iuga",
+        "slug": "iuga",
+        "isPublished": false
+      },
+      {
+        "name": "Prana Verde",
+        "slug": "pranaverde",
+        "isPublished": false
+      },
+      {
+        "name": "Primasole",
+        "slug": "primasole",
+        "isPublished": false
+      },
+      {
+        "name": "Jollie",
+        "slug": "jollie",
+        "isPublished": false
+      },
+      {
+        "name": "Ajna",
+        "slug": "ajna",
+        "isPublished": false
+      }
+    ],
+    "brandsMissingFromConfig": []
+  },
+  "missingFromConfig": [],
   "missingReviewData": [
-    {
-      "seriesKey": "bala:compact",
-      "name": "Compact",
-      "tagline": "Compact-size mat line (smaller footprint)."
-    },
-    {
-      "seriesKey": "bala:play",
-      "name": "Play",
-      "tagline": "Play Mat line (general-purpose yoga mat)."
-    },
-    {
-      "seriesKey": "bala:wavy",
-      "name": "Wavy",
-      "tagline": "Wavy Mat line (wavy-texture variant)."
-    },
-    {
-      "seriesKey": "bala:deco",
-      "name": "Deco",
-      "tagline": "Deco Mat line (decorative/patterned variants)."
-    },
     {
       "seriesKey": "huggermugger:tapas",
       "name": "Tapas",
@@ -67,31 +114,6 @@
       "seriesKey": "huggermugger:sattva-jute",
       "name": "Sattva Jute",
       "tagline": "Sattva Jute mat line (jute blend)."
-    },
-    {
-      "seriesKey": "keep:extra-large",
-      "name": "Extra Large",
-      "tagline": "Extra-large mat variants for home workouts."
-    },
-    {
-      "seriesKey": "keep:position-lines",
-      "name": "Position Lines",
-      "tagline": "Mats with alignment/position lines for beginners."
-    },
-    {
-      "seriesKey": "keep:pro-training",
-      "name": "Pro Training",
-      "tagline": "Pro training mats (TPE and high-elasticity variants)."
-    },
-    {
-      "seriesKey": "keep:jump-rope",
-      "name": "Jump Rope",
-      "tagline": "Jump rope floor mat products."
-    },
-    {
-      "seriesKey": "keep:classic-exercise",
-      "name": "Classic Exercise",
-      "tagline": "Classic exercise mats (general-purpose)."
     },
     {
       "seriesKey": "okoliving:jade-and-jute",
@@ -119,11 +141,6 @@
       "tagline": "Core “Herbal Yoga Mat” line (includes naturally dyed variants)."
     },
     {
-      "seriesKey": "sensu:large",
-      "name": "Large",
-      "tagline": "Large-format yoga/exercise mat products."
-    },
-    {
       "seriesKey": "stakt:pro",
       "name": "Pro",
       "tagline": "“Pro” version of the folding mat."
@@ -149,24 +166,9 @@
       "tagline": "XL size variants of their cork mat lineup."
     },
     {
-      "seriesKey": "thesatoriconcept:standard-cork",
-      "name": "Standard Cork",
-      "tagline": "Standard-size mats (design varies)."
-    },
-    {
       "seriesKey": "woloyoga:travel",
       "name": "Travel",
       "tagline": "Travel mat line (Away Travel Mat)."
-    },
-    {
-      "seriesKey": "yogadesignlab:infinity",
-      "name": "Infinity",
-      "tagline": "Infinity mat line."
-    },
-    {
-      "seriesKey": "yogadesignlab:standard-cork",
-      "name": "Standard Cork",
-      "tagline": "Cork mat line."
     },
     {
       "seriesKey": "yogakargha:kids",
@@ -282,86 +284,6 @@
       "seriesKey": "yogibare:performance-pilates",
       "name": "Performance Pilates",
       "tagline": "Performance/Pilates-focused mats (incl. arch mat products)."
-    },
-    {
-      "seriesKey": "yolohayoga:kids-aura",
-      "name": "Kids Aura",
-      "tagline": "Kids-sized mats in the Aura cork line."
-    },
-    {
-      "seriesKey": "yolohayoga:unity-pro",
-      "name": "Unity Pro",
-      "tagline": "Unity Pro cork mat line (includes XL variants)."
-    },
-    {
-      "seriesKey": "yolohayoga:nomad",
-      "name": "Nomad",
-      "tagline": "Nomad travel-focused cork mat line (incl. Air and XL variants)."
-    },
-    {
-      "seriesKey": "yolohayoga:aura",
-      "name": "Aura",
-      "tagline": "Aura cork mat line (design variants share the Aura base)."
-    },
-    {
-      "seriesKey": "yolohayoga:original",
-      "name": "Original",
-      "tagline": "Original cork mat line."
-    },
-    {
-      "seriesKey": "yuneyoga:trekk-travel",
-      "name": "Trekk Travel",
-      "tagline": "Trekk Travel mat line from Yune’s high-performance travel collection."
-    },
-    {
-      "seriesKey": "yuneyoga:foldable",
-      "name": "Foldable",
-      "tagline": "Foldable travel mats designed to pack down for on-the-go practice."
-    },
-    {
-      "seriesKey": "yuneyoga:foundational",
-      "name": "Foundational (Lightweight)",
-      "tagline": "Foundational collection (often titled “Lightweight Yoga Mat”)."
-    },
-    {
-      "seriesKey": "yuneyoga:natural-rubber",
-      "name": "Natural Rubber",
-      "tagline": "Natural rubber yoga mat line (material-focused collection)."
-    },
-    {
-      "seriesKey": "yuneyoga:standard",
-      "name": "Standard",
-      "tagline": "Standard Yune yoga mats (general collection; designs vary)."
-    },
-    {
-      "seriesKey": "yuneyoga:airstream",
-      "name": "Airstream",
-      "tagline": "The Airstream x Yune Yoga Mats Collection is an exclusive, limited-edition collaboration that blends iconic National Park landscapes with high-performance yoga gear—bringing the spirit of wanderlust and mindful movement to your practice."
-    },
-    {
-      "seriesKey": "yuneyoga:camo",
-      "name": "Camo",
-      "tagline": "Camouflage-inspired prints that bring the outdoors to your practice while delivering thoughtful design and reliable functionality."
-    },
-    {
-      "seriesKey": "yuneyoga:realtree",
-      "name": "Realtree",
-      "tagline": "Combining iconic Realtree camouflage patterns with high-performance yoga functionality, each mat reflects the spirit of the wild—even when you’re practicing indoors."
-    },
-    {
-      "seriesKey": "yuneyoga:zodiac",
-      "name": "Zodiac",
-      "tagline": "Unearth deeper meaning in your movement with the Zodiac Collection. Each mat embodies the essence of your sun sign—bridging ancient archetypes, self-discovery, and mindful movement into one beautifully designed practice space."
-    },
-    {
-      "seriesKey": "yuneyoga:high-performance",
-      "name": "High Performance",
-      "tagline": "Collection of all Yune Yoga High Performance Mats"
-    },
-    {
-      "seriesKey": "yuneyoga:collaboration",
-      "name": "Collaboration",
-      "tagline": "Each mat in this collection is the result of a creative partnership between Yune Yoga and talented artists, illustrators, and cultural creatives."
     }
   ]
 }

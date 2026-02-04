@@ -1,0 +1,221 @@
+[
+  {
+    "seriesKey": "lululemon:the-reversible-mat",
+    "researchSession": "Session 1: Lululemon Series",
+    "sessionDate": "2026-01-31",
+    "sources": [
+      {
+        "title": "Lululemon Reversible 5mm Yoga Mat review",
+        "publication": "Live Science",
+        "url": "https://www.livescience.com/lululemon-reversible-5mm-yoga-mat-review"
+      },
+      {
+        "title": "lululemon Yoga Mat Review | The 5mm Reversible Mat",
+        "publication": "Trail and Kale",
+        "url": "https://trailandkale.com/lululemon-yoga-mat-review-reversible/"
+      },
+      {
+        "title": "Lululemon Reversible 5mm Yoga Mat review: a springy mat for everyday practice",
+        "publication": "Fit and Well",
+        "url": "https://www.fitandwell.com/reviews/lululemon-reversible-5mm-yoga-mat-review"
+      },
+      {
+        "title": "lululemon Yoga Mat Review - The Mat 5mm - Mountain Weekly News",
+        "publication": "Mountain Weekly News",
+        "url": "https://mtnweekly.com/reviews/lululemon-the-reversible-mat-5mm/"
+      },
+      {
+        "title": "Lululemon The Reversible Mat review: two yoga mats in one, for dedicated yogis",
+        "publication": "T3",
+        "url": "https://www.t3.com/reviews/lululemon-the-reversible-yoga-mat"
+      }
+    ],
+    "keyFindings": {
+      "dimensions": {
+        "length_cm": 180,
+        "width_cm": 66,
+        "thickness_mm": 5,
+        "weight_kg": 2.38,
+        "weight_lbs": 5.24
+      },
+      "materials": [
+        "Polyurethane top layer (moisture-absorbing)",
+        "Natural rubber base"
+      ],
+      "price_usd": {
+        "min": 78,
+        "max": 88
+      },
+      "pros": [
+        "Sweat-wicking",
+        "Excellent for hot yoga/HIIT",
+        "Great cushioning",
+        "Antimicrobial"
+      ],
+      "cons": [
+        "Scratches easily on PU side",
+        "Loses stickiness after few years",
+        "Heavy",
+        "Strong odor when new",
+        "Contains latex"
+      ],
+      "rating": "Excellent stability and support"
+    }
+  },
+  {
+    "seriesKey": "lululemon:the-big-mat",
+    "researchSession": "Session 1: Lululemon Series",
+    "sessionDate": "2026-01-31",
+    "sources": [
+      {
+        "title": "The Lululemon (Big) Mat Review: My Choice When I Need A Long Mat",
+        "publication": "Men's Fitness UK",
+        "url": "https://mensfitness.co.uk/review/the-lululemon-big-mat-review/"
+      },
+      {
+        "title": "Lululemon Big Mat vs Manduka Black Mat Pro",
+        "publication": "LegallyFit",
+        "url": "https://legallyfit.com/lululemon-big-mat-vs-manduka-black-mat-pro/"
+      },
+      {
+        "title": "Lululemon The (Big) Mat - Oil Slick Blue",
+        "publication": "Lulu Fanatics",
+        "url": "https://www.lulufanatics.com/item/20171/lululemon-the-big-mat-oil-slick-blue"
+      }
+    ],
+    "keyFindings": {
+      "dimensions": {
+        "length_cm": 213,
+        "width_cm": 74,
+        "thickness_mm": 5
+      },
+      "weight_kg": {
+        "standard": 3.75,
+        "reversible": 3.2
+      },
+      "weight_lbs": {
+        "standard": 8.27,
+        "reversible": 7.05
+      },
+      "materials": [
+        "FSC-certified natural rubber base",
+        "Polyurethane top"
+      ],
+      "price_usd": {
+        "min": 88,
+        "max": 124
+      },
+      "pros": [
+        "Excellent for tall users (6ft+)",
+        "Incredible grip",
+        "Reversible options",
+        "Super-sturdy"
+      ],
+      "cons": [
+        "Strong burnt rubber smell that persists",
+        "Frequent returns for odor",
+        "Very heavy for travel"
+      ],
+      "bestFor": [
+        "Tall yogis",
+        "Home studio use"
+      ]
+    }
+  },
+  {
+    "seriesKey": "lululemon:take-form",
+    "researchSession": "Session 1: Lululemon Series",
+    "sessionDate": "2026-01-31",
+    "sources": [
+      {
+        "title": "Lululemon Take Form yoga mat review",
+        "publication": "Live Science",
+        "url": "https://www.livescience.com/lululemon-take-form-yoga-mat-review"
+      },
+      {
+        "title": "Lululemon Take Form mat review: Is it worth the price?",
+        "publication": "Reviewed",
+        "url": "https://www.reviewed.com/health/features/lululemon-take-form-yoga-mat-review"
+      },
+      {
+        "title": "The Inside Scoop On The Lululemon Take Form Yoga Mat - A Mat Made With 3D Technology",
+        "publication": "The Yogatique",
+        "url": "https://theyogatique.com/lululemon-take-form-yoga-mat/"
+      },
+      {
+        "title": "Lululemon Take Form Yoga Mat review: Can it really improve poses?",
+        "publication": "Cosmopolitan UK",
+        "url": "https://www.cosmopolitan.com/uk/body/fitness-workouts/a39174996/lululemon-yoga-mat-review/"
+      }
+    ],
+    "keyFindings": {
+      "technology": "3D alignment technology: Concentric circles create subtle ridges for positioning",
+      "materials": [
+        "Grippy natural rubber"
+      ],
+      "thickness_mm": 5,
+      "rating": 3.4,
+      "ratingMax": 5,
+      "pros": [
+        "Beautiful design",
+        "Subtle alignment cues",
+        "Excellent grip from natural rubber",
+        "Textured underside prevents slippage"
+      ],
+      "cons": [
+        "Alignment marks too subtle for some",
+        "Doesn't work for all heights (issues for shorter users)",
+        "Squeaky/sticky texture makes transitions harder"
+      ],
+      "notes": "Mixed effectiveness: Some love the intuitive approach, others found markers unhelpful"
+    }
+  },
+  {
+    "seriesKey": "lululemon:the-un-mat",
+    "researchSession": "Session 1: Lululemon Series",
+    "sessionDate": "2026-01-31",
+    "sources": [
+      {
+        "title": "Yoga Mat Review: Lululemon The Reversible (Un) Mat Lightweight Travel",
+        "publication": "Splendid Yoga",
+        "url": "https://www.splendid.yoga/blog/2019/2/19/yoga-mat-review-lululemon-the-reversible-un-mat-lightweight-travel"
+      },
+      {
+        "title": "Yoga Mat Review: LuluLemon The Unmat",
+        "publication": "My Yoga Escape",
+        "url": "https://www.myyogaescape.com/post/yoga-mat-review-lululemon-the-unmat"
+      },
+      {
+        "title": "Discover the Ultimate Lululemon Travel Yoga Mat for Your On-the-Go Practice",
+        "publication": "Yune Yoga Blog",
+        "url": "https://yuneyoga.com/blogs/yoga-blog/discover-the-ultimate-lululemon-travel-yoga-mat-for-your-on-the-go-practice"
+      }
+    ],
+    "keyFindings": {
+      "thickness_mm": 1.5,
+      "thickness_note": "Ultra-thin for travel",
+      "weight_lbs": 2.3,
+      "price_usd": 78,
+      "pros": [
+        "Ultra-portable",
+        "Quick-drying",
+        "Good floor connection",
+        "Black version resists staining"
+      ],
+      "cons": [
+        "Minimal padding (hard on spine/knees)",
+        "Can't absorb much sweat (becomes slippery)",
+        "Lighter colors stain permanently",
+        "May require towel for hot yoga"
+      ],
+      "bestFor": [
+        "Travel",
+        "Vinyasa yoga"
+      ],
+      "notIdealFor": [
+        "Restorative/yin yoga (too thin)",
+        "Very sweaty practices without towel"
+      ]
+    }
+  }
+]
