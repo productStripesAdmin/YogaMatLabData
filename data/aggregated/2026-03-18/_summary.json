@@ -1,0 +1,133 @@
+{
+  "date": "2026-03-18",
+  "totalBrands": 24,
+  "totalProducts": 498,
+  "uniqueSlugs": 498,
+  "duplicateSlugs": 0,
+  "totalSeries": 98,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "productCount": 10
+    },
+    {
+      "brandSlug": "aloyoga",
+      "productCount": 13
+    },
+    {
+      "brandSlug": "ananday",
+      "productCount": 5
+    },
+    {
+      "brandSlug": "b-yoga",
+      "productCount": 11
+    },
+    {
+      "brandSlug": "gaiam",
+      "productCount": 2
+    },
+    {
+      "brandSlug": "gayo",
+      "productCount": 3
+    },
+    {
+      "brandSlug": "heathyoga",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "houseofmats",
+      "productCount": 19
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "productCount": 14
+    },
+    {
+      "brandSlug": "liforme",
+      "productCount": 38
+    },
+    {
+      "brandSlug": "manduka",
+      "productCount": 13
+    },
+    {
+      "brandSlug": "moonholi",
+      "productCount": 66
+    },
+    {
+      "brandSlug": "okoliving",
+      "productCount": 17
+    },
+    {
+      "brandSlug": "scoria",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "productCount": 28
+    },
+    {
+      "brandSlug": "stakt",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "sumoyoga",
+      "productCount": 6
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "productCount": 11
+    },
+    {
+      "brandSlug": "woloyoga",
+      "productCount": 7
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "productCount": 49
+    },
+    {
+      "brandSlug": "yogakargha",
+      "productCount": 27
+    },
+    {
+      "brandSlug": "yogamatters",
+      "productCount": 44
+    },
+    {
+      "brandSlug": "yogibare",
+      "productCount": 9
+    },
+    {
+      "brandSlug": "yoloha",
+      "productCount": 50
+    }
+  ],
+  "priceStats": {
+    "min": 50,
+    "max": 400,
+    "average": 127.85644578313247,
+    "median": 110
+  },
+  "materialBreakdown": {
+    "Cork": 134,
+    "Natural Rubber": 231,
+    "NBR": 1,
+    "TPE": 10,
+    "Cotton": 48,
+    "PVC": 16,
+    "Jute": 3,
+    "PU Leather": 5
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 387,
+    "Non-Slip": 385,
+    "Lightweight": 103,
+    "Travel": 112,
+    "Antimicrobial": 102,
+    "Alignment Marks": 129,
+    "Reversible": 5,
+    "Premium": 111,
+    "Closed-Cell": 23
+  }
+}
