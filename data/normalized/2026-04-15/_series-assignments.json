@@ -1,0 +1,3753 @@
+{
+  "date": "2026-04-15",
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "totalProducts": 10,
+      "assignedProducts": 5,
+      "unassignedProducts": 5,
+      "series": [
+        {
+          "seriesKey": "42birds:imperial-eagle",
+          "seriesName": "\"The Imperial Eagle\" Cork Industrial",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "42birds-extra-long-cork-yoga-industrial-mat-the-imperial-eagle",
+              "titleOriginal": "Extra Long Cork Yoga Industrial Mat “The Imperial Eagle”",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "42birds-industrial-mat-the-imperial-eagle",
+              "titleOriginal": "Cork Yoga Industrial Mat “The Imperial Eagle”",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "42birds:robin",
+          "seriesName": "\"The Robin\" Cork Lightweight",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "42birds-cork-yoga-mat",
+              "titleOriginal": "Cork Lightweight Yoga Mat “The Robin”",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "42birds-extra-long-mat",
+              "titleOriginal": "Extra Long Cork Lightweight Yoga Mat \"The Robin\"",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "42birds:woodpecker",
+          "seriesName": "\"The Woodpecker\" 100% Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "42birds-all-natural-cork-yoga-mat",
+              "titleOriginal": "100% Cork Yoga Mat \"The Woodpecker\"",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "42birds-cork-extra-long-yoga-mat-and-two-block-bundle",
+          "titleOriginal": "Cork Extra Long Yoga Mat and Two-Block Bundle",
+          "productType": "Home & Garden"
+        },
+        {
+          "slug": "42birds-cork-industrial-yoga-mat-and-two-block-bundle",
+          "titleOriginal": "Cork Industrial Yoga Mat and Two-Block Bundle",
+          "productType": "Home & Garden"
+        },
+        {
+          "slug": "42birds-cork-yoga-mat-and-massage-balls-bundle",
+          "titleOriginal": "Cork Lightweight Yoga Mat and Massage Balls Bundle",
+          "productType": ""
+        },
+        {
+          "slug": "42birds-cork-yoga-mat-and-two-block-bundle",
+          "titleOriginal": "Cork Lightweight Yoga Mat and Two-Block Bundle",
+          "productType": ""
+        },
+        {
+          "slug": "42birds-cork-yoga-mat-massage-balls-and-yoga-block-bundle-the-flock",
+          "titleOriginal": "Cork Lightweight Yoga Mat, Massage Balls and Yoga Block Bundle - \"The Flock\"",
+          "productType": ""
+        }
+      ]
+    },
+    {
+      "brandSlug": "aloyoga",
+      "totalProducts": 13,
+      "assignedProducts": 7,
+      "unassignedProducts": 6,
+      "series": [
+        {
+          "seriesKey": "aloyoga:warrior",
+          "seriesName": "Warrior",
+          "productCount": 5,
+          "products": [
+            {
+              "slug": "aloyoga-w7092r-warrior-mat-black",
+              "titleOriginal": "Warrior Mat - Black",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "aloyoga-w7092r-warrior-mat-jungle",
+              "titleOriginal": "Warrior Mat - Jungle",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "aloyoga-w7092r-warrior-mat-smoky-quartz",
+              "titleOriginal": "Warrior Mat - Smoky Quartz",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "aloyoga-w7192r-warrior-mat-eclipse",
+              "titleOriginal": "Warrior Mat - Eclipse",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "aloyoga-w7192r-warrior-mat-espresso",
+              "titleOriginal": "Warrior Mat - Espresso",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "aloyoga:lightweight-warrior",
+          "seriesName": "Lightweight Warrior",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "aloyoga-a0779u-lightweight-warrior-mat-black",
+              "titleOriginal": "Lightweight Warrior Mat - Black",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "aloyoga-a0779u-lightweight-warrior-mat-smoky-quartz",
+              "titleOriginal": "Lightweight Warrior Mat - Smoky Quartz",
+              "productType": "Accessories:Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "aloyoga-a0023u-duality-yoga-strap-black",
+          "titleOriginal": "Duality Yoga Strap - Black",
+          "productType": "Accessories:Equipment:Straps"
+        },
+        {
+          "slug": "aloyoga-a0029u-grounded-no-slip-mat-towel-espresso",
+          "titleOriginal": "Grounded No-Slip Mat Towel - Espresso",
+          "productType": "Accessories:Equipment:Towels"
+        },
+        {
+          "slug": "aloyoga-a0029u-grounded-no-slip-towel-black",
+          "titleOriginal": "Grounded No-Slip Towel - Black",
+          "productType": "Accessories:Equipment:Towels"
+        },
+        {
+          "slug": "aloyoga-a0029u-grounded-no-slip-towel-eclipse",
+          "titleOriginal": "Grounded No-Slip Towel - Eclipse",
+          "productType": "Accessories:Equipment:Towels"
+        },
+        {
+          "slug": "aloyoga-a0029u-grounded-no-slip-towel-jungle",
+          "titleOriginal": "Grounded No-Slip Towel - Jungle",
+          "productType": "Accessories:Equipment:Towels"
+        },
+        {
+          "slug": "aloyoga-a0029u-grounded-no-slip-towel-smoky-quartz",
+          "titleOriginal": "Grounded No-Slip Towel - Smoky Quartz",
+          "productType": "Accessories:Equipment:Towels"
+        }
+      ]
+    },
+    {
+      "brandSlug": "ananday",
+      "totalProducts": 5,
+      "assignedProducts": 1,
+      "unassignedProducts": 4,
+      "series": [
+        {
+          "seriesKey": "ananday:standard-cork",
+          "seriesName": "Standard Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "ananday-ananday-cork-yoga-mat",
+              "titleOriginal": "Ananday Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "ananday-cork-yoga-mat-and-strap-set",
+          "titleOriginal": "Ground + Stretch Bundle",
+          "productType": "Bundle"
+        },
+        {
+          "slug": "ananday-cork-yoga-mat-block-set",
+          "titleOriginal": "Cork Yoga Mat + Block Set",
+          "productType": "Bundle"
+        },
+        {
+          "slug": "ananday-ground-cleanse-bundle",
+          "titleOriginal": "Ground + Cleanse Bundle",
+          "productType": "Bundle"
+        },
+        {
+          "slug": "ananday-home-yoga-starter-set",
+          "titleOriginal": "Home Yoga Starter Set",
+          "productType": "Bundle"
+        }
+      ]
+    },
+    {
+      "brandSlug": "b-yoga",
+      "totalProducts": 11,
+      "assignedProducts": 5,
+      "unassignedProducts": 6,
+      "series": [
+        {
+          "seriesKey": "b-yoga:everyday",
+          "seriesName": "B Mat Everyday",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "b-yoga-b-mat-everyday-4mm",
+              "titleOriginal": "b, mat everyday 4mm",
+              "productType": "b, mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "b-yoga-b-mat-everyday-long-4mm",
+              "titleOriginal": "b, mat everyday long 4mm",
+              "productType": "b, mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "b-yoga:strong",
+          "seriesName": "B Mat Strong",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "b-yoga-b-mat-strong-6mm",
+              "titleOriginal": "b, mat strong 6mm",
+              "productType": "b, mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "b-yoga-b-mat-strong-long-6mm",
+              "titleOriginal": "b, mat strong long 6mm",
+              "productType": "b, mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "b-yoga:cork",
+          "seriesName": "B Mat Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "b-yoga-b-mat-cork",
+              "titleOriginal": "b, mat cork",
+              "productType": "b, mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "b-yoga-b-mat-impact",
+          "titleOriginal": "b, mat impact",
+          "productType": "b, mats"
+        },
+        {
+          "slug": "b-yoga-b-mat-traveller-2mm",
+          "titleOriginal": "b, mat traveller 2mm",
+          "productType": "b, mats"
+        },
+        {
+          "slug": "b-yoga-essentials-tote",
+          "titleOriginal": "essentials tote",
+          "productType": "bags & carriers"
+        },
+        {
+          "slug": "b-yoga-everything-tote",
+          "titleOriginal": "everything tote",
+          "productType": "bags & carriers"
+        },
+        {
+          "slug": "b-yoga-gripster-towel-1",
+          "titleOriginal": "gripster towel",
+          "productType": "blankets & towels"
+        },
+        {
+          "slug": "b-yoga-the-b-mat-mini",
+          "titleOriginal": "The b,mat mini",
+          "productType": "mats"
+        }
+      ]
+    },
+    {
+      "brandSlug": "gaiam",
+      "totalProducts": 2,
+      "assignedProducts": 2,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "gaiam:dry-grip",
+          "seriesName": "Dry-Grip",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "gaiam-05-61028_2",
+              "titleOriginal": "Performance Dry-Grip Yoga Mat (5mm)",
+              "productType": "Yoga/Yoga Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "gaiam-05-61626",
+              "titleOriginal": "Performance Longer/Wider Dry-Grip Yoga Mat (5mm)",
+              "productType": "Yoga/Yoga Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "gayo",
+      "totalProducts": 3,
+      "assignedProducts": 3,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "gayo:balance",
+          "seriesName": "Balance",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "gayo-eco-friendly-non-slip-yoga-mat-5mm",
+              "titleOriginal": "Eco Balance Yoga Mat- 5mm",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "gayo:balance-pro",
+          "seriesName": "Balance Pro",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "gayo-eco-balance-yoga-mat-5-mm",
+              "titleOriginal": "Eco Balance Pro Yoga Mat- 5 mm",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "gayo:cork",
+          "seriesName": "Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "gayo-yoga-cork-mat",
+              "titleOriginal": "Eco-Friendly Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "heathyoga",
+      "totalProducts": 6,
+      "assignedProducts": 6,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "heathyoga:alignment",
+          "seriesName": "Alignment",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-non-slip-yoga-mat",
+              "titleOriginal": "Heathyoga TPE Body Alignment System Yoga Mat - Turquoise",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-blue-heathyoga",
+              "titleOriginal": "Heathyoga TPE Body Alignment System Yoga Mat - Navy Blue",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-grey-heathyoga",
+              "titleOriginal": "TPE Body Alignment System Yoga Mat - Gray",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-lemon-green-heathyoga",
+              "titleOriginal": "Heathyoga TPE Body Alignment System Yoga Mat - Grass Green",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-pink-heathyoga",
+              "titleOriginal": "Heathyoga TPE Body Alignment System Yoga Mat - Pink",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "heathyoga-tpe-body-alignment-system-yoga-mat-purple-heathyoga",
+              "titleOriginal": "Heathyoga TPE Body Alignment System Yoga Mat - Purple",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "houseofmats",
+      "totalProducts": 19,
+      "assignedProducts": 19,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "houseofmats:studio",
+          "seriesName": "Studio",
+          "productCount": 7,
+          "products": [
+            {
+              "slug": "houseofmats-forest-green",
+              "titleOriginal": "Forest Green Yoga mat - Studio Collection - 4.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-golden-hour",
+              "titleOriginal": "Golden House Yoga mat - Studio Collection - 4.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-misty-grey",
+              "titleOriginal": "Misty Grey Yoga mat - Studio Collection - 4.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-rooted-brown",
+              "titleOriginal": "Rooted Brown Yoga mat - Studio Collection - 4.5mm",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-royal-plum",
+              "titleOriginal": "Royal Plum Yoga mat - Studio Collection - 4.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-royal-plum-signature-yoga-mat-classic-collection-4-5mm",
+              "titleOriginal": "Royal Plum Signature Yoga mat - Studio Collection - 4.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-the-black-mat",
+              "titleOriginal": "The Black Mat - Studio Collection - 4.5mm",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "houseofmats:art",
+          "seriesName": "Art",
+          "productCount": 5,
+          "products": [
+            {
+              "slug": "houseofmats-daylight-moth-by-ula-basinska-11",
+              "titleOriginal": "Daylight moth Yoga mat by Ula Basinska - Art Collection - 4mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-familia",
+              "titleOriginal": "Africa by Jess Guzman Yoga mat - Art Collection - 4mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-midnight-tribe-by-ula-basinska",
+              "titleOriginal": "Nightlight tribe by Ula Basinska - Art Collection - 4mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-moonlight",
+              "titleOriginal": "Moonlight shadow - Art Collection - 4mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-peony-bloom",
+              "titleOriginal": "Peony blossom Yoga mat - Art Collection - 4mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "houseofmats:lab-limited-edition",
+          "seriesName": "Lab Limited Edition",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "houseofmats-airy-blue",
+              "titleOriginal": "Airy Blue Yoga mat - Laboratory Limited Edition - 3.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-clay",
+              "titleOriginal": "Clay Yoga mat - Laboratory Limited Edition - 3.5mm",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-sage-green",
+              "titleOriginal": "Sage Green Yoga mat - Laboratory Limited Edition - 3.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-suiyobi",
+              "titleOriginal": "Suiyobi Yoga Mat - Laboratory Limited Edition - 3.5mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "houseofmats:travel",
+          "seriesName": "Travel (Foldable)",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "houseofmats-magnetic-purple",
+              "titleOriginal": "Magnetic Purple Yoga mat - Travel Collection - Foldable - 2mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-oat-signature",
+              "titleOriginal": "Granito Milk Yoga mat - Travel Collection - Foldable - 2mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "houseofmats-the-black-mat-1",
+              "titleOriginal": "The Black Mat - Colección de viaje. Plegable 2mm",
+              "productType": "Esteras para pilates y yoga",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "totalProducts": 14,
+      "assignedProducts": 14,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "jadeyoga:fusion",
+          "seriesName": "Fusion",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "jadeyoga-fusion-mat",
+              "titleOriginal": "Jade Fusion Yoga & Pilates Mat – Extra Thick Natural Rubber Yoga & Pilates Mat - JadeYoga",
+              "productType": "Fusion",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "jadeyoga-xw-fusion",
+              "titleOriginal": "XW Fusion Yoga Mat - Extra Wide and Thick for Grip - JadeYoga",
+              "productType": "XW Fusion",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:harmony",
+          "seriesName": "Harmony",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "jadeyoga-harmony-mat",
+              "titleOriginal": "Jade Harmony Yoga Mat - JadeYoga",
+              "productType": "Harmony",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "jadeyoga-harmony-mat-xw",
+              "titleOriginal": "Harmony XW Yoga Mat – Eco Friendly and Chemical Free -  JadeYoga",
+              "productType": "Harmony XW",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:yoga-rugs",
+          "seriesName": "Yoga Rugs",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "jadeyoga-organic-cotton-mysore-yoga-rugs-1",
+              "titleOriginal": "Organic Cotton Mysore Yoga Rug – JadeYoga",
+              "productType": "Cotton Yoga Rug",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "jadeyoga-recycled-sari-yoga-rug",
+              "titleOriginal": "Recycled Sari Yoga Rug - JadeYoga",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:cork-topped",
+          "seriesName": "Cork Topped",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-jade-cork-yoga-mat",
+              "titleOriginal": "Jade Cork Yoga Mat - Hot Yoga - Eco Friendly - JadeYoga",
+              "productType": "Cork",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:elite-s",
+          "seriesName": "Elite S",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-elite-s",
+              "titleOriginal": "Jade Elite S Yoga Mat - Durable and Supportive - Eco Friendly - JadeYoga",
+              "productType": "Elite S",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:extra-cushioning",
+          "seriesName": "Extra Cushioning",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-jade-extra-yoga-mat",
+              "titleOriginal": "Jade Extra Yoga Mat - JadeYoga",
+              "productType": "EXTRA",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:harmony-2-0",
+          "seriesName": "Harmony 2.0",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-jade-harmony-2-0",
+              "titleOriginal": "Jade Harmony 2.0",
+              "productType": "MUSHROOM",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:level-one",
+          "seriesName": "Level One",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-level-1-mat",
+              "titleOriginal": "Jade Level One Yoga Mat  For Beginners – JadeYoga",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:meditation",
+          "seriesName": "Meditation",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-dharba-grass-yoga-meditation-mat",
+              "titleOriginal": "Meditation Mats – Handwoven Darbha Grass Mats -  JadeYoga",
+              "productType": "Darbha Grass Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:mushroom-theme",
+          "seriesName": "Mushroom Theme",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-jade-mushroom-mat",
+              "titleOriginal": "Jade Mushroom Mat",
+              "productType": "MUSHROOM",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "jadeyoga:voyager",
+          "seriesName": "Voyager",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "jadeyoga-travel-mat",
+              "titleOriginal": "Best-Selling Travel Yoga Mat  – Lightweight, Portable and Durable",
+              "productType": "Travel",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "liforme",
+      "totalProducts": 38,
+      "assignedProducts": 35,
+      "unassignedProducts": 3,
+      "series": [
+        {
+          "seriesKey": "liforme:standard",
+          "seriesName": "Standard",
+          "productCount": 21,
+          "products": [
+            {
+              "slug": "liforme-liforme-black-gold-yoga-mat",
+              "titleOriginal": "Liforme Black & Gold Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-blossoming-lotus-yoga-mat",
+              "titleOriginal": "Liforme Blossoming Lotus Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-classic-yoga-mat",
+              "titleOriginal": "Liforme Classic Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-cosmic-moon-yoga-mat",
+              "titleOriginal": "Liforme Cosmic Moon Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-deep-forest-mindful-garden-yoga-mat",
+              "titleOriginal": "Liforme Deep Forest Mindful Garden Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-dragon-phoenix-yoga-mat",
+              "titleOriginal": "Liforme Dragon & Phoenix Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-expressions-yoga-mat",
+              "titleOriginal": "Liforme Expressions Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-in-line-yoga-mat",
+              "titleOriginal": "Liforme In Line Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-magic-galaxy-yoga-mat-gold-silver",
+              "titleOriginal": "Liforme Magic Galaxy Yoga Mat - Gold & Silver",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-magic-galaxy-yoga-mat-silver",
+              "titleOriginal": "Liforme Magic Galaxy Yoga Mat - Silver",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-majestic-carpet-yoga-mat",
+              "titleOriginal": "Liforme Majestic Carpet Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-mindful-garden-yoga-mat",
+              "titleOriginal": "Liforme Mindful Garden Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-mother-earth-yoga-mat",
+              "titleOriginal": "Liforme Mother Earth Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-mystique-yoga-mat",
+              "titleOriginal": "Liforme Mystique Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-paisley-passion-yoga-mat",
+              "titleOriginal": "Liforme Paisley Passion Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-radiant-sun-yoga-mat",
+              "titleOriginal": "Liforme Radiant Sun Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-rainbow-yoga-mat",
+              "titleOriginal": "Liforme Rainbow Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-tantalising-terracotta-yoga-mat",
+              "titleOriginal": "Liforme Tantalising Terracotta Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-tropical-paradise-yoga-mat",
+              "titleOriginal": "Liforme Tropical Paradise Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-white-magic-yoga-mat",
+              "titleOriginal": "Liforme White Magic Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-zodiac-yoga-mat",
+              "titleOriginal": "Liforme Zodiac Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "liforme:travel",
+          "seriesName": "Travel",
+          "productCount": 7,
+          "products": [
+            {
+              "slug": "liforme-liforme-black-gold-travel-yoga-mat",
+              "titleOriginal": "Liforme Black & Gold Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-classic-travel-yoga-mat",
+              "titleOriginal": "Liforme Classic Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-cosmic-moon-travel-yoga-mat",
+              "titleOriginal": "Liforme Cosmic Moon Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-expressions-travel-yoga-mat",
+              "titleOriginal": "Liforme Expressions Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-mindful-garden-travel-yoga-mat",
+              "titleOriginal": "Liforme Mindful Garden Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-rainbow-travel-yoga-mat",
+              "titleOriginal": "Liforme Rainbow Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-white-magic-travel-yoga-mat",
+              "titleOriginal": "Liforme White Magic Travel Yoga Mat",
+              "productType": "Travel Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "liforme:xl",
+          "seriesName": "XL",
+          "productCount": 5,
+          "products": [
+            {
+              "slug": "liforme-liforme-blossoming-lotus-xl-yoga-mat",
+              "titleOriginal": "Liforme Blossoming Lotus XL Yoga Mat",
+              "productType": "XL Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-cosmic-moon-xl-yoga-mat",
+              "titleOriginal": "Liforme Cosmic Moon XL Yoga Mat",
+              "productType": "XL Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-mindful-garden-xl-yoga-mat",
+              "titleOriginal": "Liforme Mindful Garden XL Yoga Mat",
+              "productType": "XL Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-xl-mountain-yoga-mat",
+              "titleOriginal": "Liforme XL Mountain Yoga Mat",
+              "productType": "XL Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "liforme-liforme-xl-yoga-mat",
+              "titleOriginal": "Liforme XL Yoga Mat",
+              "productType": "XL Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "liforme:evolve",
+          "seriesName": "Evolve",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "liforme-liforme-evolve-yoga-mat",
+              "titleOriginal": "Liforme Evolve Yoga Mat",
+              "productType": "Evolve Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "liforme:x-you",
+          "seriesName": "Liforme x You (Custom)",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "liforme-liforme-x-you-your-unique-yoga-mat",
+              "titleOriginal": "Liforme x You - A unique Yoga Mat",
+              "productType": "Liforme x You",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "liforme-liforme-classic-yoga-mat-travel-mat-bundle",
+          "titleOriginal": "Liforme Classic Yoga Mat & Travel Mat Bundle",
+          "productType": "Bundle"
+        },
+        {
+          "slug": "liforme-liforme-cosmic-moon-yoga-mat-travel-mat-bundle",
+          "titleOriginal": "Liforme Cosmic Moon Yoga Mat & Travel Mat Bundle",
+          "productType": "Bundle"
+        },
+        {
+          "slug": "liforme-liforme-mindful-garden-yoga-mat-travel-mat-bundle",
+          "titleOriginal": "Liforme Mindful Garden Yoga Mat & Travel Mat Bundle",
+          "productType": "Bundle"
+        }
+      ]
+    },
+    {
+      "brandSlug": "manduka",
+      "totalProducts": 14,
+      "assignedProducts": 14,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "manduka:pro",
+          "seriesName": "PRO™",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "manduka-almost-perfect-pro®-squared-yoga-mat-6mm",
+              "titleOriginal": "Almost Perfect PRO® Squared Yoga Mat 6mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "manduka-manduka-pro-yoga-mat",
+              "titleOriginal": "Manduka PRO™ Yoga Mat 6mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "manduka-pro-long-wide-yoga-mat",
+              "titleOriginal": "PRO® Long & Wide Yoga Mat 6mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "manduka-pro-squared-yoga-mat",
+              "titleOriginal": "PRO® Squared Yoga Mat 6mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:prolite",
+          "seriesName": "PROlite®",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "manduka-prolite-long-wide-yoga-mat",
+              "titleOriginal": "PROlite® Long & Wide Yoga Mat 4.7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "manduka-prolite-yoga-mat",
+              "titleOriginal": "PROlite® Yoga Mat 4.7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:begin",
+          "seriesName": "Begin®",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-begin-yoga-mat-5mm",
+              "titleOriginal": "begin yoga mat 5mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:eko",
+          "seriesName": "eKO®",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-eko-yoga-mat-5mm",
+              "titleOriginal": "eKO® Yoga Mat 5mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:eko-lite",
+          "seriesName": "eKO® lite",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-eko-lite-yoga-mat-4mm",
+              "titleOriginal": "eKO® lite Yoga Mat 4mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:grp-adapt-2-0",
+          "seriesName": "GRP® Adapt 2.0",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-grp-adapt-2-0-yoga-mat-5mm",
+              "titleOriginal": "GRP® Adapt 2.0 Yoga Mat 5mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:grp-adapt-travel",
+          "seriesName": "GRP® Adapt Travel",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-grp-adapt-travel-yoga-mat-1-5mm",
+              "titleOriginal": "GRP® Adapt Travel Yoga Mat 1.5mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:pro-travel",
+          "seriesName": "PRO Travel",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-pro-travel-yoga-mat",
+              "titleOriginal": "PRO Travel Yoga Mat 2mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:x-general-purpose",
+          "seriesName": "X General Purpose",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-manduka-x-yoga-mat-5mm",
+              "titleOriginal": "Manduka X Yoga Mat 5mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "manduka:yoga-rugs",
+          "seriesName": "Yoga Rugs",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "manduka-shala-travel-yoga-rug",
+              "titleOriginal": "Shala Travel Yoga Rug",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "moonholi",
+      "totalProducts": 66,
+      "assignedProducts": 0,
+      "unassignedProducts": 66,
+      "series": [],
+      "unassigned": [
+        {
+          "slug": "moonholi-light-and-foldable-pink-purple-yoga-travel-mat",
+          "titleOriginal": "Travel fitness & yoga mat WAVE RIDER SRI LANKA light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-round-yoga-mat-elephants",
+          "titleOriginal": "Round yoga & gym mat ELEPHANTS",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-round-yoga-mat-shamanka",
+          "titleOriginal": "Round yoga & gym mat SHAMANKA",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-fitness-yoga-mat-bells-light-and-foldable",
+          "titleOriginal": "Travel fitness & yoga mat BELLS light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-fitness-yoga-mat-time-to-grow-light-and-foldable",
+          "titleOriginal": "Travel fitness & yoga mat TIME TO GROW light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-fitness-yoga-mat-wave-rider-bali-light-and-foldable-blue",
+          "titleOriginal": "Travel fitness & yoga mat WAVE RIDER BALI light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-yoga-gym-mat-a-night-in-paris-light-and-foldable",
+          "titleOriginal": "Travel yoga & gym mat A NIGHT IN PARIS light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-yoga-gym-mat-kabbalah-tree-of-life-light-and-foldable",
+          "titleOriginal": "Travel yoga & gym mat KABBALAH light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-yoga-gym-mat-love-light-and-foldable",
+          "titleOriginal": "Travel yoga & gym mat LOVE light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-yoga-gym-mat-magic-wand-light-and-foldable",
+          "titleOriginal": "Travel fitness & yoga mat MAGIC WAND light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-travel-yoga-gym-mat-universe-light-and-foldable",
+          "titleOriginal": "Travel yoga & gym mat UNIVERSE light and foldable",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-yoga-mat-cosmic-girl",
+          "titleOriginal": "Travel yoga & fitness mat COSMIC GIRL light and foldable",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-yoga-mat-illumination",
+          "titleOriginal": "Travel yoga & gym mat ILLUMINATION light and foldable",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-yoga-mat-magic",
+          "titleOriginal": "Travel yoga & gym mat MAGIC light and foldable",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-yoga-mat-psychobella",
+          "titleOriginal": "Travel yoga & gym mat PSYCHOBELLA light and foldable",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-travel-yoga-mat-tropicana",
+          "titleOriginal": "Travel yoga & gym mat TROPICANA light and foldable",
+          "productType": "Maty do jogi i pilatesu"
+        },
+        {
+          "slug": "moonholi-yoga-mat-a-night-in-paris-natural-rubber-non-slip-eco-friendly-studio-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat A NIGHT IN PARIS - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-cosmic-girl",
+          "titleOriginal": "Yoga mat and yoga mat bag set - COSMIC GIRL",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-illumination",
+          "titleOriginal": "Yoga mat and yoga mat bag set - ILLUMINATION",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-magic",
+          "titleOriginal": "Yoga mat and yoga mat bag set - MAGIC",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-body",
+          "titleOriginal": "Yoga mat and yoga mat bag set - BODY",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-love",
+          "titleOriginal": "Yoga mat and yoga mat bag set - LOVE",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-psychobella",
+          "titleOriginal": "Yoga mat and yoga mat bag set - PSYCHOBELLA",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-tropicana",
+          "titleOriginal": "Yoga mat and yoga mat bag set - TROPICANA",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-universe",
+          "titleOriginal": "Yoga mat and yoga mat bag set - UNIVERSE",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-veganika-day",
+          "titleOriginal": "Yoga mat and yoga mat bag set - VEGANIKA DAY",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-veganika-night",
+          "titleOriginal": "Yoga mat and yoga mat bag set - VEGANIKA NIGHT",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-venus",
+          "titleOriginal": "Yoga mat and yoga mat bag set - VENUS",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-set-vibration",
+          "titleOriginal": "Yoga mat and yoga mat bag set - VIBRATION",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-and-yoga-mat-bag-the-moon",
+          "titleOriginal": "Yoga mat and yoga mat bag set - THE MOON",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-bells-natural-rubber-non-slip-eco-friendly-fitness-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat BELLS - natural rubber, non-slip, eco-friendly fitness, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-body",
+          "titleOriginal": "Yoga & gym mat BODY",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-cosmic-girl",
+          "titleOriginal": "Yoga mat COSMIC GIRL - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-for-men-warrior",
+          "titleOriginal": "Yoga mat for men WARRIOR - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-illumination",
+          "titleOriginal": "Yoga mat ILLUMINATION - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-kabbalah-natural-rubber-non-slip-eco-friendly-studio-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat KABBALAH - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-love-natural-rubber-non-slip-eco-friendly-studio-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat LOVE - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-magic",
+          "titleOriginal": "Yoga mat MAGIC - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-magic-carpet",
+          "titleOriginal": "Yoga mat MAGIC CARPET - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-magic-wand-natural-rubber-non-slip-eco-friendly-studio-fitness-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat MAGIC WAND - natural rubber, non-slip, eco-friendly studio fitness, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-persiana",
+          "titleOriginal": "Yoga mat PERSIANA - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-glow-pink-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat PRO STICKY GLOW pink - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-harmony-beige-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat PRO STICKY HARMONY beige - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-illumination",
+          "titleOriginal": "Yoga mat PRO STICKY ILLUMINATION - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-illumination-black",
+          "titleOriginal": "Yoga mat PRO STICKY ILLUMINATION BLACK - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-illumination-chocolate-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat PRO STICKY ILLUMINATION CHOCOLATE - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-magic",
+          "titleOriginal": "Yoga mat PRO STICKY MAGIC - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-magic-carpet",
+          "titleOriginal": "Yoga mat PRO STICKY MAGIC CARPET - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-perfection-ice-grey-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat-copy",
+          "titleOriginal": "Yoga mat PRO STICKY PERFECTION ice grey - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-venus-powdered-pink-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat PRO STICKY VENUS powdered pink - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-pro-sticky-wisdom-black-natural-rubber-non-slip-eco-friendly-professional-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat PRO STICKY WISDOM black - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-psychobella",
+          "titleOriginal": "Yoga mat PSYCHOBELLA - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-the-moon",
+          "titleOriginal": "Yoga mat THE MOON - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-time-to-grow-natural-rubber-non-slip-eco-friendly-fitness-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat TIME TO GROW - natural rubber, non-slip, eco-friendly fitness, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-tropicana",
+          "titleOriginal": "Yoga mat TROPICANA - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-universe-natural-rubber-non-slip-eco-friendly-studio-gym-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat UNIVERSE - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-veganika-day",
+          "titleOriginal": "Yoga mat VEGANIKA DAY - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-veganika-night",
+          "titleOriginal": "Yoga mat VEGANIKA NIGHT - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-venus",
+          "titleOriginal": "Yoga mat VENUS - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-vibration",
+          "titleOriginal": "Yoga mat VIBRATION - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-wave-rider-bali-natural-rubber-non-slip-eco-friendly-blue-fitness-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat WAVE RIDER BALI - natural rubber, non-slip, eco-friendly fitness, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-mat-wave-rider-sri-lanka-natural-rubber-non-slip-eco-friendly-pink-fitness-pilates-and-yoga-mat",
+          "titleOriginal": "Yoga mat WAVE RIDER SRI LANKA - natural rubber, non-slip, eco-friendly fitness, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-pad-cosmic-girl",
+          "titleOriginal": "Yoga pad COSMIC GIRL - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-pad-illumination-pro-sticky",
+          "titleOriginal": "Yoga pad PRO STICKY ILLUMINATION - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-pad-pro-sticky-magic",
+          "titleOriginal": "Yoga pad PRO STICKY MAGIC - natural rubber, non-slip, eco-friendly professional gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        },
+        {
+          "slug": "moonholi-yoga-pad-tropicana",
+          "titleOriginal": "Yoga pad TROPICANA - natural rubber, non-slip, eco-friendly studio gym, pilates and yoga mat",
+          "productType": "Yoga & fitness mat"
+        }
+      ]
+    },
+    {
+      "brandSlug": "okoliving",
+      "totalProducts": 17,
+      "assignedProducts": 17,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "okoliving:herbal",
+          "seriesName": "Herbal",
+          "productCount": 12,
+          "products": [
+            {
+              "slug": "okoliving-chakra",
+              "titleOriginal": "Chakra Energy - Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-chakraalign",
+              "titleOriginal": "Chakra Align - Herbal Yoga Mat, 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-clay",
+              "titleOriginal": "Clay - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-emerald",
+              "titleOriginal": "Emerald - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-indigo-moon",
+              "titleOriginal": "Indigo Moon - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-rose-quartz",
+              "titleOriginal": "Rose Quartz - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-solarflower",
+              "titleOriginal": "Solar Flower - Naturally Dyed Herbal Yoga Mat 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-sunstone",
+              "titleOriginal": "Sunstone - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-thirdeyechakra",
+              "titleOriginal": "Third Eye - Chakra 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-thirdeyeclay",
+              "titleOriginal": "Third Eye - Clay 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-yin-yang-amethyst",
+              "titleOriginal": "Yin-Yang Amethyst - Naturally Dyed Herbal Yoga Mat 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-yin-yang-clay",
+              "titleOriginal": "Yin-Yang Clay - Naturally Dyed Herbal Yoga Mat 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "okoliving:diamond",
+          "seriesName": "Diamond",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "okoliving-diamond-yoga-mat-clay-7mm",
+              "titleOriginal": "Diamond Yoga Mat - Clay 7mm - Organic Cotton",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-diamond-yoga-mat-clay-cream",
+              "titleOriginal": "Diamond Yoga Mat - Clay & Cream 7mm",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "okoliving:travel",
+          "seriesName": "Travel",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "okoliving-clay-travel-mat",
+              "titleOriginal": "Clay - Travel Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "okoliving-jade-jute-travel",
+              "titleOriginal": "Jade & Jute - 3mm Travel Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "okoliving:jade-and-jute",
+          "seriesName": "Jade & Jute",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "okoliving-jade-jute-5mm",
+              "titleOriginal": "Jade & Jute - Naturally Dyed Herbal Yoga Mat",
+              "productType": "Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "scoria",
+      "totalProducts": 44,
+      "assignedProducts": 44,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "scoria:standard-cork",
+          "seriesName": "Standard Cork",
+          "productCount": 16,
+          "products": [
+            {
+              "slug": "scoria-blossom-cork-yoga-mat",
+              "titleOriginal": "Blossom Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-botanicals-cork-yoga-mat",
+              "titleOriginal": "Botanicals Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-butterfly-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Butterfly Cork Yoga Mat | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-connection-yoga-mat",
+              "titleOriginal": "Connection Cork Yoga Mat | 3.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-essential-cork-yoga-mat",
+              "titleOriginal": "Standard Essential Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-flying-dragon-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Flying Dragon Cork Yoga Mat | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-mandala-cork-yoga-mat-4-5mm-collab-edition",
+              "titleOriginal": "Mandala Cork Yoga Mat | 4.5MM | Collab Edition",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-moon-phases-cork-mat",
+              "titleOriginal": "Moon Phases Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-mountain-lion-cork-mat-3-5mm",
+              "titleOriginal": "Mountain Lion Cork Yoga Mat | 3.5MM OR 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-myco-forest-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Myco Forest Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-night-bear",
+              "titleOriginal": "Night Bear Cork Yoga Mat | 4.5MM | Collab Edition",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-owl-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Owl Cork Yoga Mat | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-power-bear-cork-yoga-mat-3-5mm",
+              "titleOriginal": "Day Bear Cork Yoga Mat | 3.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-revolve-cork-yoga-mat",
+              "titleOriginal": "Revolve Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-summit-peak-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Summit Peak Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-unicorn-adults-cork-yoga-mat-3-5mm",
+              "titleOriginal": "Unicorn Adults Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:round",
+          "seriesName": "Round",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "scoria-blue-petals-round-yoga-mat-multi-use-53-dia",
+              "titleOriginal": "Blue Petals Round Cork Yoga Mat | Multi-use | 53\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-color-strokes-round-yoga-or-baby-mat-multi-use-47-dia",
+              "titleOriginal": "Brush Strokes Round Cork Yoga Mat or Baby Mat | Multi-use | 47\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-elephant-walk-round-baby-mat-play-stretch-47-dia",
+              "titleOriginal": "Elephant Walk Round Baby Mat - Cork Yoga Mat | Play & Stretch | 47\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-essential-round-yoga-mat-multi-use-53-dia",
+              "titleOriginal": "Essential Round Cork Yoga Mat | Multi-use | 53\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-soft-skies-round-yoga-mat-multi-use-53-dia",
+              "titleOriginal": "Soft Skies Round Cork Yoga Mat | Multi-use | 53\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-solar-bloom-round-yoga-mat-multi-use-53-dia",
+              "titleOriginal": "Solar Bloom Round Cork Yoga Mat | Multi-use | 53\" dia",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:x-thick",
+          "seriesName": "X-Thick",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "scoria-extra-thick-essential-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Essential Cork Yoga Mat | 6MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-tree-of-life-alignment-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Tree of Life Alignment Cork Yoga Mat | 6MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-thick-botanicals-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Botanicals Cork Yoga Mat | 6MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-thick-butterfly-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Butterfly Cork Yoga Mat | 6MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-thick-moon-phases-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Moon Phases Cork Yoga Mat | 6MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-thick-mycoforest-cork-yoga-mat-6mm",
+              "titleOriginal": "X-Thick Myco Forest Cork Yoga Mat | 6MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:kids",
+          "seriesName": "Kids",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "scoria-childrens-big-cork-yoga-mat",
+              "titleOriginal": "Kids Align Play & Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-kids-essential-non-toxic-cork-yoga-play-mat-big",
+              "titleOriginal": "Kids Essential Play & Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-kids-space-non-toxic-cork-yoga-play-mat-big",
+              "titleOriginal": "Kids Space Play & Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-kids-unicorn-non-toxic-cork-yoga-play-mat-big",
+              "titleOriginal": "Kids Unicorn Play & Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:x-wide",
+          "seriesName": "X-Wide",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "scoria-biggest-botanicals-cork-yoga-mat-6mm",
+              "titleOriginal": "Biggest Botanicals Cork Yoga Mat | 6MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-biggest-essential-cork-yoga-mat-6mm",
+              "titleOriginal": "BIGGEST Essential Cork Yoga Mat | 6MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-biggest-tree-of-life-cork-yoga-mat-6mm",
+              "titleOriginal": "Biggest Tree of Life Cork Yoga Mat | 6MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-wide-essential-cork-yoga-mat-4-5mm",
+              "titleOriginal": "X-WIDE Essential Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:alignment",
+          "seriesName": "Alignment",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "scoria-alignment-yoga-mat",
+              "titleOriginal": "Inner Child Alignment Cork Yoga Mat | 3.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-chakra-alignment-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Chakras Alignment Cork Yoga Mat | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-tree-of-life-cork-yoga-mat-4-5mm",
+              "titleOriginal": "Tree of Life Alignment Cork Yoga Mat | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:x-tall",
+          "seriesName": "X-Tall",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "scoria-tall-essential-cork-yoga-mat-3-5mm-6-8-tall",
+              "titleOriginal": "X-TALL Cork Yoga Mat | 6′7 | 4.5MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-large-printed-blossom",
+              "titleOriginal": "X-TALL Blossom Cork Yoga Mat | 6'7 long | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-x-tall-moon-phases-cork-yoga-mat-67-long-4-5mm",
+              "titleOriginal": "X-Tall Moon Phases Cork Yoga Mat | 6'7 long | 4.5MM",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "scoria:travel",
+          "seriesName": "Travel",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "scoria-travel-chakras-alignment-cork-yoga-mat-2mm",
+              "titleOriginal": "Travel Artist Cork Yoga Mat | 2MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "scoria-travel-essential-cork-yoga-mat-2mm",
+              "titleOriginal": "Travel Essential Cork Yoga Mat | 2MM",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "totalProducts": 28,
+      "assignedProducts": 28,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "shaktiwarrior:cork",
+          "seriesName": "Cork",
+          "productCount": 7,
+          "products": [
+            {
+              "slug": "shaktiwarrior-akasa-pro",
+              "titleOriginal": "Cork Yoga Mat - Dreamcatcher",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-aum",
+              "titleOriginal": "Essential Cork Yoga Mat",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-chakra-pro",
+              "titleOriginal": "Cork Yoga Mat - Chakra",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-mandala-pro",
+              "titleOriginal": "Cork Yoga Mat - Mandala",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-sahasrara-pro",
+              "titleOriginal": "Cork Yoga Mat - Black Gold Lotus",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-samskara-pro",
+              "titleOriginal": "Cork Yoga Mat - Elephant",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-shivshakti-pro",
+              "titleOriginal": "Cork Yoga Mat - Tiger",
+              "productType": "Cork Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "shaktiwarrior:hemp",
+          "seriesName": "Hemp",
+          "productCount": 7,
+          "products": [
+            {
+              "slug": "shaktiwarrior-anahata-hemp",
+              "titleOriginal": "Hemp Yoga Mat - Jade",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-chakra-hemp",
+              "titleOriginal": "Hemp Yoga Mat - Chakra",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-hemp-yoga-mat-firestone",
+              "titleOriginal": "Hemp Yoga Mat - Firestone",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-hemp-yoga-mat-moonbeam",
+              "titleOriginal": "Hemp Yoga Mat - Moonbeam",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-hemp-yoga-mat-river",
+              "titleOriginal": "Hemp Yoga Mat - River",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-sahasrara-hemp",
+              "titleOriginal": "Hemp Yoga Mat - Sahasrara",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-samskara-hemp",
+              "titleOriginal": "Hemp Yoga Mat - Samskara",
+              "productType": "Hemp Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "shaktiwarrior:recycled-pu",
+          "seriesName": "Recycled PU",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "shaktiwarrior-chakra-shanti-pu-yoga-mat",
+              "titleOriginal": "Recycled PU Yoga Mat - Chakra",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-recycled-pu-yoga-mat-darkstone",
+              "titleOriginal": "Recycled PU Yoga Mat - Darkstone",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-recycled-pu-yoga-mat-earthstone",
+              "titleOriginal": "Recycled PU Yoga Mat - Earthstone",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-recycled-pu-yoga-mat-firestone",
+              "titleOriginal": "Recycled PU Yoga Mat - Firestone",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-recycled-pu-yoga-mat-moonbeam",
+              "titleOriginal": "Recycled PU Yoga Mat - Moonbeam",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-sahasrara-pu-wide-yoga-mat",
+              "titleOriginal": "Recycled PU Yoga Mat - Black Gold Lotus",
+              "productType": "Recycled PU Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "shaktiwarrior:recycled-suede",
+          "seriesName": "Recycled Suede",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "shaktiwarrior-ajna-pro",
+              "titleOriginal": "Recycled Suede Yoga Mat - Ajna",
+              "productType": "Suede Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-kundalini",
+              "titleOriginal": "Recycled Suede Yoga Mat - Kundalini",
+              "productType": "Suede Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-sacred-rubber",
+              "titleOriginal": "Recycled Suede Yoga Mat - Sacred",
+              "productType": "Suede Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-zakti",
+              "titleOriginal": "Recycled Suede Yoga Mat - Zakti",
+              "productType": "Suede Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "shaktiwarrior:tpe",
+          "seriesName": "TPE",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "shaktiwarrior-ajna",
+              "titleOriginal": "TPE Yoga Mat - Ajna",
+              "productType": "TPE Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-jnana-yoga-mat",
+              "titleOriginal": "TPE Yoga Mat - Jnana",
+              "productType": "TPE Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-sahasrara",
+              "titleOriginal": "TPE Yoga Mat - Black Gold Lotus",
+              "productType": "TPE Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "shaktiwarrior-tpe-yoga-mat-akasa",
+              "titleOriginal": "TPE Yoga Mat - Dreamcatcher",
+              "productType": "TPE Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "stakt",
+      "totalProducts": 3,
+      "assignedProducts": 3,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "stakt:foldable",
+          "seriesName": "Foldable",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "stakt-the-mat",
+              "titleOriginal": "The Stakt Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "stakt:pro",
+          "seriesName": "Pro",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "stakt-the-stakt-mat-pro",
+              "titleOriginal": "The Stakt Mat Pro",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "stakt:pro-xl",
+          "seriesName": "Pro XL",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "stakt-stakt-mat-pro-xl",
+              "titleOriginal": "The Stakt Mat Pro XL",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "sumoyoga",
+      "totalProducts": 6,
+      "assignedProducts": 6,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "sumoyoga:tatami",
+          "seriesName": "Tatami",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "sumoyoga-black-tatami-yoga-mat",
+              "titleOriginal": "Indigo Tatami Yoga Mat",
+              "productType": "Yogamat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "sumoyoga-gray-tatami-yoga-mat",
+              "titleOriginal": "Gray Tatami Yoga Mat",
+              "productType": "Yogamat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "sumoyoga-matcha-tatami-yoga-mat",
+              "titleOriginal": "Matcha Tatami Yoga Mat",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "sumoyoga-mustard-tatami-yoga-mat",
+              "titleOriginal": "Mustard Tatami Yoga Mat",
+              "productType": "Yogamat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "sumoyoga-nude-tatami-yoga-mat",
+              "titleOriginal": "Nude Tatami Yoga Mat",
+              "productType": "",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "sumoyoga-olive-tatami-yoga-mat",
+              "titleOriginal": "Olive Tatami Yoga Mat",
+              "productType": "Yogamat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "totalProducts": 10,
+      "assignedProducts": 10,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "thesatoriconcept:xl",
+          "seriesName": "XL Cork",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "thesatoriconcept-extra-large-cork-yoga-mat",
+              "titleOriginal": "XL Original Cork Yoga Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-xl-6mm-mountain-cork-mat",
+              "titleOriginal": "XL Mountain Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-xl-blue-whale-cork-yoga-mat-80x26x6mm",
+              "titleOriginal": "XL Blue Whale Cork Yoga Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-xl-four-elements-cork-yoga-mat-80x26x6mm",
+              "titleOriginal": "XL Four Elements Cork Yoga Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-xl-phoenix-cork-yoga-mat",
+              "titleOriginal": "XL Phoenix Cork Yoga Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-xl-the-earth-cork-yoga-mat-80x26x6mm",
+              "titleOriginal": "XL The Earth Cork Yoga Mat (80\"x26\"x6mm)",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "thesatoriconcept:original-cork",
+          "seriesName": "Original Cork",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "thesatoriconcept-7-chakras-cork-yoga-mat",
+              "titleOriginal": "7 Chakras Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-garden-of-flower-cork-yoga-mat",
+              "titleOriginal": "Garden of Flower Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-satoriconcept-original-cork-yoga-mat",
+              "titleOriginal": "Original Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "thesatoriconcept-the-peaceful-mountain-cork-yoga-mat",
+              "titleOriginal": "Peaceful Mountain Cork Yoga Mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "woloyoga",
+      "totalProducts": 7,
+      "assignedProducts": 3,
+      "unassignedProducts": 4,
+      "series": [
+        {
+          "seriesKey": "woloyoga:ascend",
+          "seriesName": "Ascend",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "woloyoga-ascend-yoga-mat",
+              "titleOriginal": "Ascend Mat 4mm",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "woloyoga:mastery",
+          "seriesName": "Mastery",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "woloyoga-mastery-yoga-mat",
+              "titleOriginal": "Mastery Mat 4mm",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "woloyoga:travel",
+          "seriesName": "Travel",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "woloyoga-away-travel-mat",
+              "titleOriginal": "Away Travel Mat 1.5mm",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "woloyoga-complete-flow-bundle",
+          "titleOriginal": "Complete Flow Bundle",
+          "productType": ""
+        },
+        {
+          "slug": "woloyoga-dual-flow-bundle",
+          "titleOriginal": "Dual Flow Bundle",
+          "productType": ""
+        },
+        {
+          "slug": "woloyoga-elevate-flow-bundle",
+          "titleOriginal": "Elevate Flow Bundle",
+          "productType": ""
+        },
+        {
+          "slug": "woloyoga-travel-flow-bundle",
+          "titleOriginal": "Travel Flow Bundle",
+          "productType": ""
+        }
+      ]
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "totalProducts": 49,
+      "assignedProducts": 49,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "yogadesignlab:combo",
+          "seriesName": "Combo",
+          "productCount": 21,
+          "products": [
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-3-5mm-monaco",
+              "titleOriginal": "Combo Yoga Mat - Monaco",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-aegean-green",
+              "titleOriginal": "Combo Yoga Mat - Aegean Green",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-boho-glow",
+              "titleOriginal": "Combo Yoga Mat - Boho Glow",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-breathe",
+              "titleOriginal": "Combo Yoga Mat - Breathe",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-butterfly-glow",
+              "titleOriginal": "Combo Yoga Mat - Butterfly Glow",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-celestial",
+              "titleOriginal": "Combo Yoga Mat - Celestial",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-crystal",
+              "titleOriginal": "Combo Yoga Mat - Crystal",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-earth-green",
+              "titleOriginal": "Combo Yoga Mat - Earth Green",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-geo",
+              "titleOriginal": "Combo Yoga Mat - Geo",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-iris",
+              "titleOriginal": "Combo Yoga Mat - Iris",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-jungle-harmony",
+              "titleOriginal": "Combo Yoga Mat - Jungle Harmony",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-mandala-black",
+              "titleOriginal": "Combo Yoga Mat - Mandala Black",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-mandala-sapphire",
+              "titleOriginal": "Combo Yoga Mat - Mandala Sapphire",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-mandala-turquoise",
+              "titleOriginal": "Combo Yoga Mat - Mandala Turquoise",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-pearl",
+              "titleOriginal": "Combo Yoga Mat - Pearl",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-rainbow",
+              "titleOriginal": "Combo Yoga Mat - Rainbow",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-rose",
+              "titleOriginal": "Combo Yoga Mat - Rose",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-tribeca-sand",
+              "titleOriginal": "Combo Yoga Mat - Tribeca Sand",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-xl-celestial",
+              "titleOriginal": "Combo Yoga Mat XL - Celestial",
+              "productType": "Combo Yoga Mat XL",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-zen-zebra",
+              "titleOriginal": "Combo Yoga Mat - Zen Zebra",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-zenith",
+              "titleOriginal": "Combo Yoga Mat - Zenith",
+              "productType": "Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogadesignlab:travel-combo",
+          "seriesName": "Travel Combo",
+          "productCount": 13,
+          "products": [
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-breathe",
+              "titleOriginal": "Travel Combo Yoga Mat - Breathe",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-geo",
+              "titleOriginal": "Travel Combo Yoga Mat - Geo",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-black",
+              "titleOriginal": "Travel Combo Yoga Mat - Mandala Black",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-mandala-turquoise",
+              "titleOriginal": "Travel Combo Yoga Mat - Mandala Turquoise",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-monaco",
+              "titleOriginal": "Travel Combo Yoga Mat - Monaco",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-1-5mm-tribeca-sand",
+              "titleOriginal": "Travel Combo Yoga Mat - Tribeca Sand",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-boho-glow",
+              "titleOriginal": "Travel Combo Yoga Mat - Boho Glow",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-butterfly-glow",
+              "titleOriginal": "Travel Combo Yoga Mat - Butterfly Glow",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-celestial",
+              "titleOriginal": "Travel Combo Yoga Mat - Celestial",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-crystal",
+              "titleOriginal": "Travel Combo Yoga Mat - Crystal",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-iris",
+              "titleOriginal": "Travel Combo Yoga Mat - Iris",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-rose",
+              "titleOriginal": "Travel Combo Yoga Mat - Rose",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-combo-yoga-mat-zenith",
+              "titleOriginal": "Travel Combo Yoga Mat - Zenith",
+              "productType": "Travel Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogadesignlab:infinity",
+          "seriesName": "Infinity",
+          "productCount": 7,
+          "products": [
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-coral",
+              "titleOriginal": "Infinity Yoga Mat - Diamond Align Coral",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-5mm-diamond-align-navy",
+              "titleOriginal": "Infinity Yoga Mat - Diamond Align Navy",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-5mm-night",
+              "titleOriginal": "Infinity Yoga Mat - Night",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-eternal",
+              "titleOriginal": "Infinity Yoga Mat - Eternal",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-mandala-charcoal",
+              "titleOriginal": "Infinity Yoga Mat - Mandala Charcoal",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-mandala-rose",
+              "titleOriginal": "Infinity Yoga Mat - Mandala Rose",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-infinity-yoga-mat-mandala-teal",
+              "titleOriginal": "Infinity Yoga Mat - Mandala Teal",
+              "productType": "Infinity Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogadesignlab:kids-combo",
+          "seriesName": "Kids Combo",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-kids-geo",
+              "titleOriginal": "Kids Combo Yoga Mat - Geo",
+              "productType": "Kids Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-combo-yoga-mat-kids-geo-blue",
+              "titleOriginal": "Kids Combo Yoga Mat - Geo Blue",
+              "productType": "Kids Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-kids-combo-yoga-mat-celestial",
+              "titleOriginal": "Kids Combo Yoga Mat - Celestial",
+              "productType": "Kids Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-kids-combo-yoga-mat-jungle",
+              "titleOriginal": "Kids Combo Yoga Mat - Jungle",
+              "productType": "Kids Combo Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogadesignlab:original-cork",
+          "seriesName": "Original Cork",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "yogadesignlab-cork-yoga-mat-mandala-black",
+              "titleOriginal": "Cork Yoga Mat - Mandala Black",
+              "productType": "Cork Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-cork-yoga-mat-natural-balance",
+              "titleOriginal": "Cork Yoga Mat - Natural Balance",
+              "productType": "Cork Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogadesignlab:travel-cork",
+          "seriesName": "Travel Cork",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "yogadesignlab-cork-yoga-mat-1-5mm-mandala-black",
+              "titleOriginal": "Travel Cork Yoga Mat - Mandala Black",
+              "productType": "Travel Cork Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogadesignlab-travel-cork-yoga-mat-natural-balance",
+              "titleOriginal": "Travel Cork Yoga Mat - Natural Balance",
+              "productType": "Travel Cork Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "yogakargha",
+      "totalProducts": 27,
+      "assignedProducts": 24,
+      "unassignedProducts": 3,
+      "series": [
+        {
+          "seriesKey": "yogakargha:organic-cotton",
+          "seriesName": "Organic Cotton",
+          "productCount": 10,
+          "products": [
+            {
+              "slug": "yogakargha-ak-yogamats-amrit-royalblue-organic-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-design-amrit-nectar-royalblue",
+              "titleOriginal": "Moon Light Organic Cotton Yoga Mat | Handwoven, Anti-Skid Option | Celestial Moon Phases, Mustard or Black | Eco-Friendly & Gift Ready",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-anti-skid-mats-yogakargha",
+              "titleOriginal": "Organic Cotton Yoga Mat | 6mm Thick Weave | Handwoven & Eco-Friendly",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-best-non-slip-yoga-mat",
+              "titleOriginal": "Handwoven Organic Cotton Yoga & Meditation Mat- Just Like a Rainbow",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-grip-mat-handblock-mat-for-yoga",
+              "titleOriginal": "Hand-Block Printed Antiskid Sweat Absorbent Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-organic-cotton-mat-mediation-mat-for-yoga-pilates-16657",
+              "titleOriginal": "Organic Cotton Undyed Natural White Yoga Mat With Antiskid",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-organic-cotton-mat-organic-yoga-mat-yogakargha",
+              "titleOriginal": "Organic Cotton Yoga Mat | Handwoven, Anti-Skid & Extra Long | All-Season Bestseller",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-organic-cotton-yoga-mat-pilates-mat-yogakargha",
+              "titleOriginal": "Organic Cotton Amrit Yoga Mat - Handwoven • Machine Washable • Optional Anti-Skid Backing",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-organic-mat-knitted-pattern-mat-for-yoga-pilates",
+              "titleOriginal": "Organic Cotton Yoga Mat | Knotted Handwoven, Anti-Skid & Extra Large | Eco-Friendly, Washable, Biodegradable |",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-premium-organic-cotton-seven-chakra-45907",
+              "titleOriginal": "Organic Cotton Seven Chakra Embroidered Mat for Yoga and Meditation",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-restorative-organic-cotton-yoga-mat-2-in-1",
+              "titleOriginal": "Restorative Organic Cotton Yoga Mat – 2-in-1 Multifunctional Mat for Joint & Knee Support",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogakargha:cotton",
+          "seriesName": "Cotton",
+          "productCount": 6,
+          "products": [
+            {
+              "slug": "yogakargha-ak01-punja-miami-yogakargha-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-miami",
+              "titleOriginal": "Handwoven Cotton Mat for Yoga and Meditation or Home Decor - Chicago",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-ak02-punja-chicago-yogakargha-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-chicago",
+              "titleOriginal": "Handwoven Cotton Mat for Yoga and Meditation or Home Decor - Amsterdam",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-ak03-punja-amsterdam-yogakargha-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-amsterdam",
+              "titleOriginal": "Handwoven Cotton Mat for Yoga and Meditation or Home Decor - Kyoto",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-ak04-punja-kyoto-yogakargha-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-kyoto",
+              "titleOriginal": "YogaKargha Cotton Handwoven Mat for Yoga and Meditation- Sydney",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-anti-skid-indigo-yoga-mat-non-slip-mat-for-yoga",
+              "titleOriginal": "Handwoven Indigo Cotton Yoga Mat | Anti-Skid, Eco-Friendly Mat for Yoga, Pilates & Meditation | Vegan, Natural Dyed Rug",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-organic-natural-cotton-mat-yogakargha",
+              "titleOriginal": "Natural Cotton Mat for Yoga and Meditation - Anti Skid",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogakargha:grass",
+          "seriesName": "Grass",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "yogakargha-ak-yogamats-greengrass-dhyana-darbha-kusha-grass-fiber-mat-for-yoga-pilates-fitness-and-meditation-handwoven-anti-skid-color-natural-green-design-dhyana",
+              "titleOriginal": "Handwoven Anti Skid Darbha Grass Fiber Mat for Yoga and Meditation",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-natural-yoga-mat-natural-vetiver-mat-yogakargha",
+              "titleOriginal": "Vetiver (Khus) Grass Yoga Mat | Handwoven, Aromatic & Anti-Skid | Eco-Friendly",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-premium-grass-fiber-mat-for-yoga-43271",
+              "titleOriginal": "Handwoven Premium Grass Fiber Restorative Antiskid Mat for Yoga and Meditation - Meas",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogakargha:banana-fiber",
+          "seriesName": "Banana Fiber",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "yogakargha-premium-natural-banana-fiber-mat-for-21121",
+              "titleOriginal": "Handwoven Premium Natural Banana Fiber Antiskid Mat for Yoga and Meditation",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-premium-natural-fiber-mats-for-yoga-57190",
+              "titleOriginal": "Banana Fiber Yoga Mat | Handwoven, Eco-Friendly & Anti-Skid | Made in India",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogakargha:travel",
+          "seriesName": "Travel",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "yogakargha-ak-yogamats-amrit-sugarcookie-organic-cotton-handwoven-mat-for-yoga-pilates-fitness-prayer-meditation-or-home-decor-design-amrit-nectar-sugarcookie",
+              "titleOriginal": "Handwoven Organic Cotton Travel Yoga Mat | Lightweight, Foldable & Eco-Friendly | Anti-Skid, Washable, Handmade in India",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogakargha-hand-block-printed-non-slip-indigo-yoga-meditation-mat",
+              "titleOriginal": "Hand-Block Printed Non Slip Indigo Travel Yoga & Meditation Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogakargha:cork",
+          "seriesName": "Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogakargha-ak-yogamats-corkgardenof5senses-anti-skid-sweat-absorbent-cork-yoga-mat-for-sustainable-comfortable-yoga-pilates-fitness-and-meditation-garden-of-five-senses",
+              "titleOriginal": "Hand Block Printed Cork Yoga Mat – Garden of Five Senses",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "yogakargha-ak-yogamats-travelmatbundle-natural-cotton-yoga-mat-bundle-set-of-two-couple-yoga-mat-set-3-4-mm-yoga-travel-mat-beach-mat",
+          "titleOriginal": "Handwoven Cotton Mat for Yoga, Meditation or Home Decor - Miami",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yogakargha-wool-cotton-premium-yoga-mat-and-zafu-74659",
+          "titleOriginal": "Wool & Cotton Premium Yoga Mat and Zafu Yoga Meditation Cushion Set - Maroon",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yogakargha-wool-cotton-premium-yoga-mat-and-zafu-83450",
+          "titleOriginal": "Wool & Cotton Premium Yoga Mat and Zafu Yoga Meditation Cushion Set - Neel Padam",
+          "productType": "Yoga & Pilates Mats"
+        }
+      ]
+    },
+    {
+      "brandSlug": "yogamatters",
+      "totalProducts": 46,
+      "assignedProducts": 12,
+      "unassignedProducts": 34,
+      "series": [
+        {
+          "seriesKey": "yogamatters:organic-cotton",
+          "seriesName": "Organic Cotton",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-organic-cotton-chambray-yoga-mat",
+              "titleOriginal": "Yogamatters Organic Cotton Chambray Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogamatters-yogamatters-organic-cotton-yoga-mat-1",
+              "titleOriginal": "Yogamatters Organic Cotton Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogamatters-yogamatters-restore-organic-cotton-yoga-nidra-mat",
+              "titleOriginal": "Yogamatters Organic Cotton Restorative Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:aqua-evolve",
+          "seriesName": "Aqua Evolve",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-aqua-evolve-yoga-mat",
+              "titleOriginal": "Yogamatters Aqua Evolve Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:eco-cork",
+          "seriesName": "Eco Cork",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-eco-cork-yoga-mat",
+              "titleOriginal": "Yogamatters Eco Cork Yoga Mat - Green",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:eco-flow",
+          "seriesName": "Eco Flow",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-eco-flow-yoga-mat",
+              "titleOriginal": "Yogamatters Eco Flow Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:everyday",
+          "seriesName": "Everyday",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-eco-everyday-yoga-mat",
+              "titleOriginal": "Yogamatters Eco Everyday Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:rise",
+          "seriesName": "Rise",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-eco-everyday-rise-yoga-mat",
+              "titleOriginal": "Yogamatters Eco Rise Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:signature-studio",
+          "seriesName": "Signature Studio",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-everyday-studio-mat",
+              "titleOriginal": "Yogamatters Signature Studio Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:thrive-pu",
+          "seriesName": "Thrive PU",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-thrive-pu-yoga-mat",
+              "titleOriginal": "Yogamatters Thrive PU Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:travel",
+          "seriesName": "Travel",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-eco-travel-yoga-mat",
+              "titleOriginal": "Yogamatters Eco Travel Yoga Mat",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogamatters:ultra-lightweight",
+          "seriesName": "Ultra Lightweight",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogamatters-yogamatters-lightweight-exercise-mat-black",
+              "titleOriginal": "Yogamatters Ultra Lightweight Exercise Mat - Black",
+              "productType": "Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "yogamatters-ecoyoga-jute-mat",
+          "titleOriginal": "ecoYoga Jute Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-jade-yoga-harmony-mat-188cm",
+          "titleOriginal": "Jade Yoga Harmony Mat - 188cm",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-jade-yoga-mat-harmony",
+          "titleOriginal": "Jade Yoga Harmony Mat - 173cm",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-jade-yoga-organic-cotton-mysore-yoga-rug",
+          "titleOriginal": "Jade Yoga Organic Cotton Mysore Yoga Rug",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-jade-yoga-travel-mat",
+          "titleOriginal": "Jade Yoga Travel Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-jade-yoga-voyager-mat",
+          "titleOriginal": "Jade Yoga Voyager Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-eko-lite-3-0-4mm-yoga-mat",
+          "titleOriginal": "Manduka eKO Lite 3.0 4mm Yoga Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-eko-superlite-travel-mat",
+          "titleOriginal": "Manduka eKO Superlite Travel Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-pro-extra-long-and-wide-yoga-mat-black",
+          "titleOriginal": "Manduka PRO Extra Long and Wide Yoga Mat -  Black",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-pro-mat-long",
+          "titleOriginal": "Manduka PRO Yoga Mat - Long",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-pro-travel-mat-2-0",
+          "titleOriginal": "Manduka Pro Travel Mat 2mm",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-pro-yoga-mat",
+          "titleOriginal": "Manduka PRO Yoga Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-prolite-mat-long",
+          "titleOriginal": "Manduka PROlite Yoga Mat - Long",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-prolite-yoga-mat",
+          "titleOriginal": "Manduka PROlite Yoga Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-ratio-merino-wool-relaxation-mat-natural",
+          "titleOriginal": "Manduka Ratio Merino Wool Relaxation Mat - Natural",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-rheo-comfort-cushion-mat-magic-moon-marble",
+          "titleOriginal": "Manduka Rheo Comfort Cushion Mat - Magic Moon Marble",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-manduka-shala-yoga-rug",
+          "titleOriginal": "Manduka Shala Yoga Rug",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-pilates-studio-pro-mat-180-cm",
+          "titleOriginal": "Yoga-Mad Pilates Studio Pro Mat",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-1mm-travel-mat-breathe",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm - Breathe",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-3-5mm-studio-mat-mandala-black",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Mandala Black",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-3-5mm-studio-mat-mandala-turquoise",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Mandala Turquoise",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-cork-mat-3-5mm-nature-balance",
+          "titleOriginal": "Yoga Design Lab Cork Mat 3.5mm - Natural Balance",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-cork-mat-mandala-black",
+          "titleOriginal": "Yoga Design Lab Cork Mat 3.5mm - Mandala Black",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-infinity-mat-charcoal",
+          "titleOriginal": "Yoga Design Lab Infinity Mat 5mm - Mandala Charcoal",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-aegean-green",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Aegean Green",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-breathe",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Breathe",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-celestial",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Celestial",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-studio-mat-3-5mm-zenith",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm - Zenith",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-travel-mat-1-5mm-aegean-green",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm- Aegean Green",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-travel-mat-1-5mm-boho-glow",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm- Boho Glow",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-travel-mat-1-5mm-celestial",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm - Celestial",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-travel-mat-1-5mm-crystal",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm- Crystal",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-lab-travel-mat-1-5mm-zenith",
+          "titleOriginal": "Yoga Design Lab Travel Mat 1.5mm- Zenith",
+          "productType": "Mat"
+        },
+        {
+          "slug": "yogamatters-yoga-design-studio-mat-3-5mm-rose",
+          "titleOriginal": "Yoga Design Lab Studio Mat 3.5mm- Rose",
+          "productType": "Mat"
+        }
+      ]
+    },
+    {
+      "brandSlug": "yogibare",
+      "totalProducts": 10,
+      "assignedProducts": 10,
+      "unassignedProducts": 0,
+      "series": [
+        {
+          "seriesKey": "yogibare:evergrip",
+          "seriesName": "EverGrip",
+          "productCount": 4,
+          "products": [
+            {
+              "slug": "yogibare-ever-grip-paws-desert-rose",
+              "titleOriginal": "EverGrip Non Slip Matte Yoga Mat. Natural Rubber - Desert Rose",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-ever-grip-paws-warm-sand",
+              "titleOriginal": "EverGrip Non Slip Matte Yoga Mat. Natural Rubber - Warm Sand",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-midnight-black-ever-grip-paws-with-eyelets",
+              "titleOriginal": "EverGrip Non Slip Matte Yoga Mat. Natural Rubber - Midnight Black",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-minimalist-black-ever-grip-yoga-mat",
+              "titleOriginal": "EverGrip Non Slip Matte Yoga Mat. Natural Rubber - The Minimalist",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogibare:performance-pilates",
+          "seriesName": "Performance Pilates",
+          "productCount": 3,
+          "products": [
+            {
+              "slug": "yogibare-pilates-mat",
+              "titleOriginal": "Performance Pilates Arch Mat Natural Rubber - Chocolate",
+              "productType": "Pilates Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-pilates-mat-black",
+              "titleOriginal": "Performance Pilates Arch Mat Natural Rubber - Black",
+              "productType": "Pilates Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-pilates-mat-black-copy",
+              "titleOriginal": "Performance Pilates Arch Mat Natural Rubber - Milk",
+              "productType": "Pilates Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogibare:bare-paws-original",
+          "seriesName": "Bare Paws (The Original)",
+          "productCount": 2,
+          "products": [
+            {
+              "slug": "yogibare-yogi-bare-paws-yoga-mat-midnight",
+              "titleOriginal": "The Original Paws Sticky Grip Yoga Mat. Natural Rubber - Midnight Black",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yogibare-yogi-bare-paws-yoga-pilates-mat-wild-forest",
+              "titleOriginal": "The Original Paws Sticky Grip Yoga Mat. Natural Rubber -  Wild Forest",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yogibare:flow-paws",
+          "seriesName": "Flow Paws",
+          "productCount": 1,
+          "products": [
+            {
+              "slug": "yogibare-flow-paws-natural-rubber-extreme-grip-yoga-mat",
+              "titleOriginal": "Flow Paws - Natural rubber extreme grip yoga mat",
+              "productType": "Yoga Mat",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": []
+    },
+    {
+      "brandSlug": "yoloha",
+      "totalProducts": 50,
+      "assignedProducts": 30,
+      "unassignedProducts": 20,
+      "series": [
+        {
+          "seriesKey": "yoloha:unity",
+          "seriesName": "Unity",
+          "productCount": 18,
+          "products": [
+            {
+              "slug": "yoloha-awaken-and-transform-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Awaken and Transform Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-balance-and-unity-aura-cork-yoga-mat",
+              "titleOriginal": "Balance and Unity Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-balance-and-unity-nomad-xl-cork-yoga-mat",
+              "titleOriginal": "Balance and Unity Nomad XL Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-balance-and-unity-original-cork-yoga-mat",
+              "titleOriginal": "Balance and Unity Original Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-balance-and-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Balance and Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-el-dorado-unity-pro-cork-yoga-mat",
+              "titleOriginal": "El Dorado Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-flight-home-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Flight Home Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-harmony-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Harmony Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-harmony-unity-pro-xl-cork-yoga-mat",
+              "titleOriginal": "Harmony Unity Pro XL Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-infinite-bloom-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Infinite Bloom Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-infinite-transformation-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Infinite Transformation Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-mountain-magic-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Mountain Magic Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-mountain-magic-unity-pro-xl-cork-yoga-mat",
+              "titleOriginal": "Mountain Magic Unity Pro XL Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-pond-of-harmony-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Pond of Harmony Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-pond-of-harmony-unity-pro-xl-cork-yoga-mat",
+              "titleOriginal": "Pond of Harmony Unity Pro XL Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-tiger-lotus-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Tiger Lotus Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-unity-pro-cork-yoga-mat",
+              "titleOriginal": "Unity Pro Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-unity-xl-cork-yoga-mat",
+              "titleOriginal": "Unity Pro XL Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        },
+        {
+          "seriesKey": "yoloha:aura",
+          "seriesName": "Aura",
+          "productCount": 12,
+          "products": [
+            {
+              "slug": "yoloha-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-awaken-and-transform-aura-cork-yoga-mat",
+              "titleOriginal": "Awaken and Transform Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-blossom-aura-cork-yoga-mat",
+              "titleOriginal": "Blossom Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-chakras-aura-cork-yoga-mat",
+              "titleOriginal": "Chakras Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-flight-home-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Flight Home Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-float-on-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Float On Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-harmony-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Harmony Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-infinite-bloom-aura-cork-yoga-mat",
+              "titleOriginal": "Infinite Bloom Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-inhale-exhale-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Inhale Exhale Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-mountain-magic-aura-cork-yoga-mat",
+              "titleOriginal": "Mountain Magic Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-pond-of-harmony-aura-cork-yoga-mat-plant-foam",
+              "titleOriginal": "Pond of Harmony Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            },
+            {
+              "slug": "yoloha-tiger-lotus-aura-cork-yoga-mat",
+              "titleOriginal": "Tiger Lotus Aura Cork Yoga Mat",
+              "productType": "Yoga & Pilates Mats",
+              "seriesVersion": "series-manual-v1"
+            }
+          ]
+        }
+      ],
+      "unassigned": [
+        {
+          "slug": "yoloha-blossom-original-cork-yoga-mat",
+          "titleOriginal": "Blossom Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-chakras-original-cork-yoga-mat",
+          "titleOriginal": "Chakras Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-earth-rest-nomad-cork-yoga-mat",
+          "titleOriginal": "Earth Rest Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-harmony-original-cork-yoga-mat-plant-foam",
+          "titleOriginal": "Harmony Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-infinite-transformation-nomad-cork-yoga-mat",
+          "titleOriginal": "Infinite Transformation Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-mind-of-the-universe-nomad-cork-yoga-mat",
+          "titleOriginal": "Mind of the Universe Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-mountain-magic-nomad-cork-yoga-mat",
+          "titleOriginal": "Mountain Magic Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-mountain-magic-nomad-xl-cork-yoga-mat",
+          "titleOriginal": "Mountain Magic Nomad XL Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-mountain-magic-original-cork-yoga-mat",
+          "titleOriginal": "Mountain Magic Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-nomad-cork-yoga-mat-plant-foam",
+          "titleOriginal": "Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-nomad-xl-cork-yoga-mat",
+          "titleOriginal": "Nomad XL Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-original-cork-yoga-mat-plant-foam",
+          "titleOriginal": "Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-pond-of-harmony-nomad-cork-yoga-mat",
+          "titleOriginal": "Pond of Harmony Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-pond-of-harmony-nomad-xl-cork-yoga-mat",
+          "titleOriginal": "Pond of Harmony Nomad XL Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-pond-of-harmony-original-cork-yoga-mat",
+          "titleOriginal": "Pond Of Harmony Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-solar-and-lunar-original-cork-yoga-mat",
+          "titleOriginal": "Solar and Lunar Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-swirly-flow-nomad-cork-yoga-mat",
+          "titleOriginal": "Swirly Flow Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-tiger-lotus-nomad-cork-yoga-mat",
+          "titleOriginal": "Tiger Lotus Nomad Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-tiger-lotus-original-cork-yoga-mat",
+          "titleOriginal": "Tiger Lotus Original Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        },
+        {
+          "slug": "yoloha-travel-cork-yoga-mat",
+          "titleOriginal": "Nomad Air Cork Yoga Mat",
+          "productType": "Yoga & Pilates Mats"
+        }
+      ]
+    }
+  ]
+}
