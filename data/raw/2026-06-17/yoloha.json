@@ -1,0 +1,635 @@
+{
+  "products": [
+    {
+      "id": 7114270834876,
+      "title": "Aura Cork Yoga Mat",
+      "handle": "aura-cork-yoga-mat-plant-foam",
+      "body_html": "<p>The Aura was created with comfort and sustainability in mind. Made from renewable materials, our most cushioned yoga mat provides added support for your joints. We developed a fine-grain cork surface for a soft feel, yet with no sacrifice on grip, which increases with moisture. Our signature plant foam bottom is optimized for stability and energy return. The Aura will completely change your perspective on how a yoga mat can be so light, yet durable and high-performing.</p>",
+      "published_at": "2021-09-08T13:24:19-04:00",
+      "created_at": "2021-09-08T13:24:19-04:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "Aura",
+        "mat collection",
+        "not on sale",
+        "plant",
+        "Plant Foam",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 40884571668668,
+          "title": "72\" x 26\"",
+          "option1": "72\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-AUR-72",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "99.00",
+          "grams": 1451,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7114270834876,
+          "created_at": "2021-09-21T11:51:39-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        },
+        {
+          "id": 41670961823956,
+          "title": "80\" x 26\"",
+          "option1": "80\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-AUR-80",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "119.00",
+          "grams": 1588,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7114270834876,
+          "created_at": "2021-10-15T10:49:19-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39445904916692,
+          "created_at": "2023-09-28T10:30:08-04:00",
+          "position": 1,
+          "updated_at": "2023-09-28T10:30:13-04:00",
+          "product_id": 7114270834876,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Aura-Cork-Yoga-Mat.jpg?v=1695911413",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445904851156,
+          "created_at": "2023-09-28T10:30:08-04:00",
+          "position": 2,
+          "updated_at": "2023-09-28T10:30:13-04:00",
+          "product_id": 7114270834876,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Aura-Cork-Yoga-Mat-Detail_320f9c99-9917-49c5-8307-bf15205cbe96.jpg?v=1695911413",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445904883924,
+          "created_at": "2023-09-28T10:30:08-04:00",
+          "position": 3,
+          "updated_at": "2023-10-19T16:49:15-04:00",
+          "product_id": 7114270834876,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Aura-Cork-Yoga-Mat-Rolled.jpg?v=1697748555",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "72\" x 26\"",
+            "80\" x 26\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8629327790292,
+      "title": "Unity Pro Cork Yoga Mat",
+      "handle": "unity-pro-cork-yoga-mat",
+      "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Discover the Unity Pro, our most durable and sustainable yoga mat to date. Crafted from 83% USDA-certified renewable materials, this mat is thoughtfully engineered to balance peak performance with superior comfort. Its unique cork and natural rubber blend creates an unmatched non-slip surface in wet or dry conditions, ensuring stability and confidence in every pose, making it the ideal choice for any style of practice.<br></p>",
+      "published_at": "2024-11-05T07:49:51-05:00",
+      "created_at": "2024-09-17T10:33:09-04:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "mat collection",
+        "not on sale",
+        "Plant Foam",
+        "unity pro",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 45639743078612,
+          "title": "72\" x 26\"",
+          "option1": "72\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-UNI-PRO-72",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "159.00",
+          "grams": 3175,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8629327790292,
+          "created_at": "2024-09-17T10:33:09-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        },
+        {
+          "id": 45639743111380,
+          "title": "80\" x 26\"",
+          "option1": "80\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-UNI-PRO-80",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "179.00",
+          "grams": 3719,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 8629327790292,
+          "created_at": "2024-09-17T10:33:09-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        },
+        {
+          "id": 45639743144148,
+          "title": "84\" X 30\"",
+          "option1": "84\" X 30\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-UNI-PRO-84",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "219.00",
+          "grams": 4536,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 8629327790292,
+          "created_at": "2024-09-17T10:33:09-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 41799735836884,
+          "created_at": "2024-09-17T12:12:41-04:00",
+          "position": 1,
+          "updated_at": "2024-09-17T12:12:43-04:00",
+          "product_id": 8629327790292,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Unity-Pro-Cork-Yoga-Mat.jpg?v=1726589563",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 41799735869652,
+          "created_at": "2024-09-17T12:12:41-04:00",
+          "position": 2,
+          "updated_at": "2024-09-17T12:12:43-04:00",
+          "product_id": 8629327790292,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Unity-Pro-Cork-Yoga-Mat-Detail.jpg?v=1726589563",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 41799735935188,
+          "created_at": "2024-09-17T12:12:41-04:00",
+          "position": 3,
+          "updated_at": "2025-09-17T11:56:55-04:00",
+          "product_id": 8629327790292,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Unity-Pro-Cork-Yoga-Mat-Rolled.jpg?v=1758124615",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "72\" x 26\"",
+            "80\" x 26\"",
+            "84\" X 30\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7434368778452,
+      "title": "Original Cork Yoga Mat",
+      "handle": "original-cork-yoga-mat-plant-foam",
+      "body_html": "<p class=\"p1\">The Original reimagines how a yoga mat made from 51% renewable materials can be so high-performing for any practice. The world’s first cork yoga mat uses a premium layer of extra thick cork for a grounded, non-slip experience dry or wet with no need for a towel. Our signature Plant Foam bottom is optimized for cushion, stability, and energy return.</p>\n<p class=\"p1\"> </p>",
+      "published_at": "2021-11-08T14:36:15-05:00",
+      "created_at": "2021-11-08T14:21:13-05:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "mat collection",
+        "not on sale",
+        "Original",
+        "plant",
+        "Plant Foam",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 42023038222548,
+          "title": "72\" x 26\"",
+          "option1": "72\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-ORG-72",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "139.00",
+          "grams": 1588,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7434368778452,
+          "created_at": "2021-11-08T14:21:13-05:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        },
+        {
+          "id": 42023038255316,
+          "title": "80\" x 26\"",
+          "option1": "80\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-ORG-80",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "159.00",
+          "grams": 1814,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7434368778452,
+          "created_at": "2021-11-08T14:21:13-05:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39445913141460,
+          "created_at": "2023-09-28T10:45:17-04:00",
+          "position": 1,
+          "updated_at": "2023-09-28T10:45:26-04:00",
+          "product_id": 7434368778452,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Original-Cork-Yoga-Mat-square.jpg?v=1695912326",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445913108692,
+          "created_at": "2023-09-28T10:45:17-04:00",
+          "position": 2,
+          "updated_at": "2023-09-28T10:45:26-04:00",
+          "product_id": 7434368778452,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Original-Cork-Yoga-Mat-Detail_25d424de-3d4a-4227-b93e-dacd05041680.jpg?v=1695912326",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445913174228,
+          "created_at": "2023-09-28T10:45:17-04:00",
+          "position": 3,
+          "updated_at": "2023-09-28T10:45:26-04:00",
+          "product_id": 7434368778452,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Original-Cork-Yoga-Mat-Rolled_8d4f61ff-119d-4eb5-ba0b-d28af31a63b3.jpg?v=1695912326",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "72\" x 26\"",
+            "80\" x 26\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7434379034836,
+      "title": "Nomad Cork Yoga Mat",
+      "handle": "nomad-cork-yoga-mat-plant-foam",
+      "body_html": "<p><meta charset=\"utf-8\">Meet our extra light and ultra versatile yoga mat made with renewable materials. A premium layer of eco-friendly cork provides a non-slip and antimicrobial surface that is easy to care for and maintain. A luxuriously dense plant foam base, free of PVC’s and latex gives added comfort and support. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the Nomad will be there for you.</p>",
+      "published_at": "2021-11-08T14:41:36-05:00",
+      "created_at": "2021-11-08T14:37:11-05:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "mat collection",
+        "Nomad",
+        "nomad-sibling",
+        "not on sale",
+        "plant",
+        "Plant Foam",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 42569287368916,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-NMD-72",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "119.00",
+          "grams": 1361,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7434379034836,
+          "created_at": "2022-03-21T10:49:29-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39446007185620,
+          "created_at": "2023-09-28T11:44:23-04:00",
+          "position": 1,
+          "updated_at": "2023-09-28T11:44:28-04:00",
+          "product_id": 7434379034836,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Nomad-Cork-Yoga-Mat.jpg?v=1695915868",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39446007120084,
+          "created_at": "2023-09-28T11:44:23-04:00",
+          "position": 2,
+          "updated_at": "2023-09-28T11:44:28-04:00",
+          "product_id": 7434379034836,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Nomad-Cork-Yoga-Mat-Detail_e5e192bb-1c31-4539-98d0-bc284e8f9034.jpg?v=1695915868",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39446007283924,
+          "created_at": "2023-09-28T11:44:23-04:00",
+          "position": 3,
+          "updated_at": "2023-09-28T11:44:28-04:00",
+          "product_id": 7434379034836,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Nomad-Cork-Yoga-Mat-Rolled_41c6c9d7-96a5-452e-af23-d3eb563416c9.jpg?v=1695915868",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7114269491388,
+      "title": "Nomad Air Cork Yoga Mat",
+      "handle": "travel-cork-yoga-mat",
+      "body_html": "<p>Meet the most portable cork yoga mat ever created. The Nomad Air is designed to fold or roll making it an extra compact mat that you can take with you anywhere you go.  Features a premium layer of eco-friendly cork on top for a non-slip surface that is easy to care for and maintain. A thin natural rubber bottom for unmatched durability that grips to any surface. If your practice takes you to the local studio, beach, a mindful hike or on your next big adventure the nomad air will be there for you.</p>",
+      "published_at": "2021-09-08T13:24:02-04:00",
+      "created_at": "2021-09-08T13:24:02-04:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "mat collection",
+        "Nomad",
+        "not on sale",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 40903105577148,
+          "title": "72\" x 24\"",
+          "option1": "72\" x 24\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-TRA-72",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39445961048276,
+            "product_id": 7114269491388,
+            "position": 1,
+            "created_at": "2023-09-28T11:15:41-04:00",
+            "updated_at": "2023-09-28T11:15:46-04:00",
+            "alt": "Nomad Air Cork Yoga Mat - Yoloha Yoga",
+            "width": 2048,
+            "height": 2048,
+            "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Travel-Cork-Yoga-Mat.jpg?v=1695914146",
+            "variant_ids": [
+              40903105577148,
+              40903105609916
+            ]
+          },
+          "available": true,
+          "price": "69.00",
+          "grams": 953,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7114269491388,
+          "created_at": "2021-09-23T15:35:09-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        },
+        {
+          "id": 40903105609916,
+          "title": "80\" x 26\"",
+          "option1": "80\" x 26\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-TRA-80",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 39445961048276,
+            "product_id": 7114269491388,
+            "position": 1,
+            "created_at": "2023-09-28T11:15:41-04:00",
+            "updated_at": "2023-09-28T11:15:46-04:00",
+            "alt": "Nomad Air Cork Yoga Mat - Yoloha Yoga",
+            "width": 2048,
+            "height": 2048,
+            "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Travel-Cork-Yoga-Mat.jpg?v=1695914146",
+            "variant_ids": [
+              40903105577148,
+              40903105609916
+            ]
+          },
+          "available": true,
+          "price": "89.00",
+          "grams": 1134,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7114269491388,
+          "created_at": "2021-09-23T15:35:09-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 39445961048276,
+          "created_at": "2023-09-28T11:15:41-04:00",
+          "position": 1,
+          "updated_at": "2023-09-28T11:15:46-04:00",
+          "product_id": 7114269491388,
+          "variant_ids": [
+            40903105577148,
+            40903105609916
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Travel-Cork-Yoga-Mat.jpg?v=1695914146",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445961113812,
+          "created_at": "2023-09-28T11:15:41-04:00",
+          "position": 2,
+          "updated_at": "2023-09-28T11:15:46-04:00",
+          "product_id": 7114269491388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Travel-Cork-Yoga-Mat-closeup.jpg?v=1695914146",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 39445961081044,
+          "created_at": "2023-09-28T11:15:41-04:00",
+          "position": 3,
+          "updated_at": "2023-09-28T11:15:46-04:00",
+          "product_id": 7114269491388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Travel-cork-yoga-mat-rolled.jpg?v=1695914146",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "72\" x 24\"",
+            "80\" x 26\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7114268475580,
+      "title": "Nomad XL Cork Yoga Mat",
+      "handle": "nomad-xl-cork-yoga-mat",
+      "body_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">The Extra-Large Nomad measures 80″ x 48″, offering an expansive practice space ideal for home studios, gyms, and more. Its premium eco-friendly cork surface delivers a naturally non-slip layer that is both easy to clean and maintain. Beneath, a luxuriously dense plant foam base provides exceptional comfort and support. Weighing just 4.5 lbs, the Nomad XL is conveniently portable, making it as versatile as it is high-performing.<br></p>",
+      "published_at": "2021-09-08T13:23:50-04:00",
+      "created_at": "2021-09-08T13:23:50-04:00",
+      "updated_at": "2026-06-17T12:18:19-04:00",
+      "vendor": "Yoloha Yoga",
+      "product_type": "Yoga & Pilates Mats",
+      "tags": [
+        "mat collection",
+        "Nomad",
+        "not on sale",
+        "yoga mat"
+      ],
+      "variants": [
+        {
+          "id": 40908008685756,
+          "title": "80\" x 48\"",
+          "option1": "80\" x 48\"",
+          "option2": null,
+          "option3": null,
+          "sku": "MAT-NMD-XL",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.00",
+          "grams": 2041,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7114268475580,
+          "created_at": "2021-09-24T08:21:03-04:00",
+          "updated_at": "2026-06-17T12:18:19-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 45894314852564,
+          "created_at": "2025-12-23T12:02:31-05:00",
+          "position": 1,
+          "updated_at": "2026-01-13T12:11:21-05:00",
+          "product_id": 7114268475580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Nomad-XL-Cork-Yoga-Mat-with-Plant-foam.jpg?v=1768324281",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 45894314819796,
+          "created_at": "2025-12-23T12:02:31-05:00",
+          "position": 2,
+          "updated_at": "2026-01-13T12:11:21-05:00",
+          "product_id": 7114268475580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/Nomad-XL-Cork-Yoga-Mat-details.jpg?v=1768324281",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 46152117813460,
+          "created_at": "2026-01-28T15:37:17-05:00",
+          "position": 3,
+          "updated_at": "2026-01-28T15:37:18-05:00",
+          "product_id": 7114268475580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0595/3011/7308/files/nomad-extra-large-natural-cork-yoga-mat.jpg?v=1769632638",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "80\" x 48\""
+          ]
+        }
+      ]
+    }
+  ]
+}

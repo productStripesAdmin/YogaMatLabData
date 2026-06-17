@@ -1,0 +1,185 @@
+{
+  "date": "2026-06-17",
+  "totalBrands": 25,
+  "successfulBrands": 24,
+  "failedBrands": 1,
+  "totalProducts": 624,
+  "results": [
+    {
+      "brandName": "42 Birds",
+      "brandSlug": "42birds",
+      "success": true,
+      "productCount": 10,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Alo Yoga",
+      "brandSlug": "aloyoga",
+      "success": true,
+      "productCount": 30,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Ananday",
+      "brandSlug": "ananday",
+      "success": true,
+      "productCount": 5,
+      "totalPages": 1
+    },
+    {
+      "brandName": "B Yoga / Halfmoon",
+      "brandSlug": "b-yoga",
+      "success": true,
+      "productCount": 98,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Gaiam",
+      "brandSlug": "gaiam",
+      "success": true,
+      "productCount": 32,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Gayo",
+      "brandSlug": "gayo",
+      "success": true,
+      "productCount": 4,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Heathyoga",
+      "brandSlug": "heathyoga",
+      "success": true,
+      "productCount": 6,
+      "totalPages": 1
+    },
+    {
+      "brandName": "House of Mats",
+      "brandSlug": "houseofmats",
+      "success": true,
+      "productCount": 19,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Hugger Mugger",
+      "brandSlug": "huggermugger",
+      "success": false,
+      "productCount": 0,
+      "totalPages": 0,
+      "error": "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1200/chrome-headless-shell-linux64/chrome-headless-shell\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝"
+    },
+    {
+      "brandName": "JadeYoga",
+      "brandSlug": "jadeyoga",
+      "success": true,
+      "productCount": 20,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Liforme",
+      "brandSlug": "liforme",
+      "success": true,
+      "productCount": 41,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Manduka",
+      "brandSlug": "manduka",
+      "success": true,
+      "productCount": 17,
+      "totalPages": 1
+    },
+    {
+      "brandName": "MoonHoli",
+      "brandSlug": "moonholi",
+      "success": true,
+      "productCount": 67,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Öko Living",
+      "brandSlug": "okoliving",
+      "success": true,
+      "productCount": 17,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Satori Concept",
+      "brandSlug": "thesatoriconcept",
+      "success": true,
+      "productCount": 9,
+      "totalPages": 4
+    },
+    {
+      "brandName": "Scoria",
+      "brandSlug": "scoria",
+      "success": true,
+      "productCount": 44,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Shakti Warrior",
+      "brandSlug": "shaktiwarrior",
+      "success": true,
+      "productCount": 28,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Stakt",
+      "brandSlug": "stakt",
+      "success": true,
+      "productCount": 3,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Sumo Yoga",
+      "brandSlug": "sumoyoga",
+      "success": true,
+      "productCount": 14,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Wolo",
+      "brandSlug": "woloyoga",
+      "success": true,
+      "productCount": 8,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yoga Design Lab",
+      "brandSlug": "yogadesignlab",
+      "success": true,
+      "productCount": 50,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yoga Kargha",
+      "brandSlug": "yogakargha",
+      "success": true,
+      "productCount": 27,
+      "totalPages": 1
+    },
+    {
+      "brandName": "YogaMatters",
+      "brandSlug": "yogamatters",
+      "success": true,
+      "productCount": 59,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yogi Bare",
+      "brandSlug": "yogibare",
+      "success": true,
+      "productCount": 10,
+      "totalPages": 1
+    },
+    {
+      "brandName": "Yoloha",
+      "brandSlug": "yoloha",
+      "success": true,
+      "productCount": 6,
+      "totalPages": 1
+    }
+  ]
+}
