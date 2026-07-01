@@ -1,0 +1,687 @@
+{
+  "date": "2026-07-01",
+  "totalBrands": 24,
+  "totalProducts": 582,
+  "validProducts": 475,
+  "invalidProducts": 0,
+  "discardedProducts": 107,
+  "excludedProducts": 0,
+  "excludedByRules": 50,
+  "productsWithMeasurementWarnings": 0,
+  "totalSeries": 101,
+  "brands": [
+    {
+      "brandSlug": "42birds",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "aloyoga",
+      "totalProducts": 26,
+      "validProducts": 13,
+      "invalidProducts": 0,
+      "discardedProducts": 13,
+      "excludedProducts": 0,
+      "excludedByRules": 4,
+      "discardedProductTypes": [
+        {
+          "productType": "Accessories:Equipment:Blocks",
+          "count": 6,
+          "shopifyIds": [
+            4434051334262,
+            4594791841910,
+            4594792235126,
+            4594792497270,
+            6239926354100,
+            9092828365159
+          ]
+        },
+        {
+          "productType": "Accessories:Equipment:Towels",
+          "count": 6,
+          "shopifyIds": [
+            6610228019380,
+            6832440803508,
+            6832444735668,
+            6934793420980,
+            7404211732660,
+            7850776166580
+          ]
+        },
+        {
+          "productType": "Accessories:Equipment:Premium Equipment",
+          "count": 1,
+          "shopifyIds": [
+            7161304613044
+          ]
+        }
+      ],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 4,
+          "shopifyIds": [
+            7404214354100,
+            7569502601396,
+            7850809557172,
+            9092827873639
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "ananday",
+      "totalProducts": 5,
+      "validProducts": 5,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "b-yoga",
+      "totalProducts": 99,
+      "validProducts": 12,
+      "invalidProducts": 0,
+      "discardedProducts": 87,
+      "excludedProducts": 0,
+      "excludedByRules": 5,
+      "discardedProductTypes": [
+        {
+          "productType": "cushions",
+          "count": 18,
+          "shopifyIds": [
+            8576402948403,
+            8576403472691,
+            8576404095283,
+            8576404324659,
+            8576404947251,
+            8576405438771,
+            8576405504307,
+            8576405733683,
+            8576405766451,
+            8576405831987,
+            8576406094131,
+            8576406552883,
+            8576407044403,
+            8576407175475,
+            8576407339315,
+            8576409043251,
+            8576414155059,
+            8576414253363
+          ]
+        },
+        {
+          "productType": "bolsters",
+          "count": 12,
+          "shopifyIds": [
+            8576401899827,
+            8576403210547,
+            8576403570995,
+            8576403669299,
+            8576404029747,
+            8576404783411,
+            8576405078323,
+            8576405668147,
+            8576405799219,
+            8576406389043,
+            8576408289587,
+            8576414417203
+          ]
+        },
+        {
+          "productType": "weights & resistance",
+          "count": 8,
+          "shopifyIds": [
+            8576400982323,
+            8576401244467,
+            8576402587955,
+            8576409272627,
+            8974174617907,
+            9159941620019,
+            9160004436275,
+            9227790483763
+          ]
+        },
+        {
+          "productType": "blocks",
+          "count": 6,
+          "shopifyIds": [
+            8576401375539,
+            8576401408307,
+            9401367855411,
+            9401371754803,
+            9427451248947,
+            10025083175219
+          ]
+        },
+        {
+          "productType": "sit sets",
+          "count": 6,
+          "shopifyIds": [
+            8901506171187,
+            8901556338995,
+            8901621219635,
+            8901673615667,
+            8901708874035,
+            8901717524787
+          ]
+        },
+        {
+          "productType": "straps",
+          "count": 6,
+          "shopifyIds": [
+            8576401113395,
+            8576401310003,
+            8576401670451,
+            8847954215219,
+            9336514871603,
+            9337936150835
+          ]
+        },
+        {
+          "productType": "crystal",
+          "count": 5,
+          "shopifyIds": [
+            8576413630771,
+            8576413958451,
+            8576413991219,
+            9809197105459,
+            9809202020659
+          ]
+        },
+        {
+          "productType": "massage & recovery",
+          "count": 5,
+          "shopifyIds": [
+            8576408650035,
+            8595597852979,
+            8944828219699,
+            9337791021363,
+            9519558525235
+          ]
+        },
+        {
+          "productType": "Unclassified",
+          "count": 4,
+          "shopifyIds": [
+            8597754249523,
+            8849213849907,
+            8849264181555,
+            9539665527091
+          ]
+        },
+        {
+          "productType": "blankets & towels",
+          "count": 3,
+          "shopifyIds": [
+            8576407437619,
+            9087802310963,
+            9878264316211
+          ]
+        },
+        {
+          "productType": "tea",
+          "count": 3,
+          "shopifyIds": [
+            9347952869683,
+            9347953885491,
+            9347955196211
+          ]
+        },
+        {
+          "productType": "chairs",
+          "count": 2,
+          "shopifyIds": [
+            8576402719027,
+            8576409370931
+          ]
+        },
+        {
+          "productType": "eye pillows",
+          "count": 2,
+          "shopifyIds": [
+            9401369395507,
+            9529830048051
+          ]
+        },
+        {
+          "productType": "socks",
+          "count": 2,
+          "shopifyIds": [
+            8996491657523,
+            8996492214579
+          ]
+        },
+        {
+          "productType": "bags & carriers",
+          "count": 1,
+          "shopifyIds": [
+            8821695643955
+          ]
+        },
+        {
+          "productType": "candles",
+          "count": 1,
+          "shopifyIds": [
+            8576469106995
+          ]
+        },
+        {
+          "productType": "cleansers",
+          "count": 1,
+          "shopifyIds": [
+            8974174257459
+          ]
+        },
+        {
+          "productType": "drinkware",
+          "count": 1,
+          "shopifyIds": [
+            8576409600307
+          ]
+        },
+        {
+          "productType": "sleep masks",
+          "count": 1,
+          "shopifyIds": [
+            8999020888371
+          ]
+        }
+      ],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 5,
+          "shopifyIds": [
+            8576402817331,
+            8608721469747,
+            8941671088435,
+            9237003370803,
+            9524417003827
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "gaiam",
+      "totalProducts": 2,
+      "validProducts": 2,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 30,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 30,
+          "shopifyIds": [
+            9130975489,
+            9130977153,
+            9130978049,
+            9130988673,
+            9130991873,
+            9130992257,
+            9130992577,
+            9358199809,
+            493289472046,
+            1747441582126,
+            1747442729006,
+            1747443482670,
+            4494280491054,
+            6687615516718,
+            6687617581102,
+            6687637405742,
+            6687639699502,
+            6701167312942,
+            6701173604398,
+            6701177864238,
+            6702322647086,
+            6702323957806,
+            6713114198062,
+            6786909405230,
+            6786909503534,
+            6786910093358,
+            6866037768238,
+            6866041110574,
+            6866042716206,
+            6866070372398
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "gayo",
+      "totalProducts": 3,
+      "validProducts": 3,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 1,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 1,
+          "shopifyIds": [
+            7596248465590
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "heathyoga",
+      "totalProducts": 6,
+      "validProducts": 6,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "houseofmats",
+      "totalProducts": 19,
+      "validProducts": 19,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "jadeyoga",
+      "totalProducts": 17,
+      "validProducts": 17,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 3,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 3,
+          "shopifyIds": [
+            3094879877,
+            4380497608776,
+            9587366035607
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "liforme",
+      "totalProducts": 41,
+      "validProducts": 41,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "manduka",
+      "totalProducts": 16,
+      "validProducts": 16,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 1,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 1,
+          "shopifyIds": [
+            4357743476794
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "moonholi",
+      "totalProducts": 66,
+      "validProducts": 66,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 1,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 1,
+          "shopifyIds": [
+            7473323081983
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "okoliving",
+      "totalProducts": 17,
+      "validProducts": 17,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "scoria",
+      "totalProducts": 44,
+      "validProducts": 44,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "shaktiwarrior",
+      "totalProducts": 25,
+      "validProducts": 25,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 3,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 3,
+          "shopifyIds": [
+            102427852819,
+            102427951123,
+            4499946242114
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "stakt",
+      "totalProducts": 3,
+      "validProducts": 3,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "sumoyoga",
+      "totalProducts": 12,
+      "validProducts": 12,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 2,
+      "discardedProductTypes": [],
+      "excludedRules": [
+        {
+          "reason": "price_below_50_usd",
+          "count": 2,
+          "shopifyIds": [
+            8993893613787,
+            8993919893723
+          ]
+        }
+      ],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "thesatoriconcept",
+      "totalProducts": 9,
+      "validProducts": 9,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "woloyoga",
+      "totalProducts": 8,
+      "validProducts": 8,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogadesignlab",
+      "totalProducts": 50,
+      "validProducts": 50,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogakargha",
+      "totalProducts": 27,
+      "validProducts": 27,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogamatters",
+      "totalProducts": 61,
+      "validProducts": 54,
+      "invalidProducts": 0,
+      "discardedProducts": 7,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [
+        {
+          "productType": "Wholesale",
+          "count": 7,
+          "shopifyIds": [
+            6642176721071,
+            6961121886383,
+            7308623446191,
+            7308682002607,
+            7311006466223,
+            7350085845167,
+            15311814001025
+          ]
+        }
+      ],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yogibare",
+      "totalProducts": 10,
+      "validProducts": 10,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    },
+    {
+      "brandSlug": "yoloha",
+      "totalProducts": 6,
+      "validProducts": 6,
+      "invalidProducts": 0,
+      "discardedProducts": 0,
+      "excludedProducts": 0,
+      "excludedByRules": 0,
+      "discardedProductTypes": [],
+      "excludedRules": [],
+      "measurementWarnings": [],
+      "errors": []
+    }
+  ]
+}
