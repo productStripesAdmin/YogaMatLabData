@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-12",
+  "totalProducts": 468,
+  "totalSeries": 95,
+  "totalBrands": 23,
+  "priceStats": {
+    "min": 50,
+    "max": 485,
+    "average": 133.24025641025645,
+    "median": 117
+  },
+  "materialBreakdown": {
+    "Cork": 90,
+    "Natural Rubber": 230,
+    "NBR": 1,
+    "Cotton": 48,
+    "TPE": 9,
+    "PVC": 23,
+    "Jute": 3,
+    "PU Leather": 9
+  },
+  "featureBreakdown": {
+    "Eco-Friendly": 366,
+    "Non-Slip": 350,
+    "Lightweight": 98,
+    "Travel": 113,
+    "Antimicrobial": 96,
+    "Alignment Marks": 124,
+    "Reversible": 8,
+    "Premium": 92,
+    "Closed-Cell": 28
+  }
+}
